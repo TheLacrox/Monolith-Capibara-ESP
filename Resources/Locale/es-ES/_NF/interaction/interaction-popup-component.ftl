@@ -1,6 +1,6 @@
 ## Petting animals
 petting-failure-mistake = Ymg' reach yog l' pet {THE($target)}, mgng ahlloig vulgtmnahor ot h'.
-petting-success-artifact = Acaricias a {THE($target)} en {POSS-ADJ($target)} extrañas superficies.
+petting-success-artifact = Acaricias a {THE($target)} en sus extrañas superficies.
 petting-failure-artifact = Extiendes la mano para acariciar a {THE($target)}, pero una voz en tu cabeza te dice que no.
 
 ## Patting players

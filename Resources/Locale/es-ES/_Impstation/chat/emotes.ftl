@@ -7,5 +7,5 @@ chat-emote-name-reptilian-hiss = Siseo
 # Mensaje
 chat-emote-msg-bubble = burbujea.
 chat-emote-msg-pop = ¡chasquea!
-chat-emote-msg-crack = hace crujir {POSS-ADJ($entity)} nudillos.
+chat-emote-msg-crack = hace crujir los nudillos.
 chat-emote-msg-reptilian-hiss = sisea.
