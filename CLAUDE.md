@@ -17,6 +17,10 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
 - Active culture is build-time: `Content.Shared/Localizations/ContentLocalizationManager.cs`.
 - Spanish lives in `Resources/Locale/es-ES/`, mirroring `en-US/`. `en-US` is the fallback:
   untranslated keys render English automatically (active → fallback → raw key id).
+- Engine grammar functions (`THE`, `SUBJECT`, `OBJECT`, `POSS-ADJ`, `CONJUGATE-*`…) resolve
+  `zzzz-*` messages from the active culture — Spanish versions live ADDITIVELY in
+  `es-ES/_Capibara/grammar.ftl` (mirrors RobustToolbox `en-US/_engine_lib.ftl`). `CONJUGATE-BASIC`
+  string args in es-ES files must be translated Spanish 3ª-persona-singular forms (both args).
 
 ## Iron rules (keep merges conflict-free)
 - NEVER edit upstream files (C#, YAML, or `Resources/Locale/en-US/**`). All Spanish is ADDITIVE
@@ -24,7 +28,8 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
 - The ONLY intentional code divergences (each bracketed with `// Capibara ESP` comments;
   **on a merge conflict there, keep the Capibara block**):
   1. `Content.Shared/Localizations/ContentLocalizationManager.cs` — culture switch + fallback,
-     plus es-ES registrations of the language-specific Fluent functions (`MANY`, `MAKEPLURAL`).
+     plus es-ES registrations of the language-specific Fluent functions (`MANY`, `MAKEPLURAL`)
+     and an es-ES `INDEFINITE` override (engine hardcodes English "a/an").
   2. `Content.Client/_Crescent/SpaceBiomes/SpaceBiomeTextDisplaySystem.cs` — biome splash
      names/descs are raw YAML strings with no upstream Loc hook; looks up additive
      `space-biome-<ID>-name/-desc` keys (`es-ES/_Capibara/space-biomes.ftl`), falls back to YAML.

@@ -45,6 +45,9 @@ namespace Content.Shared.Localizations
             // registered below for en-US, so es-ES messages can use them too. KEEP OURS on merge conflict.
             _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePluralEs);
             _loc.AddFunction(culture, "MANY", FormatManyEs);
+            // The engine's INDEFINITE() hardcodes English "a/an"; route it through a
+            // gender-aware Fluent message instead (es-ES/_Capibara/grammar.ftl).
+            _loc.AddFunction(culture, "INDEFINITE", FormatIndefiniteEs);
             // End Capibara ESP
 
             /*
@@ -97,6 +100,11 @@ namespace Content.Shared.Localizations
             var split = text.Split(' ', 2);
             var plural = PluralizeSpanishWord(split[0]);
             return new LocValueString(split.Length == 1 ? plural : $"{plural} {split[1]}");
+        }
+
+        private ILocValue FormatIndefiniteEs(LocArgs args)
+        {
+            return new LocValueString(_loc.GetString("zzzz-indefinite", ("ent", args.Args[0])));
         }
 
         private static string PluralizeSpanishWord(string word)

@@ -5,6 +5,9 @@ capibara-loc-smoke = Prueba de localización de Capibara
 # the es-ES culture (they used to be en-US-only → "Unknown function: MANY()").
 capibara-loc-many = {MANY("segundo", $count)}
 
+# Regression seed: INDEFINITE() is overridden for es-ES (engine hardcodes "a/an").
+capibara-loc-indefinite = {INDEFINITE($ent)}
+
 # Fix for a key upstream references in ChannelFilterPopup.xaml but never defines
 # in any locale (would render as the raw key id).
 hud-chatbox-highlights-tooltip = Aplica las palabras a resaltar en el chat. Una palabra o frase por línea.
