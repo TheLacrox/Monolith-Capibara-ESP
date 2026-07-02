@@ -32,6 +32,12 @@ loginlocal = false
 # (names tied to real SS14 accounts). Override per-deploy via $SS14_HOST_USER. Empty = disabled.
 login_host_user = "TheLacrox"
 
+[admin]
+# Count active admins in the /status player count (default false hides them).
+# The host account is always an active admin here, so with the default the
+# launcher/hub showed 0 players even with people online.
+admins_count_in_playercount = true
+
 [hub]
 advertise = true
 hub_urls = "https://hub.spacestation14.com/"

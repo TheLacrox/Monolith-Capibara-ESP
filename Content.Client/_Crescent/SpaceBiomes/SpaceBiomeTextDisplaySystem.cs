@@ -30,13 +30,18 @@ public sealed partial class SpaceTextDisplaySystem : EntitySystem
         SpaceBiomePrototype biome = _protMan.Index<SpaceBiomePrototype>(ev.Id);
         _overlay.Reset();
         _overlay.ResetDescription();
-        _overlay.Text = biome.Name;
-        _overlay.TextDescription = biome.Description;
-        _overlay.CharInterval = TimeSpan.FromSeconds(2f / biome.Name.Length);
+        // Capibara ESP: biome names/descriptions are raw strings in YAML with no upstream
+        // Loc hook; look up an additive locale override first. KEEP OURS on merge conflict.
+        var name = Loc.TryGetString($"space-biome-{biome.ID}-name", out var locName) ? locName : biome.Name;
+        var description = Loc.TryGetString($"space-biome-{biome.ID}-desc", out var locDesc) ? locDesc : biome.Description;
+        _overlay.Text = name;
+        _overlay.TextDescription = description;
+        _overlay.CharInterval = TimeSpan.FromSeconds(2f / name.Length);
         if (_overlay.TextDescription == "")                   //if we have a biome with no description, it's default is "" and that has length 0.
             _overlay.CharIntervalDescription = TimeSpan.Zero;       //we need to calculate it here because otherwise...
         else
-            _overlay.CharIntervalDescription = TimeSpan.FromSeconds(2f / biome.Description.Length);      //this would throw an exception
+            _overlay.CharIntervalDescription = TimeSpan.FromSeconds(2f / description.Length);      //this would throw an exception
+        // End Capibara ESP
     }
 
     private void OnNewVesselEntered(ref PlayerParentChangedMessage ev)
