@@ -25,9 +25,10 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
   **on a merge conflict there, keep the Capibara block**):
   1. `Content.Shared/Localizations/ContentLocalizationManager.cs` — culture switch + fallback,
      plus es-ES registrations of the language-specific Fluent functions (`MANY`, `MAKEPLURAL`).
-  2. `Content.Client/_Crescent/SpaceBiomes/SpaceBiomeTextDisplaySystem.cs` — biome splash
+  2. `Content.Client/_Crescent/SpaceBiomes/SpaceBiomeTextDisplaySystem.cs` — biome/vessel splash
      names/descs are raw YAML strings with no upstream Loc hook; looks up additive
-     `space-biome-<ID>-name/-desc` keys (`es-ES/_Capibara/space-biomes.ftl`), falls back to YAML.
+     `space-biome-<ID>-name/-desc` keys (`es-ES/_Capibara/space-biomes.ftl`) and
+     `vessel-<name-slug>-name/-desc` keys (`es-ES/_Capibara/vessels.ftl`), falls back to YAML.
   Adding ANY new C# divergence requires explicit user approval first.
 - EXCEPTION (approved): `Resources/ServerInfo/**` (guidebook, rules, intro texts) is translated
   IN PLACE — the engine has no per-locale mechanism for these docs. **On a merge conflict there:

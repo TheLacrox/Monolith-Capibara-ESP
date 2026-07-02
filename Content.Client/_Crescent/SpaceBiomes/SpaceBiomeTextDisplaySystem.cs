@@ -1,3 +1,4 @@
+using System.Text.RegularExpressions;
 using Content.Shared._Crescent.SpaceBiomes;
 using Robust.Shared.Prototypes;
 using Content.Client.Audio;
@@ -54,6 +55,19 @@ public sealed partial class SpaceTextDisplaySystem : EntitySystem
         if (TryComp<VesselInfoComponent>((EntityUid)ev.Grid, out var vesselinfo))
             description = vesselinfo.Description;
 
+        // Capibara ESP: grid names and vessel descriptions are raw strings from map/prototype
+        // YAML with no upstream Loc hook; look up additive es-ES overrides keyed on a slug of
+        // the English grid name (see es-ES/_Capibara/vessels.ftl). Purchased ships append a
+        // hull number to the name template ("Eris PDV3"), so the description key strips
+        // trailing digits to match per ship class. KEEP OURS on merge conflict.
+        var nameKey = $"vessel-{Slugify(name)}-name";
+        var descKey = $"vessel-{Slugify(HullNumber().Replace(name, ""))}-desc";
+        if (Loc.TryGetString(nameKey, out var locName))
+            name = locName;
+        if (description.Length > 0 && Loc.TryGetString(descKey, out var locDesc))
+            description = locDesc;
+        // End Capibara ESP
+
 
         _overlay.Reset();             //these should be reset as well to match OnSwap
         _overlay.ResetDescription();
@@ -73,4 +87,17 @@ public sealed partial class SpaceTextDisplaySystem : EntitySystem
         else
             _overlay.CharIntervalDescription = TimeSpan.FromSeconds(2f / _overlay.TextDescription.Length);
     }
+
+    // Capibara ESP: helpers for the additive vessel locale lookup above.
+    private static string Slugify(string name)
+    {
+        return NonAlphanumeric().Replace(name.ToLowerInvariant(), "-").Trim('-');
+    }
+
+    [GeneratedRegex("[^a-z0-9]+")]
+    private static partial Regex NonAlphanumeric();
+
+    [GeneratedRegex(@"\d+\s*$")]
+    private static partial Regex HullNumber();
+    // End Capibara ESP
 }
