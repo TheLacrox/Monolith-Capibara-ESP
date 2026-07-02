@@ -38,6 +38,13 @@ login_host_user = "TheLacrox"
 # launcher/hub showed 0 players even with people online.
 admins_count_in_playercount = true
 
+[infolinks]
+# Launcher "server info" buttons (built-in icons for discord/web/wiki).
+# Same community links as the sister Estacion Capibara server.
+discord = "https://discord.gg/xRsRcpmCVX"
+website = "https://estacioncapibara.com/"
+wiki = "https://estacioncapibara.com/wiki"
+
 [hub]
 advertise = true
 hub_urls = "https://hub.spacestation14.com/"
