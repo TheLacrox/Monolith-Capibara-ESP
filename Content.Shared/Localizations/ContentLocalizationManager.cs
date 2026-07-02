@@ -167,13 +167,15 @@ namespace Content.Shared.Localizations
         /// </summary>
         public static string FormatList(List<string> list)
         {
+            // Capibara ESP: Spanish list joining — "y", no Oxford comma. KEEP OURS on merge conflict.
             return list.Count switch
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} and {list[1]}",
-                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))}, and {list[^1]}"
+                2 => $"{list[0]} y {list[1]}",
+                _ => $"{string.Join(", ", list.GetRange(0, list.Count - 1))} y {list[^1]}"
             };
+            // End Capibara ESP
         }
 
         /// <summary>
@@ -181,13 +183,15 @@ namespace Content.Shared.Localizations
         /// </summary>
         public static string FormatListToOr(List<string> list)
         {
+            // Capibara ESP: Spanish "o" instead of "or". KEEP OURS on merge conflict.
             return list.Count switch
             {
                 <= 0 => string.Empty,
                 1 => list[0],
-                2 => $"{list[0]} or {list[1]}",
-                _ => $"{string.Join(" or ", list)}"
+                2 => $"{list[0]} o {list[1]}",
+                _ => $"{string.Join(" o ", list)}"
             };
+            // End Capibara ESP
         }
 
         /// <summary>
