@@ -8,6 +8,9 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
 - Merge loop: `git fetch upstream && git merge upstream/main` →
   `pwsh _Capibara/sync-locale.ps1` → translate NEW/CHANGED keys →
   `pwsh _Capibara/sync-locale.ps1 -UpdateManifest` → commit.
+- PRs: ALWAYS target this fork (`TheLacrox/Monolith-Capibara-ESP`), NEVER upstream.
+  `gh` defaults to upstream in fork clones — the default is pinned via `gh repo set-default`,
+  but still pass `--repo TheLacrox/Monolith-Capibara-ESP` explicitly to `gh pr create`.
 
 ## Localization architecture
 - Engine: Project Fluent. All UI text is in `.ftl` files under `Resources/Locale/<culture>/`.
@@ -18,8 +21,14 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
 ## Iron rules (keep merges conflict-free)
 - NEVER edit upstream files (C#, YAML, or `Resources/Locale/en-US/**`). All Spanish is ADDITIVE
   in `Resources/Locale/es-ES/`. Fork tooling/docs live in `_Capibara/`.
-- The ONE intentional code divergence is `ContentLocalizationManager.cs` (culture switch + fallback),
-  bracketed with `// Capibara ESP` comments. **On a merge conflict there, keep the Capibara block.**
+- The ONLY intentional code divergences (each bracketed with `// Capibara ESP` comments;
+  **on a merge conflict there, keep the Capibara block**):
+  1. `Content.Shared/Localizations/ContentLocalizationManager.cs` — culture switch + fallback,
+     plus es-ES registrations of the language-specific Fluent functions (`MANY`, `MAKEPLURAL`).
+  2. `Content.Client/_Crescent/SpaceBiomes/SpaceBiomeTextDisplaySystem.cs` — biome splash
+     names/descs are raw YAML strings with no upstream Loc hook; looks up additive
+     `space-biome-<ID>-name/-desc` keys (`es-ES/_Capibara/space-biomes.ftl`), falls back to YAML.
+  Adding ANY new C# divergence requires explicit user approval first.
 - EXCEPTION (approved): `Resources/ServerInfo/**` (guidebook, rules, intro texts) is translated
   IN PLACE — the engine has no per-locale mechanism for these docs. **On a merge conflict there:
   take UPSTREAM's version (`git checkout --theirs`), then retranslate that file** — see
