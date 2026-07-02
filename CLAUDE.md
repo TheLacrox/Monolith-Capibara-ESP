@@ -54,7 +54,8 @@ calls/args (`{ CAPITALIZE($x) }`), or escapes (`\n`, `{ "" }`). Keep placeables 
 - `sync-locale.ps1` — en-US↔es-ES diff + hash manifest. `-UpdateManifest` after translating.
 - `generate-entity-ftl.ps1` — regenerates `es-ES/_Capibara/entities/*.ftl` from the entity dump +
   translation maps (entity names/descs live in YAML prototypes, localized via `ent-<id>` overrides;
-  dump via `CapibaraEntityDumpTest`).
+  dump via `CapibaraEntityDumpTest`). Also emits `.gender` attributes (Spanish head-noun heuristic)
+  that drive THE()/INDEFINITE() article choice — extend its exception lists to fix a wrong article.
 - `validate-guidebook.ps1` — ServerInfo translation gate: every `<...>` tag must be byte-identical
   to the English baseline (`-BaselineRef`, default HEAD). Run BEFORE committing a guidebook pass.
 - `guidebook-manifest.json` — SHA1 of each English ServerInfo doc at translation time. After an

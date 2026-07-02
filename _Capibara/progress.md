@@ -24,6 +24,14 @@
     upstream `GuideEntryPrototypeTests` + `DocumentParsingTest` pass (every doc parses).
   - Merge rule: on ServerInfo conflict take upstream's English, retranslate that file
     (`guidebook-manifest.json` identifies changed docs).
+- [x] **Spanish grammar functions + entity genders** — 2026-07-02
+  - `es-ES/_Capibara/grammar.ftl`: zzzz-* overrides so POSS-ADJ/SUBJECT/OBJECT/THE/CONJUGATE-*
+    render Spanish ("su" instead of "his"); INDEFINITE overridden in ContentLocalizationManager.
+  - POSS-ADJ + plural-noun audit (9 fixes); `validate-locale.ps1` gained an intentional-drop
+    allowlist for the 5 emotes whose only `$entity` use was replaced by an article.
+  - `generate-entity-ftl.ps1` now tags `.gender` on entity overrides from a Spanish head-noun
+    heuristic (15,874/16,823 tagged; plural heads left neuter) → THE()/INDEFINITE() emit
+    correct el/la, un/una. Extend the in-script exception lists as errors surface.
 - [ ] Human editorial review pass (machine output; proofread high-visibility strings first).
 - [ ] NOT translated (deliberate): map names (proper nouns), random-flavor datasets
   (ion-storm laws, ship names — raw upstream YAML, no loc support), changelog, hardcoded C# strings.

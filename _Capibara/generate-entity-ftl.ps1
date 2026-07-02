@@ -33,8 +33,45 @@ if ($badFiles) { Write-Host "WARN: could not parse $($badFiles.Count) batch file
 function ConvertTo-Fluent([string]$v) {
     return [regex]::Replace($v, '[{}]', { param($m) if ($m.Value -eq '{') { '{"{"}' } else { '{"}"}' } })
 }
+
+# --- Spanish grammatical gender heuristic. The .gender attribute drives THE()/INDEFINITE()
+# article choice (el/la, un/una) via the es-ES zzzz-* grammar overrides in
+# es-ES/_Capibara/grammar.ftl. Gender comes from the FIRST word of the TRANSLATED name (the
+# head noun in Spanish noun phrases). Plural/unknown heads emit no attribute -> engine
+# default (neuter) -> bare-name/"un" fallback. GrammarComponent (mobs) outranks this at
+# runtime, so tagging creatures is harmless. Extend the exception lists as errors surface. ---
+$GenderFemO    = @('mano','foto','moto','radio')                       # -o but feminine
+$GenderMascA   = @('día','mapa','planeta','cometa','sofá','pijama','tranvía','mediodía',
+                   'problema','sistema','tema','programa','clima','idioma','esquema','diagrama',
+                   'holograma','telegrama','fantasma','plasma','drama','trauma','síntoma','dilema',
+                   'emblema','poema','lema','aroma','carisma','prisma','enigma','dogma','magma',
+                   'panorama','crucigrama','anagrama','genoma','cromosoma','koala','gorila','panda','pirata')
+$GenderFemMisc = @('leche','sangre','llave','nave','carne','gente','mente','fuente','muerte','noche',
+                   'nube','serpiente','fiebre','hambre','base','clase','frase','torre','corriente','parte',
+                   'suerte','superficie','especie','serie','calle','piel','sal','miel','hiel','cárcel','señal',
+                   'catedral','red','pared','sed','salud','imagen','razón','sartén','flor','labor','coliflor',
+                   'luz','cruz','paz','nariz','matriz','cicatriz','raíz','nuez','vez','dosis','crisis','mujer','ley')
+$GenderMascS   = @('gas','virus','mes','autobús','arnés','compás','interés','anís','oasis','análisis','énfasis')
+# Feminine nouns with tonic a- ("agua", "arma", "hacha") take el/un in Spanish, so they are
+# deliberately tagged male: the attribute only drives article choice, not adjective agreement.
+$GenderTonicA  = '^(agua|arma|hacha|alma|área|águila|ala|hada|ancla|aula|arca|asta|alga|ave|acta|aya|ansia|habla|hambre)$'
+
+function Get-SpanishGender([string]$esName) {
+    if (-not $esName) { return $null }
+    $w = (($esName.Trim()) -split '\s+')[0].ToLowerInvariant() -replace '[^a-záéíóúüñ]', ''
+    if ($w.Length -lt 2) { return $null }
+    if ($w -match $GenderTonicA)  { return 'male' }
+    if ($w -in $GenderMascS)      { return 'male' }
+    if ($w -in $GenderMascA)      { return 'male' }
+    if ($w -in $GenderFemO)       { return 'female' }
+    if ($w -in $GenderFemMisc)    { return 'female' }
+    if ($w.EndsWith('s'))         { return $null }   # plural head noun: la/las mismatch, skip
+    if ($w -match '(ción|sión|xión|dad|tad|tud|umbre|itis)$') { return 'female' }
+    if ($w.EndsWith('a'))         { return 'female' }
+    return 'male'   # -o / -or / -e / consonant default; exceptions listed above
+}
 # Emit an id/name/desc as a Fluent message, handling multi-line values via indented blocks.
-function Format-Entry([string]$id, [string]$name, [string]$desc) {
+function Format-Entry([string]$id, [string]$name, [string]$desc, [string]$gender) {
     $sb = [System.Text.StringBuilder]::new()
     $nl = "`n"
     $nEsc = ConvertTo-Fluent $name
@@ -44,6 +81,7 @@ function Format-Entry([string]$id, [string]$name, [string]$desc) {
     } else {
         [void]$sb.Append("ent-$id = $nEsc$nl")
     }
+    if ($gender) { [void]$sb.Append("    .gender = $gender$nl") }
     if ($desc -and $desc.Trim()) {
         $dEsc = ConvertTo-Fluent $desc
         if ($dEsc -match "\r?\n") {
@@ -74,7 +112,7 @@ $data = Get-Content -LiteralPath $Source -Raw | ConvertFrom-Json
 New-Item -ItemType Directory -Force $OutDir | Out-Null
 Get-ChildItem -LiteralPath $OutDir -Filter *.ftl -ErrorAction SilentlyContinue | Remove-Item -Force
 
-$missName = 0; $missDesc = 0; $emitted = 0; $chunkIdx = 0
+$missName = 0; $missDesc = 0; $emitted = 0; $chunkIdx = 0; $gendered = 0
 $buf = [System.Text.StringBuilder]::new()
 $inChunk = 0
 function Flush-Chunk([System.Text.StringBuilder]$b, [int]$idx, [string]$dir) {
@@ -91,7 +129,12 @@ foreach ($e in ($data | Sort-Object id)) {
     if ($e.desc -and $e.desc.Trim()) {
         if ($map.ContainsKey($e.desc)) { $esDesc = $map[$e.desc] } else { $missDesc++; $esDesc = $e.desc }
     }
-    [void]$buf.Append((Format-Entry $e.id $esName $esDesc))
+    # Gender only when the name actually got translated (the heuristic is Spanish-only) AND
+    # the entry emits a .desc: the engine demands .desc on any message that has attributes
+    # (LocalizationManager.Entity.cs) and would log "No value: ent-X.desc" per boot otherwise.
+    $gender = if ($map.ContainsKey($e.name) -and $esDesc -and $esDesc.Trim()) { Get-SpanishGender $esName } else { $null }
+    if ($gender) { $gendered++ }
+    [void]$buf.Append((Format-Entry $e.id $esName $esDesc $gender))
     [void]$buf.Append("`n")
     $emitted++; $inChunk++
     if ($inChunk -ge $ChunkSize) { Flush-Chunk $buf $chunkIdx $OutDir; $buf.Clear() | Out-Null; $chunkIdx++; $inChunk = 0 }
@@ -100,3 +143,4 @@ Flush-Chunk $buf $chunkIdx $OutDir
 
 Write-Host "Emitted $emitted entities into $($chunkIdx + 1) file(s) under $OutDir."
 Write-Host "Untranslated (fell back to English): names=$missName descs=$missDesc"
+Write-Host "Tagged with .gender: $gendered (plural/untranslated heads left neuter)"
