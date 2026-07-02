@@ -27,6 +27,18 @@ function Get-Vars([string]$text) {
     return @([regex]::Matches($text, '\$[A-Za-z][A-Za-z0-9_]*') | ForEach-Object { $_.Value } | Sort-Object -Unique)
 }
 
+# Intentional variable drops. Spanish grammar replaces POSS-ADJ($var) before plural body
+# parts with a definite article ("junta las manos"), which can remove the message's only
+# use of the variable. Every entry here is a reviewed, deliberate drop — the gate stays
+# strict for everything else.
+$AllowedDrops = @{
+    'chat-emote-msg-clap-single' = @('$entity')
+    'chat-emote-msg-snap'        = @('$entity')
+    'chat-emote-msg-deathgasp'   = @('$entity')
+    'silicon-emote-deathgasp'    = @('$entity')
+    'chat-emote-msg-crack'       = @('$entity')
+}
+
 $esRootResolved = (Resolve-Path $EsRoot).Path
 $enRootResolved = (Resolve-Path $EnRoot).Path
 foreach ($esFile in Get-ChildItem -Recurse -Filter *.ftl -LiteralPath $EsRoot -ErrorAction SilentlyContinue) {
@@ -41,7 +53,7 @@ foreach ($esFile in Get-ChildItem -Recurse -Filter *.ftl -LiteralPath $EsRoot -E
     foreach ($id in $esMsgs.Keys) {
         if (-not $enMsgs.ContainsKey($id)) { $errors.Add("$rel : message '$id' not in en-US (hallucinated/renamed key)"); continue }
         $enVars = Get-Vars $enMsgs[$id]; $esVars = Get-Vars $esMsgs[$id]
-        $missing = @($enVars | Where-Object { $_ -notin $esVars })
+        $missing = @($enVars | Where-Object { $_ -notin $esVars -and -not ($AllowedDrops[$id] -and $_ -in $AllowedDrops[$id]) })
         $extra   = @($esVars | Where-Object { $_ -notin $enVars })
         if ($missing) { $errors.Add("$rel : '$id' dropped variable(s): $($missing -join ', ')") }
         if ($extra)   { $errors.Add("$rel : '$id' introduced variable(s) not in source: $($extra -join ', ')") }

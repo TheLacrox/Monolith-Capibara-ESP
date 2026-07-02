@@ -36,22 +36,22 @@ petting-success-nymph = Acaricias a {THE($target)} en {POSS-ADJ($target)} peque�
 petting-failure-generic = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BE($target)} distante contigo.
 
 petting-failure-bat = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BE($target)} demasiado difícil de atrapar!
-petting-failure-carp = Extiendes la mano para acariciar a {THE($target)}, pero {POSS-ADJ($target)} afilados dientes te hacen pensarlo dos veces.
+petting-failure-carp = Extiendes la mano para acariciar a {THE($target)}, pero sus afilados dientes te hacen pensarlo dos veces.
 petting-failure-corrupted-corgi = Extiendes la mano para acariciar a {THE($target)}, pero reconsideras.
-petting-failure-crab = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "snap", "snaps")} {POSS-ADJ($target)} pinzas en tu dirección!
+petting-failure-crab = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "chasquea", "chasquea")} las pinzas en tu dirección!
 petting-failure-dehydrated-carp = Acaricias a {THE($target)} en {POSS-ADJ($target)} pequeña y seca cabeza.
-petting-failure-goat = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "refuse", "refuses")} obstinadamente!
+petting-failure-goat = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "se niega", "se niega")} obstinadamente!
 petting-failure-goose = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BE($target)} demasiado horrible!
 petting-failure-possum = Extiendes la mano para acariciar a {THE($target)}, ¡pero te encuentras con siseos y gruñidos!
 petting-failure-pig = Extiendes la mano para acariciar a {THE($target)}, ¡pero te encuentras con gruñidos y chillidos irritados!
 petting-failure-raccoon = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado haciendo de mapache.
-petting-failure-sloth = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} { CONJUGATE-BASIC($target, "dodge", "dodges") } de algún modo a velocidad ridícula!
-petting-failure-holo = Extiendes la mano para acariciar a {THE($target)}, ¡pero {POSS-ADJ($target)} pinchos casi te atraviesan la mano!
-petting-failure-dragon = Levantas la mano, pero cuando {THE($target)} {CONJUGATE-BASIC($target, "roar", "roars")}, decides que prefieres no convertirte en alimento achicharrado de carpa.
-petting-failure-hamster = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "attempt", "attempts")} morderte el dedo y solo tus rápidos reflejos te salvan de una lesión casi fatal.
-petting-failure-bear = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "growl", "growls")}, lo que te hace pensarlo dos veces.
-petting-failure-monkey = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} casi {CONJUGATE-BASIC($target, "bite", "bites")} tus dedos!
-petting-failure-nymph = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "move", "moves")} {POSS-ADJ($target)} ramas.
+petting-failure-sloth = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} { CONJUGATE-BASIC($target, "te esquiva", "te esquiva") } de algún modo a velocidad ridícula!
+petting-failure-holo = Extiendes la mano para acariciar a {THE($target)}, ¡pero sus pinchos casi te atraviesan la mano!
+petting-failure-dragon = Levantas la mano, pero cuando {THE($target)} {CONJUGATE-BASIC($target, "ruge", "ruge")}, decides que prefieres no convertirte en alimento achicharrado de carpa.
+petting-failure-hamster = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "intenta", "intenta")} morderte el dedo y solo tus rápidos reflejos te salvan de una lesión casi fatal.
+petting-failure-bear = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "gruñe", "gruñe")}, lo que te hace pensarlo dos veces.
+petting-failure-monkey = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} casi {CONJUGATE-BASIC($target, "muerde", "muerde")} tus dedos!
+petting-failure-nymph = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "mueve", "mueve")} las ramas.
 petting-failure-shadow = Intentas acariciar a {THE($target)}, pero tu mano atraviesa la fría oscuridad de {POSS-ADJ($target)} cuerpo.
 
 ## Acariciar silicones
@@ -72,7 +72,7 @@ petting-success-derelict-cyborg = Acaricias a {THE($target)} en {POSS-ADJ($targe
 petting-success-recycler = Acaricias a {THE($target)} en {POSS-ADJ($target)} exterior de acero levemente amenazante.
 petting-success-station-ai = Acaricias a {THE($target)} en {POSS-ADJ($target)} fría y cuadrada pantalla.
 
-petting-failure-honkbot = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "honk", "honks")} en señal de negativa!
+petting-failure-honkbot = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "pita", "pita")} en señal de negativa!
 petting-failure-cleanbot = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado fregando!
 petting-failure-mimebot = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado haciendo mímica!
 petting-failure-medibot = Extiendes la mano para acariciar a {THE($target)}, ¡pero {POSS-ADJ($target)} jeringa casi te clava en la mano!
@@ -85,7 +85,7 @@ petting-failure-medical-cyborg = Extiendes la mano para acariciar a {THE($target
 petting-failure-service-cyborg = Extiendes la mano para acariciar a {THE($target)}, ¡pero {SUBJECT($target)} {CONJUGATE-BE($target)} ocupado sirviendo a los demás!
 petting-failure-syndicate-cyborg = Extiendes la mano para acariciar a {THE($target)}, pero {POSS-ADJ($target)} afiliación traicionera te hace reconsiderar.
 petting-failure-derelict-cyborg = Extiendes la mano para acariciar a {THE($target)}, pero {POSS-ADJ($target)} exterior oxidado y dentado te hace reconsiderar.
-petting-failure-station-ai = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} tu mano.
+petting-failure-station-ai = Extiendes la mano para acariciar a {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "da un calambrazo a", "da un calambrazo a")} tu mano.
 
 petting-success-station-ai-others = { CAPITALIZE(THE($user)) } acaricia a {THE($target)} en {POSS-ADJ($target)} fría y cuadrada pantalla.
 
@@ -101,4 +101,4 @@ hugging-success-generic-target = { CAPITALIZE(THE($user)) } te da una palmadita 
 ## Otros
 
 petting-success-tesla = Acaricias a {THE($target)}, violando las leyes de la naturaleza y la física.
-petting-failure-tesla = Extiendes la mano hacia {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} tu mano.
+petting-failure-tesla = Extiendes la mano hacia {THE($target)}, pero {SUBJECT($target)} {CONJUGATE-BASIC($target, "da un calambrazo a", "da un calambrazo a")} tu mano.

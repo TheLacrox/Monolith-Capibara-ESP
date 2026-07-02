@@ -35,6 +35,15 @@ public sealed class CapibaraCultureTest
             Is.EqualTo("segundos"),
             "MANY() should pluralize with Spanish rules in es-ES.");
 
+        // 5. The engine grammar functions resolve Spanish via the es-ES zzzz-* overrides
+        //    in _Capibara/grammar.ftl (they used to fall back to en-US: "his"/"him"/"the").
+        Assert.That(loc.GetString("zzzz-possessive-adjective", ("ent", "x")),
+            Is.EqualTo("su"),
+            "POSS-ADJ() should render Spanish in the es-ES bundle.");
+        Assert.That(loc.GetString("capibara-loc-indefinite", ("ent", "x")),
+            Is.EqualTo("un"),
+            "INDEFINITE() should use the Spanish es-ES override.");
+
         await pair.CleanReturnAsync();
     }
 }
