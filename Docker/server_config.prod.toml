@@ -55,10 +55,11 @@ tags = "lang:es,region:es"
 mode = 1   # 0=optional 1=required 2=disabled. Public server -> required.
 
 [server]
-# Auto-restart after 12h uptime to clear long-uptime perf drift. Non-disruptive:
-# only fires at round end or when nobody is connected. Process exits -> Docker
-# (restart: unless-stopped) brings it back up.
-uptime_restart_minutes = 720
+# 0 = never auto-restart on uptime; the server runs indefinitely. Docker
+# (restart: unless-stopped) still brings the process back after a crash or a
+# manual/host reboot. Set a positive minute count to re-enable periodic
+# restarts (they only fire at round end or when nobody is connected).
+uptime_restart_minutes = 0
 
 [update]
 # How long the server must stay EMPTY before the pending (uptime/update) restart
