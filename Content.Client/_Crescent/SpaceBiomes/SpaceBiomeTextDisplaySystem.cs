@@ -61,7 +61,7 @@ public sealed partial class SpaceTextDisplaySystem : EntitySystem
         // hull number to the name template ("Eris PDV3"), so the description key strips
         // trailing digits to match per ship class. KEEP OURS on merge conflict.
         var nameKey = $"vessel-{Slugify(name)}-name";
-        var descKey = $"vessel-{Slugify(HullNumber().Replace(name, ""))}-desc";
+        var descKey = $"vessel-{Slugify(HullNumber.Replace(name, ""))}-desc";
         if (Loc.TryGetString(nameKey, out var locName))
             name = locName;
         if (description.Length > 0 && Loc.TryGetString(descKey, out var locDesc))
@@ -89,15 +89,15 @@ public sealed partial class SpaceTextDisplaySystem : EntitySystem
     }
 
     // Capibara ESP: helpers for the additive vessel locale lookup above.
+    // Plain `new Regex(...)` — NOT [GeneratedRegex]: the source generator emits code that
+    // touches Regex internals/SearchValues, which the client content sandbox forbids
+    // (res.typecheck aborts client startup). Mirrors ContentLocalizationManager.PluralEsRule.
+    private static readonly Regex NonAlphanumeric = new("[^a-z0-9]+");
+    private static readonly Regex HullNumber = new(@"\d+\s*$");
+
     private static string Slugify(string name)
     {
-        return NonAlphanumeric().Replace(name.ToLowerInvariant(), "-").Trim('-');
+        return NonAlphanumeric.Replace(name.ToLowerInvariant(), "-").Trim('-');
     }
-
-    [GeneratedRegex("[^a-z0-9]+")]
-    private static partial Regex NonAlphanumeric();
-
-    [GeneratedRegex(@"\d+\s*$")]
-    private static partial Regex HullNumber();
     // End Capibara ESP
 }
