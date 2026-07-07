@@ -22,6 +22,9 @@ enabled = true
 hostname = "[ES] Capibara Monolith [Español] [Traducido]"
 lobbyenabled = true
 soft_max_players = 50
+# Disable role playtime requirements: any player can pick any role regardless of
+# hours logged. Overrides upstream default (game.role_timers = true).
+role_timers = false
 desc = """¡Bienvenido a Capibara Monolith! Servidor en español: traducción al castellano de \
 Monolith Station. Las cadenas sin traducir se muestran en inglés."""
 
