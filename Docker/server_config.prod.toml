@@ -23,10 +23,20 @@ hostname = "[ES] Capibara Monolith [Español] [Traducido]"
 lobbyenabled = true
 soft_max_players = 50
 # Disable role playtime requirements: any player can pick any role regardless of
-# hours logged. Overrides upstream default (game.role_timers = true).
+# hours logged. Overrides upstream default (game.role_timers = true). Only holds
+# with [game.dynamic_roles] enabled = false (below) — otherwise the Mono
+# DynamicRoleSettingsSystem re-enables timers once the server fills up.
 role_timers = false
 desc = """¡Bienvenido a Capibara Monolith! Servidor en español: traducción al castellano de \
 Monolith Station. Las cadenas sin traducir se muestran en inglés."""
+
+# Mono's DynamicRoleSettingsSystem toggles game.role_timers / game.role_whitelist
+# at runtime by live player count (turns them ON once player count > player_threshold,
+# default 5), overwriting the role_timers = false set above whenever the server fills.
+# Disable it so the static setting holds at every player count. Leaves role_whitelist
+# at its default (this fork only removes the *time* gate, not the whitelist gate).
+[game.dynamic_roles]
+enabled = false
 
 [console]
 # SECURITY: behind a reverse proxy, loopback == the proxy. Never grant loopback admin.
