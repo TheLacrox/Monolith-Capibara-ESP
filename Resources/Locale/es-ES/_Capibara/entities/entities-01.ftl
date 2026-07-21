@@ -1,3 +1,281 @@
+ent-ChameleonProjector = proyector camaleón
+    .gender = male
+    .desc = Tecnología de holoparásito usada para crear una réplica de luz sólida de cualquier objeto a tu alrededor. El disfraz se destruye al ser recogido o desactivado.
+
+ent-ChanterelleSeeds = paquete de esporas de rebozuelo
+
+ent-ChaplainHolywaterFlaskFilled = frasco de agua bendita
+    .gender = male
+    .desc = Que esta agua sea bendecida por la deidad de tu elección.
+
+ent-ChaplainIDCard = tarjeta de identificación del capellán
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-ChaplainPDA = PDA del capellán
+    .gender = female
+    .desc = El PDA elegido por Dios.
+
+ent-ChargedLightning = rayo cargado
+
+ent-CharonApheSlugAmmo = cartucho de proyectil APHE M381 CHARON de 280 mm y 26,5 kg
+    .gender = male
+    .desc = Un paquete todo en uno que contiene acelerante de gas de plasma y un proyectil de tungsteno de alta densidad cargado con una pequeña carga explosiva. Barato, devastador y de largo alcance.
+
+ent-CharonEmpSlugAmmo = cartucho de proyectil EMP M381 CHARON de 280 mm y 26,5 kg
+    .gender = male
+    .desc = Un paquete todo en uno que contiene acelerante de gas de plasma y un proyectil de tungsteno de alta densidad cargado con una gran carga electromagnética. Al impactar crea enormes arcos EMP, pero tiene una capacidad de penetración limitada. ¡Increíble contra los escudos!
+
+ent-CharonSlugAmmo = Cartucho CHARON M381 280mm proyectil de 26,5 kg
+    .gender = male
+    .desc = Un paquete todo en uno que contiene acelerante de gas plasma y un proyectil de tungsteno de alta densidad. Económico, devastador y de largo alcance.
+
+ent-CharonSubnuclearSlugAmmo = Cartucho CHARON M381 280mm proyectil nuclear de 1,5 kt
+    .gender = male
+    .desc = NUCLEAR. CARNICERÍA. Un paquete todo en uno que contiene acelerante de gas plasma y una ojiva de fisión de bajo rendimiento. Puede causar indignación pública, pero *tenías* que usarlo, ¿verdad?
+
+ent-CheapLighter = mechero barato
+    .gender = male
+    .desc = Un mechero de plástico peligrosamente barato, ¡no te quemes el pulgar!
+
+ent-CheapRollerBed = camilla con ruedas
+    .gender = female
+    .desc = Una camilla destartalada con ruedas. Se usa para transportar pacientes.
+
+ent-CheapRollerBedSpawnFolded = camilla con ruedas
+    .gender = female
+    .desc = Una camilla destartalada con ruedas. Se usa para transportar pacientes.
+
+ent-CheckerBoard = tablero de damas
+    .gender = male
+    .desc = Un tablero de damas. ¡Piezas incluidas!
+
+ent-CheckerBoardTabletop = tablero de damas
+
+ent-CheckerCrownBlack = corona de damas negra
+
+ent-CheckerCrownWhite = corona de damas blanca
+
+ent-CheckerPieceBlack = pieza de damas negra
+
+ent-CheckerPieceWhite = pieza de damas blanca
+
+ent-CheekStorage = almacenamiento en mejillas
+    .gender = male
+    .desc = Las mejillas de un animal, capaces de almacenar objetos pequeños.
+
+ent-ChefIDCard = tarjeta de identificación del cocinero
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-ChefPDA = PDA del cocinero
+    .gender = female
+    .desc = Cubierto de grasa y harina.
+
+ent-ChemBag = bolsa de química
+    .gender = female
+    .desc = Una bolsa para guardar productos químicos, como pastillas, botes de pastillas, botellas y jeringas.
+
+ent-ChemBagSomething = bolsa de química
+    .gender = female
+    .desc = Una bolsa para guardar productos químicos, como pastillas, botes de pastillas, botellas y jeringas.
+
+ent-ChemDispenser = dispensador químico
+    .gender = male
+    .desc = Un dispensador químico de grado industrial.
+
+ent-ChemDispenserEmpty = dispensador químico
+    .gender = male
+    .desc = Un dispensador químico de grado industrial.
+
+ent-ChemDispenserMachineCircuitboard = placa de máquina del dispensador químico
+    .gender = female
+    .desc = Una placa de circuito impreso para un dispensador químico.
+
+ent-ChemicalBarrelAbsinthe = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelAle = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelAluminium = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelBeer = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelCarbon = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelChlorine = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelCoffeeLiqueur = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelCognac = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelCopper = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelCornoil = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelDiethylamine = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelEthanol = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelExplosiveEmpty = barril explosivo
+    .gender = male
+    .desc = Se cree que el antiguo y misterioso símbolo del frente significaba antaño '¡Úsame como cobertura!' en tiempos pasados.
+
+ent-ChemicalBarrelExplosiveFilled = barril explosivo
+    .gender = male
+    .desc = Se cree que el antiguo y misterioso símbolo del frente significaba antaño '¡Úsame como cobertura!' en tiempos pasados.
+
+ent-ChemicalBarrelFluorine = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelGin = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelGold = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelHydrogen = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelIodine = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelIron = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelKetchup = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelLithium = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelMayo = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelMead = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelMercury = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelMustard = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelNitrogen = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelOil = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelOliveoil = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelOxygen = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelPhosphorus = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelPotassium = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelRadium = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelRum = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSilicon = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSilver = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSodium = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSpaceCleaner = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSpaceLube = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSugar = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelSulfur = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelTequila = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelVermouth = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelVodka = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelWater = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-ChemicalBarrelWhiskey = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
 ent-ChemicalBarrelWine = barril metálico
     .gender = male
     .desc = Un barril metálico. Se puede llenar de líquido.
@@ -1600,6 +1878,10 @@ ent-ClothingBackpackPDV = mochila táctica vanguardia
     .gender = female
     .desc = Una mochila táctica desarrollada para las tropas dinásticas de Helios.
 
+ent-ClothingBackpackPDVTarkhan = mochila táctica avanzada de tarkhan
+    .gender = female
+    .desc = Una bolsa grande utilizada por los Tarkhans.
+
 ent-ClothingBackpackPilot = mochila de piloto
     .gender = female
     .desc = Una mochila para un verdadero as.
@@ -2427,6 +2709,10 @@ ent-ClothingBeltWebbingsNormalTSFMC = arnés de pecho de la TSFMC
     .gender = male
     .desc = Un sistema de portaequipos táctico que llevan los marines.
 
+ent-ClothingBeltWebbingsPDVTarkhan = arnés de pecho de tarkhan
+    .gender = male
+    .desc = Un conjunto de correaje táctico usado por los Tarkhans.
+
 ent-ClothingCloakCmo = capa del Médico Jefe
     .gender = female
     .desc = Una capa azul estéril con una cruz verde, que irradia un sentido del deber y la voluntad de ayudar a los demás.
@@ -2651,6 +2937,18 @@ ent-ClothingEyesHudSyndicateAgent = visor del agente del Syndicate
     .desc = El visor profesional del Agente del Syndicate, diseñado para el diagnóstico rápido del estado de su equipo.
 
 ent-ClothingEyesNightVisionGoggles = gafas de visión nocturna
+    .desc = ¡Ahora puedes ver en la oscuridad!
+
+ent-ClothingEyesNightVisionGogglesGen1 = gafas de visión nocturna (GEN1)
+    .desc = ¡Ahora puedes ver en la oscuridad!
+
+ent-ClothingEyesNightVisionGogglesGen2 = gafas de visión nocturna (GEN2)
+    .desc = ¡Ahora puedes ver en la oscuridad!
+
+ent-ClothingEyesNightVisionGogglesGen3 = gafas de visión nocturna (GEN3)
+    .desc = ¡Ahora puedes ver en la oscuridad!
+
+ent-ClothingEyesNightVisionGogglesGen4 = gafas de visión nocturna (GEN4)
     .desc = ¡Ahora puedes ver en la oscuridad!
 
 ent-ClothingEyesNightVisionGogglesNukie = gafas de visión nocturna
@@ -4059,11 +4357,11 @@ ent-ClothingHeadHelmetFire = casco de fuego
 
 ent-ClothingHeadHelmetHardsuitAshen = casco de exotraje de combate PDV CV-32
     .gender = male
-    .desc = Un casco de exotraje de combate diseñado por la Dinastía Phaethon.
+    .desc = Un casco de traje rígido de combate diseñado por la Dinastía Phaethon. Incorpora un sistema básico de visión nocturna monotubo.
 
 ent-ClothingHeadHelmetHardsuitAshenElite = casco de tacsuit de combate PDV CV-53
     .gender = male
-    .desc = Basado en el exotraje CV-32, este tacsuit sacrifica las placas de armadura pesada a cambio de protección ambiental.
+    .desc = Basado en el traje rígido CV-32, este traje táctico sacrifica las placas de blindaje pesado a cambio de protección ambiental y un sistema NVD avanzado.
 
 ent-ClothingHeadHelmetHardsuitAtmos = casco de exotraje atmos
     .gender = male
@@ -4166,6 +4464,10 @@ ent-ClothingHeadHelmetHardsuitM82 = casco M82
     .desc = El sistema de casco intercambiable para la mayoría de los trajes duros M82. Equipado con un sistema NVG básico.
 
 ent-ClothingHeadHelmetHardsuitM86 = casco M86
+    .gender = male
+    .desc = Modificado a partir de los cascos de la serie M82, equipado con dispositivos de visión nocturna y capas de gel mejoradas.
+
+ent-ClothingHeadHelmetHardsuitM86Mk4 = casco M86
     .gender = male
     .desc = Modificado a partir de los cascos de la serie M82, equipado con dispositivos de visión nocturna y capas de gel mejoradas.
 
@@ -4296,6 +4598,10 @@ ent-ClothingHeadHelmetHardsuitSyndieUnremoveable = casco de traje espacial rojo 
 ent-ClothingHeadHelmetHardsuitTacticalMaid = casco de traje espacial táctico de doncella
     .gender = male
     .desc = Aleación de acero inoxidable soldado cubierta con múltiples capas de materiales anticorrosivos, perfecta para la limpieza.
+
+ent-ClothingHeadHelmetHardsuitTarkhan = casco de traje rígido de combate PDV CV-280 'Basilisk'
+    .gender = male
+    .desc = Un casco de traje rígido de combate diseñado por la Dinastía Phaethon para los Tarkhans. Incorpora un sistema NVD completo de 4.ª generación.
 
 ent-ClothingHeadHelmetHardsuitTrauma = casco de tacsuit T-23 de la Unidad de Trauma Armada
     .gender = male
@@ -5538,7 +5844,7 @@ ent-ClothingNeckCloakAce = capa del piloto
 
 ent-ClothingNeckCloakAdmin = capa weh
     .gender = female
-    .desc = ¡WEH!
+    .desc = ¡Weh!
 
 ent-ClothingNeckCloakAro = capa de hombre lobo
     .gender = female
@@ -5703,6 +6009,14 @@ ent-ClothingNeckDrakeIndustriesBadge = insignia corporativa de Drake Industries
 ent-ClothingNeckEngineermedal = medalla de ingeniero
     .gender = female
     .desc = Otorgada por el mejor trabajo en el departamento de Ingeniería.
+
+ent-ClothingNeckFormalTSF = abrigo formal de TSFMC
+    .gender = male
+    .desc = Atuendo de gala para ocasiones especiales de un oficial de la TSFMC.
+
+ent-ClothingNeckFormalTSFColonel = abrigo formal de coronel de TSFMC
+    .gender = male
+    .desc = Atuendo de gala para ocasiones especiales de un oficial de alto rango de la TSFMC.
 
 ent-ClothingNeckGayPin = pin gay
     .gender = male
@@ -6086,6 +6400,10 @@ ent-ClothingNeckTieSci = corbata del científico
 ent-ClothingNeckTransPin = pin transgénero
     .gender = male
     .desc = Sé trans, comete crímenes.
+
+ent-ClothingNeckTSFCloak = capa de oficial de la TSF
+    .gender = female
+    .desc = Una capa más discreta de la TSFMC, para que un oficial pueda pasar desapercibido sin dejar de imponer autoridad.
 
 ent-ClothingNeckUllimanOvercoat = abrigo U.I.
     .gender = male
@@ -6980,6 +7298,10 @@ ent-ClothingOuterHardsuitSyndieReverseEngineered = Exotraje de combate SA-122
 ent-ClothingOuterHardsuitTacticalMaid = Exotraje de doncella táctica
     .gender = male
     .desc = Capas de aleaciones resistentes a las manchas integradas en un solo traje. ¡Incluso incluye un delantal reforzado!
+
+ent-ClothingOuterHardsuitTarkhan = traje rígido de combate PDV CV-280 'Basilisk'
+    .gender = male
+    .desc = Un traje rígido de combate diseñado por la Dinastía Phaethon para los Tarkhans. Utiliza una composición imperfecta de nanolaminado, similar a la del CV-67, para reducir peso; incorpora un armazón hidráulico que mejora la movilidad y está pintado con la paleta blanca real de los Tarkhan. Es poco común verlo.
 
 ent-ClothingOuterHardsuitTrauma = Traje táctico T-23 de la Armed Trauma Unit
     .gender = male
@@ -7967,7 +8289,7 @@ ent-ClothingUniformJumpskirtChiefEngineerTurtle = jersey de cuello alto del Inge
 
 ent-ClothingUniformJumpskirtClown = falda de Payaso
     .gender = female
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpskirtCMO = mono-falda del Médico Jefe
     .gender = female
@@ -8451,11 +8773,11 @@ ent-ClothingUniformJumpsuitChiefEngineerTurtle = jersey de cuello alto del Ingen
 
 ent-ClothingUniformJumpsuitClown = Traje de payaso
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitClownBanana = Traje de payaso de plátano
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitCluwne = Traje de cluwne
     .gender = male
@@ -9213,342 +9535,4 @@ ent-ClothingUniformJumpsuitTacticool = mono tacticool
 ent-ClothingUniformJumpsuitTshirtJeans = camiseta blanca y vaqueros
     .gender = female
     .desc = Incluso en el espacio, esta combinación sigue siendo tendencia.
-
-ent-ClothingUniformJumpsuitTshirtJeansGray = camiseta gris y vaqueros
-    .gender = female
-    .desc = Aunque no haya bosques en el espacio, esta combinación sigue siendo práctica.
-
-ent-ClothingUniformJumpsuitTshirtJeansPeach = camiseta color melocotón y vaqueros
-    .gender = female
-    .desc = Aunque tu tienda de ropa emo favorita esté en casa, esta combinación sigue siendo alternativa.
-
-ent-ClothingUniformJumpsuitValet = uniforme de valet
-    .gender = male
-    .desc = Un uniforme bonito y pulcro.
-
-ent-ClothingUniformJumpsuitViperGroupTurtleneck = cuello de tortuga del grupo víbora
-    .gender = male
-    .desc = Un cuello de tortuga con los colores de las víboras.
-
-ent-ClothingUniformJumpsuitViperGroupUniform = uniforme del grupo víbora
-    .gender = male
-    .desc = Un uniforme con los colores de las víboras.
-
-ent-ClothingUniformJumpsuitVirology = mono de virología
-    .gender = male
-    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
-
-ent-ClothingUniformJumpsuitWarden = uniforme del Alcaide
-    .gender = male
-    .desc = Un traje formal de seguridad para oficiales, completo con hebilla de cinturón de Nanotrasen.
-
-ent-ClothingUniformJumpsuitWeb = mono de malla
-    .gender = male
-    .desc = Deja claro que eres uno con las telarañas.
-
-ent-ClothingUniformKendoHakama = hakama
-    .gender = female
-    .desc = Un elegante hakama azul y negro que podría usarse para kendo o eventos formales.
-
-ent-ClothingUniformMartialGi = gi
-    .gender = male
-    .desc = Parte superior e inferior blancas utilizadas tradicionalmente en artes marciales, generalmente combinadas con un cinturón.
-
-ent-ClothingUniformOveralls = mono de trabajo
-    .gender = male
-    .desc = Ideal para trabajar al aire libre.
-
-ent-ClothingUniformRandomArmless = top sin mangas y pantalones coloridos
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomArmlessNoSkirt = mono sin mangas colorido
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomBra = sujetador y pantalones coloridos
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomPunkCroptop = mono punk con top corto
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomPunkCroptopShorts = mono corto punk con top corto
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomPunkTanktop = mono punk con camiseta de tirantes
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomPunkTanktopShorts = mono corto punk con camiseta de tirantes
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomShirt = top y pantalones coloridos con estampado
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomShorts = pantalones coloridos
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRandomStandard = top y pantalones coloridos
-    .gender = male
-    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
-
-ent-ClothingUniformRogue = traje de campo pícaro
-    .gender = male
-    .desc = Un atuendo táctico negro mate usado por agentes independientes que trabajan bajo contrato. El brazalete rojo marca la afiliación, por tenue que sea.
-
-ent-ClothingUniformRogueCargos = traje de campo pícaro (cargos)
-    .gender = male
-    .desc = Un top táctico negro mate combinado con duraderos pantalones cargo marrones, adecuado para contratos en terreno difícil. Los agentes independientes valoran esta mezcla de funcionalidad y sutil rebeldía. El brazalete rojo permanece, apenas.
-
-ent-ClothingUniformRogueJeans = traje de campo pícaro (vaqueros)
-    .gender = male
-    .desc = Una camisa negra mate combinada con vaqueros. Usada por agentes independientes que prefieren el trabajo de campo con algo más de flexibilidad. El brazalete rojo sigue señalando una lealtad incierta.
-
-ent-ClothingUniformRoguePants = pantalones de campo pícaros
-    .desc = Un atuendo táctico negro mate usado por agentes independientes que trabajan bajo contrato. ¿El braz- espera, solo son los pantalones?
-
-ent-ClothingUniformRogueWarm = traje de campo cálido pícaro
-    .gender = male
-    .desc = Una variante muy aislada del traje de campo pícaro, forrada para entornos extremos. Construida para la supervivencia sin concesiones.
-
-ent-ClothingUniformSecurityTrooper = uniforme de soldado
-    .gender = male
-    .desc = Un uniforme formal emitido a los soldados del TSF. Antes venía con un coche.
-
-ent-ClothingUniformServiceDressUSSP = Traje de servicio USSP
-    .gender = male
-    .desc = Atuendo más formal para los militares, inspirado en los uniformes usados durante la lucha contra el TSF inicial.
-
-ent-ClothingUniformTSFMC = Uniforme de combate TSFMC tipo 45U
-    .gender = male
-    .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Está equipado con un brazalete de bandera azul del TSF.
-
-ent-ClothingUniformTSFMCDesert = Uniforme de combate TSFMC tipo 47D
-    .gender = male
-    .desc = Un uniforme de combate con camuflaje desértico TSF tipo 47D. Está equipado con un brazalete de bandera azul del TSF.
-
-ent-ClothingUniformTSFMCDress = Uniforme de gala TSFMC
-    .gender = male
-    .desc = Un uniforme militar de gala para ocasiones especiales, completo con galones e insignias de rango.
-
-ent-ClothingUniformTSFMCEngi = Uniforme de ingeniero TSFMC
-    .gender = male
-    .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Tiene marcas de alta visibilidad para ingenieros.
-
-ent-ClothingUniformTsfmcMopp = Traje MOPP TSFMC tipo 49C
-    .gender = male
-    .desc = Un traje protector pesado. Te ralentizará un poco, pero se asegurará de que nada que no quieras entre en tu cuerpo. Sé la pesadilla de todas las Quimeras.
-
-ent-ClothingUniformUSSP = Uniforme USSP
-    .gender = male
-    .desc = Uniforme estándar de las Fuerzas Armadas de la USSP.
-
-ent-ClothingWalletLeatherBlack = cartera de cuero
-    .gender = female
-    .desc = Sorprendentemente gruesa. Ten cuidado de no perderla y no te sientes encima. Viene con un pequeño aspirador de dinero.
-
-ent-ClothingWalletLeatherBrown = cartera de cuero
-    .gender = female
-    .desc = Sorprendentemente gruesa. Ten cuidado de no perderla y no te sientes encima. Viene con un pequeño aspirador de dinero.
-
-ent-ClothingWalletLeatherMail = cartera de cuero
-    .gender = female
-    .desc = En el interior hay una imagen bordada de un gato, un corazón y la palabra «CLIPPY». Viene con un pequeño aspirador de dinero.
-
-ent-ClothingWalletLeatherPirate = cartera de cuero
-    .gender = female
-    .desc = Dentro hay una vieja foto de un gato con barba. Viene con un pequeño aspirador de dinero.
-
-ent-ClownIDCard = tarjeta de identificación de payaso
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-ClownPDA = PDA de payaso
-    .gender = female
-    .desc = Las apariencias engañan.
-
-ent-ClownRecorder = grabadora de payaso
-    .gender = female
-    .desc = ¡Para cuando no puedes conseguir esas risas de forma natural!
-
-ent-ClusterBananaPeel = cáscara de plátano en racimo
-    .gender = female
-    .desc = ¡Se divide en 6 cáscaras de plátano explosivas al lanzarla, diversión garantizada!
-
-ent-ClusterBang = clusterbang
-    .gender = male
-    .desc = Solo puede usarse con granadas cegadoras. Explota varias veces.
-
-ent-ClusterBangFull = clusterbang
-    .gender = male
-    .desc = Lanza tres granadas cegadoras cuando se acaba el temporizador.
-
-ent-ClusterGrenade = granada en racimo
-    .gender = female
-    .desc = ¡Para qué usar una granada cuando puedes usar tres a la vez!
-
-ent-ClusterGrenadeNfsd = granada en racimo
-    .gender = female
-    .desc = ¡Para qué usar una granada cuando puedes usar tres a la vez!
-
-ent-CluwneHorn = bocina de bicicleta rota
-    .gender = female
-    .desc = Una bocina rota de una bicicleta.
-
-ent-CluwneIDCard = tarjeta de identificación de cluwne
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CluwnePDA = PDA de cluwne
-    .gender = female
-    .desc = PDA de cluwne maldita.
-
-ent-CMOIDCard = tarjeta de identificación del Médico Jefe
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CMOPDA = PDA del Médico Jefe
-    .gender = female
-    .desc = Extraordinariamente brillante y estéril.
-
-ent-CMSemioticAirlock = semiótico de esclusa
-    .gender = male
-    .desc = Estándar semiótico que indica la presencia cercana de una esclusa.
-
-ent-CMSemioticAirtraffictower = semiótico de torre de tráfico aéreo
-    .gender = male
-    .desc = Estándar semiótico que indica la presencia cercana de una torre de tráfico aéreo.
-
-ent-CMSemioticAmmunition = semiótico de almacén de munición
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un almacén de munición.
-
-ent-CMSemioticAnalysis_lab = semiótico de laboratorio de análisis
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio de análisis.
-
-ent-CMSemioticAutodoc = semiótico de autodoc
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un autodoc.
-
-ent-CMSemioticAutoopenclose = semiótico de apertura/cierre automático
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una válvula de cierre automático.
-
-ent-CMSemioticBathmens = semiótico de baño masculino
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un baño masculino.
-
-ent-CMSemioticBathunisex = semiótico de baño unisex
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un baño unisex.
-
-ent-CMSemioticBathwomens = semiótico de baño femenino
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un baño femenino.
-
-ent-CMSemioticBiohazard = semiótico de peligro biológico
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un peligro biológico.
-
-ent-CMSemioticBiolab = semiótico de laboratorio biológico
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio biológico.
-
-ent-CMSemioticBridge = semiótico del puente de mando
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana del puente de mando de una nave estelar.
-
-ent-CMSemioticBulkhead_door = semiótico de puerta de mamparo
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una puerta de mamparo.
-
-ent-CMSemioticChem_lab = semiótico de laboratorio químico
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio químico.
-
-ent-CMSemioticCoffee = semiótico de café
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de café: el sustento vital de cualquier tripulación estelar.
-
-ent-CMSemioticCommline_connection = semiótico de punto de conexión de línea de comunicación
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una conexión de línea de comunicaciones.
-
-ent-CMSemioticConference_room = semiótico de sala de conferencias
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una sala de conferencias.
-
-ent-CMSemioticCryo = semiótico de bóveda criogénica
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una bóveda criogénica.
-
-ent-CMSemioticDebark_lounge = semiótico de sala de desembarco
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una sala de desembarco.
-
-ent-CMSemioticDistribution_pipes = semiótico de tuberías de distribución
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una red de tuberías de distribución.
-
-ent-CMSemioticEast = semiótico del Este
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de algo al Este.
-
-ent-CMSemioticEight = semiótico del ocho
-    .gender = male
-    .desc = Estándar Semiótico que indica el número ocho.
-
-ent-CMSemioticElectronics = semiótico de sistemas astronicos
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de sistemas astronicos. Es una forma elegante de decir sistemas eléctricos.
-
-ent-CMSemioticElevator = semiótico del ascensor
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un ascensor.
-
-ent-CMSemioticEscapepod = semiótico de cápsula de escape
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia de una cápsula de escape.
-
-ent-CMSemioticExhaust = semiótico de escape de gases
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un escape de motor o generador.
-
-ent-CMSemioticFibre_optics = semiótico de sistemas fotónicos (fibra óptica)
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de líneas de fibra óptica.
-
-ent-CMSemioticFire_haz = semiótico de riesgo de incendio
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un riesgo de incendio.
-
-ent-CMSemioticFiringrange = semiótico de campo de tiro
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un campo de tiro con munición real.
-
-ent-CMSemioticFive = semiótico del cinco
-    .gender = male
-    .desc = Estándar Semiótico que indica el número cinco.
-
-ent-CMSemioticFlightcontrol = semiótico de control de vuelo
-    .gender = male
-    .desc = Estándar Semiótico que indica un área utilizada por o para sistemas de control de vuelo.
-
-ent-CMSemioticFood_storage = semiótico de almacenamiento orgánico (víveres)
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de un almacén de alimentos sin refrigeración.
-
-ent-CMSemioticFour = semiótico del cuatro
-    .gender = male
-    .desc = Estándar Semiótico que indica el número cuatro.
-
-ent-CMSemioticFridge = semiótico de almacenamiento refrigerado (víveres orgánicos)
-    .gender = male
-    .desc = Estándar Semiótico que indica la presencia cercana de una nevera.
 

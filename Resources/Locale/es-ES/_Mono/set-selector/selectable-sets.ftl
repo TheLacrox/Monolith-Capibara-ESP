@@ -21,3 +21,66 @@ selectable-set-pdvinfiltrator-sabotage-kit-desc =
 selectable-set-pdvinfiltrator-chameleon-kit-name = Kit experto en infiltración
 selectable-set-pdvinfiltrator-chameleon-kit-desc =
     Un conjunto completo de equipo camaleónico y herramientas de espionaje, perfectos para cualquier espía imperial que opere fuera de las filas de la Vanguardia.
+
+selectable-set-pdvtarkhan-breacher-kit-name = Kit Flagbearer
+selectable-set-pdvtarkhan-breacher-kit-desc =
+    Un kit con:
+    - una escopeta Flagbearer
+    - 4 cajas de cartuchos de perdigones
+    - una Anaconda
+    - un rompedor de acceso
+    - unas mandíbulas de la vida
+    - y un botiquín de combate.
+
+selectable-set-pdvtarkhan-molot-kit-name = Kit Molot
+selectable-set-pdvtarkhan-molot-kit-desc =
+    Un kit con:
+    - un rifle Molot
+    - 4 cargadores de 7,62x51 mm
+    - una hoja VT-7 HF
+    - un rompedor de acceso
+    - y un botiquín de combate.
+
+selectable-set-pdvtarkhan-wspr-kit-name = Kit LA/22 Kord
+selectable-set-pdvtarkhan-wspr-kit-desc =
+    Un kit con:
+    - una ametralladora ligera LA/22 Kord
+    - 4 cajas de 7,62x51 mm
+    - un rompedor de acceso
+    - y un botiquín de combate.
+
+selectable-set-tsfmarsoc-fenghuang-kit-name = Kit Fenghuang
+selectable-set-tsfmarsoc-fenghuang-kit-desc =
+    Un kit con:
+    - un rifle Fenghuang
+    - 4 cargadores de 8x65 mm
+    - una empuñadura vertical
+    - unas mandíbulas de la vida
+    - y un botiquín de combate.
+
+selectable-set-tsfmarsoc-shenzhen-kit-name = Kit Shenzhen
+selectable-set-tsfmarsoc-shenzhen-kit-desc =
+    Un kit con:
+    - un rifle antimaterial de bobina Shenzhen
+    - 4 cargadores de 13,4x92 mm
+    - una caja de 30 proyectiles de 13,4x92 mm
+    - unas mandíbulas de la vida
+    - y un botiquín de combate.
+
+selectable-set-tsfmarsoc-pulse-kit-name = Kit de carabina de pulso
+selectable-set-tsfmarsoc-pulse-kit-desc =
+    Un kit con:
+    - una carabina de pulso NT-WS recuperada
+    - un recargador portátil
+    - una mágnum de energía EG-4
+    - unas mandíbulas de la vida
+    - y un botiquín de combate.
+
+selectable-set-tsfmarsoc-hailstorm-kit-name = Kit Hailstorm
+selectable-set-tsfmarsoc-hailstorm-kit-desc =
+    Un kit con:
+    - una NT-WS Mk.348 Hailstorm recuperada
+    - 4 cajas de 9x19 mm
+    - una mágnum de energía EG-4
+    - unas mandíbulas de la vida
+    - y un botiquín de combate.

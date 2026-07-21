@@ -11,4 +11,5 @@ id-card-access-level-pdv-command = Mando PDV
 id-card-access-level-tsf-engineer = Ingeniería TSF
 
 id-card-access-level-vg = Viper Group
-id-card-access-level-vg-high = Mando del Viper Group
+
+id-card-access-level-vg-command = Mando del Viper Group

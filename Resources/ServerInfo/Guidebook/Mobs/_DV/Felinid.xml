@@ -1,32 +1,36 @@
 <Document>
-  # Felinids
+  # Felínidos
 
   <Box>
     <GuideEntityEmbed Entity="MobFelinidDummy" Caption=""/>
   </Box>
 
-  Personas pequeñas y traviesas con orejas de gato. Ser pequeño tiene muchas ventajas y desventajas. Pueden esconderse dentro de bolsas de lona.
+  Personas pequeñas y traviesas con orejas de gato. Su reducido tamaño tiene muchas ventajas y desventajas. Pueden esconderse dentro de bolsas de lona.
 
   ## Dieta
 
   - Pueden comer carne cruda.
-  - Se intoxicarán con Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+  - Se intoxican con teobromina (chocolate, té y café) y alicina (cebolla y ajo).
 
   ## Ventajas
 
-  - Son más pequeños que los Humanos, lo que los hace más difíciles de golpear.
+  - Son más pequeños que los humanos, por lo que resulta más difícil acertarles.
   - Caben en bolsas de lona.
-  - Tienen la capacidad de vomitar una bola de pelo para deshacerse de algunos de los químicos de su torrente sanguíneo.
-  - Pueden comer ratones y ratas después de recogerlos. Esto tiene el beneficio de recargar la habilidad de la bola de pelo y alimentarlos.
-  - Usan sus garras para hacer daño por Corte y Perforación.
-  - Pueden caminar completamente en silencio, pero solo si van descalzos.
-  - Inmunidad a la enfermedad OwOnavirus.
+  - Pueden vomitar una bola de pelo para eliminar parte de las sustancias químicas de su sangre.
+  - Pueden comerse ratones y ratas después de recogerlos. Esto les alimenta y regenera su capacidad de expulsar bolas de pelo.
+  - Usan las garras para infligir daño cortante y perforante.
+  - Pueden caminar sin hacer ningún ruido, pero solo cuando van descalzos.
+  - Son inmunes a la enfermedad OwOnavirus.
 
   ## Desventajas
 
-  - Reciben un 10% más de daño por Golpe y Corte.
-  - Son fácilmente empujados, desplazados y cargados por todos los demás morfotipos debido a su pequeño tamaño.
-  - Son más débiles y les cuesta cargar y arrastrar cosas por su pequeño tamaño. Son incapaces de cargar a un Oni.
-  - Tienen ligeramente menos resistencia que los Humanos.
+  - Reciben un 10 % más de daño contundente y cortante.
+  - Debido a su pequeño tamaño, los demás morfotipos pueden empujarlos y transportarlos con facilidad.
+  - Son más débiles y, debido a su pequeño tamaño, les cuesta transportar y arrastrar objetos. No pueden cargar con un Oni.
+  - Tienen algo menos de resistencia que los humanos.
+
+  ## Patas acolchadas
+
+  Esta especie aterriza con mayor suavidad al caer desde grandes alturas. (En términos sencillos, pueden caer desde más alto sin sufrir daño ni quedar aturdidos).
 
 </Document>

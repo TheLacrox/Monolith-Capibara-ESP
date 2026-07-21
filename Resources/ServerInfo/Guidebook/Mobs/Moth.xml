@@ -1,15 +1,19 @@
 <Document>
-  # Personas Polilla
+  # Personas polilla
 
   <Box>
     <GuideEntityEmbed Entity="MobMoth" Caption=""/>
   </Box>
 
-  Pueden comer algodón, telas y ropa, pero prácticamente ninguno de los alimentos que otros considerarían «comestibles». Prefieren un rango de temperatura algo más bajo que los humanos.
-  Su Sangre de Insecto no puede metabolizarse a partir del Hierro como la sangre normal.
+  Pueden comer algodón, tejidos y ropa, pero prácticamente ninguno de los alimentos que los demás considerarían «comestibles». Prefieren temperaturas algo más bajas que los humanos.
+  Su sangre de insecto no puede metabolizarse a partir del hierro como la sangre normal.
 
-  Sus alas les proporcionan mejor aceleración si no hay gravedad en la estación, pero aún así no pueden moverse sin equipo cuando flotan en el espacio.
+  Sus alas les proporcionan una mayor aceleración cuando no hay gravedad en la estación, pero siguen sin poder moverse sin equipo cuando flotan en el espacio.
 
-  Reciben [color=#1e90ff]un 30% menos de daño por Frío[/color] pero [color=#ffa500]un 15% más de daño por Calor, y se incendian con más facilidad[/color].
+  Reciben [color=#1e90ff]un 30 % menos de daño por frío[/color], pero [color=#ffa500]un 15 % más de daño por calor y se prenden fuego con mayor facilidad[/color].
+
+  ## Vuelo
+
+  Esta especie puede volar en planetas y otras zonas con altitud. Lee la entrada sobre el vuelo para obtener más información.
 
 </Document>

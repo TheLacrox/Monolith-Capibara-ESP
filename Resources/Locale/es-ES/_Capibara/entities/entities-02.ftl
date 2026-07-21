@@ -1,3 +1,341 @@
+ent-ClothingUniformJumpsuitTshirtJeansGray = camiseta gris y vaqueros
+    .gender = female
+    .desc = Aunque no haya bosques en el espacio, esta combinación sigue siendo práctica.
+
+ent-ClothingUniformJumpsuitTshirtJeansPeach = camiseta color melocotón y vaqueros
+    .gender = female
+    .desc = Aunque tu tienda de ropa emo favorita esté en casa, esta combinación sigue siendo alternativa.
+
+ent-ClothingUniformJumpsuitValet = uniforme de valet
+    .gender = male
+    .desc = Un uniforme bonito y pulcro.
+
+ent-ClothingUniformJumpsuitViperGroupTurtleneck = cuello de tortuga del grupo víbora
+    .gender = male
+    .desc = Un cuello de tortuga con los colores de las víboras.
+
+ent-ClothingUniformJumpsuitViperGroupUniform = uniforme del grupo víbora
+    .gender = male
+    .desc = Un uniforme con los colores de las víboras.
+
+ent-ClothingUniformJumpsuitVirology = mono de virología
+    .gender = male
+    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
+
+ent-ClothingUniformJumpsuitWarden = uniforme del Alcaide
+    .gender = male
+    .desc = Un traje formal de seguridad para oficiales, completo con hebilla de cinturón de Nanotrasen.
+
+ent-ClothingUniformJumpsuitWeb = mono de malla
+    .gender = male
+    .desc = Deja claro que eres uno con las telarañas.
+
+ent-ClothingUniformKendoHakama = hakama
+    .gender = female
+    .desc = Un elegante hakama azul y negro que podría usarse para kendo o eventos formales.
+
+ent-ClothingUniformMartialGi = gi
+    .gender = male
+    .desc = Parte superior e inferior blancas utilizadas tradicionalmente en artes marciales, generalmente combinadas con un cinturón.
+
+ent-ClothingUniformOveralls = mono de trabajo
+    .gender = male
+    .desc = Ideal para trabajar al aire libre.
+
+ent-ClothingUniformRandomArmless = top sin mangas y pantalones coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomArmlessNoSkirt = mono sin mangas colorido
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomBra = sujetador y pantalones coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomPunkCroptop = mono punk con top corto
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomPunkCroptopShorts = mono corto punk con top corto
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomPunkTanktop = mono punk con camiseta de tirantes
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomPunkTanktopShorts = mono corto punk con camiseta de tirantes
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomShirt = top y pantalones coloridos con estampado
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomShorts = pantalones coloridos
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRandomStandard = top y pantalones coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-ClothingUniformRogue = traje de campo pícaro
+    .gender = male
+    .desc = Un atuendo táctico negro mate usado por agentes independientes que trabajan bajo contrato. El brazalete rojo marca la afiliación, por tenue que sea.
+
+ent-ClothingUniformRogueCargos = traje de campo pícaro (cargos)
+    .gender = male
+    .desc = Un top táctico negro mate combinado con duraderos pantalones cargo marrones, adecuado para contratos en terreno difícil. Los agentes independientes valoran esta mezcla de funcionalidad y sutil rebeldía. El brazalete rojo permanece, apenas.
+
+ent-ClothingUniformRogueJeans = traje de campo pícaro (vaqueros)
+    .gender = male
+    .desc = Una camisa negra mate combinada con vaqueros. Usada por agentes independientes que prefieren el trabajo de campo con algo más de flexibilidad. El brazalete rojo sigue señalando una lealtad incierta.
+
+ent-ClothingUniformRoguePants = pantalones de campo pícaros
+    .desc = Un atuendo táctico negro mate usado por agentes independientes que trabajan bajo contrato. ¿El braz- espera, solo son los pantalones?
+
+ent-ClothingUniformRogueWarm = traje de campo cálido pícaro
+    .gender = male
+    .desc = Una variante muy aislada del traje de campo pícaro, forrada para entornos extremos. Construida para la supervivencia sin concesiones.
+
+ent-ClothingUniformSecurityTrooper = uniforme de soldado
+    .gender = male
+    .desc = Un uniforme formal emitido a los soldados del TSF. Antes venía con un coche.
+
+ent-ClothingUniformServiceDressUSSP = Traje de servicio USSP
+    .gender = male
+    .desc = Atuendo más formal para los militares, inspirado en los uniformes usados durante la lucha contra el TSF inicial.
+
+ent-ClothingUniformTSFMC = Uniforme de combate TSFMC tipo 45U
+    .gender = male
+    .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Está equipado con un brazalete de bandera azul del TSF.
+
+ent-ClothingUniformTSFMCDesert = Uniforme de combate TSFMC tipo 47D
+    .gender = male
+    .desc = Un uniforme de combate con camuflaje desértico TSF tipo 47D. Está equipado con un brazalete de bandera azul del TSF.
+
+ent-ClothingUniformTSFMCDress = Uniforme de gala TSFMC
+    .gender = male
+    .desc = Un uniforme militar de gala para ocasiones especiales, completo con galones e insignias de rango.
+
+ent-ClothingUniformTSFMCEngi = Uniforme de ingeniero TSFMC
+    .gender = male
+    .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Tiene marcas de alta visibilidad para ingenieros.
+
+ent-ClothingUniformTsfmcMopp = Traje MOPP TSFMC tipo 49C
+    .gender = male
+    .desc = Un traje protector pesado. Te ralentizará un poco, pero se asegurará de que nada que no quieras entre en tu cuerpo. Sé la pesadilla de todas las Quimeras.
+
+ent-ClothingUniformUSSP = Uniforme USSP
+    .gender = male
+    .desc = Uniforme estándar de las Fuerzas Armadas de la USSP.
+
+ent-ClothingWalletLeatherBlack = cartera de cuero
+    .gender = female
+    .desc = Sorprendentemente gruesa. Ten cuidado de no perderla y no te sientes encima. Viene con un pequeño aspirador de dinero.
+
+ent-ClothingWalletLeatherBrown = cartera de cuero
+    .gender = female
+    .desc = Sorprendentemente gruesa. Ten cuidado de no perderla y no te sientes encima. Viene con un pequeño aspirador de dinero.
+
+ent-ClothingWalletLeatherMail = cartera de cuero
+    .gender = female
+    .desc = En el interior hay una imagen bordada de un gato, un corazón y la palabra «CLIPPY». Viene con un pequeño aspirador de dinero.
+
+ent-ClothingWalletLeatherPirate = cartera de cuero
+    .gender = female
+    .desc = Dentro hay una vieja foto de un gato con barba. Viene con un pequeño aspirador de dinero.
+
+ent-ClownIDCard = tarjeta de identificación de payaso
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-ClownPDA = PDA de payaso
+    .gender = female
+    .desc = Las apariencias engañan.
+
+ent-ClownRecorder = grabadora de payaso
+    .gender = female
+    .desc = ¡Para cuando no puedes conseguir esas risas de forma natural!
+
+ent-ClusterBananaPeel = cáscara de plátano en racimo
+    .gender = female
+    .desc = ¡Se divide en 6 cáscaras de plátano explosivas al lanzarla, diversión garantizada!
+
+ent-ClusterBang = clusterbang
+    .gender = male
+    .desc = Solo puede usarse con granadas cegadoras. Explota varias veces.
+
+ent-ClusterBangFull = ClusterBang
+    .gender = male
+    .desc = Lanza tres granadas cegadoras cuando se acaba el temporizador.
+
+ent-ClusterGrenade = granada en racimo
+    .gender = female
+    .desc = ¡Para qué usar una granada cuando puedes usar tres a la vez!
+
+ent-ClusterGrenadeNfsd = granada en racimo
+    .gender = female
+    .desc = ¡Para qué usar una granada cuando puedes usar tres a la vez!
+
+ent-CluwneHorn = bocina de bicicleta rota
+    .gender = female
+    .desc = Una bocina rota de una bicicleta.
+
+ent-CluwneIDCard = tarjeta de identificación de cluwne
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-CluwnePDA = PDA de cluwne
+    .gender = female
+    .desc = PDA de cluwne maldita.
+
+ent-CMOIDCard = tarjeta de identificación del Médico Jefe
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-CMOPDA = PDA del Médico Jefe
+    .gender = female
+    .desc = Extraordinariamente brillante y estéril.
+
+ent-CMSemioticAirlock = semiótico de esclusa
+    .gender = male
+    .desc = Estándar semiótico que indica la presencia cercana de una esclusa.
+
+ent-CMSemioticAirtraffictower = semiótico de torre de tráfico aéreo
+    .gender = male
+    .desc = Estándar semiótico que indica la presencia cercana de una torre de tráfico aéreo.
+
+ent-CMSemioticAmmunition = semiótico de almacén de munición
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un almacén de munición.
+
+ent-CMSemioticAnalysis_lab = semiótico de laboratorio de análisis
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio de análisis.
+
+ent-CMSemioticAutodoc = semiótico de autodoc
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un autodoc.
+
+ent-CMSemioticAutoopenclose = semiótico de apertura/cierre automático
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una válvula de cierre automático.
+
+ent-CMSemioticBathmens = semiótico de baño masculino
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un baño masculino.
+
+ent-CMSemioticBathunisex = semiótico de baño unisex
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un baño unisex.
+
+ent-CMSemioticBathwomens = semiótico de baño femenino
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un baño femenino.
+
+ent-CMSemioticBiohazard = semiótico de peligro biológico
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un peligro biológico.
+
+ent-CMSemioticBiolab = semiótico de laboratorio biológico
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio biológico.
+
+ent-CMSemioticBridge = semiótico del puente de mando
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana del puente de mando de una nave estelar.
+
+ent-CMSemioticBulkhead_door = semiótico de puerta de mamparo
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una puerta de mamparo.
+
+ent-CMSemioticChem_lab = semiótico de laboratorio químico
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un laboratorio químico.
+
+ent-CMSemioticCoffee = semiótico de café
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de café: el sustento vital de cualquier tripulación estelar.
+
+ent-CMSemioticCommline_connection = semiótico de punto de conexión de línea de comunicación
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una conexión de línea de comunicaciones.
+
+ent-CMSemioticConference_room = semiótico de sala de conferencias
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una sala de conferencias.
+
+ent-CMSemioticCryo = semiótico de bóveda criogénica
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una bóveda criogénica.
+
+ent-CMSemioticDebark_lounge = semiótico de sala de desembarco
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una sala de desembarco.
+
+ent-CMSemioticDistribution_pipes = semiótico de tuberías de distribución
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una red de tuberías de distribución.
+
+ent-CMSemioticEast = semiótico del Este
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de algo al Este.
+
+ent-CMSemioticEight = semiótico del ocho
+    .gender = male
+    .desc = Estándar Semiótico que indica el número ocho.
+
+ent-CMSemioticElectronics = semiótico de sistemas astronicos
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de sistemas astronicos. Es una forma elegante de decir sistemas eléctricos.
+
+ent-CMSemioticElevator = semiótico del ascensor
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un ascensor.
+
+ent-CMSemioticEscapepod = semiótico de cápsula de escape
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia de una cápsula de escape.
+
+ent-CMSemioticExhaust = semiótico de escape de gases
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un escape de motor o generador.
+
+ent-CMSemioticFibre_optics = semiótico de sistemas fotónicos (fibra óptica)
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de líneas de fibra óptica.
+
+ent-CMSemioticFire_haz = semiótico de riesgo de incendio
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un riesgo de incendio.
+
+ent-CMSemioticFiringrange = semiótico de campo de tiro
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un campo de tiro con munición real.
+
+ent-CMSemioticFive = semiótico del cinco
+    .gender = male
+    .desc = Estándar Semiótico que indica el número cinco.
+
+ent-CMSemioticFlightcontrol = semiótico de control de vuelo
+    .gender = male
+    .desc = Estándar Semiótico que indica un área utilizada por o para sistemas de control de vuelo.
+
+ent-CMSemioticFood_storage = semiótico de almacenamiento orgánico (víveres)
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de un almacén de alimentos sin refrigeración.
+
+ent-CMSemioticFour = semiótico del cuatro
+    .gender = male
+    .desc = Estándar Semiótico que indica el número cuatro.
+
+ent-CMSemioticFridge = semiótico de almacenamiento refrigerado (víveres orgánicos)
+    .gender = male
+    .desc = Estándar Semiótico que indica la presencia cercana de una nevera.
+
 ent-CMSemioticGalley = semiótico de la cocina
     .gender = male
     .desc = Estándar Semiótico que indica la presencia cercana de una cocina de a bordo.
@@ -576,6 +914,10 @@ ent-ComputerShuttle = consola del transbordador
     .gender = female
     .desc = Sirve para pilotar un transbordador.
 
+ent-ComputerShuttleANALR67RWR = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un RWR AN/ALR-67 para emitir tonos de alerta de misiles.
+
 ent-ComputerShuttleAntag = consola del transbordador
     .gender = female
     .desc = Sirve para pilotar un transbordador.
@@ -592,6 +934,10 @@ ent-ComputerShuttleFrontierOutpostRemote = consola de tráfico del Puesto Coloni
     .gender = female
     .desc = Monitoriza el tráfico alrededor del Puesto Colonial.
 
+ent-ComputerShuttleKPV63RWR = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un RWR KPV-63 para emitir tonos de alerta de misiles.
+
 ent-ComputerShuttleRecords = consola de registros de transbordadores
     .gender = female
     .desc = Sirve para consultar los registros de transbordadores y recuperar o reasignar la propiedad de un transbordador a distintas tarjetas de identificación.
@@ -607,6 +953,10 @@ ent-ComputerShuttleTradeOutpostLocal = consola de tráfico del Puesto Comercial
 ent-ComputerShuttleTradeOutpostRemote = consola de tráfico del Puesto Comercial
     .gender = female
     .desc = Monitoriza el tráfico alrededor del Puesto Comercial.
+
+ent-ComputerShuttleTSFNVWS = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un VWS de la TSFN para emitir tonos de alerta de misiles.
 
 ent-ComputerSolarControl = ordenador de control solar
     .gender = male
@@ -790,6 +1140,10 @@ ent-ComputerTabletopShuttle = consola del transbordador
     .gender = female
     .desc = Sirve para pilotar un transbordador.
 
+ent-ComputerTabletopShuttleANALR67RWR = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un RWR AN/ALR-67 para emitir tonos de alerta de misiles.
+
 ent-ComputerTabletopShuttleAntag = consola del transbordador
     .gender = female
     .desc = Sirve para pilotar un transbordador.
@@ -802,6 +1156,10 @@ ent-ComputerTabletopShuttleFrontierOutpostRemote = consola de tráfico del Puest
     .gender = female
     .desc = Monitoriza el tráfico alrededor del Puesto Colonial.
 
+ent-ComputerTabletopShuttleKPV63RWR = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un RWR KPV-63 para emitir tonos de alerta de misiles.
+
 ent-ComputerTabletopShuttleTradeOutpostLocal = consola de tráfico del Puesto Comercial
     .gender = female
     .desc = Monitoriza el tráfico alrededor del Puesto Comercial.
@@ -809,6 +1167,10 @@ ent-ComputerTabletopShuttleTradeOutpostLocal = consola de tráfico del Puesto Co
 ent-ComputerTabletopShuttleTradeOutpostRemote = consola de tráfico del Puesto Comercial
     .gender = female
     .desc = Monitoriza el tráfico alrededor del Puesto Comercial.
+
+ent-ComputerTabletopShuttleTSFNVWS = consola del transbordador
+    .gender = female
+    .desc = Se usa para pilotar un transbordador. Este está equipado con un VWS de la TSFN para emitir tonos de alerta de misiles.
 
 ent-ComputerTabletopSolarControl = ordenador de control solar
     .gender = male
@@ -1100,21 +1462,81 @@ ent-CrateAmmoAmmoBox12_gaugeBuckshotgun = cajón de munición seguro
     .gender = male
     .desc = Un gran contenedor para objetos.
 
+ent-CrateAmmoBox140mm = caja HEAT de 140 mm Longbow
+    .gender = female
+    .desc = Contiene una caja de munición HEAT de 140 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles HEAT. Cómprala por si pierdes la munición incluida.
+
+ent-CrateAmmoBox140mmSACLOS = caja SACLOS de 140 mm Longbow
+    .gender = female
+    .desc = Contiene una caja de munición SACLOS de 140 mm. Proporciona a una pieza de artillería 120 proyectiles SACLOS.
+
 ent-CrateAmmoBox20mm = Caja de tambor sólido 20mm L85
     .gender = female
     .desc = Contiene una caja de munición sólida de 20mm. Proporciona a una pieza de artillería rondas sólidas infinitas. Cómprala si has perdido la munición original.
+
+ent-CrateAmmoBox20mmAS = caja de tambor AS de 20 mm L85
+    .gender = female
+    .desc = Contiene una caja de munición antiescudo de 20 mm. Proporciona a una pieza de artillería 1250 proyectiles AS. Puede derribar un MS-250 en unos 150 disparos.
+
+ent-CrateAmmoBox220mmAPHE = caja de proyectiles APHE CYREXA de 220 mm
+    .gender = female
+    .desc = Contiene 48 proyectiles APHE, embalados en 2 cajas grandes.
+
+ent-CrateAmmoBox220mmHECluster = caja de proyectiles HE-CLST CYREXA de 220 mm
+    .gender = female
+    .desc = Contiene 48 proyectiles HE-CLST, embalados en 2 cajas grandes.
+
+ent-CrateAmmoBox220mmSmartCluster = caja de proyectiles HMNG-CLST CYREXA de 220 mm
+    .gender = female
+    .desc = Contiene 48 proyectiles HMNG-CLST, embalados en 2 cajas grandes.
+
+ent-CrateAmmoBox255mmAPHE = caja de proyectiles APHE Bofors de 255 mm
+    .gender = female
+    .desc = Contiene 32 proyectiles APHE, embalados en 2 cajas grandes.
+
+ent-CrateAmmoBox255mmEMP = caja de proyectiles EMP Bofors de 255 mm
+    .gender = female
+    .desc = Contiene 32 proyectiles EMP, embalados en 2 cajas grandes.
+
+ent-CrateAmmoBox255mmMine = caja de proyectiles minadores Bofors de 255 mm
+    .gender = female
+    .desc = Contiene 32 proyectiles minadores, embalados en 2 cajas grandes.
 
 ent-CrateAmmoBox30mm = Caja de tambor sólido 30mm Draupnir
     .gender = female
     .desc = Contiene una caja de munición sólida de 30mm. Proporciona a una pieza de artillería rondas sólidas infinitas. Cómprala si has perdido la munición original.
 
+ent-CrateAmmoBox30mmHE = caja de tambor HE de 30 mm Draupnir
+    .gender = female
+    .desc = Contiene una caja de munición HE de 30 mm con 2000 proyectiles.
+
 ent-CrateAmmoBox57mm = Caja de tambor HE 57mm AK-570
     .gender = female
     .desc = Contiene una caja de munición explosiva de 57mm. Proporciona a una pieza de artillería rondas explosivas infinitas. Cómprala si has perdido la munición original.
 
+ent-CrateAmmoBox57mmSACLOS = caja de tambor SACLOS de 57 mm AK-570
+    .gender = female
+    .desc = Contiene una caja de munición SACLOS de 57 mm. Proporciona a una pieza de artillería 600 proyectiles guiados por FCS.
+
+ent-CrateAmmoBox57mmSmart = caja de tambor HMNG de 57 mm AK-570
+    .gender = female
+    .desc = Contiene una caja de munición autoguiada de 57 mm. Proporciona a una pieza de artillería 600 proyectiles autoguiados.
+
 ent-CrateAmmoBox90mm = Caja HE 90mm Dravon
     .gender = female
     .desc = Contiene una caja de munición explosiva de 90mm. Proporciona a una pieza de artillería rondas explosivas infinitas. Cómprala si has perdido la munición original.
+
+ent-CrateAmmoBox90mmAP = caja AP de 90 mm Dravon
+    .gender = female
+    .desc = Contiene una caja de munición perforante de 90 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles perforantes. Cómprala por si pierdes la munición incluida.
+
+ent-CrateAmmoBox90mmFlak = caja antiaérea de 90 mm Dravon
+    .gender = female
+    .desc = Contiene una caja de munición antiaérea de 90 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles antiaéreos. Cómprala por si pierdes la munición incluida.
+
+ent-CrateAmmoBox90mmMinelayer = caja minadora de 90 mm Dravon
+    .gender = female
+    .desc = Contiene una caja de munición minadora de 90 mm. Proporciona a una pieza de artillería 400 proyectiles minadores.
 
 ent-CrateAmmoBoxBigLethal20 = cajón de munición seguro
     .gender = male
@@ -1137,6 +1559,14 @@ ent-CrateAmmoBoxBigRubber25 = cajón de munición seguro
     .desc = Un gran contenedor para objetos.
 
 ent-CrateAmmoBoxCharon = Caja de cartuchos de proyectil 280mm CHARON 26,5kg
+    .gender = female
+    .desc = Contiene 3 proyectiles.
+
+ent-CrateAmmoBoxCharonAPHE = caja de cartuchos de proyectil APHE CHARON de 280 mm y 26,5 kg
+    .gender = female
+    .desc = Contiene 3 proyectiles.
+
+ent-CrateAmmoBoxCharonEMP = caja de cartuchos de proyectil EMP CHARON de 280 mm y 26,5 kg
     .gender = female
     .desc = Contiene 3 proyectiles.
 
@@ -1191,6 +1621,18 @@ ent-CrateAmmoBoxLethal45 = cajón de munición seguro
 ent-CrateAmmoBoxLethalBig35 = cajón de munición seguro
     .gender = male
     .desc = Un gran contenedor para objetos.
+
+ent-CrateAmmoBoxPaladinEMPHE = caja de misiles EMP-HE MLRS-382 Paladin
+    .gender = female
+    .desc = Contiene 2 autocargadores de 24 misiles cada uno.
+
+ent-CrateAmmoBoxPaladinHE = caja de misiles HE MLRS-382 Paladin
+    .gender = female
+    .desc = Contiene 2 autocargadores de 24 misiles cada uno.
+
+ent-CrateAmmoBoxPaladinHV = caja de misiles HV MLRS-382 Paladin
+    .gender = female
+    .desc = Contiene 2 autocargadores de 24 misiles cada uno.
 
 ent-CrateAmmoBoxPractice20 = cajón de munición seguro
     .gender = male
@@ -1251,6 +1693,14 @@ ent-CrateAmmoBoxSlugShotgun = cajón de munición seguro
 ent-CrateAmmoBoxTovek = Caja de misiles EMPHE ASM-250 Tovek
     .gender = female
     .desc = Contiene 4 misiles, el equivalente a 2 cargas.
+
+ent-CrateAmmoBoxTrident = caja de torpedos HE ASM-220 Trident
+    .gender = female
+    .desc = Contiene 4 misiles grandes, suficientes para llenar un único lanzador.
+
+ent-CrateAmmoBoxTridentSACLOS = caja de torpedos HE-SACLOS ASM-220 Trident
+    .gender = female
+    .desc = Contiene 4 misiles grandes, suficientes para llenar un único lanzador.
 
 ent-CrateAmmoBoxUranium20 = cajón de munición seguro
     .gender = male
@@ -1897,6 +2347,10 @@ ent-CrateMaterialMetalRods = caja de varillas de metal
     .gender = female
     .desc = 90 varillas de metal, embaladas de cualquier manera.
 
+ent-CrateMaterialNukeSupplies = caja de suministros para explosivos de fisión nuclear
+    .gender = female
+    .desc = El disco de autenticación, 4 rastreadores de discos y los códigos. Algo ha salido terriblemente mal.
+
 ent-CrateMaterialPaper = caja de papel
     .gender = female
     .desc = 90 hojas de papel.
@@ -1912,6 +2366,10 @@ ent-CrateMaterialPlasteel = caja de plasteel
 ent-CrateMaterialPlastic = caja de láminas de plástico
     .gender = female
     .desc = 90 láminas de plástico.
+
+ent-CrateMaterialPlastitanium = caja de plastitanio
+    .gender = female
+    .desc = 90 láminas de plastitanio.
 
 ent-CrateMaterialRandom = materiales sobrantes
     .desc = Materiales sobrantes de algún lugar.
@@ -5280,7 +5738,7 @@ ent-DrinkGargleBlasterGlass = vaso metamórfico
     .gender = male
     .desc = Un vaso metamórfico que automágicamente se convierte en el vaso adecuado para la bebida que contiene. Hay un número de patente lijado en la parte inferior.
 
-ent-DrinkGildlagerBottleFull = botella de gildlager
+ent-DrinkGildlagerBottleFull = Botella de Gildlager
     .gender = female
     .desc = Schnapps de canela de 100 grados, hecho para chicas adolescentes bebedoras en las vacaciones de primavera.
 
@@ -5818,7 +6276,7 @@ ent-DrinkSakeBottleFull = botella de sake
         Claro, o a veces turbio 
         Frío como alcohol helado 
         ¡Llena la copa, bebe!
-        
+
 
 ent-DrinkSakeCup = sakazuki
     .gender = male
@@ -6779,7 +7237,7 @@ ent-ExplosionActivateRune = runa activada por explosión
 
 ent-ExplosionLight = luz de explosión
 
-ent-ExplosionRune = Runa de explosión
+ent-ExplosionRune = runa de explosión
 
 ent-ExplosionTimedRune = runa de explosión temporizada
 
@@ -7329,11 +7787,15 @@ ent-FlashPayload = carga de flash
     .gender = female
     .desc = Una carga de flash de un solo uso.
 
-ent-FlashRune = Runa de destello
+ent-FlashRune = runa de flash
 
 ent-FlashRuneTimer = runa de flash temporizada
 
 ent-FlatpackerMachineCircuitboard = placa de máquina Flatpacker 1001
+
+ent-FlatpackVendPremium = FlatpackVend Premium
+    .gender = male
+    .desc = Contiene todos los paquetes planos de aquí a los sectores vecinos. Más o menos.
 
 ent-FleshBlocker = montón de carne
     .gender = male
@@ -8048,7 +8510,7 @@ ent-FoodAmbrosiaDeus = ambrosia deus
     .gender = female
     .desc = Una planta medicinal muy codiciada. Puede tener algunos efectos secundarios peculiares.
 
-ent-FoodAmbrosiaVulgaris = Ambrosia Vulgaris
+ent-FoodAmbrosiaVulgaris = ambrosia vulgaris
     .gender = female
     .desc = Una planta medicinal. Puede que te haga sentir un poco raro.
 
@@ -9275,447 +9737,4 @@ ent-FoodDoughCottonSlice = Rebanada de masa de algodón
 ent-FoodDoughFlat = Masa aplastada
     .gender = female
     .desc = Una masa aplastada.
-
-ent-FoodDoughFlatButtered = Masa aplastada con mantequilla
-    .gender = female
-    .desc = Una masa aplastada y untada con mantequilla.
-
-ent-FoodDoughFlatPastry = Masa de hojaldre
-    .gender = female
-    .desc = Una masa de hojaldre mantecosa y estirada.
-
-ent-FoodDoughPastryBase = Base de hojaldre
-    .gender = female
-    .desc = Una base para cualquier hojaldre que se precie.
-
-ent-FoodDoughPastryBaseRaw = Base de hojaldre cruda
-    .gender = female
-    .desc = El punto de partida para donuts y hojaldres.
-
-ent-FoodDoughPie = Masa para tarta
-    .gender = female
-    .desc = Cocínala para obtener una tarta.
-
-ent-FoodDoughPizzaBaked = Pan de pizza
-    .gender = male
-    .desc = Añade ingredientes para hacer una pizza.
-
-ent-FoodDoughRope = Cordel de masa
-    .gender = male
-    .desc = Un fino fideo de masa. Se puede cocinar para hacer un bagel.
-
-ent-FoodDoughSlice = Rebanada de masa
-    .gender = female
-    .desc = Una rebanada de masa. Se puede cocinar para hacer un panecillo.
-
-ent-FoodDoughTortilla = Masa de tortilla
-    .gender = female
-    .desc = Un trozo de masa de tortilla.
-
-ent-FoodDoughTortillaFlat = Masa de tortilla aplastada
-    .gender = female
-    .desc = Una rebanada de masa de tortilla aplastada; cocínala para obtener una cáscara de taco.
-
-ent-FoodDoughTortillaSlice = Rebanada de masa de tortilla
-    .gender = female
-    .desc = Una rebanada de masa de tortilla.
-
-ent-FoodEgg = Huevo
-    .gender = male
-    .desc = ¡Un huevo!
-
-ent-FoodEggBoiled = Huevo cocido
-    .gender = male
-    .desc = Un delicioso huevo duro.
-
-ent-FoodEggChickenFertilized = Huevo
-    .gender = male
-    .desc = ¡Un huevo!
-
-ent-FoodEggDuckFertilized = Huevo
-    .gender = male
-    .desc = ¡Un huevo!
-
-ent-FoodEggplant = Berenjena
-    .gender = female
-    .desc = ¿Quizás hay un pollo dentro?
-
-ent-FoodExtradimensionalOrange = Naranja extradimensional
-    .gender = female
-    .desc = Apenas puedes comprender la existencia de esta cosa.
-
-ent-FoodFakeCapfruit = Capfruta
-    .gender = female
-    .desc = Una fruta suave y lisa con forma de pistola.
-
-ent-FoodFlyAmanita = Amanita de las moscas
-    .gender = female
-    .desc = Una seta de aspecto delicioso como las que salen en los dibujos animados.
-
-ent-FoodFrozenCornuto = Cornuto
-    .gender = male
-    .desc = Un cucurucho de helado napolitano de vainilla y chocolate. Amenaza con una lluvia de frutos secos caramelizados.
-
-ent-FoodFrozenFreezy = Space Freezy
-    .gender = male
-    .desc = El mejor helado del espacio.
-
-ent-FoodFrozenMochi = Mochi
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Buenísimo!
-
-ent-FoodFrozenMochiBungo = Mochi de bungo
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor bungo!
-
-ent-FoodFrozenMochiCherry = Mochi de cereza
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor cereza!
-
-ent-FoodFrozenMochiChocolate = Mochi de chocolate
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor chocolate!
-
-ent-FoodFrozenMochiFiber = Mochi de fibra
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Está tejido con fibra!
-
-ent-FoodFrozenMochiMoth = Mochi rosa
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es casi demasiado bonito para comerlo! Casi.
-
-ent-FoodFrozenMochiTea = Mochi de té
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Está infusionado con té!
-
-ent-FoodFrozenMochiUbe = Mochi de ube
-    .gender = male
-    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. No estás seguro de si es ube de verdad.
-
-ent-FoodFrozenPopsicleBerry = Polo de bayas
-    .gender = male
-    .desc = Un vibrante polo de bayas. Un bocado helado de lo más delicioso.
-
-ent-FoodFrozenPopsicleJumbo = Helado gigante
-    .gender = male
-    .desc = Un lujoso helado cubierto de rico chocolate. Es más pequeño de lo que recuerdas.
-
-ent-FoodFrozenPopsicleOrange = Polo de naranja
-    .gender = male
-    .desc = Un clásico polo de naranja. Un helado soleado y delicioso.
-
-ent-FoodFrozenPopsicleTrash = Palo de polo
-    .gender = male
-    .desc = Antaño sostenía un delicioso helado. Ahora, está vacío.
-
-ent-FoodFrozenSandwich = Sándwich de helado
-    .gender = male
-    .desc = Helado portátil en su propio envase.
-
-ent-FoodFrozenSandwichStrawberry = Sándwich de helado de fresa
-    .gender = male
-    .desc = Helado portátil en su propio envase, de la variedad de fresa.
-
-ent-FoodFrozenSnowcone = Granizado sin sabor
-    .gender = male
-    .desc = No es más que hielo raspado. Aun así, es divertido masticarlo.
-
-ent-FoodFrozenSnowconeBase = Granizado dulce
-    .gender = male
-    .desc = No es más que hielo raspado con almíbar, el esfuerzo mínimo.
-
-ent-FoodFrozenSnowconeBerry = Granizado de bayas
-    .gender = male
-    .desc = Almíbar de bayas rociado sobre una bola de nieve en un vaso de papel.
-
-ent-FoodFrozenSnowconeClown = Cono payaso
-    .gender = male
-    .desc = Carcajadas rociadas sobre una bola de nieve en un vaso de papel.
-
-ent-FoodFrozenSnowconeFruit = Granizado de ensalada de frutas
-    .gender = male
-    .desc = Una deliciosa mezcla de almíbares de cítricos rociada sobre una bola de nieve en un vaso de papel.
-
-ent-FoodFrozenSnowconeMime = Granizado del mimo
-    .gender = male
-    .desc = ...
-
-ent-FoodFrozenSnowconeRainbow = Granizado arcoíris
-    .gender = male
-    .desc = Una bola de nieve muy colorida en un vaso de papel.
-
-ent-FoodFrozenSnowconeTrash = Cono de papel
-    .gender = male
-    .desc = Un cono de papel arrugado para un helado. No vale nada.
-
-ent-FoodFrozenSundae = Sundae de helado
-    .gender = male
-    .desc = Un postre clásico.
-
-ent-FoodGalaxythistle = Cardo galáctico
-    .gender = male
-    .desc = Una planta medicinal apreciada por su antitóxico.
-
-ent-FoodGarlic = Ajo
-    .gender = male
-    .desc = Delicioso, pero con un olor potencialmente abrumador.
-
-ent-FoodGatfruit = Gatfruta
-    .gender = female
-    .desc = Una deliciosa fruta con forma de pistola y un grueso tallo de madera.
-
-ent-FoodGlasstle = Vidriocardo
-    .gender = male
-    .desc = Una planta cristalina y frágil con muchas espinas puntiagudas.
-
-ent-FoodGoldenApple = Manzana dorada
-    .gender = female
-    .desc = Debería tener forma de cubo, ¿no?
-
-ent-FoodGrape = Uvas
-    .desc = El alimento de emperadores, habitantes de Space France (normalmente en forma de vino) y madres futboleras. Algún día podría usarse en la producción de vino para el camarero, si alguna vez se le acaba.
-
-ent-FoodGumball = bola de chicle
-    .gender = female
-    .desc = Por ser tan buen deportista.
-
-ent-FoodHivelordRemains = restos del señor del enjambre
-    .desc = Todo lo que queda de un señor del enjambre. Parece ser lo que le permite desprenderse partes de sí mismo sin sufrir daño... sus propiedades curativas pronto se volverán inertes si no se utilizan con rapidez. Intenta no pensar en lo que estás comiendo.
-
-ent-FoodHivelordRemainsInert = restos inertes del señor del enjambre
-    .desc = Todo lo que queda de un señor del enjambre... Ahora todo está verdaderamente perdido.
-
-ent-FoodHolymelon = melón sagrado
-    .gender = male
-    .desc = El agua de este melón ha sido bendecida por alguna deidad con especial predilección por la sandía.
-
-ent-FoodHolymelonSlice = rodaja de melón sagrado
-    .gender = female
-    .desc = Jugosa rodaja dorada y roja.
-
-ent-FoodHoneyComb = panal de miel
-    .gender = male
-    .desc = Crujiente recipiente de miel.
-
-ent-FoodJellyAmanita = jalea de amanita
-    .gender = female
-    .desc = ¡Es maligna, no la toques!
-
-ent-FoodJellyDuff = duff liberty espacial
-    .gender = male
-    .desc = Gelatina Jello, del libro de recetas de Alfred Hubbard.
-
-ent-FoodKebabSkewer = brocheta
-    .gender = female
-    .desc = Una fina varilla de metal utilizada para ensartar prácticamente cualquier cosa y cocinarla.
-
-ent-FoodKoibean = judía koi
-    .gender = female
-    .desc = Estas judías parecen un pelín escamosas.
-
-ent-FoodLaughinPeaPod = vaina de guisante risueño
-    .gender = female
-    .desc = La planta favorita del Payaso.
-
-ent-FoodLemon = limón
-    .gender = male
-    .desc = Dicen que a los Armadans les encantan estas cosas. Mejor no dejarlos a la vista, por si acaso.
-
-ent-FoodLemoon = lunón
-    .gender = male
-    .desc = La gente dice que la Luna está hecha de queso, ¡pero la Luna en realidad está hecha de leche y laurel!
-
-ent-FoodLily = lirio
-    .gender = male
-    .desc = Una hermosa flor naranja.
-
-ent-FoodLime = lima
-    .gender = female
-    .desc = Cura el Escorbuto Espacial y te permite actuar como un Pirata Espacial.
-
-ent-FoodLingzhi = lingzhi
-    .gender = male
-    .desc = Un potente hongo medicinal. No te pases.
-
-ent-FoodLollipop = piruleta
-    .gender = female
-    .desc = Por ser tan buen deportista.
-
-ent-FoodMacaroni = macarrones con queso
-    .desc = ¡Quesoso!
-
-ent-FoodMealAvocadoSushi = sushi de aguacate
-    .gender = male
-    .desc = ¿De dónde ha salido el alga marina?
-
-ent-FoodMealAvocadoSushiSlice = sushi de aguacate
-    .gender = male
-    .desc = ¿De dónde ha salido el alga marina?
-
-ent-FoodMealBasicNoodles = fideos básicos
-    .desc = Un sencillo bol de ramen con fideos y caldo. ¡Ñam!
-
-ent-FoodMealBearsteak = filete migrawr
-    .gender = male
-    .desc = Porque comer oso no era suficientemente varonil.
-
-ent-FoodMealBreakfastBagel = bagel de desayuno
-    .gender = male
-    .desc = Para cuando tu sándwich de huevo mañanero necesita un toque de verde y cuatro veces el precio habitual.
-
-ent-FoodMealBreakfastBagelPoppy = bagel de desayuno con semillas de amapola
-    .gender = male
-    .desc = El desayuno de los mineros. Da un mordisco cada vez que te den un puñetazo en la cara.
-
-ent-FoodMealCarpSushi = sushi de carpa
-    .gender = male
-    .desc = Sin duda vale la pena el riesgo.
-
-ent-FoodMealCarpSushiSlice = sushi de carpa
-    .gender = male
-    .desc = Sin duda vale la pena el menor riesgo.
-
-ent-FoodMealCornedbeef = carne en conserva con repollo
-    .gender = female
-    .desc = Ahora puedes sentirte como un verdadero turista de vacaciones en Irlanda.
-
-ent-FoodMealCornInButter = maíz con mantequilla
-    .gender = male
-    .desc = Mantecoso.
-
-ent-FoodMealCubancarp = carpa cubana
-    .gender = female
-    .desc = ¡Un sándwich grifftástico que te quema la lengua y después la deja entumecida!
-
-ent-FoodMealCucumberSandwich = sándwich de pepino
-    .gender = male
-    .desc = Se olvidaron de cortarle los bordes OTRA VEZ.
-
-ent-FoodMealCuredCarpSushiSlice = sushi de pescado fresco
-    .gender = male
-    .desc = Aún menos arriesgado, igual de delicioso. Todavía no estás seguro de dónde vino el alga marina.
-
-ent-FoodMealDragonOmelette = tortilla de dragón
-    .gender = female
-    .desc = La madre de todas las tortillas.
-
-ent-FoodMealEggplantParm = berenjena a la parmigiana
-    .gender = female
-    .desc = La única buena receta para la berenjena.
-
-ent-FoodMealEggsbenedict = huevos Benedict
-    .desc = Solo hay un huevo en esto, qué maleducados.
-
-ent-FoodMealEnchiladas = enchiladas
-    .desc = ¡Viva La Mexico!
-
-ent-FoodMealFriedegg = huevo frito
-    .gender = male
-    .desc = Un huevo frito, con un toque de sal y pimienta.
-
-ent-FoodMealFries = patatas fritas espaciales
-    .desc = También conocidas como patatas fritas francesas, patatas de la libertad, etc.
-
-ent-FoodMealFriesCarrot = zanahorias fritas
-    .desc = Sabrosas zanahorias fritas hechas con zanahorias frescas.
-
-ent-FoodMealFriesCheesy = patatas fritas con queso
-    .desc = Patatas fritas. Cubiertas de queso. Obviamente.
-
-ent-FoodMealGasBadSushiSlice = sushi de gasolinera
-    .gender = male
-    .desc = ¿Vale la pena el riesgo?
-
-ent-FoodMealGasSafeSushiSlice = sushi de gasolinera
-    .gender = male
-    .desc = ¿Vale la pena el riesgo?
-
-ent-FoodMealHappyHonkClown = menú honk feliz
-    .gender = male
-    .desc = El juguete es más comestible que la comida.
-
-ent-FoodMealHotdog = perrito caliente
-    .gender = male
-    .desc = ¡Qué perraco más rico!
-
-ent-FoodMealMemoryleek = puerro de la memoria
-    .gender = male
-    .desc = Esto debería refrescarte la memoria.
-
-ent-FoodMealMilkape = simio lechero
-    .gender = male
-    .desc = El rey de la Selva Densa.
-
-ent-FoodMealMint = menta
-    .gender = female
-    .desc = Es fino como una oblea.
-
-ent-FoodMealMisoNoodles = fideos miso
-    .desc = Miso, o pasta de soja fermentada, caldo con cebolleta y huevo. ¡Contundente!
-
-ent-FoodMealNachos = nachos
-    .desc = Nachos de Space Mexico.
-
-ent-FoodMealNachosCheesy = nachos con queso
-    .desc = La deliciosa combinación de nachos y queso derretido.
-
-ent-FoodMealNachosCuban = nachos cubanos
-    .desc = Unos nachos peligrosamente picantes.
-
-ent-FoodMealOmelette = tortilla de queso
-    .gender = female
-    .desc = Quesosa.
-
-ent-FoodMealPearsBelleHelene = peras bella Elena
-    .desc = El delicado sabor de la impecable pera bañada en chocolate.
-
-ent-FoodMealPigblanket = salchicha en hojaldre
-    .gender = female
-    .desc = Una pequeña salchicha envuelta en un bollo hojaldrado y mantecoso. Libera a este cerdito de su prisión de masa comiéndotelo.
-
-ent-FoodMealPoachedPears = peras escalfadas
-    .desc = El uso más elegante para una lata de vino.
-
-ent-FoodMealPotatoLoaded = patata asada cargada
-    .gender = female
-    .desc = Totalmente asada.
-
-ent-FoodMealPotatoYaki = yaki imo
-    .gender = male
-    .desc = ¡Hecho con boniatos asados!
-
-ent-FoodMealQueso = queso
-    .gender = male
-    .desc = Una salsa para mojar clásica que nunca falla.
-
-ent-FoodMealRibs = costillas BBQ
-    .desc = Costillas BBQ, bañadas en una generosa capa de salsa BBQ. Lo menos vegano que ha existido jamás.
-
-ent-FoodMealSashimi = sashimi
-    .gender = male
-    .desc = Su sabor solo puede describirse como «Exótico». ¿El envenenamiento? Ese sí que es bastante habitual.
-
-ent-FoodMealShioNoodles = fideos shio
-    .desc = Caldo de sal marina con maíz y algas. ¡Ligero!
-
-ent-FoodMealShoyuNoodles = fideos shoyu
-    .desc = Caldo de salsa de soja con maíz, huevo y cerdo. ¡Salado!
-
-ent-FoodMealSoftTaco = taco blando
-    .gender = male
-    .desc = ¡Dale un mordisco!
-
-ent-FoodMealSpicyNoodles = fideos picantes
-    .desc = Un bol de ramen no tan sencillo de fideos, caldo y tofu. ¡Caliente!
-
-ent-FoodMealTonkatsuNoodles = fideos tonkatsu
-    .desc = Caldo de huesos de cerdo con ajo y cerdo. ¡Sabroso!
-
-ent-FoodMeat = carne cruda
-    .gender = female
-    .desc = Un trozo de carne cruda.
-
-ent-FoodMeatAnomaly = masa de carne anómala
-    .gender = female
-    .desc = Un trozo de carne de densidad imposible. Solo mirarlo te pone incómodo.
 

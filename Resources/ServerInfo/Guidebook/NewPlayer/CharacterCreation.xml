@@ -1,70 +1,62 @@
 <Document>
-# Consejos Importantes para la Creación de Personaje
-Esta es una guía sobre los aspectos de la creación de personaje que afectan al juego.
+# Consejos importantes para crear un personaje
+Esta guía explica los aspectos de la creación de personajes que afectan a la jugabilidad.
 
-[textlink="Para una guía sobre cambios cosméticos, haz clic aquí." link="YourFirstCharacter"]
+[textlink="Haz clic aquí para consultar una guía sobre cambios estéticos." link="YourFirstCharacter"]
 
-## Prioridad de Aparición
-Esto determina dónde apareces al unirte a la partida después de que la ronda ya ha comenzado.
-
-Elegir "Arrivals" te hará aparecer en una estación separada donde esperarás a que llegue un transbordador para llevarte a la estación principal.
-
-Elegir "Cryosleep" hará que te despiertes en una cámara de crisosueño ya en la estación.
-
-Elegir "None" dejará que el juego elija por ti o seleccionará la única opción de aparición disponible para la estación actual.
-
-Es una elección mayormente arbitraria. Puedes dejarlo en "None" sin problema y no sufrirás ningún inconveniente real.
+## Prioridad de aparición
+Esto no afecta a la jugabilidad de este servidor.
 
 ## Trabajos
-Puedes establecer tus preferencias de trabajo en el vestíbulo. Aunque estas no [color=#a4885c]garantizan[/color] tu puesto, alguien que quiera el trabajo será seleccionado [color=#a4885c]aleatoriamente[/color] al inicio de la ronda.
-Tendrás la oportunidad de ser elegido primero para tu trabajo de alta prioridad, luego para tus prioridades medias y después para las bajas.
-También tienes la opción de ser automáticamente un pasajero o de ser enviado de vuelta al vestíbulo si no eres elegido para ninguno de tus trabajos preferidos.
+Puedes configurar tus preferencias de trabajo en la sala de espera. Aunque no [color=#a4885c]garantizan[/color] tu puesto, al comienzo de la partida se seleccionará [color=#a4885c]al azar[/color] a una de las personas que quieran el trabajo.
+Primero tendrás la oportunidad de ser elegido para tu trabajo de prioridad alta, después para los de prioridad media y, por último, para los de prioridad baja.
+También puedes elegir entre convertirte automáticamente en Espacial o regresar a la sala de espera si no te seleccionan para ninguno de tus trabajos preferidos.
 
-Algunos trabajos están bloqueados hasta que hayas jugado suficiente tiempo en otros trabajos de nivel básico.
+Algunos trabajos permanecen bloqueados hasta que hayas jugado el tiempo suficiente en otros trabajos de nivel inicial.
 
-[textlink="Para más información sobre trabajos, haz clic aquí." link="Jobs"]
+[textlink="Haz clic aquí para obtener más información sobre los trabajos." link="Jobs"]
 
-## Equipamiento de Trabajo
-También puedes elegir [color=#a4885c]equipamientos[/color] para cada trabajo. Los equipamientos son las prendas y objetos con los que apareces al unirte a la partida. Algunos objetos de equipamiento están bloqueados por restricciones de tiempo de juego.
-Esto puede tener diversos efectos en el juego, ya que algunas prendas ofrecen [color=#a4885c]protección de armadura[/color] o [color=#a4885c]reducen tu velocidad de movimiento[/color]. Esto se aplica especialmente a Mando y Seguridad.
+## Equipamientos de trabajo
+También puedes elegir [color=#a4885c]equipamientos[/color] para cada trabajo. Los equipamientos son las prendas y baratijas con las que apareces al entrar en la partida. Algunos objetos de equipamiento están bloqueados por requisitos de tiempo de juego.
+Esto puede tener distintos efectos en la jugabilidad, ya que algunas prendas ofrecen [color=#a4885c]protección de armadura[/color] o [color=#a4885c]reducen tu velocidad de movimiento[/color]. Esto se aplica especialmente a Mando y Seguridad.
 
-También puedes elegir con qué bolsa apareces.
-Las [color=#a4885c]mochilas[/color] son de tamaño medio pero pueden transportar objetos grandes con más facilidad. Los [color=#a4885c]maletines[/color] tienen más espacio total que las mochilas pero tienen dificultades para transportar objetos grandes. Las [color=#a4885c]bolsas de viaje[/color] son grandes pero penalizan tu velocidad de movimiento.
+También puedes elegir con qué bolsa aparecer.
+Las [color=#a4885c]mochilas[/color] son de tamaño medio, pero permiten transportar objetos grandes con más facilidad. Las [color=#a4885c]bandoleras[/color] tienen más espacio total que las mochilas, aunque les cuesta guardar objetos grandes. Las [color=#a4885c]bolsas de lona[/color] son grandes, pero penalizan el movimiento.
 
 ## Antagonistas
-Activar el interruptor de [color=#a4885c]antagonista[/color] te pondrá en la lista de posibles antagonistas al inicio de la ronda. Esto no garantiza tu rol de antagonista, ¡no lo uses como excusa para ser un auto-antagonista!
-En cambio, al igual que con las prioridades de trabajo, un grupo de jugadores es elegido aleatoriamente entre los jugadores elegibles. Si eres miembro del Mando u oficial de Seguridad, no puedes ser elegido para un rol de antagonista.
+Activar una opción de [color=#a4885c]antagonista[/color] te incluirá en la lista de posibles antagonistas al comienzo de la partida. Estas opciones no garantizan que recibas el papel de antagonista, así que no las uses como excusa para actuar como tal por tu cuenta.
+Al igual que con las prioridades de trabajo, se elige al azar a un pequeño grupo de jugadores aptos. Si perteneces a Mando o eres oficial de Seguridad, no podrás recibir un papel de antagonista.
 
-[textlink="Para más información sobre antagonistas, haz clic aquí." link="Antagonists"]
+[textlink="Haz clic aquí para obtener más información sobre los antagonistas." link="Antagonists"]
 
-Unirse a múltiples partidas o fantasmear/desconectarse/suicidarse al no ser elegido para un rol de antagonista se conoce como "antag-rolling" y está en contra de las reglas.
-Mucha gente espera pacientemente su turno para ser antagonista, por lo que [color=#a4885c]te pedimos amablemente que te abstengas de activar el rol de antagonista si no estás preparado[/color].
+Entrar en varias partidas o convertirse en fantasma, desconectarse o suicidarse por no haber recibido un papel de antagonista se considera forzar la selección de antagonista y va contra las reglas.
+Muchas personas esperan pacientemente su turno para ser antagonistas, así que [color=#a4885c]te pedimos que no optes a un papel de antagonista si no estás preparado[/color].
 
 ## Rasgos
-Los rasgos de habla alteran tu forma de hablar, a veces de forma extrema.
+Los rasgos del habla modifican tu forma de hablar, a veces de manera extrema.
 
-Estos incluyen:
-- Acento neutro (desactiva el acento de tu especie seleccionada)
-- Acento vaquero (sustitución de palabras, pardner)
-- Ceceo frontal ("s" se reemplaza por "th")
-- Acento italiano (Mamma-mia, sustitución de palabras)
-- Mentiroso patológico (sustitución de palabras, cambia palabras como "yes" por "no")
-- Acento pirata (Arrgh, sustitución de palabras)
-- Ansiedad social (t-t-tartamudeo)
-- Acento sureño (reemplaza "-ing" por "-in'" y cambios similares)
+Incluyen:
+- Sin acento (desactiva el acento de la especie seleccionada)
+- Acento vaquero (sustituye palabras, compadre)
+- Ceceo (sustituye la «s» por «th»)
+- Acento italiano («Mamma mia» y sustitución de palabras)
+- Mentiroso patológico (sustituye palabras, por ejemplo, cambia «sí» por «no»)
+- Acento pirata («Arrgh» y sustitución de palabras)
+- Tartamudeo (h-h-hablas con tartamudeo)
+- Acento sureño (sustituye «-ing» por «-in'» y realiza cambios similares)
 
-Deberías sentirte cómodo hablando con normalidad o con un acento leve como Ansiedad social o Acento sureño antes de elegir acentos fuertes como el italiano o el vaquero.
+Deberías sentirte cómodo hablando con normalidad o con un rasgo leve, como Tartamudeo o Acento sureño, antes de escoger acentos marcados como Acento italiano o Acento vaquero.
 
-También existen rasgos de discapacidad. Familiarízate con el juego y su dinámica antes de elegir alguno, ya que algunos pueden resultar difíciles de manejar para los principiantes.
+También hay rasgos de discapacidad. Familiarízate con el juego y su ritmo antes de elegir uno, ya que algunos pueden resultar difíciles para principiantes.
 
-Estos incluyen:
-- Ceguera (limita severamente tu visión)
-- Borracho ligero (te emborrachas más rápido y sufres más los efectos negativos del alcohol)
-- Mudo (no puedes hablar ni susurrar, pero puedes comunicarte mediante emotes y papel y pluma)
-- Narcolepsia (te quedas dormido aleatoriamente en momentos impredecibles y a menudo inconvenientes)
-- Pacifista (no puedes golpear, disparar ni lanzar objetos afilados a personas)
-- Paracusia (a veces escuchas ruidos que no son reales)
-- Vista corta (limita algo tu visión sin gafas graduadas)
-- Ronquidos (emites fuertes sonidos de ronquidos cuando duermes)
-- Irresucitable (no puedes ser resucitado cuando llegues a tu inesperado final)
+Incluyen:
+- Ceguera (limita gravemente tu visión)
+- Bebedor ligero (te emborrachas más rápido y sufres más los efectos nocivos del alcohol)
+- Mudo (no puedes hablar ni susurrar, pero puedes comunicarte mediante gestos, papel y bolígrafo)
+- Narcolepsia (te duermes al azar en momentos impredecibles y a menudo inoportunos)
+- Pacifista (no puedes golpear ni disparar a otras personas, ni lanzarles objetos afilados)
+- Paracusia (a veces oyes ruidos que no son reales)
+- Miopía (limita parcialmente tu visión si no llevas gafas graduadas)
+- Ronquidos (roncas con fuerza mientras duermes)
+- Irreanimable (no se te puede reanimar si sufres una muerte prematura)
 </Document>

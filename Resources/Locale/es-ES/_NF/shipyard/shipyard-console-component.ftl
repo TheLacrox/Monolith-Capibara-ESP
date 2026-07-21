@@ -97,3 +97,5 @@ shipyard-console-engine-Bananium = Bananium
 # Mono start
 shipyard-console-engine-NFR = NFR
 # Mono end
+
+shipyard-console-timelock = No puedes desplegar esta nave en este momento.

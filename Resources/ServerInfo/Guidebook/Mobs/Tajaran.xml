@@ -5,20 +5,24 @@
     <GuideEntityEmbed Entity="MobTajaran" Caption=""/>
   </Box>
 
-  Los Tajara son una especie de humanoides omnívoros bípedos con rasgos que recuerdan fuertemente a los felinos terráqueos.
-  Sus rasgos más distintivos incluyen una capa de pelaje, grandes orejas en lo alto de la cabeza y una cola que ayuda al equilibrio.
-  Provienen de la gélida luna de [color=turquoise]Ahdomai[/color], habiendo debutado en el escenario galáctico solo relativamente hace poco.
-  Originalmente una sociedad centrada en los clanes, los Tajara soportaron siglos de gobierno dictatorial.
-  Tras una guerra civil, su gobierno se fragmentó y el poder volvió a los clanes, donde permanece hasta el día de hoy.
+  Los Tajara son una especie de humanoides bípedos y omnívoros con rasgos muy similares a los felinos terrestres.
+  Entre sus características más distintivas se encuentran una capa de pelaje, grandes orejas en lo alto de la cabeza y una cola que les ayuda a mantener el equilibrio.
+  Proceden de la luna helada de [color=turquoise]Ahdomai[/color] y no debutaron en el escenario galáctico hasta hace relativamente poco.
+  La sociedad Tajara, organizada originalmente en torno a clanes, soportó siglos de gobierno dictatorial.
+  Tras una guerra civil, su gobierno se fragmentó y el poder regresó a los clanes, donde permanece hasta hoy.
 
   ## Mecánicas
 
-  Debido a su [color=yellow]pequeña estatura[/color], los Tajara [color=#ec3a3a]reciben un 15% más de daño Bruto[/color], pero también pueden [color=#1e90ff]caber en bolsas de lona[/color].
+  Debido a su [color=yellow]pequeña estatura[/color], los Tajara [color=#ec3a3a]reciben un 15 % más de daño físico[/color], pero también [color=#1e90ff]caben en bolsas de lona[/color].
 
-  Su capa de pelaje les otorga cierta [color=#1e90ff]resistencia al Frío[/color], a costa de [color=#ec3a3a]recibir más daño por Calor[/color]
+  Su capa de pelaje les proporciona cierta [color=#1e90ff]resistencia al frío[/color], a costa de [color=#ec3a3a]recibir más daño por calor[/color].
 
-  Usan sus garras en ataques desarmados, infligiendo daño por [color=#ec3a3a]Corte[/color] y [color=#ec3a3a]Perforación[/color].
+  Utilizan las garras para atacar sin armas e infligen daño [color=#ec3a3a]cortante[/color] y [color=#ec3a3a]perforante[/color].
 
-  Gracias a su agilidad innata, [color=#1e90ff]reciben menos daño por impactos o caídas[/color], y sus pies suaves les permiten [color=#1e90ff]caminar sin zapatos sin hacer ruido[/color].
+  Gracias a su agilidad innata, [color=#1e90ff]reciben menos daño por impactos o caídas[/color], y sus suaves pies les permiten [color=#1e90ff]caminar sin calzado y sin hacer ruido[/color].
+
+  ## Patas acolchadas
+
+  Esta especie aterriza con mayor suavidad al caer desde grandes alturas. (En términos sencillos, pueden caer desde más alto sin sufrir daño ni quedar aturdidos).
 
 </Document>

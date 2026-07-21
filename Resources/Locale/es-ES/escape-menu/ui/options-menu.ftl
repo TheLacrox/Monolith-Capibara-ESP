@@ -354,3 +354,4 @@ ui-options-admin-enable-overlay-starting-job = Mostrar trabajo inicial
 ui-options-admin-overlay-merge-distance = Distancia de fusión de pila
 ui-options-admin-overlay-ghost-fade-distance = Rango de desvanecimiento de superposición de fantasma desde el ratón
 ui-options-admin-overlay-ghost-hide-distance = Rango de ocultación de superposición de fantasma desde el ratón
+ui-options-disable-nv-noise = Desactivar el efecto de ruido de la superposición de visión nocturna

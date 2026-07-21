@@ -1,0 +1,64 @@
+# PDV
+
+La [color=tan]Phaethon Dynasty Imperial Vanguard[/color] es una monarquía aislada situada en el sector Colossus y, posiblemente, en regiones espaciales adyacentes que actualmente se consideran inexploradas. Lo que en un principio fue un conjunto de entidades feudales perdido en los libros de historia es ahora un gran régimen sultaní que emplea antiguas tecnologías del Syndicate recuperadas tras el fin de la Guerra Corporativa. Sus integrantes, conocidos como los habitantes nativos del Brazo de Perseo, están decididos a expulsar al [color=cyan]Trans-Solarian-Federation Marine Corps[/color] y hacerse con el control absoluto de las industrias independientes de Colossus.
+
+   Respaldado por una industria en constante crecimiento y por su equipo obtenido mediante ingeniería inversa, que abunda en su territorio, el imperio empuña sus armas balísticas con mano dura e implacable.
+
+   Aunque cuenta con menos efectivos que el conjunto del [color=cyan]TSFMC[/color], el [color=tan]imperio[/color] no es en absoluto débil frente al destacamento enemigo, casi completamente varado a sus puertas. Además, las [color=pink]actividades anómalas[/color] de su sector impiden que sus adversarios obtengan ventaja.
+
+   Son capaces de aprovechar su movilidad y sus tácticas brutales para dividir a sus enemigos y eliminarlos uno a uno hasta alcanzar la victoria. Ningún precio es demasiado alto y cada muerte se cobra con intereses: así actúan los [color=purple]Grandes Visires[/color] de su Sultán.
+
+   El Sultanato ha dado una directriz sencilla a la [color=tan]Phaethon Dynasty Imperial Vanguard[/color]:
+
+  > [bold][color=red]Desestabilizar la región para prepararla para la ocupación de la Dinastía.[/bold][/color]
+
+
+# Jerarquía (I-V)
+
+   Por muy importantes que sean los objetivos del Sultán para la [color=tan]Vanguardia[/color], no hay forma de triunfar sin una jerarquía. Actuar con un propósito es la única manera de vencer en la guerra, y el Sultanato lo entiende bien. Sigue las órdenes de la [color=tan]PDV[/color] y aplastar a los enemigos de la [color=tan]Dinastía[/color] resultará mucho más fácil.
+
+(I)   El [color=purple]Gran Visir[/color] ostenta el [bold]rango más alto[/bold] de la [color=tan]Vanguardia[/color] y es quien más cerca se encuentra del Sultanato de la [color=tan]Vanguardia[/color]. Tiene la última palabra en cualquier cuestión relativa a las operaciones. Rechazar una petición del Visir equivale a cometer alta traición contra el [color=tan]imperio[/color]. Aunque la [color=tan]Vanguardia[/color] puede actuar sin un líder que dirija su furia, no hay nada más aterrador que un líder capaz de arengar a sus soldados.
+
+   No importa cómo alcance la victoria la [color=tan]Vanguardia[/color], sino que la alcance. Garantiza que los deseos del Sultán se hagan realidad y que hasta la sangre más nueva preserve el honor.
+
+(II)   Los [color=yellow]Asvaran[/color] ocupan el [bold]segundo rango más alto[/bold] de la [color=tan]PDV[/color] y responden exclusivamente ante el [color=purple]Gran Visir[/color]. Su deber consiste en delegar el trabajo dentro de sus filas y defender al mencionado jefe de operaciones de su [color=tan]Vanguardia[/color].
+
+(III)   Aunque no son mucho más que soldados de infantería corrientes, los [color=gold]Denasvar[/color] se consideran más experimentados y capaces de ejercer el liderazgo. Por lo general, se les elige antes que a otros para dirigir pequeños destacamentos de [color=orange]Rahkshan[/color]. Sé la fuerza que los guíe por el frente.
+
+(IV)   Los [color=orange]Rahkshan[/color] son, sin duda, la columna vertebral de la [color=tan]Vanguardia[/color]. Son imprescindibles para la victoria, pues sin soldados de infantería no hay ejército. Eres la furia del Sultán. Actúa con un propósito y acata la voluntad del [color=purple]Gran Visir[/color]. Morir en el fragor del combate es el mayor honor. Vivir para disfrutar de los frutos de las numerosas victorias del Sultán, grandes y pequeñas, es un privilegio.
+
+(IV-I)   [color=red]Spasaka[/color]. No deberías encontrarte con un [color=red]Spasaka[/color] bajo ninguna circunstancia, al menos no sin que este lo permita, pues suelen disfrazarse incluso ante sus propios camaradas para mantener ambigua su identidad. Son especialistas en infiltración y espionaje, equipados con antigua tecnología de agentes del Syndicate capaz de alterar numerosos aspectos de su apariencia. Sin embargo, un [color=red]Spasaka[/color] siempre debe asegurarse de que sus objetivos coincidan con los de sus comandantes. Mantener un contacto estrecho con la [color=tan]Vanguardia[/color] durante su labor es esencial para recopilar información correctamente y abrir oportunidades.
+
+(V)  Los [color=gray]cíborgs[/color] son autómatas capaces de prestar ayuda en distintos ámbitos. Han sido construidos por las mejores mentes de la [color=tan]Dinastía[/color] imperial y están listos para cumplir cualquier orden que les dé la [color=tan]Vanguardia[/color].
+
+# Equipo
+
+  <Box>
+    <GuideEntityEmbed Entity="WeaponSubMachineGunC20r"/>
+    <GuideEntityEmbed Entity="WeaponSniperHristov"/>
+  </Box>
+
+   Su industria y las tecnologías recuperadas abastecen a la [color=tan]Dinastía[/color], que dispone de armas excedentes de sobra para imponer su poder. Su personal suele emplear armas balísticas de baja tecnología y poca fiabilidad: fusiles automáticos, armas cortas de gran calibre y personalidades explosivas.
+
+  [color=green]Fortalezas:[/color]
+  - Con un arsenal adaptado a cada situación, la [color=tan]PDV[/color] puede prepararse mejor que el enemigo para casi cualquier batalla. A este ejército no le falta variedad. Esto también implica que no existe una solución perfecta para el combate: todo tiene algún punto débil.
+  - Al disponer de un arsenal algo anticuado, no existe una contramedida directa como un PEM contra los estilos de combate de la [color=tan]Vanguardia[/color]. Tendrás que superarlos en potencia o habilidad de fuego.
+
+  [color=red]Debilidades:[/color]
+  - Depender de la situación significa que a menudo puedes encontrarte entre la espada y un enemigo muy poderoso. Contar con estrategias alternativas por si no puedes derrotarlo de frente es esencial para triunfar.
+  - No encontrarás muchas armas que sean buenas para todo. La [color=tan]PDV[/color] se especializa en sacar partido de lo que tiene. El equipamiento depende de lo que puedas preparar con los suministros actuales de la [color=tan]Vanguardia[/color].
+
+  <Box>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitPirateScaf"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitCybersunStealth"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitJuggernaut"/>
+  </Box>
+
+   La armadura de la [color=tan]Dinastía[/color] comparte una historia muy similar a la de sus armas de fuego: procede de la ingeniería inversa, se fabrica en serie, es de baja tecnología y resulta eficaz, al menos en su mayor parte. Algunos equipos tienen características muy concretas, por lo que es importante escoger bien.
+
+  [color=green]Fortalezas:[/color]
+  - Su baja tecnología hace que las armaduras sean bastante sencillas. La opción que mejor se adapte al usuario será la que ofrezca mayor movilidad o defensa. Combinar un buen conjunto de protecciones puede determinar tu capacidad de combate con el arma de fuego principal.
+  - Las opciones disponibles apenas tienen límites. Sigilo, traje Juggernauta o cualquier otra cosa: probablemente el [color=tan]imperio[/color] ya la haya probado.
+
+  [color=red]Debilidades:[/color]
+  - Al igual que ocurre con el armamento, no hay ninguna armadura objetivamente buena: debes adaptar lo que haya disponible a lo que necesites.

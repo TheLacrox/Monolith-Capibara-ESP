@@ -1,21 +1,16 @@
 <Document>
-# Topología del Sector
+# Topología del sector
 
 <!-- Note: range values will not scale with the world size cvar! -->
 
-El Sector Colossus consiste en un gran cinturón de asteroides con forma de disco. En el centro del cinturón, Colossus Central sirve como punto de llegada para novatos y peregrinos curtidos por igual.
+La topología del sector Colossus consta de varios anillos y cúmulos de recursos.
 
-La zona inmediata alrededor de Colossus Central es mayormente espacio vacío. Más allá de esta, hay [bold]cuatro zonas diferenciadas[/bold]:
+La zona que rodea inmediatamente a Colossus Central es, en su mayor parte, espacio vacío. Más allá hay [bold]cinco zonas distintas[/bold]:
 
-<Box Margin="0">
-  <GuideEntityEmbed Entity="MonoSectorMap" Caption="" Margin="-20"/>
-</Box>
+- Hay 2 cúmulos, [color=gold]INSO-357k[/color] y [color=maroon]LINEAR-21[/color]. Son considerablemente más ricos que el espacio circundante: uno es un cementerio de chatarra y el otro una densa zona rocosa.
+- El [color=#fbf236]anillo interior[/color] ([color=gold]~8.5–9 km[/color]) es un cinturón estrecho pero denso de asteroides y chatarra.
+- La [color=#286c9c]nube exterior[/color] ([color=gold]~12–20 km[/color]) es un campo más antiguo y menos denso, pero mucho más amplio para la minería y con una variedad muy superior de asteroides y chatarra.
 
-- El [color=#c73232]anillo interior[/color] ([color=gold]≤5 km[/color]) se ha desarrollado como base para estaciones de servicio como [color=forestgreen]Trade Outpost[/color] y [color=mediumturquoise]Medical Dispatch[/color]. Aún puedes encontrar chatarra errante, pequeños asteroides y algún que otro naufragio, pero los mejores materiales se encuentran más lejos. En el borde de esta zona, encontrarás los [color=green]Depósitos de Carga[/color], destino de la mayoría de los cargueros.
-- El [color=#fbf236]anillo medio[/color] ([color=gold]~5–9 km[/color]) es la base de nuestra industria. Con una amplia variedad de [color=orchid]minerales[/color] disponibles para la minería y una variedad de [color=lightpink]depósitos de gas[/color] para la perforación, este es el granero del [color=peru]minero[/color].
-- El [color=#286c9c]anillo exterior[/color] ([color=gold]~9–20 km[/color]) es donde encontrarás enormes [color=skyblue]asteroides helados[/color] e inusuales [color=orange]restos de bronce[/color]. Este anillo es de interés para la mayoría de los [color=plum]investigadores[/color] del sector.
-- El [color=#af0f0f]anillo lejano[/color] ([color=gold]20+ km[/color]) [color=red]no está bien estudiado[/color]. Se han reportado encuentros con naves desconocidas.
-
-Más allá de esto, el anillo lejano continúa indefinidamente. Los viajeros que entran en esta zona sin preparación suficiente y sin medios para gestionar amenazas corren el riesgo de no regresar jamás.
+Más allá, el anillo lejano continúa indefinidamente. Quienes se adentren en esta zona sin preparación suficiente ni medios para hacer frente a las amenazas se arriesgan a no regresar jamás.
 
 </Document>

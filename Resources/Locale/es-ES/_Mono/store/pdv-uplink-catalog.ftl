@@ -300,3 +300,12 @@ uplink-pdv-t3-saintie-voucher-desc = Una pequeña tarjeta que contiene los datos
 
 uplink-pdv-t4-saturn-voucher-name = PDV Saturn LPC [T4]
 uplink-pdv-t4-saturn-voucher-desc = Una pequeña tarjeta que autoriza la adquisición del Saturn.
+
+uplink-pdv-t1-layak-voucher-name = LPC Layak de la PDV [T1]
+uplink-pdv-t1-layak-voucher-desc = Una pequeña tarjeta que contiene los datos para adquirir una corbeta de clase Layak de las reservas del buque insignia.
+
+uplink-pdv-t2-kortik-voucher-name = LPC Kortik-R de la PDV [T2]
+uplink-pdv-t2-kortik-voucher-desc = Una pequeña tarjeta que contiene los datos para adquirir una fragata de clase Kortik-R de las reservas del buque insignia.
+
+uplink-pdv-t3-kortik-voucher-name = LPC Kortik-EM de la PDV [T3]
+uplink-pdv-t3-kortik-voucher-desc = Una pequeña tarjeta que contiene los datos para adquirir una fragata de clase Kortik-EM de las reservas del buque insignia.

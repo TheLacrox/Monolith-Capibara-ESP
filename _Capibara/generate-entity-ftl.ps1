@@ -18,7 +18,8 @@ param(
 $ErrorActionPreference = 'Stop'
 
 # --- merge translation maps ---
-$map = @{}
+# Entity source strings are case-sensitive (for example, proper names can differ only by case).
+$map = [System.Collections.Generic.Dictionary[string, object]]::new([System.StringComparer]::Ordinal)
 $badFiles = @()
 foreach ($f in Get-ChildItem -LiteralPath $TmpDir -Filter tr-*.json -ErrorAction SilentlyContinue) {
     try {
@@ -77,7 +78,10 @@ function Format-Entry([string]$id, [string]$name, [string]$desc, [string]$gender
     $nEsc = ConvertTo-Fluent $name
     if ($nEsc -match "\r?\n") {
         [void]$sb.Append("ent-$id =$nl")
-        foreach ($ln in ($nEsc -split "\r?\n")) { [void]$sb.Append("    $ln$nl") }
+        foreach ($ln in ($nEsc -split "\r?\n")) {
+            if ($ln.Length -eq 0) { [void]$sb.Append($nl) }
+            else { [void]$sb.Append("    $ln$nl") }
+        }
     } else {
         [void]$sb.Append("ent-$id = $nEsc$nl")
     }
@@ -86,7 +90,10 @@ function Format-Entry([string]$id, [string]$name, [string]$desc, [string]$gender
         $dEsc = ConvertTo-Fluent $desc
         if ($dEsc -match "\r?\n") {
             [void]$sb.Append("    .desc =$nl")
-            foreach ($ln in ($dEsc -split "\r?\n")) { [void]$sb.Append("        $ln$nl") }
+            foreach ($ln in ($dEsc -split "\r?\n")) {
+                if ($ln.Length -eq 0) { [void]$sb.Append($nl) }
+                else { [void]$sb.Append("        $ln$nl") }
+            }
         } else {
             [void]$sb.Append("    .desc = $dEsc$nl")
         }

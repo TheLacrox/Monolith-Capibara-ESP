@@ -5,35 +5,39 @@
     <GuideEntityEmbed Entity="MobHarpyDummy" Caption=""/>
   </Box>
 
-  Una especie de humanoides aviares que presentan coloridas alas y colas emplumadas capaces de imitar casi cualquier sonido.
+  Una especie de humanoides aviares con coloridas alas emplumadas y colas que pueden imitar casi cualquier sonido.
 
-  Son bastante sensibles a la calidad del aire y, cuando se exponen a aire de baja calidad, empezarán a jadear visiblemente y, finalmente, comenzarán a asfixiarse.
-  Cuando esto ocurra, una Arpía debería alejarse de las fuentes de aire malo, pararse encima de un purificador durante unos segundos o respirar de una botella de oxígeno puro para restaurar sus niveles de oxígeno en sangre. Solo tres segundos respirando oxígeno puro son suficientes para restaurar completamente la saturación de oxígeno en sangre de una Arpía.
+  Son muy sensibles a la calidad del aire; cuando se exponen a aire de mala calidad, empiezan a jadear visiblemente y, con el tiempo, se asfixian.
+  Cuando esto ocurre, la arpía debe alejarse de las fuentes de aire contaminado, permanecer unos segundos sobre un depurador o respirar varias veces de un tanque de oxígeno puro para recuperar sus niveles de oxígeno en sangre. Solo tres segundos respirando oxígeno puro bastan para restablecer por completo la saturación de oxígeno en sangre de una arpía.
 
   ## Dieta
 
   - Pueden comer carne cruda.
-  - Se intoxicarán con Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+  - Se intoxican con teobromina (chocolate, té y café) y alicina (cebolla y ajo).
 
   ## Ventajas
 
-  - Son algo más pequeñas que los Humanos, aunque no tanto como los Felinids.
-  - Usan sus garras para infligir daño por Perforación.
-  - Pueden imitar alrededor del 70% de la biblioteca de sonidos del juego a través de una extensa lista de emotes de voz.
-  - Pueden "Cantar" midis imitando instrumentos. Haz clic derecho sobre ti mismo para seleccionar un instrumento.
+  - Son algo más pequeños que los humanos, aunque no tanto como los felínidos.
+  - Usan las garras para infligir daño perforante.
+  - Pueden imitar alrededor del 70 % de la biblioteca de sonidos del juego mediante una enorme lista de gestos de voz.
+  - Pueden «cantar» archivos MIDI imitando instrumentos. Haz clic derecho sobre tu personaje para seleccionar un instrumento.
 
   ## Especial
 
-  - Vienen con el rasgo de Visión Ultravioleta por defecto. Esto puede desactivarse en las opciones de accesibilidad.
-  - No pueden llevar monos y comenzarán automáticamente con una falda-mono.
+  - Tienen el rasgo Visión ultravioleta de forma predeterminada. Puede desactivarse en las opciones de accesibilidad.
+  - No pueden llevar monos y comenzarán automáticamente con una falda de uniforme en su lugar.
   - Mientras cantan, aparecen notas musicales flotando alrededor de su cabeza.
 
   ## Desventajas
 
-  - Reciben un 10% más de daño por Golpe y Corte.
-  - Densidad extremadamente baja; las Arpías son más ligeras que incluso los Felinids y pesan la mitad que un Humano.
-  - Una Arpía respira el doble de veces que los Humanos, inhalando y exhalando cada 3 segundos.
-  - - Las botellas de aire duran la mitad y las Arpías son más susceptibles que de costumbre a la baja calidad del aire.
-  - - Si una Arpía se expone a al menos 0,2 moles de CO2 y/o Miasma combinados, comienza a tener dificultades para absorber oxígeno.
+  - Reciben un 10 % más de daño contundente y cortante.
+  - Su densidad es extremadamente baja: las arpías son aún más ligeras que los felínidos y pesan la mitad que un humano.
+  - Una arpía respira con el doble de frecuencia que un humano, inhalando y exhalando cada 3 segundos.
+  - - Los tanques de aire duran la mitad y las arpías son más susceptibles de lo habitual a la mala calidad del aire.
+  - - Si una arpía queda expuesta a un mínimo de 0,2 moles de CO2, miasma o una combinación de ambos, comienza a tener dificultades para absorber oxígeno.
+
+  ## Vuelo
+
+  Esta especie puede volar en planetas y otras zonas con altitud. Lee la entrada sobre el vuelo para obtener más información.
 
 </Document>
