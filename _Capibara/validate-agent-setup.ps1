@@ -63,13 +63,32 @@ foreach ($entrypoint in $entrypoints) {
 [void](Get-RequiredFile '_Capibara/agent-workflows.md' 'workflow file')
 $translationWorkflowPath = Get-RequiredFile '_Capibara/translate-workflow.md' 'workflow file'
 
+$referencedRepositoryFiles = @(
+    '_Capibara/glossary.md',
+    '_Capibara/sync-locale.ps1',
+    '_Capibara/validate-locale.ps1',
+    '_Capibara/validate-guidebook.ps1',
+    '_Capibara/generate-entity-ftl.ps1'
+)
+foreach ($relativePath in $referencedRepositoryFiles) {
+    [void](Get-RequiredFile $relativePath 'referenced repository file')
+}
+
 if ($null -ne $translationWorkflowPath) {
     $translationWorkflow = Get-Content -LiteralPath $translationWorkflowPath -Raw
     if ($translationWorkflow -notmatch [regex]::Escape('Current default: incremental maintenance')) {
         Add-Failure 'Current translation workflow must declare incremental maintenance as the default.'
     }
-    if ($translationWorkflow -notmatch '(?m)^## Legacy full-tree Claude workflow\s*$') {
+    $legacyHeading = '## Legacy full-tree Claude workflow'
+    $legacyIndex = $translationWorkflow.IndexOf($legacyHeading, [System.StringComparison]::Ordinal)
+    if ($legacyIndex -lt 0) {
         Add-Failure 'Current translation workflow must isolate the legacy full-tree Claude workflow.'
+    }
+    else {
+        $activeWorkflow = $translationWorkflow.Substring(0, $legacyIndex)
+        if ($activeWorkflow -match '(?i)(main Claude session|Claude subagents|Workflow tool|resumeFromRunId|await pipeline)') {
+            Add-Failure 'Claude-only instruction appears before legacy section in _Capibara/translate-workflow.md.'
+        }
     }
 }
 

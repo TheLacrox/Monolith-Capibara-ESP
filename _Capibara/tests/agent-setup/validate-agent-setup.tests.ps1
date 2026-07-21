@@ -54,6 +54,11 @@ try {
     Restore-File 'CLAUDE.md' $fixtureRoot
     Restore-File '_Capibara/agent-workflows.md' $fixtureRoot
     Restore-File '_Capibara/translate-workflow.md' $fixtureRoot
+    Restore-File '_Capibara/glossary.md' $fixtureRoot
+    Restore-File '_Capibara/sync-locale.ps1' $fixtureRoot
+    Restore-File '_Capibara/validate-locale.ps1' $fixtureRoot
+    Restore-File '_Capibara/validate-guidebook.ps1' $fixtureRoot
+    Restore-File '_Capibara/generate-entity-ftl.ps1' $fixtureRoot
     Copy-Item -LiteralPath (Join-Path $repositoryRoot '.agents') -Destination $fixtureRoot -Recurse
 
     $validFixture = Invoke-AgentValidator $fixtureRoot
@@ -65,6 +70,13 @@ try {
     Assert-ExitCode $missingSkill 1 'missing skill'
     Assert-OutputMatch $missingSkill 'Missing required skill file: .*capibara-verify[\\/]SKILL\.md' 'missing skill'
     Restore-File $verifySkill $fixtureRoot
+
+    $glossary = '_Capibara/glossary.md'
+    Remove-Item -LiteralPath (Join-Path $fixtureRoot $glossary)
+    $missingReference = Invoke-AgentValidator $fixtureRoot
+    Assert-ExitCode $missingReference 1 'missing referenced file'
+    Assert-OutputMatch $missingReference 'Missing required referenced repository file: _Capibara/glossary\.md' 'missing referenced file'
+    Restore-File $glossary $fixtureRoot
 
     $prSkill = '.agents/skills/capibara-create-pr/SKILL.md'
     $prSkillPath = Join-Path $fixtureRoot $prSkill
@@ -102,6 +114,17 @@ try {
     $wrongDefault = Invoke-AgentValidator $fixtureRoot
     Assert-ExitCode $wrongDefault 1 'non-incremental default'
     Assert-OutputMatch $wrongDefault 'must declare incremental maintenance as the default' 'non-incremental default'
+    Restore-File '_Capibara/translate-workflow.md' $fixtureRoot
+
+    $workflowRaw = Get-Content -LiteralPath $workflowPath -Raw
+    $workflowRaw = $workflowRaw.Replace(
+        '## Incremental maintenance',
+        "Run from the main Claude session with the Workflow tool.`r`n`r`n## Incremental maintenance"
+    )
+    [System.IO.File]::WriteAllText($workflowPath, $workflowRaw)
+    $activeClaudeOnly = Invoke-AgentValidator $fixtureRoot
+    Assert-ExitCode $activeClaudeOnly 1 'active Claude-only workflow'
+    Assert-OutputMatch $activeClaudeOnly 'Claude-only instruction appears before legacy section' 'active Claude-only workflow'
 
     Write-Host 'Agent setup validator tests passed.' -ForegroundColor Green
 }
