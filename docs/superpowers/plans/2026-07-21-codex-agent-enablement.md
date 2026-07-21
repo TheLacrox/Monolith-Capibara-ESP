@@ -220,7 +220,7 @@ allowlist, invocation, or platform-specific metadata.
 | --- | --- |
 | `capibara-sync-upstream` | Use when merging Monolith upstream into the Capibara ESP fork and identifying localization maintenance work; stop on undocumented conflicts or proposed new C# divergences. |
 | `capibara-translate-fluent` | Use when translating new or changed en-US Fluent messages into es-ES while preserving every Fluent identifier and placeable. |
-| `capibara-translate-guidebook` | Use when upstream changes Resources/ServerInfo guidebook, rules, or intro text that must be retransformed from English into Spanish in place. |
+| `capibara-translate-guidebook` | Use when upstream changes Resources/ServerInfo guidebook, rules, or intro text that must be retranslated from English into Spanish in place. |
 | `capibara-refresh-entities` | Use when entity prototypes or dump data changed and Capibara entity names, descriptions, generated FTL, or gender metadata must be refreshed. |
 | `capibara-verify` | Use when selecting and running Capibara validation gates for localization, guidebook, entity, agent-workflow, or pull-request changes. |
 | `capibara-create-pr` | Use when a verified Capibara branch is ready to push and open as a pull request against TheLacrox/Monolith-Capibara-ESP main. |
