@@ -1,16 +1,34 @@
-# CLAUDE.md — Monolith-Capibara-ESP
+# AGENTS.md — Monolith-Capibara-ESP
 
 Spanish (es-ES) edition of Monolith Station (a Space Station 14 downstream).
 This fork's purpose: a fully Spanish translation kept mergeable with upstream.
 
-## Shared maintenance workflows
-- Detailed procedures live in `_Capibara/agent-workflows.md`.
-- Current default is incremental maintenance after upstream changes, not a full-tree retranslation.
+## Repository map
+- `Resources/Locale/es-ES/` — additive Spanish Fluent tree.
+- `Resources/ServerInfo/` — approved in-place guidebook, rules, and intro-text exception.
+- `_Capibara/` — fork-owned workflows, scripts, manifests, glossary, tests, and progress.
+- `.agents/skills/` — Codex workflows for recurring Capibara maintenance tasks.
+- `Content.*` / `Resources/Prototypes/**` — upstream-owned unless an exception below says otherwise.
+
+## Task routing
+- Upstream merge or locale drift → `capibara-sync-upstream`.
+- New or changed `.ftl` strings → `capibara-translate-fluent`.
+- Changed `Resources/ServerInfo/**` docs → `capibara-translate-guidebook`.
+- Entity dump, translation maps, generated entity FTL, or gender metadata →
+  `capibara-refresh-entities`.
+- Validation selection → `capibara-verify`.
+- Verified branch handoff or pull request → `capibara-create-pr`.
+
+Detailed shared procedures live in `_Capibara/agent-workflows.md`. Current default is incremental
+maintenance, not a full-tree retranslation.
+
+## Agent working rules
 - Inspect branch, remotes, `git status`, and relevant diffs before writing.
 - Preserve unrelated user changes. Never reset, clean, overwrite, or silently stash them.
-- Delegate only disjoint file groups; the main agent integrates and validates all results.
-- Read `_Capibara/glossary.md` before translating player-facing text.
-- Update manifests only after relevant validation passes.
+- Delegate only disjoint file groups. Never let two agents edit the same file; the main agent
+  integrates results and runs validation.
+- Read `_Capibara/glossary.md` before translating any player-facing text.
+- Update a source manifest only after its translated output passes the relevant validation gate.
 - Stop on undocumented merge conflicts or any proposed new C# divergence and request approval.
 
 ## Upstream
