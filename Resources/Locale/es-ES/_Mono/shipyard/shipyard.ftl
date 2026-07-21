@@ -7,3 +7,11 @@ voucher-current-redemptions = Este vale tiene [color=yellow]{$count}[/color] can
 voucher-infinite-redemptions = Este vale tiene [color=yellow]infinitos[/color] canjes.
 voucher-current-cooldown-seconds = Este vale está en período de reutilización durante [color=yellow]{NATURALFIXED($cooldown, 1)}[/color] segundos.
 voucher-current-cooldown-minutes = Este vale está en período de reutilización durante [color=yellow]{NATURALFIXED($cooldown, 1)}[/color] minutos.
+
+shipyard-console-preview = Vista previa
+shipyard-preview-ui-title = Previsualizador 100
+
+shipyard-preview-data-label = Datos de la nave:
+shipyard-preview-tile-count = Número de casillas: {$count}
+
+shipyard-preview-exit = Salir de la vista previa

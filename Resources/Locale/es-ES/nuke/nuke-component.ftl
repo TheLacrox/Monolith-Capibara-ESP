@@ -1,9 +1,9 @@
 nuke-component-cant-anchor-floor = ¡Los pernos de anclaje no logran fijarse al suelo!
 nuke-component-cant-anchor-toggle = ¡Se requiere el disco de autenticación nuclear para activar o desactivar los pernos del suelo!
 nuke-component-announcement-sender = Explosivo de Fisión Nuclear
-nuke-component-announcement-armed = ¡Atención! El mecanismo de autodestrucción de la estación ha sido activado {$location}. {$time} segundos hasta la detonación. Si fue un error, el mecanismo puede ser desactivado aún.
-nuke-component-announcement-unarmed = ¡La autodestrucción de la estación fue desactivada! ¡Que tengas un buen día!
-nuke-component-announcement-send-codes = ¡Atención! Los códigos de autodestrucción han sido enviados a los faxes designados.
+nuke-component-announcement-armed = ¡Atención! Se ha activado un dispositivo de fisión nuclear en ({$x}, {$y}). Quedan {$time} segundos hasta la detonación. Si fue un error, el mecanismo aún puede ser desactivado.
+nuke-component-announcement-unarmed = ¡El dispositivo de fisión nuclear activado ha sido desactivado! ¡Que tengas un buen día!
+nuke-component-announcement-send-codes = ¡Atención! Los códigos del dispositivo de fisión nuclear se han enviado a los faxes designados.
 nuke-component-doafter-warning = Empiezas a manipular cables y mandos para desarmar la bomba nuclear.. Puede que tarde un poco.
 
 # Interfaz de la bomba nuclear
@@ -46,3 +46,5 @@ nuke-slot-component-slot-name-disk = Disco
 ## Examinar
 nuke-examine-armed = Oye, ¿por qué parpadea esa [color=red]luz roja[/color]?
 nuke-examine-exploding = Sí... creo que ya es demasiado tarde, amigo.
+
+nuke-label-neutral = NFE-{$serial}

@@ -14,7 +14,7 @@ nukeops-crewmajor = [color=green]¡Victoria mayor de la tripulación![/color]
 
 nukeops-cond-nukeexplodedoncorrectstation = Los operativos nucleares lograron volar la estación.
 nukeops-cond-nukeexplodedonnukieoutpost = El puesto avanzado de los operativos nucleares fue destruido por una explosión nuclear.
-nukeops-cond-nukeexplodedonincorrectlocation = La bomba nuclear fue detonada fuera de la estación.
+nukeops-cond-nukeexplodedonincorrectlocation = La bomba nuclear fue detonada en la cuadrícula incorrecta.
 nukeops-cond-nukeactiveinstation = La bomba nuclear fue dejada armada en la estación.
 nukeops-cond-nukeactiveatcentcom = ¡La bomba nuclear fue entregada al Mando Central!
 nukeops-cond-nukediskoncentcom = La tripulación escapó con el disco de autenticación nuclear.
@@ -33,3 +33,9 @@ nukeops-no-one-ready = ¡Ningún jugador está listo! No se puede iniciar Nukeop
 nukeops-role-commander = Comandante
 nukeops-role-agent = Agente
 nukeops-role-operator = Operador
+
+nukeops-tsfmajor = [color=cornflowerblue]¡La TSF detonó la bomba en la estación de la PDV![/color]
+nukeops-pdvmajor = [color=goldenrod]¡La PDV detonó la bomba en la estación de la TSF![/color]
+
+nukeops-cond-nukeexplodedontsfstation = La bomba nuclear fue detonada en la estación de la PDV.
+nukeops-cond-nukeexplodedonpdvstation = La bomba nuclear fue detonada en la estación de la TSF.

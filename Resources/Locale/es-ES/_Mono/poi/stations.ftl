@@ -6,3 +6,6 @@ frontier-lobby-camelot-description = Esto NO es una zona segura. No es un punto 
 
 frontier-lobby-jupiter-subtext = Un gran transportador de mecas móvil.
 frontier-lobby-jupiter-description = Esto NO está bajo la protección de las reglas de ataques al puerto. Un gran transportador de mecas de retaguardia operado por la Vanguardia Imperial de la Dinastía Phaethon. No tiene mucho poder de fuego para enfrentarse a otros barcos ni un astillero de tamaño completo, pero cuenta con una gran cantidad de mecas y defensa puntual.
+
+frontier-lobby-chengdu-subtext = Un crucero lo bastante potente como para arrasarlo todo.
+frontier-lobby-chengdu-description = Un crucero Tipo-98F desplegado por la TSFN para conflictos a gran escala. Equipado con misiles de crucero, cañones de riel y cañones automáticos, lanzadores de misiles guiados y suficientes láseres de defensa puntual para volver obsoleto cualquier torpedo. [color=red]Solo cuenta con un astillero extremadamente limitado y únicamente tiene 2 muelles. No es una base móvil como el Jupiter, sino una nave de guerra.[/color]

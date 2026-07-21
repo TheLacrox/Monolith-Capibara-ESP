@@ -28,3 +28,7 @@ gravity-generator-window-power-label = { $draw } / { $max } W
 
 gravity-generator-window-eta-none = N/A
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+
+gravity-generator-examine-max-mass = Puede mantener suspendido un transbordador de [color=yellow]{ $mass }[/color] toneladas.
+gravity-generator-examine-load = El generador funciona al [color={ $color }]{ $percent }%[/color] de su capacidad.
+gravity-generator-examine-load-unlimited = El generador no parece estar funcionando.
