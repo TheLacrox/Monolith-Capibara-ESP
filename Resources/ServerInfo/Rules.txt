@@ -32,9 +32,9 @@
 	• Los jugadores están limitados a [color=yellow][bold]una cuenta por persona[/bold][/color], independientemente del motivo.
 	• [color=red]Usar múltiples cuentas para eludir bans, obtener ventajas o por cualquier otro motivo no está permitido.[/color]
 
-[color=#a4885c][head=3]5. El inglés es el idioma requerido para toda comunicación.[/head][/color]
+[color=#a4885c][head=3]5. El español es el idioma requerido para toda comunicación.[/head][/color]
 	• Esto incluye el [color=yellow]roleplay[/color], el [color=yellow]chat OOC[/color], el [color=yellow]ahelp[/color] y los [color=yellow]mensajes del personal[/color].
-	• [color=red][bold]Toda comunicación en el servidor, tanto en el personaje (IC) como fuera del personaje (OOC), debe ser en inglés.[/bold][/color]
+	• [color=red][bold]Toda comunicación en el servidor, tanto en el personaje (IC) como fuera del personaje (OOC), debe ser en español.[/bold][/color]
 
 [color=#a4885c][head=4]Las reglas de roleplay de [bold]Monolith[/bold] son las siguientes.[/head][/color]
 [color=#a4885c]Estas no son la totalidad de las reglas; más información se puede encontrar en el libro de guías.[/color]
