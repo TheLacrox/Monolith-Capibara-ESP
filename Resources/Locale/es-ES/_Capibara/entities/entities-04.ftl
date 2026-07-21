@@ -1,3 +1,517 @@
+ent-MedicalPDA = PDA médico
+    .gender = female
+    .desc = Brillante y estéril.
+
+ent-MedicalPod = cápsula médica de emergencia
+    .gender = female
+    .desc = Una cápsula utilizada para la preservación de cadáveres de alto valor. Algo terrible ocurrió aquí.
+
+ent-MedicalPodFilled = cápsula médica de emergencia
+    .gender = female
+    .desc = Una cápsula utilizada para la preservación de cadáveres de alto valor. Algo terrible ocurrió aquí.
+
+ent-MedicalRecordsComputerCircuitboard = placa de ordenador de registros médicos
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para el sistema de registros médicos.
+
+ent-MedicalScanner = escáner médico
+    .gender = male
+    .desc = Un escáner médico voluminoso.
+
+ent-MedicalScannerMachineCircuitboard = placa de máquina de escáner médico
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un escáner médico.
+
+ent-MedicalTechFab = techfab médico
+    .gender = male
+    .desc = Fabrica equipamiento para uso en la enfermería.
+
+ent-MedicalTechFabCircuitboard = placa de máquina de techfab médico
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un techfab médico.
+
+ent-MedicalTechFabFlatpack = paquete plano de techfab médico
+    .gender = male
+    .desc = Un paquete plano utilizado para construir un techfab médico.
+
+ent-MedicalTrackingImplant = implante de rastreo médico
+    .gender = male
+    .desc = Este implante incluye un monitor de dispositivo de rastreo para el canal de radio Médico.
+
+ent-MedicalTrackingImplanter = implantador
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-MedicalTrackingImplanterLabeled = implantador
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-MedicatedSuture = sutura medicada
+    .gender = female
+    .desc = Una sutura empapada en medicina que trata eficazmente los traumatismos por fuerza contundente y cierra heridas.
+
+ent-MediumMechCoilgun = Cañón de bobina EMP CL-03
+    .gender = male
+    .desc = Un cañón de bobina de tamaño medio con cámara para sabots de 3cm. Inflige daño leve, aunque extiende el temido efecto EMP en un área. Necesita un Hardpoint Medio.
+
+ent-MediumMechDMR = Autocañón DMR-90mm
+    .gender = male
+    .desc = Un autocañón de servicio pesado con cámara para 90mm. Arma de uso general para Hardpoint Medio.
+
+ent-MediumMechTOW = Plataforma de misil antitanque ASM-55 TOW
+    .gender = female
+    .desc = Misil antitanque reconvertido. El ordenador de guiado por cable se sustituye por un sistema de puntería mucho más sofisticado, pero la movilidad deja mucho que desear. Encaja en Hardpoints Medios.
+
+ent-MediumXenoArtifact = artefacto alienígena
+    .gender = male
+    .desc = Un extraño dispositivo alienígena.
+
+ent-MediumXenoArtifactItem = artefacto alienígena
+    .gender = male
+    .desc = Un extraño dispositivo alienígena de mano.
+
+ent-Medkit = botiquín de primeros auxilios
+    .gender = male
+    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
+
+ent-MedkitAdvanced = botiquín de primeros auxilios avanzado
+    .gender = male
+    .desc = Un botiquín avanzado para tratar heridas avanzadas.
+
+ent-MedkitAdvancedFilled = botiquín de primeros auxilios avanzado
+    .gender = male
+    .desc = Un botiquín avanzado para tratar heridas avanzadas.
+
+ent-MedkitBrute = botiquín de tratamiento de traumatismos por contusión
+    .gender = male
+    .desc = Un botiquín para cuando te den con la caja de herramientas.
+
+ent-MedkitBruteFilled = botiquín de tratamiento de traumatismos por contusión
+    .gender = male
+    .desc = Un botiquín para cuando te den con la caja de herramientas.
+
+ent-MedkitBurn = botiquín de tratamiento de quemaduras
+    .gender = male
+    .desc = Un botiquín médico especializado para cuando el laboratorio de toxinas se incendie espontáneamente.
+
+ent-MedkitBurnFilled = botiquín de tratamiento de quemaduras
+    .gender = male
+    .desc = Un botiquín médico especializado para cuando el laboratorio de toxinas se incendie espontáneamente.
+
+ent-MedkitCombat = botiquín médico de combate
+    .gender = male
+    .desc = Para los pesos pesados entre nosotros.
+
+ent-MedkitCombatFilled = botiquín médico de combate
+    .gender = male
+    .desc = Para los pesos pesados entre nosotros.
+
+ent-MedkitCombatStasiziumFilled = botiquín futurista
+    .gender = male
+    .desc = Botiquín lleno de medicamentos del futuro
+
+ent-MedkitFilled = botiquín de primeros auxilios
+    .gender = male
+    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
+
+ent-MedkitO2 = botiquín de tratamiento por privación de oxígeno
+    .gender = male
+    .desc = Una caja llena de productos para el oxígeno.
+
+ent-MedkitOxygenFilled = botiquín de tratamiento por privación de oxígeno
+    .gender = male
+    .desc = Una caja llena de productos para el oxígeno.
+
+ent-MedkitRadiation = botiquín de tratamiento de radiación
+    .gender = male
+    .desc = Si hubieras tomado tu Rad-X, no necesitarías esto.
+
+ent-MedkitRadiationFilled = botiquín de tratamiento de radiación
+    .gender = male
+    .desc = Si hubieras tomado tu Rad-X, no necesitarías esto.
+
+ent-MedkitToxin = botiquín de tratamiento de toxinas
+    .gender = male
+    .desc = Se usa para tratar el contenido tóxico en sangre.
+
+ent-MedkitToxinFilled = botiquín de tratamiento de toxinas
+    .gender = male
+    .desc = Se usa para tratar el contenido tóxico en sangre.
+
+ent-MedMedicIDCard = tarjeta de identificación de socorrista de emergencias
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MedTekCartridge = Cartucho MedTek
+    .gender = male
+    .desc = Un programa que proporciona herramientas de diagnóstico médico.
+
+ent-MegaSprayBottle = botella de spray gigante
+    .gender = female
+    .desc = Una enorme botella de spray con una potencia de limpieza sin rival.
+
+ent-MeleeDebug100 = palo de golpe 100dmg
+    .gender = male
+    .desc = golpea fuerte, ya
+
+ent-MeleeDebug200 = palo de golpe 200dmg
+    .gender = male
+    .desc = golpea fuerte, ya
+
+ent-MeleeDebugBurner = quemador explosivo
+    .gender = male
+    .desc = quema tus partes
+
+ent-MeleeDebugBurner200 = quemador explosivo 200dmg
+    .gender = male
+    .desc = quema tus partes
+
+ent-MeleeDebugGib = palo de golpe descuartizador
+    .gender = male
+    .desc = golpea fuerte, ya
+
+ent-MeleeDebugSever = cercenador explosivo
+    .gender = male
+    .desc = cercena tus partes dentro de una semana
+
+ent-MeleeDebugSever100 = cercenador explosivo 100dmg
+    .gender = male
+    .desc = cercena tus partes dentro de una semana
+
+ent-MeleeDebugSever200 = cercenador explosivo 200dmg
+    .gender = male
+    .desc = cercena tus partes dentro de una semana
+
+ent-MeleeHammer = martillo
+    .gender = male
+    .desc = 3 acero 2 madera
+
+ent-Memorial = memorial
+    .gender = male
+    .desc = Para conmemorar algo.
+
+ent-MemorialDisplay = Expositor Conmemorativo
+    .gender = male
+    .desc = Una lista actualizada de quienes no han escatimado nada y lo han dado todo en la expansión del Frontier.
+
+ent-MemoryCell = celda de memoria
+    .gender = female
+    .desc = Un circuito D-Latch que almacena una señal que puede modificarse según los puertos de entrada y habilitación.
+
+ent-MercenaryCounterfeitCache = alijo de falsificaciones
+    .gender = male
+    .desc = Alijo con créditos falsificados y carteles de películas piratas.
+
+ent-MercenaryIDCard = tarjeta de identificación de mercenario
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MercenaryPDA = PDA de mercenario
+    .gender = female
+    .desc = Este PDA huele a guerra.
+
+ent-MercenaryTechFab = techfab de mercenario
+    .gender = male
+    .desc = Imprime lo mínimo imprescindible de herramientas del oficio que cualquier mercenario de bajo presupuesto o seguridad privada pudiera necesitar. Sin lujos.
+
+ent-MercenaryTechFabCircuitboardHackedNF = placa de máquina de techfab de mercenario hackeada
+    .gender = female
+    .desc = Una placa de circuito pintada con aerosol para un techfab de mercenario con algunos cacharros pegados. No te preocupes por eso, choomba.
+
+ent-MercenaryTechFabCircuitboardNF = placa de máquina de techfab de mercenario
+    .gender = female
+    .desc = Una placa de circuito impresa en máquina para un techfab de mercenario.
+
+ent-MercenaryTechFabFlatpack = paquete plano de techfab de mercenario
+    .gender = male
+    .desc = Un paquete plano utilizado para construir un techfab de mercenario.
+
+ent-MercenaryTechFabHacked = techfab de mercenario hackeado
+    .gender = male
+    .desc = Imprime lo mínimo imprescindible de herramientas del oficio que cualquier mercenario de bajo presupuesto o seguridad privada pudiera necesitar. Sin lujos.
+
+ent-Mesh10Lingering = malla regenerativa
+    .gender = female
+    .desc = Se usa para tratar incluso las quemaduras más graves. También es eficaz contra las quemaduras cáusticas.
+
+ent-MetalBarrelBlack = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelBlue = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelGreen = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelGrey = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelRed = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelWhite = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBarrelYellow = barril metálico
+    .gender = male
+    .desc = Un barril metálico. Se puede llenar de líquido.
+
+ent-MetalBaseballBat = bate de béisbol metálico
+    .gender = male
+    .desc = Un bate de béisbol metálico muy robusto y pesado para dar buenas palizas. Tiene un agradable mango de madera.
+
+ent-MetalDoor = puerta metálica
+    .gender = female
+    .desc = Una puerta, ¿a dónde llevará?
+
+ent-MetalFoam = espuma metálica
+
+ent-MetalFoamGrenade = granada de espuma metálica
+    .gender = female
+    .desc = Una herramienta de emergencia para tapar agujeros. Casi tan buena como las paredes de verdad.
+
+ent-MetalFoamGrenadeLaunched = granada de espuma metálica
+    .gender = female
+    .desc = Una herramienta de emergencia para tapar agujeros. Casi tan buena como las paredes de verdad.
+
+ent-MeteorLarge = meteoro
+    .gender = male
+    .desc = Los prefieres cuando se queman en la atmósfera.
+
+ent-MeteorMedium = meteoro
+    .gender = male
+    .desc = Los prefieres cuando se queman en la atmósfera.
+
+ent-MeteorRock = roca meteorítica
+    .gender = female
+    .desc = Lo que queda de un meteorito.
+
+ent-MeteorRockBananium = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en bananio.
+
+ent-MeteorRockCoal = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en carbón.
+
+ent-MeteorRockDiamond = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en diamantes.
+
+ent-MeteorRockGold = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en oro.
+
+ent-MeteorRockPlasma = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en plasma.
+
+ent-MeteorRockQuartz = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en cuarzo.
+
+ent-MeteorRockSilver = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en plata.
+
+ent-MeteorRockTin = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en hierro.
+
+ent-MeteorRockUranium = roca meteorítica
+    .gender = female
+    .desc = Una veta de mineral rica en uranio.
+
+ent-MeteorSmall = meteoro
+    .gender = male
+    .desc = Los prefieres cuando se queman en la atmósfera.
+
+ent-MeteorSpaceDust = polvo espacial
+    .gender = male
+    .desc = Hace estornudar a la estación.
+
+ent-MeteorUrist = Urist McMeteor
+    .gender = male
+    .desc = Como miembro exitoso de la sociedad con una psique estable e inquebrantable, una determinación sin límites y una afinidad natural por las finanzas y la dominación, has sido elegido, no, has sido guiado sin esfuerzo por el trauma divino (biológico) hacia este momento. Las puertas del destino se abren de par en par, y una vez más te encuentras de pie sobre la nada palpitante. Un insoportable dolor de cabeza del alma.
+
+ent-MicroBombImplant = implante de microbomba
+    .gender = male
+    .desc = Este implante detona al usuario al activarse o al morir.
+
+ent-MicroBombImplanter = implantador del Syndicate
+    .gender = male
+    .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-MicroManipulatorStockPart = manipulador
+    .gender = male
+    .desc = Un manipulador básico utilizado en la construcción de una variedad de dispositivos.
+
+ent-MicrophoneInstrument = micrófono
+    .gender = male
+    .desc = Perfecto para cantar a pleno pulmón.
+
+ent-MicrowaveMachineCircuitboard = placa de máquina de microondas
+
+ent-MilitaryPowerCellLMG = batería para LMG
+    .gender = female
+    .desc = Una batería de coche compatible con la LMG láser, acoplable a una mochila proveedora de carga.
+
+ent-MilitaryPowerCellMG = Celda de batería EM72 Ashstorm
+    .gender = female
+    .desc = Una celda de batería redonda diseñada para el EM72 Ashstorm.
+
+ent-MilitaryTechfabMachineCircuitboard = placa de ensambladora militar multipropósito
+    .gender = female
+    .desc = Una placa de circuito impreso para una ensambladora militar.
+
+ent-Milkalyzer = lechealizador
+    .gender = male
+    .desc = Un escáner ambiental portátil que informa de los niveles actuales de gas. ¡Muuu!
+
+ent-MimanaSeeds = paquete de semillas de mimana
+
+ent-MimeIDCard = tarjeta de identificación de mimo
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MimePDA = PDA de mimo
+    .gender = female
+    .desc = Sorprendentemente no está en silencio.
+
+ent-MimePowersImplant = implante de voto de mimo
+    .gender = male
+    .desc = Este implante permite al usuario tomar el voto del mimo.
+
+ent-MimePowersImplanter = implantador
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-MindBase = mente
+
+ent-MindRoleDragon = Rol de Dragón
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleEmotionalSupportPet = Rol de Fantasma (Mascota de Apoyo Emocional)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleFamiliar = Rol de Fantasma (Familiar)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleFreeAgent = Rol de Fantasma (Agente Libre)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleFreeAgentHarmless = Rol de Fantasma (Agente Libre)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleNeutral = Rol de Fantasma
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleSilicon = Rol de Fantasma (Silicio)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleSiliconAntagonist = Rol de Fantasma (Antagonista de Silicio)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleSoloAntagonist = Rol de Fantasma (Antagonista en Solitario)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleTeamAntagonist = Rol de Fantasma (Antagonista de Equipo)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleGhostRoleTeamAntagonistFlock = Rol de Fantasma (Antagonista de Equipo)
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleHeadRevolutionary = Rol de Líder Revolucionario
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleInitialInfected = Rol de Infectado Inicial
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleJob = Rol de Trabajo
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleNinja = Rol de Ninja Espacial
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleNukeops = Rol de Operativo de Nukeops
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleNukeopsCommander = Rol de Comandante de Nukeops
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleNukeopsMedic = Rol de Médico de Nukeops
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleObserver = Rol de Observador
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleRevolutionary = Rol de Revolucionario
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleSiliconBrain = Rol de Cerebro Borg
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleSubvertedSilicon = Rol de Silicio Subvertido
+
+ent-MindRoleSurvivor = Rol de Superviviente
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleThief = Rol de Ladrón
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleTraitor = Rol de Traidor
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleTraitorReinforcement = Rol de Refuerzo del Syndicate
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleTraitorSleeper = Rol de Agente Durmiente
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleWizard = Rol de Mago
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindRoleZombie = Rol de Zombie
+    .gender = male
+    .desc = Entidad de rol mental
+
+ent-MindShieldImplant = implante de escudo mental
+    .gender = male
+    .desc = Este implante protegerá el cerebro de influencias externas e impedirá el uso de dispositivos de control mental.
+
 ent-MindShieldImplanter = implantador
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
@@ -77,6 +591,10 @@ ent-MirrorShield = escudo espejo
 ent-MissileCartridge250mm = misil HEAT de 250mm
     .gender = male
     .desc = Un misil HEAT ASM-250 individual para un lanzador Tovek/Paladin.
+
+ent-MissileCartridge250mmHV = misil HV de 250 mm
+    .gender = male
+    .desc = Un misil individual ASM-250 de alta velocidad para un lanzador Tovek/Paladin.
 
 ent-MissileCartridge50mmHE = misil HE de 50mm
     .gender = male
@@ -733,7 +1251,9 @@ ent-MobDwarf = Urist McHands el Enano
 
 ent-MobDwarfRandom = Urist McDwarf
 
-ent-MobExperimentationVictim = cautivo
+ent-MobExperimentationVictim = cautivo descarriado
+    .gender = male
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones y por lo que sus captores le hicieron.
 
 ent-MobExplorerBoss = capitán explorador
     .gender = male
@@ -1033,19 +1553,9 @@ ent-MobHuman = Urist McHands
 
 ent-MobHumanLoneNuclearOperative = Operativo Solitario
 
-ent-MobHumanMarsocAutorifleman = fusilero automático de MARSOC
-
 ent-MobHumanMarsocBase = base operativa
 
-ent-MobHumanMarsocCorpsman = sanitario de MARSOC
-
-ent-MobHumanMarsocFTL = líder de equipo de fuego de MARSOC
-
-ent-MobHumanMarsocMarksman = francotirador de MARSOC
-
 ent-MobHumanMarsocOperative = operativo de MARSOC
-
-ent-MobHumanMarsocSGO = operador de arma inteligente de MARSOC
 
 ent-MobHumanNukeOp = Operativo Nuclear
 
@@ -1380,8 +1890,8 @@ ent-MobPossumOld = zarigüeya
     .gender = female
     .desc = "¡Oh zarigüeya! ¡Mi zarigüeya!" -- Walt Whitman, 1865
 
-ent-MobPossumPoppy = amapola
-    .gender = female
+ent-MobPossumPoppy = Poppy
+    .gender = male
     .desc = Es una zarigüeya, un pequeño marsupial carroñero. Lleva el equipo de protección personal adecuado.
 
 ent-MobProtogen = Urist McHardDrive
@@ -1816,191 +2326,193 @@ ent-MobSyndicateFootsoldier = soldado de infantería del Syndicate
 
 ent-MobSyndicateFootsoldierPilot = piloto de transbordador del Syndicate
 
-ent-MobSyndicateNavalCaptainA = capitán del Syndicate
+ent-MobSyndicateNavalCaptainA = capitán descarriado
     .gender = male
-    .desc = El oficial ejecutivo en sustitución del comandante, los capitanes del Syndicate se aseguran de que las operaciones a bordo se desarrollen sin problemas. Equipado con un revólver del 45.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con un revólver.
 
-ent-MobSyndicateNavalCaptainB = capitán del Syndicate
+ent-MobSyndicateNavalCaptainB = capitán descarriado
     .gender = male
-    .desc = El oficial ejecutivo en sustitución del comandante, los capitanes del Syndicate se aseguran de que las operaciones a bordo se desarrollen sin problemas. Equipado con un revólver del 45.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con un revólver.
 
-ent-MobSyndicateNavalCaptainC = capitán del Syndicate
+ent-MobSyndicateNavalCaptainC = capitán descarriado
     .gender = male
-    .desc = El oficial ejecutivo en sustitución del comandante, los capitanes del Syndicate se aseguran de que las operaciones a bordo se desarrollen sin problemas. Equipado con un revólver del 45.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con un revólver.
 
-ent-MobSyndicateNavalCaptainD = capitán del Syndicate
+ent-MobSyndicateNavalCaptainD = capitán descarriado
     .gender = male
-    .desc = El oficial ejecutivo en sustitución del comandante, los capitanes del Syndicate se aseguran de que las operaciones a bordo se desarrollen sin problemas. Equipado con un revólver del 45.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con un revólver.
 
-ent-MobSyndicateNavalCaptainVoid = capitán del Syndicate
+ent-MobSyndicateNavalCaptainVoid = capitán descarriado
     .gender = male
-    .desc = El oficial ejecutivo en sustitución del comandante, los capitanes del Syndicate se aseguran de que las operaciones a bordo se desarrollen sin problemas. Equipado con un revólver del 45.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con un revólver.
 
-ent-MobSyndicateNavalChemwarriorA = guerrero químico del Syndicate
+ent-MobSyndicateNavalChemwarriorA = guerrero químico descarriado
     .gender = male
-    .desc = Cargando tanques llenos de productos químicos peligrosos, los guerreros químicos atacan a sus enemigos con un spray nocivo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. ¿Parece llevar equipo de limpieza...?
 
-ent-MobSyndicateNavalChemwarriorB = guerrero químico del Syndicate
+ent-MobSyndicateNavalChemwarriorB = guerrero químico descarriado
     .gender = male
-    .desc = Cargando tanques llenos de productos químicos peligrosos, los guerreros químicos atacan a sus enemigos con un spray nocivo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. ¿Parece llevar equipo de limpieza...?
 
-ent-MobSyndicateNavalChemwarriorC = guerrero químico del Syndicate
+ent-MobSyndicateNavalChemwarriorC = guerrero químico descarriado
     .gender = male
-    .desc = Cargando tanques llenos de productos químicos peligrosos, los guerreros químicos atacan a sus enemigos con un spray nocivo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. ¿Parece llevar equipo de limpieza...?
 
-ent-MobSyndicateNavalChemwarriorD = guerrero químico del Syndicate
+ent-MobSyndicateNavalChemwarriorD = guerrero químico descarriado
     .gender = male
-    .desc = Cargando tanques llenos de productos químicos peligrosos, los guerreros químicos atacan a sus enemigos con un spray nocivo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. ¿Parece llevar equipo de limpieza...?
 
-ent-MobSyndicateNavalCommanderA = comandante del Syndicate
+ent-MobSyndicateNavalCommanderA = comandante descarriado
     .gender = male
-    .desc = Comandante regional de las operaciones del Syndicate, este oficial ostenta el mando local supremo y la responsabilidad correspondiente. Armado con un rifle de asalto y fuertemente acorazado.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Tu objetivo.
 
-ent-MobSyndicateNavalCommanderB = comandante del Syndicate
+ent-MobSyndicateNavalCommanderB = comandante descarriado
     .gender = male
-    .desc = Comandante regional de las operaciones del Syndicate, este oficial ostenta el mando local supremo y la responsabilidad correspondiente. Armado con un rifle de asalto y fuertemente acorazado.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Tu objetivo.
 
-ent-MobSyndicateNavalCommanderC = comandante del Syndicate
+ent-MobSyndicateNavalCommanderC = comandante descarriado
     .gender = male
-    .desc = Comandante regional de las operaciones del Syndicate, este oficial ostenta el mando local supremo y la responsabilidad correspondiente. Armado con un rifle de asalto y fuertemente acorazado.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Tu objetivo.
 
-ent-MobSyndicateNavalCommanderD = comandante del Syndicate
+ent-MobSyndicateNavalCommanderD = comandante descarriado
     .gender = male
-    .desc = Comandante regional de las operaciones del Syndicate, este oficial ostenta el mando local supremo y la responsabilidad correspondiente. Armado con un rifle de asalto y fuertemente acorazado.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Tu objetivo.
 
-ent-MobSyndicateNavalDeckhandA = marinero del Syndicate
+ent-MobSyndicateNavalDeckhandA = marinero de cubierta descarriado
     .gender = male
-    .desc = El miembro de menor rango de las Fuerzas Navales del Syndicate. El típico "chico para todo" cuando se trata de tareas mundanas.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece llevar un arma.
 
-ent-MobSyndicateNavalDeckhandB = marinero del Syndicate
+ent-MobSyndicateNavalDeckhandB = marinero de cubierta descarriado
     .gender = male
-    .desc = El miembro de menor rango de las Fuerzas Navales del Syndicate. El típico "chico para todo" cuando se trata de tareas mundanas.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece llevar un arma.
 
-ent-MobSyndicateNavalDeckhandC = marinero del Syndicate
+ent-MobSyndicateNavalDeckhandC = marinero de cubierta descarriado
     .gender = male
-    .desc = El miembro de menor rango de las Fuerzas Navales del Syndicate. El típico "chico para todo" cuando se trata de tareas mundanas.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece llevar un arma.
 
-ent-MobSyndicateNavalDeckhandD = marinero del Syndicate
+ent-MobSyndicateNavalDeckhandD = marinero de cubierta descarriado
     .gender = male
-    .desc = El miembro de menor rango de las Fuerzas Navales del Syndicate. El típico "chico para todo" cuando se trata de tareas mundanas.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece llevar un arma.
 
-ent-MobSyndicateNavalDeckhandVoid = marinero del Syndicate
+ent-MobSyndicateNavalDeckhandVoid = marinero de cubierta descarriado
     .gender = male
-    .desc = El miembro de menor rango de las Fuerzas Navales del Syndicate. El típico "chico para todo" cuando se trata de tareas mundanas.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece llevar un arma.
 
-ent-MobSyndicateNavalEngineerA = ingeniero del Syndicate
+ent-MobSyndicateNavalEngineerA = ingeniero descarriado
     .gender = male
-    .desc = En un transbordador, el ingeniero tiene el fastidioso trabajo de asegurarse de que absolutamente todo funciona correctamente. Los transbordadores del Syndicate no son ninguna excepción.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una escopeta.
 
-ent-MobSyndicateNavalEngineerB = ingeniero del Syndicate
+ent-MobSyndicateNavalEngineerB = ingeniero descarriado
     .gender = male
-    .desc = En un transbordador, el ingeniero tiene el fastidioso trabajo de asegurarse de que absolutamente todo funciona correctamente. Los transbordadores del Syndicate no son ninguna excepción.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una escopeta.
 
-ent-MobSyndicateNavalEngineerC = ingeniero del Syndicate
+ent-MobSyndicateNavalEngineerC = ingeniero descarriado
     .gender = male
-    .desc = En un transbordador, el ingeniero tiene el fastidioso trabajo de asegurarse de que absolutamente todo funciona correctamente. Los transbordadores del Syndicate no son ninguna excepción.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una escopeta.
 
-ent-MobSyndicateNavalEngineerD = ingeniero del Syndicate
+ent-MobSyndicateNavalEngineerD = ingeniero descarriado
     .gender = male
-    .desc = En un transbordador, el ingeniero tiene el fastidioso trabajo de asegurarse de que absolutamente todo funciona correctamente. Los transbordadores del Syndicate no son ninguna excepción.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una escopeta.
 
-ent-MobSyndicateNavalEngineerVoid = ingeniero del Syndicate
+ent-MobSyndicateNavalEngineerVoid = ingeniero descarriado
     .gender = male
-    .desc = En un transbordador, el ingeniero tiene el fastidioso trabajo de asegurarse de que absolutamente todo funciona correctamente. Los transbordadores del Syndicate no son ninguna excepción.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una escopeta.
 
-ent-MobSyndicateNavalGrenadierA = granadero del Syndicate
+ent-MobSyndicateNavalGrenadierA = granadero descarriado
     .gender = male
-    .desc = "¿Qué? ¡Habla más alto! ¡No te oigo!" Equipados con la infame China Lake, los granaderos tienen una enorme capacidad destructiva y deben ser objetivos prioritarios.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. ¡JODER, ESE TIPO TIENE UNA BOMBA!
 
-ent-MobSyndicateNavalGrenadierB = granadero del Syndicate
+ent-MobSyndicateNavalGrenadierB = granadero descarriado
     .gender = male
-    .desc = "¿Qué? ¡Habla más alto! ¡No te oigo!" Equipados con la infame China Lake, los granaderos tienen una enorme capacidad destructiva y deben ser objetivos prioritarios.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. ¡JODER, ESE TIPO TIENE UNA BOMBA!
 
-ent-MobSyndicateNavalGrenadierC = granadero del Syndicate
+ent-MobSyndicateNavalGrenadierC = granadero descarriado
     .gender = male
-    .desc = "¿Qué? ¡Habla más alto! ¡No te oigo!" Equipados con la infame China Lake, los granaderos tienen una enorme capacidad destructiva y deben ser objetivos prioritarios.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. ¡JODER, ESE TIPO TIENE UNA BOMBA!
 
-ent-MobSyndicateNavalGrenadierD = granadero del Syndicate
+ent-MobSyndicateNavalGrenadierD = granadero descarriado
     .gender = male
-    .desc = "¿Qué? ¡Habla más alto! ¡No te oigo!" Equipados con la infame China Lake, los granaderos tienen una enorme capacidad destructiva y deben ser objetivos prioritarios.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. ¡JODER, ESE TIPO TIENE UNA BOMBA!
 
-ent-MobSyndicateNavalMedicA = médico del Syndicate
+ent-MobSyndicateNavalMedicA = médico descarriado
     .gender = male
-    .desc = Especialista médico. Sabe tratar a los pacientes de forma humana y a los prisioneros de forma inhumana. Utiliza dardos impregnados con sustancias nocivas: impedrezina o hidrato de cloral.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar una bolsa de dardos.
 
-ent-MobSyndicateNavalMedicB = médico del Syndicate
+ent-MobSyndicateNavalMedicB = médico descarriado
     .gender = male
-    .desc = Especialista médico. Sabe tratar a los pacientes de forma humana y a los prisioneros de forma inhumana. Utiliza dardos impregnados con sustancias nocivas: impedrezina o hidrato de cloral.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar una bolsa de dardos.
 
-ent-MobSyndicateNavalMedicC = médico del Syndicate
+ent-MobSyndicateNavalMedicC = médico descarriado
     .gender = male
-    .desc = Especialista médico. Sabe tratar a los pacientes de forma humana y a los prisioneros de forma inhumana. Utiliza dardos impregnados con sustancias nocivas: impedrezina o hidrato de cloral.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar una bolsa de dardos.
 
-ent-MobSyndicateNavalMedicD = médico del Syndicate
+ent-MobSyndicateNavalMedicD = médico descarriado
     .gender = male
-    .desc = Especialista médico. Sabe tratar a los pacientes de forma humana y a los prisioneros de forma inhumana. Utiliza dardos impregnados con sustancias nocivas: impedrezina o hidrato de cloral.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar una bolsa de dardos.
 
-ent-MobSyndicateNavalMedicVoid = médico del Syndicate
+ent-MobSyndicateNavalMedicVoid = médico descarriado
     .gender = male
-    .desc = Especialista médico. Sabe tratar a los pacientes de forma humana y a los prisioneros de forma inhumana. Utiliza dardos impregnados con sustancias nocivas: impedrezina o hidrato de cloral.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar una bolsa de dardos.
 
-ent-MobSyndicateNavalMime = mimo del Syndicate
-
-ent-MobSyndicateNavalOperatorA = operativo del Syndicate
+ent-MobSyndicateNavalMime = mimo descarriado
     .gender = male
-    .desc = "Todo es un clavo si tienes un martillo." En este caso, todo es un objetivo porque tiene una SMG y el dedo muy fácil al gatillo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones... ¿o quizá siempre fue así?
 
-ent-MobSyndicateNavalOperatorB = operativo del Syndicate
+ent-MobSyndicateNavalOperatorA = operativo descarriado
     .gender = male
-    .desc = "Todo es un clavo si tienes un martillo." En este caso, todo es un objetivo porque tiene una SMG y el dedo muy fácil al gatillo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar un subfusil.
 
-ent-MobSyndicateNavalOperatorC = operativo del Syndicate
+ent-MobSyndicateNavalOperatorB = operativo descarriado
     .gender = male
-    .desc = "Todo es un clavo si tienes un martillo." En este caso, todo es un objetivo porque tiene una SMG y el dedo muy fácil al gatillo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar un subfusil.
 
-ent-MobSyndicateNavalOperatorD = operativo del Syndicate
+ent-MobSyndicateNavalOperatorC = operativo descarriado
     .gender = male
-    .desc = "Todo es un clavo si tienes un martillo." En este caso, todo es un objetivo porque tiene una SMG y el dedo muy fácil al gatillo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar un subfusil.
 
-ent-MobSyndicateNavalOperatorVoid = operativo del Syndicate
+ent-MobSyndicateNavalOperatorD = operativo descarriado
     .gender = male
-    .desc = "Todo es un clavo si tienes un martillo." En este caso, todo es un objetivo porque tiene una SMG y el dedo muy fácil al gatillo.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar un subfusil.
 
-ent-MobSyndicateNavalSaboteurA = saboteador del Syndicate
+ent-MobSyndicateNavalOperatorVoid = operativo descarriado
     .gender = male
-    .desc = Especialista entrenado en el arte de sabotear transbordadores e instalaciones de NT. Equipado con proyectiles EMP, procede con cautela.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece llevar un subfusil.
 
-ent-MobSyndicateNavalSaboteurB = saboteador del Syndicate
+ent-MobSyndicateNavalSaboteurA = saboteador descarriado
     .gender = male
-    .desc = Especialista entrenado en el arte de sabotear transbordadores e instalaciones de NT. Equipado con proyectiles EMP, procede con cautela.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece ir armado con un arma de descarga eléctrica.
 
-ent-MobSyndicateNavalSaboteurC = saboteador del Syndicate
+ent-MobSyndicateNavalSaboteurB = saboteador descarriado
     .gender = male
-    .desc = Especialista entrenado en el arte de sabotear transbordadores e instalaciones de NT. Equipado con proyectiles EMP, procede con cautela.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece ir armado con un arma de descarga eléctrica.
 
-ent-MobSyndicateNavalSaboteurD = saboteador del Syndicate
+ent-MobSyndicateNavalSaboteurC = saboteador descarriado
     .gender = male
-    .desc = Especialista entrenado en el arte de sabotear transbordadores e instalaciones de NT. Equipado con proyectiles EMP, procede con cautela.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece ir armado con un arma de descarga eléctrica.
 
-ent-MobSyndicateNavalSecondOfficerA = segundo oficial del Syndicate
+ent-MobSyndicateNavalSaboteurD = saboteador descarriado
     .gender = male
-    .desc = El brazo derecho del capitán, encargado de transmitir las órdenes del capitán a la tripulación y de asegurarse de que se cumplan con prontitud. Lleva una pistola láser para autodefensa.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Parece ir armado con un arma de descarga eléctrica.
 
-ent-MobSyndicateNavalSecondOfficerB = segundo oficial del Syndicate
+ent-MobSyndicateNavalSecondOfficerA = segundo oficial descarriado
     .gender = male
-    .desc = El brazo derecho del capitán, encargado de transmitir las órdenes del capitán a la tripulación y de asegurarse de que se cumplan con prontitud. Lleva una pistola láser para autodefensa.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una pistola láser.
 
-ent-MobSyndicateNavalSecondOfficerC = segundo oficial del Syndicate
+ent-MobSyndicateNavalSecondOfficerB = segundo oficial descarriado
     .gender = male
-    .desc = El brazo derecho del capitán, encargado de transmitir las órdenes del capitán a la tripulación y de asegurarse de que se cumplan con prontitud. Lleva una pistola láser para autodefensa.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una pistola láser.
 
-ent-MobSyndicateNavalSecondOfficerD = segundo oficial del Syndicate
+ent-MobSyndicateNavalSecondOfficerC = segundo oficial descarriado
     .gender = male
-    .desc = El brazo derecho del capitán, encargado de transmitir las órdenes del capitán a la tripulación y de asegurarse de que se cumplan con prontitud. Lleva una pistola láser para autodefensa.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una pistola láser.
 
-ent-MobSyndicateNavalSecondOfficerVoid = segundo oficial del Syndicate
+ent-MobSyndicateNavalSecondOfficerD = segundo oficial descarriado
     .gender = male
-    .desc = El brazo derecho del capitán, encargado de transmitir las órdenes del capitán a la tripulación y de asegurarse de que se cumplan con prontitud. Lleva una pistola láser para autodefensa.
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una pistola láser.
+
+ent-MobSyndicateNavalSecondOfficerVoid = segundo oficial descarriado
+    .gender = male
+    .desc = Lejos de casa desde hace mucho, con la mente vaciada por las emisiones. Prepárate para luchar. Parece ir armado con una pistola láser.
 
 ent-MobTajaran = Urist McTajaran
 
@@ -2415,6 +2927,10 @@ ent-NapkinDrum = dispensador de servilletas
 ent-NapkinDrum5 = dispensador de servilletas
     .gender = male
     .desc = Contiene servilletas.
+
+ent-NavalMine255mm = mina naval
+
+ent-NavalMine90mm = mina naval
 
 ent-NavyCaptainPDA = PDA del Alto Mando de Winter Solstice
     .gender = female
@@ -4599,6 +5115,10 @@ ent-NuclearBomb = explosivo de fisión nuclear
     .gender = male
     .desc = Probablemente no deberías quedarte a ver si esto está armado.
 
+ent-NuclearBombHyperwar = explosivo de fisión nuclear
+    .gender = male
+    .desc = Probablemente no deberías quedarte para averiguar si está armado. ¡Detónalo en la estación principal de tu oponente para ganar!
+
 ent-NuclearBombKeg = explosivo de fisión nuclear
     .gender = male
     .desc = Probablemente no deberías quedarte a ver si esto está armado. Tiene un grifo en el lateral.
@@ -5461,6 +5981,14 @@ ent-PaladinMagazine = Cargador automático de misiles HE 250mm Paladin
 
 ent-PaladinMagazineEMPHE = Cargador automático de misiles EMPHE 250mm Paladin
 
+ent-PaladinMagazineEMPHEInfinite = Cargador automático de misiles EMPHE 250mm Paladin
+
+ent-PaladinMagazineHV = autocargador de misiles HV de 250 mm Paladin
+
+ent-PaladinMagazineHVInfinite = autocargador de misiles HV de 250 mm Paladin
+
+ent-PaladinMagazineInfinite = Cargador automático de misiles HE 250mm Paladin
+
 ent-PanFluteInstrument = flauta de pan
     .gender = female
     .desc = Perfecta para atraer a seres míticos ancestrales a bailar contigo.
@@ -6062,6 +6590,14 @@ ent-PDVSpasakaIDCard = tarjeta de identificación spasaka
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
 
 ent-PDVSpasakaPDA = PDA spasaka PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVTarkhanIDCard = tarjeta de identificación de tarkhan de la PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVTarkhanPDA = PDA de tarkhan de la PDV
     .gender = female
     .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
 
@@ -6969,7 +7505,7 @@ ent-PirateClothingUniformJumpsuitChiefEngineerTurtle = jersey de cuello alto del
 
 ent-PirateClothingUniformJumpsuitClown = Traje de payaso
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-PirateClothingUniformJumpsuitCMO = Mono del Médico Jefe
     .gender = male
@@ -7740,9 +8276,9 @@ ent-PlayerBorgDerelictGhostRole = cíborg abandonado
     .gender = male
     .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
 
-ent-PlayerBorgPDV = cíborg PDV
+ent-PlayerBorgPDV = cíborg de la PDV
     .gender = male
-    .desc = Un cyborg construido específicamente para uso por el PDV.
+    .desc = Un cíborg construido específicamente para la PDV.
 
 ent-PlayerBorgRedacted = auxiliar del sistema de defensa automatizado Remnant
     .gender = male
@@ -7774,9 +8310,9 @@ ent-PlayerBorgSyndicateSaboteurGhostRole = cyborg saboteador del Syndicate
     .gender = male
     .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
 
-ent-PlayerBorgTSF = cíborg TSF
+ent-PlayerBorgTSF = cíborg de la TSF
     .gender = male
-    .desc = Un cyborg construido específicamente para uso por las TSF.
+    .desc = Un cíborg construido específicamente para la TSF.
 
 ent-PlayerStationAi = Núcleo de IA
     .gender = male
@@ -8359,7 +8895,7 @@ ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 No Exist
     .gender = female
     .desc = Un póster que se burla de la negación de CentComm sobre la existencia de la estación abandonada cerca de Space Station 13.
 
-ent-PosterContrabandKudzu = kudzu
+ent-PosterContrabandKudzu = Kudzu
     .gender = male
     .desc = Un póster que anuncia una película sobre plantas. ¿Qué tan peligrosas pueden ser?
 
@@ -8435,7 +8971,7 @@ ent-PosterContrabandSaucerNumberOne = ¡Saucer #1!
 ent-PosterContrabandShamblersJuice = Shambler's Juice
     .desc = ~¡Ponme un poco de ese Shambler's Juice!~
 
-ent-PosterContrabandSmoke = humo
+ent-PosterContrabandSmoke = Humo
     .gender = male
     .desc = Un póster que anuncia una marca rival de cigarrillos corporativos.
 
@@ -8619,537 +9155,4 @@ ent-PosterLegitMoreBread = ¡Más Pan!
 ent-PosterLegitNanomichiAd = Anuncio de Nanomichi
     .gender = male
     .desc =  Un cartel que anuncia cintas de audio de la marca Nanomichi.
-
-ent-PosterLegitNanotrasenLogo = Logo de Nanotrasen
-    .gender = male
-    .desc = Un cartel que muestra el logo de Nanotrasen.
-
-ent-PosterLegitNoERP = Sin ERP
-    .gender = male
-    .desc = Este cartel recuerda a la tripulación que el erotismo y la pornografía están prohibidos en las estaciones de Nanotrasen.
-
-ent-PosterLegitNoTouching = No Tocar
-    .gender = male
-    .desc = ¡No toques!
-
-ent-PosterLegitNTTGC = Cartas del Juego Táctico de Nanotrasen
-    .desc = Un anuncio de las cartas TCG de Nanotrasen: ENVIAREMOS A LOS PINKERTONS.
-
-ent-PosterLegitObey = Obedece
-    .gender = male
-    .desc = Un cartel que instruye al espectador a obedecer a la autoridad.
-
-ent-PosterLegitOppenhopper = Oppenhopper
-    .gender = male
-    .desc = Un cartel de una película casi olvidada. Sigue a un grupo de tenaces novatos del Sector Saltamontes mientras se defienden de los ataques de los infames Operativos Nucleares. El eslogan reza: "Las Nuke Ops continuarán hasta que mejore la robustez."
-
-ent-PosterLegitPDAAd = Anuncio de PDA
-    .gender = male
-    .desc = Un cartel que anuncia el último PDA de los proveedores de Nanotrasen.
-
-ent-PosterLegitPeriodicTable = Tabla Periódica de los Elementos
-    .gender = female
-    .desc = Una tabla periódica de los elementos, desde el Hidrógeno hasta el Oganesón, y todo lo que hay entre medias.
-
-ent-PosterLegitPieSlice = Cartel de Tartas
-    .gender = male
-    .desc = ¡Las tartas son sanas y deliciosas! Ruega a tu cocinero que empiece a hacer algunas.
-
-ent-PosterLegitPizzaHope = Esperanza de Pizza
-    .gender = female
-    .desc = En los momentos más oscuros solo hay una esperanza, ¡LA PIZZA! ¡Acosa a tu Cuartelmaestre local para que pida una caja de emergencia de pizza ahora mismo!
-
-ent-PosterLegitRenault = Póster de Renault
-    .gender = male
-    .desc = Bla.
-
-ent-PosterLegitReportCrimes = Denuncia los crímenes
-    .gender = female
-    .desc = Un póster que anima a denunciar rápidamente cualquier crimen o comportamiento sedicioso a la seguridad de la estación.
-
-ent-PosterLegitSafetyEyeProtection = Seguridad: Protección ocular
-    .gender = female
-    .desc = Un póster que indica al espectador que lleve protección ocular al trabajar con productos químicos, humo o luces brillantes.
-
-ent-PosterLegitSafetyInternals = Seguridad: Internos
-    .gender = female
-    .desc = Un póster que indica al espectador que lleve internos en los escasos entornos donde no hay oxígeno o el aire se ha vuelto tóxico.
-
-ent-PosterLegitSafetyMothDelam = Safety Moth - Precauciones de seguridad ante la delaminación
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para indicar al espectador que se esconda en las taquillas cuando el Cristal de Supermateria se haya delaminado, para prevenir alucinaciones. Evacuar podría ser una mejor estrategia.
-
-ent-PosterLegitSafetyMothEpi = Safety Moth - Epinefrina
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para indicar al espectador que ayude a los tripulantes heridos/fallecidos con sus inyectores de epinefrina. "¡Evita la putrefacción de órganos con este sencillo truco!"
-
-ent-PosterLegitSafetyMothHardhat = Safety Moth - Cascos de seguridad
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para indicar al espectador que lleve casco en zonas de precaución. "¡Es como una lámpara para tu cabeza!"
-
-ent-PosterLegitSafetyMothMeth = Safety Moth - Metanfetamina
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para indicar al espectador que busque la aprobación del Médico Jefe antes de cocinar metanfetamina. "¡Mantente cerca de la temperatura objetivo y nunca la superes!" ...Nunca deberías fabricar esto.
-
-ent-PosterLegitSafetyMothPiping = Safety Moth - Tuberías
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para indicar a los técnicos de atmosféricos qué tipos de tuberías usar. "¡Tuberías, no bombas! ¡Una correcta colocación de tuberías previene un pésimo rendimiento!"
-
-ent-PosterLegitSafetyMothSSD = Safety Moth - Trastorno del Sueño Espacial
-    .gender = male
-    .desc = Este póster informativo usa a Safety Moth™ para hablarle al espectador sobre el Trastorno del Sueño Espacial (SSD), una condición donde la persona deja de reaccionar. "¡Trata a la tripulación con SSD con cuidado! ¡Podrían despertar en cualquier momento!"
-
-ent-PosterLegitSafetyReport = Seguridad: Denuncia
-    .gender = female
-    .desc = Un póster que indica al espectador que denuncie actividad sospechosa a las fuerzas de seguridad.
-
-ent-PosterLegitScience = Ciencia
-    .gender = female
-    .desc = Un póster que representa un átomo.
-
-ent-PosterLegitSecWatch = Seguridad te está vigilando
-    .gender = female
-    .desc = Un póster que te recuerda que la seguridad vigila cada uno de tus movimientos.
-
-ent-PosterLegitShoukou = Póster de Shōkō
-    .gender = male
-    .desc = Símbolos curiosos que pueden leerse como Shōkō o Xiaogang, según a quién le preguntes.
-
-ent-PosterLegitSMAnomalies = Safety Moth - Anomalías
-    .gender = male
-    .desc = Safety Moth™ promueve el uso del equipo de seguridad adecuado al trabajar cerca de anomalías. "¡Todo buen Polilla lleva protección al trabajar con anomalías, pero no te acerques demasiado! ¡No todo lo que brilla es un amigo!"
-
-ent-PosterLegitSMBoH = Safety Moth - Bolsa de Contención
-    .gender = male
-    .desc = Safety Moth™ informa al espectador de los peligros de las Bolsas de Contención. "¡Recuerda! Las Bolsas de Contención pueden ser bonitas, ¡pero también son bastante peligrosas! ¡Nunca pongas una dentro de otra!"
-
-ent-PosterLegitSMEpi = Safety Moth - Epinefrina
-    .gender = male
-    .desc = Safety Moth™ informa al espectador que ayude a los tripulantes heridos/fallecidos con sus inyectores de epinefrina. "¡Usa el epipen con un colega cuando esté en apuros! ¡Evita la putrefacción de órganos con este sencillo truco!"
-
-ent-PosterLegitSMFires = Safety Moth - Incendios
-    .gender = male
-    .desc = Safety Moth™ promueve el manejo seguro del plasma y mantener el equipo de extinción de incendios al alcance de la mano.
-
-ent-PosterLegitSMGlimmer = Safety Moth - Precauciones de seguridad ante el Glimmer
-    .gender = male
-    .desc = Safety Moth™ indica al espectador que lleve equipo aislante y se esconda en las taquillas cuando el Glimmer alcance niveles críticos. Evacuar podría ser una mejor estrategia.
-
-ent-PosterLegitSMHardhats = Safety Moth - Cascos de seguridad
-    .gender = male
-    .desc = Safety Moth™ indica al espectador que lleve casco en zonas de precaución. "¡Es como una lámpara en tu cabeza!"
-
-ent-PosterLegitSMMeth = Safety Moth - Metanfetamina
-    .gender = male
-    .desc = Safety Moth™ indica al espectador que busque la aprobación del Médico Jefe antes de cocinar metanfetamina. "¡Mantente cerca de la temperatura objetivo y nunca la superes!"
-
-ent-PosterLegitSMPills = Safety Moth - Frascos de pastillas
-    .gender = male
-    .desc = Safety Moth™ informa al espectador de que dejar pastillas sin vigilancia sobre las mesas podría acarrear consecuencias imprevistas. "¡A las criaturas hambrientas les encanta comérselo todo! ¡Guarda tus pastillas a salvo en cajas y botes de pastillas!"
-
-ent-PosterLegitSMPiping = Safety Moth - Tuberías
-    .gender = male
-    .desc = Safety Moth™ indica a los técnicos atmosféricos los tipos de tubería correctos que deben usarse. "¡Tuberías, no bombas! ¡La colocación correcta de las tuberías previene un rendimiento pobre!"
-
-ent-PosterLegitSMPoisoning = Safety Moth - Envenenamiento
-    .gender = male
-    .desc = Safety Moth™ pide al espectador que no envenene los dónuts de la estación.
-
-ent-PosterLegitSoftCapPopArt = Arte Pop de Gorra Blanda
-    .gender = male
-    .desc = Una reimpresión de arte pop barato.
-
-ent-PosterLegitSpaceCops = Policías Espaciales.
-    .desc = Un cartel que anuncia el programa de televisión Policías Espaciales.
-
-ent-PosterLegitStateLaws = Declara tus Leyes
-    .gender = female
-    .desc = Un cartel que indica a los ciborgs que declaren sus leyes.
-
-ent-PosterLegitTheOwl = El Búho
-    .gender = male
-    .desc = El Búho haría todo lo posible para proteger la estación. ¿Y tú?
-
-ent-PosterLegitThereIsNoGasGiant = No Hay Ningún Gigante Gaseoso
-    .gender = male
-    .desc = Para recordar a los civiles coloniales que los rumores sobre la existencia de gigantes gaseosos en el Rogue son falsos. ¿Esto... está aprobado por las TSF?
-
-ent-PosterLegitUeNo = Ue No.
-    .gender = male
-    .desc = Esto está todo en japonés.
-
-ent-PosterLegitVacation = Ventajas Corporativas de Nanotrasen: Vacaciones
-    .desc = Este cartel informativo proporciona información sobre algunos de los premios disponibles a través del programa de Ventajas Corporativas de NT, incluyendo unas vacaciones de dos semanas para dos personas en el mundo turístico de Idyllus.
-
-ent-PosterLegitWalk = Camina
-    .gender = female
-    .desc = Un cartel que indica al espectador que camine en lugar de correr.
-
-ent-PosterLegitWorkForAFuture = Trabaja por un Futuro
-    .gender = female
-    .desc =  Un cartel que te anima a trabajar por tu futuro.
-
-ent-PosterMapArena = Mapa de Arena
-    .gender = male
-    .desc = Un mapa de la estación Arena.
-
-ent-PosterMapBagel = Mapa de Bagel
-    .gender = male
-    .desc = Un mapa de la Estación Bagel.
-
-ent-PosterMapDelta = Mapa de Delta
-    .gender = male
-    .desc = Un mapa de la Estación Delta.
-
-ent-PosterMapGlacier = Mapa de Glacier
-    .gender = male
-    .desc = Un mapa del puesto avanzado Glacier.
-
-ent-PosterMapLighthouse = Mapa de Lighthouse
-    .gender = male
-    .desc = Un mapa de Lighthouse.
-
-ent-PosterMapMarathon = Mapa de Marathon
-    .gender = male
-    .desc = Un mapa de la Estación Marathon.
-
-ent-PosterMapMetaRight = Mapa de la Estación Meta
-    .gender = male
-    .desc = Un mapa de la Estación Meta. Parece muy antiguo.
-
-ent-PosterMapMoose = Mapa de Moose
-    .gender = male
-    .desc = Un mapa de la Estación Moose.
-
-ent-PosterMapOrigin = mapa de Origin
-    .gender = male
-    .desc = Un mapa de la Estación Origin.
-
-ent-PosterMapPacked = Mapa de Packed
-    .gender = male
-    .desc = Un mapa de la Estación Packed.
-
-ent-PosterMapPillar = Mapa de Pillar
-    .gender = male
-    .desc = Un mapa del NSS Pillar.
-
-ent-PosterMapSaltern = Mapa de Saltern
-    .gender = male
-    .desc = Un mapa de la Estación Saltern.
-
-ent-PosterMapShoukou = Mapa de Shōkō
-    .gender = male
-    .desc = Shōkō no mappu desu.
-
-ent-PosterMapSplit = Mapa de la Estación Split
-    .gender = male
-    .desc = Un mapa de la Estación Split.
-
-ent-PosterMapWaystation = Mapa de Waystation
-    .gender = male
-    .desc = Un mapa de Waystation... espera, ¿esto no está embalado al revés?
-
-ent-PotassiumChemistryBottle = botella
-    .gender = female
-    .desc = Una botella pequeña.
-
-ent-PotatoAI = inteligencia artificial de patata
-    .gender = female
-    .desc = Es una patata. La obligaste a ser consciente, monstruo.
-
-ent-PotatoAIChip = chip de IA supercompacto
-    .gender = male
-    .desc = Este chip de IA de alta tecnología requiere un voltaje de exactamente 1,1 V para funcionar correctamente.
-
-ent-PotatoSeeds = paquete de semillas de patata
-
-ent-PottedPlant0 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant1 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant10 = planta en maceta
-    .gender = female
-    .desc = Un bonito trozo de naturaleza contenida en una maceta.
-
-ent-PottedPlant11 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant12 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant13 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant14 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant15 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant16 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant17 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant18 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant19 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant2 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant20 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant21 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant22 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant23 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant24 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant26 = planta en maceta
-    .gender = female
-    .desc = ¿Soy solo yo, o está parpadeando?
-
-ent-PottedPlant27 = planta de plástico en maceta
-    .gender = female
-    .desc = Un árbol de plástico, falso y de aspecto barato. Perfecto para quienes matan todas las plantas que tocan.
-
-ent-PottedPlant28 = planta de plástico en maceta
-    .gender = female
-    .desc = Un árbol de plástico, falso y de aspecto barato. Perfecto para quienes matan todas las plantas que tocan.
-
-ent-PottedPlant29 = planta de plástico en maceta
-    .gender = female
-    .desc = Un árbol de plástico, falso y de aspecto barato. Perfecto para quienes matan todas las plantas que tocan.
-
-ent-PottedPlant3 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant30 = planta de plástico en maceta
-    .gender = female
-    .desc = Un árbol de plástico, falso y de aspecto barato. Perfecto para quienes matan todas las plantas que tocan.
-
-ent-PottedPlant4 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant5 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant6 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant7 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlant8 = planta en maceta
-    .gender = female
-    .desc = Un poco de naturaleza contenida en una maceta.
-
-ent-PottedPlantBioluminscent = planta bioluminiscente en maceta
-    .gender = female
-    .desc = ¡Produce luz!
-
-ent-PottedPlantRandom = generador de plantas en maceta aleatorio
-
-ent-PottedPlantRandomPlastic = generador de plantas de plástico en maceta aleatorio
-
-ent-PottedPlantRD = planta en maceta del Director de Investigación
-    .gender = female
-    .desc =
-        Un regalo del personal del departamento de botánica, entregado tras el traslado del Director de Investigación. Hay una etiqueta que dice "¡No te olvides de volver por aquí!"
-        No tiene muy buena pinta...
-
-ent-PoultryCubeBox = caja de cubos de aves de corral
-    .gender = female
-    .desc = Una caja de cubos de aves de corral: ¡pollos y patos! ¡Solo añade agua!
-
-ent-PowerCageHigh = jaula de energía de alta capacidad
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. Mayor capacidad para mayores niveles de energía.
-
-ent-PowerCageHighEmpty = jaula de energía de alta capacidad
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. Mayor capacidad para mayores niveles de energía.
-
-ent-PowerCageMech = celda de combustible para mechs
-    .gender = female
-    .desc = Una celda de combustible de recarga automática para mechs.
-
-ent-PowerCageMedium = jaula de energía de capacidad media
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. El estándar de oro en capacidad y coste.
-
-ent-PowerCageMediumEmpty = jaula de energía de capacidad media
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. El estándar de oro en capacidad y coste.
-
-ent-PowerCageRecharger = recargador de jaula
-
-ent-PowerCageRechargerCircuitboard = placa de máquina del recargador de jaula
-    .gender = female
-    .desc = Una placa de circuito impreso para un recargador de jaula de energía.
-
-ent-PowerCageSmall = jaula de energía de baja capacidad
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. Es la más económica que encontrarás, pero incluye un blindaje EMP moderado.
-
-ent-PowerCageSmallEmpty = jaula de energía de baja capacidad
-    .gender = female
-    .desc = Una jaula de energía recargable para dispositivos grandes. Es la más económica que encontrarás, pero incluye un blindaje EMP moderado.
-
-ent-PowerCellAntiqueProto = prototipo de celda de energía antigua
-    .gender = male
-    .desc = Una celda pequeña que se recarga sola. Usada en investigaciones antiguas sobre armas láser.
-
-ent-PowerCellCombat = celda de energía de combate
-    .gender = female
-    .desc = Una celda de energía estandarizada y recargable. Esta versión de combate está equipada con protección parcial contra picos de energía.
-
-ent-PowerCellCombatPrinted = celda de energía de combate
-    .gender = female
-    .desc = Una celda de energía estandarizada y recargable. Esta versión de combate está equipada con protección parcial contra picos de energía.
-
-ent-PowerCellHigh = celda de energía de alta capacidad
-    .gender = female
-    .desc = Una celda de energía estandarizada y recargable. Esta versión premium almacena hasta un 50 % más de energía que la competencia.
-
-ent-PowerCellHighPrinted = celda de energía de alta capacidad
-    .gender = female
-    .desc = Una celda de energía estandarizada y recargable. Esta versión premium almacena hasta un 50 % más de energía que la competencia.
-
-ent-PowerCellHyper = celda de energía de hipercapacidad
-    .gender = female
-    .desc = Una celda de energía estándar recargable. Esta parece ser un prototipo raro y muy potente.
-
-ent-PowerCellHyperPrinted = celda de energía de hipercapacidad
-    .gender = female
-    .desc = Una celda de energía estándar recargable. Esta parece ser un prototipo raro y muy potente.
-
-ent-PowerCellIRRevolver = celda de energía para revólver
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con revólveres láser.
-
-ent-PowerCellIRSMG = celda de energía para SMG
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con láseres de escala SMG.
-
-ent-PowerCellIRSniper = celda de energía para francotirador
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con fusiles de francotirador láser.
-
-ent-PowerCellMedium = celda de energía de capacidad media
-    .gender = female
-    .desc = Una celda de energía recargable. Esta es la versión popular y fiable.
-
-ent-PowerCellMediumPrinted = celda de energía de capacidad media
-    .gender = female
-    .desc = Una celda de energía recargable. Esta es la versión popular y fiable.
-
-ent-PowerCellMicroreactor = celda de energía con microreactor
-    .gender = female
-    .desc = Una celda de microreactor estándar recargable. Tiene menor capacidad, pero se recarga sola poco a poco.
-
-ent-PowerCellMicroreactorPrinted = celda de energía con microreactor
-    .gender = female
-    .desc = Una celda de microreactor estándar recargable. Tiene menor capacidad, pero se recarga sola poco a poco.
-
-ent-PowerCellOverchargedRevolver = celda de energía para revólver overclockeada
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con revólveres láser que ha sido overclockeada.
-
-ent-PowerCellOverchargedSMG = celda de energía para SMG overclockeada
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con láseres de escala SMG que ha sido overclockeada.
-
-ent-PowerCellOverchargedSniper = celda de energía para francotirador overclockeada
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con fusiles de francotirador láser que ha sido overclockeada.
-
-ent-PowerCellPotato = batería de patata
-    .gender = female
-    .desc = Alguien ha clavado dos clavos y algo de cable en una patata grande. De alguna manera, proporciona algo de carga.
-
-ent-PowerCellPulseRevolver = celda de energía de pulso para revólver
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con revólveres láser que dispara haces de pulso.
-
-ent-PowerCellPulseSMG = celda de energía de pulso para SMG
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con láseres de escala SMG que dispara haces de pulso.
-
-ent-PowerCellPulseSniper = celda de energía de pulso para francotirador
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con fusiles de francotirador láser que dispara haces de pulso.
-
-ent-PowerCellRecharger = recargador de celdas
-
-ent-PowerCellRechargerFlatpack = paquete plano de cargador de celdas
-    .gender = male
-    .desc = Un paquete plano para construir un cargador de celdas.
-
-ent-PowerCellSmall = celda de energía de baja capacidad
-    .gender = female
-    .desc = Una celda de energía recargable. Es la más barata que puedes encontrar.
-
-ent-PowerCellSmallPrinted = celda de energía de baja capacidad
-    .gender = female
-    .desc = Una celda de energía recargable. Es la más barata que puedes encontrar.
-
-ent-PowerCellXrayRevolver = celda de energía de rayos X para revólver
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con revólveres láser que dispara rayos X.
-
-ent-PowerCellXraySMG = celda de energía de rayos X para SMG
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con láseres de escala SMG que dispara rayos X.
-
-ent-PowerCellXraySniper = celda de energía de rayos X para francotirador
-    .gender = female
-    .desc = Una celda de energía militarizada compatible con fusiles de francotirador láser que dispara rayos X.
-
-ent-PowerComputerCircuitboard = placa de ordenador de monitoreo de energía
-    .gender = female
-    .desc = Una placa de circuito impreso para un ordenador de monitoreo de energía.
-
-ent-PowerDrill = taladro eléctrico
-    .gender = male
-    .desc = Un sencillo taladro de mano eléctrico.
-
-ent-PoweredDimSmallLight = luz pequeña
-    .gender = female
-    .desc = Una luminaria. Consume energía y produce luz cuando está equipada con una bombilla.
 

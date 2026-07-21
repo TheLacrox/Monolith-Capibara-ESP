@@ -1,3 +1,446 @@
+ent-FoodDoughFlatButtered = Masa aplastada con mantequilla
+    .gender = female
+    .desc = Una masa aplastada y untada con mantequilla.
+
+ent-FoodDoughFlatPastry = Masa de hojaldre
+    .gender = female
+    .desc = Una masa de hojaldre mantecosa y estirada.
+
+ent-FoodDoughPastryBase = Base de hojaldre
+    .gender = female
+    .desc = Una base para cualquier hojaldre que se precie.
+
+ent-FoodDoughPastryBaseRaw = Base de hojaldre cruda
+    .gender = female
+    .desc = El punto de partida para donuts y hojaldres.
+
+ent-FoodDoughPie = Masa para tarta
+    .gender = female
+    .desc = Cocínala para obtener una tarta.
+
+ent-FoodDoughPizzaBaked = Pan de pizza
+    .gender = male
+    .desc = Añade ingredientes para hacer una pizza.
+
+ent-FoodDoughRope = Cordel de masa
+    .gender = male
+    .desc = Un fino fideo de masa. Se puede cocinar para hacer un bagel.
+
+ent-FoodDoughSlice = Rebanada de masa
+    .gender = female
+    .desc = Una rebanada de masa. Se puede cocinar para hacer un panecillo.
+
+ent-FoodDoughTortilla = Masa de tortilla
+    .gender = female
+    .desc = Un trozo de masa de tortilla.
+
+ent-FoodDoughTortillaFlat = Masa de tortilla aplastada
+    .gender = female
+    .desc = Una rebanada de masa de tortilla aplastada; cocínala para obtener una cáscara de taco.
+
+ent-FoodDoughTortillaSlice = Rebanada de masa de tortilla
+    .gender = female
+    .desc = Una rebanada de masa de tortilla.
+
+ent-FoodEgg = Huevo
+    .gender = male
+    .desc = ¡Un huevo!
+
+ent-FoodEggBoiled = Huevo cocido
+    .gender = male
+    .desc = Un delicioso huevo duro.
+
+ent-FoodEggChickenFertilized = Huevo
+    .gender = male
+    .desc = ¡Un huevo!
+
+ent-FoodEggDuckFertilized = Huevo
+    .gender = male
+    .desc = ¡Un huevo!
+
+ent-FoodEggplant = Berenjena
+    .gender = female
+    .desc = ¿Quizás hay un pollo dentro?
+
+ent-FoodExtradimensionalOrange = Naranja extradimensional
+    .gender = female
+    .desc = Apenas puedes comprender la existencia de esta cosa.
+
+ent-FoodFakeCapfruit = Capfruta
+    .gender = female
+    .desc = Una fruta suave y lisa con forma de pistola.
+
+ent-FoodFlyAmanita = Amanita de las moscas
+    .gender = female
+    .desc = Una seta de aspecto delicioso como las que salen en los dibujos animados.
+
+ent-FoodFrozenCornuto = Cornuto
+    .gender = male
+    .desc = Un cucurucho de helado napolitano de vainilla y chocolate. Amenaza con una lluvia de frutos secos caramelizados.
+
+ent-FoodFrozenFreezy = Space Freezy
+    .gender = male
+    .desc = El mejor helado del espacio.
+
+ent-FoodFrozenMochi = Mochi
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Buenísimo!
+
+ent-FoodFrozenMochiBungo = Mochi de bungo
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor bungo!
+
+ent-FoodFrozenMochiCherry = Mochi de cereza
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor cereza!
+
+ent-FoodFrozenMochiChocolate = Mochi de chocolate
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es de sabor chocolate!
+
+ent-FoodFrozenMochiFiber = Mochi de fibra
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Está tejido con fibra!
+
+ent-FoodFrozenMochiMoth = Mochi rosa
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Es casi demasiado bonito para comerlo! Casi.
+
+ent-FoodFrozenMochiTea = Mochi de té
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. ¡Está infusionado con té!
+
+ent-FoodFrozenMochiUbe = Mochi de ube
+    .gender = male
+    .desc = Un delicioso pegote de arroz glutinoso y masticable que encapsula un núcleo de helado. No estás seguro de si es ube de verdad.
+
+ent-FoodFrozenPopsicleBerry = Polo de bayas
+    .gender = male
+    .desc = Un vibrante polo de bayas. Un bocado helado de lo más delicioso.
+
+ent-FoodFrozenPopsicleJumbo = Helado gigante
+    .gender = male
+    .desc = Un lujoso helado cubierto de rico chocolate. Es más pequeño de lo que recuerdas.
+
+ent-FoodFrozenPopsicleOrange = Polo de naranja
+    .gender = male
+    .desc = Un clásico polo de naranja. Un helado soleado y delicioso.
+
+ent-FoodFrozenPopsicleTrash = Palo de polo
+    .gender = male
+    .desc = Antaño sostenía un delicioso helado. Ahora, está vacío.
+
+ent-FoodFrozenSandwich = Sándwich de helado
+    .gender = male
+    .desc = Helado portátil en su propio envase.
+
+ent-FoodFrozenSandwichStrawberry = Sándwich de helado de fresa
+    .gender = male
+    .desc = Helado portátil en su propio envase, de la variedad de fresa.
+
+ent-FoodFrozenSnowcone = Granizado sin sabor
+    .gender = male
+    .desc = No es más que hielo raspado. Aun así, es divertido masticarlo.
+
+ent-FoodFrozenSnowconeBase = Granizado dulce
+    .gender = male
+    .desc = No es más que hielo raspado con almíbar, el esfuerzo mínimo.
+
+ent-FoodFrozenSnowconeBerry = Granizado de bayas
+    .gender = male
+    .desc = Almíbar de bayas rociado sobre una bola de nieve en un vaso de papel.
+
+ent-FoodFrozenSnowconeClown = Cono payaso
+    .gender = male
+    .desc = Carcajadas rociadas sobre una bola de nieve en un vaso de papel.
+
+ent-FoodFrozenSnowconeFruit = Granizado de ensalada de frutas
+    .gender = male
+    .desc = Una deliciosa mezcla de almíbares de cítricos rociada sobre una bola de nieve en un vaso de papel.
+
+ent-FoodFrozenSnowconeMime = Granizado del mimo
+    .gender = male
+    .desc = ...
+
+ent-FoodFrozenSnowconeRainbow = Granizado arcoíris
+    .gender = male
+    .desc = Una bola de nieve muy colorida en un vaso de papel.
+
+ent-FoodFrozenSnowconeTrash = Cono de papel
+    .gender = male
+    .desc = Un cono de papel arrugado para un helado. No vale nada.
+
+ent-FoodFrozenSundae = Sundae de helado
+    .gender = male
+    .desc = Un postre clásico.
+
+ent-FoodGalaxythistle = Cardo galáctico
+    .gender = male
+    .desc = Una planta medicinal apreciada por su antitóxico.
+
+ent-FoodGarlic = Ajo
+    .gender = male
+    .desc = Delicioso, pero con un olor potencialmente abrumador.
+
+ent-FoodGatfruit = Gatfruta
+    .gender = female
+    .desc = Una deliciosa fruta con forma de pistola y un grueso tallo de madera.
+
+ent-FoodGlasstle = Vidriocardo
+    .gender = male
+    .desc = Una planta cristalina y frágil con muchas espinas puntiagudas.
+
+ent-FoodGoldenApple = Manzana dorada
+    .gender = female
+    .desc = Debería tener forma de cubo, ¿no?
+
+ent-FoodGrape = Uvas
+    .desc = El alimento de emperadores, habitantes de Space France (normalmente en forma de vino) y madres futboleras. Algún día podría usarse en la producción de vino para el camarero, si alguna vez se le acaba.
+
+ent-FoodGumball = bola de chicle
+    .gender = female
+    .desc = Por ser tan buen deportista.
+
+ent-FoodHivelordRemains = restos del señor del enjambre
+    .desc = Todo lo que queda de un señor del enjambre. Parece ser lo que le permite desprenderse partes de sí mismo sin sufrir daño... sus propiedades curativas pronto se volverán inertes si no se utilizan con rapidez. Intenta no pensar en lo que estás comiendo.
+
+ent-FoodHivelordRemainsInert = restos inertes del señor del enjambre
+    .desc = Todo lo que queda de un señor del enjambre... Ahora todo está verdaderamente perdido.
+
+ent-FoodHolymelon = melón sagrado
+    .gender = male
+    .desc = El agua de este melón ha sido bendecida por alguna deidad con especial predilección por la sandía.
+
+ent-FoodHolymelonSlice = rodaja de melón sagrado
+    .gender = female
+    .desc = Jugosa rodaja dorada y roja.
+
+ent-FoodHoneyComb = panal de miel
+    .gender = male
+    .desc = Crujiente recipiente de miel.
+
+ent-FoodJellyAmanita = jalea de amanita
+    .gender = female
+    .desc = ¡Es maligna, no la toques!
+
+ent-FoodJellyDuff = duff liberty espacial
+    .gender = male
+    .desc = Gelatina Jello, del libro de recetas de Alfred Hubbard.
+
+ent-FoodKebabSkewer = brocheta
+    .gender = female
+    .desc = Una fina varilla de metal utilizada para ensartar prácticamente cualquier cosa y cocinarla.
+
+ent-FoodKoibean = judía koi
+    .gender = female
+    .desc = Estas judías parecen un pelín escamosas.
+
+ent-FoodLaughinPeaPod = vaina de guisante risueño
+    .gender = female
+    .desc = La planta favorita del Payaso.
+
+ent-FoodLemon = limón
+    .gender = male
+    .desc = Dicen que a los Armadans les encantan estas cosas. Mejor no dejarlos a la vista, por si acaso.
+
+ent-FoodLemoon = lunón
+    .gender = male
+    .desc = La gente dice que la Luna está hecha de queso, ¡pero la Luna en realidad está hecha de leche y laurel!
+
+ent-FoodLily = lirio
+    .gender = male
+    .desc = Una hermosa flor naranja.
+
+ent-FoodLime = lima
+    .gender = female
+    .desc = Cura el Escorbuto Espacial y te permite actuar como un Pirata Espacial.
+
+ent-FoodLingzhi = lingzhi
+    .gender = male
+    .desc = Un potente hongo medicinal. No te pases.
+
+ent-FoodLollipop = piruleta
+    .gender = female
+    .desc = Por ser tan buen deportista.
+
+ent-FoodMacaroni = macarrones con queso
+    .desc = ¡Quesoso!
+
+ent-FoodMealAvocadoSushi = sushi de aguacate
+    .gender = male
+    .desc = ¿De dónde ha salido el alga marina?
+
+ent-FoodMealAvocadoSushiSlice = sushi de aguacate
+    .gender = male
+    .desc = ¿De dónde ha salido el alga marina?
+
+ent-FoodMealBasicNoodles = fideos básicos
+    .desc = Un sencillo bol de ramen con fideos y caldo. ¡Ñam!
+
+ent-FoodMealBearsteak = filete migrawr
+    .gender = male
+    .desc = Porque comer oso no era suficientemente varonil.
+
+ent-FoodMealBreakfastBagel = bagel de desayuno
+    .gender = male
+    .desc = Para cuando tu sándwich de huevo mañanero necesita un toque de verde y cuatro veces el precio habitual.
+
+ent-FoodMealBreakfastBagelPoppy = bagel de desayuno con semillas de amapola
+    .gender = male
+    .desc = El desayuno de los mineros. Da un mordisco cada vez que te den un puñetazo en la cara.
+
+ent-FoodMealCarpSushi = sushi de carpa
+    .gender = male
+    .desc = Sin duda vale la pena el riesgo.
+
+ent-FoodMealCarpSushiSlice = sushi de carpa
+    .gender = male
+    .desc = Sin duda vale la pena el menor riesgo.
+
+ent-FoodMealCornedbeef = carne en conserva con repollo
+    .gender = female
+    .desc = Ahora puedes sentirte como un verdadero turista de vacaciones en Irlanda.
+
+ent-FoodMealCornInButter = maíz con mantequilla
+    .gender = male
+    .desc = Mantecoso.
+
+ent-FoodMealCubancarp = carpa cubana
+    .gender = female
+    .desc = ¡Un sándwich grifftástico que te quema la lengua y después la deja entumecida!
+
+ent-FoodMealCucumberSandwich = sándwich de pepino
+    .gender = male
+    .desc = Se olvidaron de cortarle los bordes OTRA VEZ.
+
+ent-FoodMealCuredCarpSushiSlice = sushi de pescado fresco
+    .gender = male
+    .desc = Aún menos arriesgado, igual de delicioso. Todavía no estás seguro de dónde vino el alga marina.
+
+ent-FoodMealDragonOmelette = tortilla de dragón
+    .gender = female
+    .desc = La madre de todas las tortillas.
+
+ent-FoodMealEggplantParm = berenjena a la parmigiana
+    .gender = female
+    .desc = La única buena receta para la berenjena.
+
+ent-FoodMealEggsbenedict = huevos Benedict
+    .desc = Solo hay un huevo en esto, qué maleducados.
+
+ent-FoodMealEnchiladas = enchiladas
+    .desc = ¡Viva La Mexico!
+
+ent-FoodMealFriedegg = huevo frito
+    .gender = male
+    .desc = Un huevo frito, con un toque de sal y pimienta.
+
+ent-FoodMealFries = patatas fritas espaciales
+    .desc = También conocidas como patatas fritas francesas, patatas de la libertad, etc.
+
+ent-FoodMealFriesCarrot = zanahorias fritas
+    .desc = Sabrosas zanahorias fritas hechas con zanahorias frescas.
+
+ent-FoodMealFriesCheesy = patatas fritas con queso
+    .desc = Patatas fritas. Cubiertas de queso. Obviamente.
+
+ent-FoodMealGasBadSushiSlice = sushi de gasolinera
+    .gender = male
+    .desc = ¿Vale la pena el riesgo?
+
+ent-FoodMealGasSafeSushiSlice = sushi de gasolinera
+    .gender = male
+    .desc = ¿Vale la pena el riesgo?
+
+ent-FoodMealHappyHonkClown = menú honk feliz
+    .gender = male
+    .desc = El juguete es más comestible que la comida.
+
+ent-FoodMealHotdog = perrito caliente
+    .gender = male
+    .desc = ¡Qué perraco más rico!
+
+ent-FoodMealMemoryleek = puerro de la memoria
+    .gender = male
+    .desc = Esto debería refrescarte la memoria.
+
+ent-FoodMealMilkape = simio lechero
+    .gender = male
+    .desc = El rey de la Selva Densa.
+
+ent-FoodMealMint = menta
+    .gender = female
+    .desc = Es fino como una oblea.
+
+ent-FoodMealMisoNoodles = fideos miso
+    .desc = Miso, o pasta de soja fermentada, caldo con cebolleta y huevo. ¡Contundente!
+
+ent-FoodMealNachos = nachos
+    .desc = Nachos de Space Mexico.
+
+ent-FoodMealNachosCheesy = nachos con queso
+    .desc = La deliciosa combinación de nachos y queso derretido.
+
+ent-FoodMealNachosCuban = nachos cubanos
+    .desc = Unos nachos peligrosamente picantes.
+
+ent-FoodMealOmelette = tortilla de queso
+    .gender = female
+    .desc = Quesosa.
+
+ent-FoodMealPearsBelleHelene = peras bella Elena
+    .desc = El delicado sabor de la impecable pera bañada en chocolate.
+
+ent-FoodMealPigblanket = salchicha en hojaldre
+    .gender = female
+    .desc = Una pequeña salchicha envuelta en un bollo hojaldrado y mantecoso. Libera a este cerdito de su prisión de masa comiéndotelo.
+
+ent-FoodMealPoachedPears = peras escalfadas
+    .desc = El uso más elegante para una lata de vino.
+
+ent-FoodMealPotatoLoaded = patata asada cargada
+    .gender = female
+    .desc = Totalmente asada.
+
+ent-FoodMealPotatoYaki = yaki imo
+    .gender = male
+    .desc = ¡Hecho con boniatos asados!
+
+ent-FoodMealQueso = queso
+    .gender = male
+    .desc = Una salsa para mojar clásica que nunca falla.
+
+ent-FoodMealRibs = costillas BBQ
+    .desc = Costillas BBQ, bañadas en una generosa capa de salsa BBQ. Lo menos vegano que ha existido jamás.
+
+ent-FoodMealSashimi = sashimi
+    .gender = male
+    .desc = Su sabor solo puede describirse como «Exótico». ¿El envenenamiento? Ese sí que es bastante habitual.
+
+ent-FoodMealShioNoodles = fideos shio
+    .desc = Caldo de sal marina con maíz y algas. ¡Ligero!
+
+ent-FoodMealShoyuNoodles = fideos shoyu
+    .desc = Caldo de salsa de soja con maíz, huevo y cerdo. ¡Salado!
+
+ent-FoodMealSoftTaco = taco blando
+    .gender = male
+    .desc = ¡Dale un mordisco!
+
+ent-FoodMealSpicyNoodles = fideos picantes
+    .desc = Un bol de ramen no tan sencillo de fideos, caldo y tofu. ¡Caliente!
+
+ent-FoodMealTonkatsuNoodles = fideos tonkatsu
+    .desc = Caldo de huesos de cerdo con ajo y cerdo. ¡Sabroso!
+
+ent-FoodMeat = carne cruda
+    .gender = female
+    .desc = Un trozo de carne cruda.
+
+ent-FoodMeatAnomaly = masa de carne anómala
+    .gender = female
+    .desc = Un trozo de carne de densidad imposible. Solo mirarlo te pone incómodo.
+
 ent-FoodMeatAnomalyCooked = filete anómalo
     .gender = male
     .desc = Una masa gigantesca de carne cocinada. Una comida para una cena de grupo, o para alguien MUY hambriento.
@@ -2265,6 +2708,22 @@ ent-GeneratorRTGFlatpack = Paquete plano de generador RTG
     .gender = male
     .desc = Un paquete plano para construir un generador termoeléctrico de radioisótopos.
 
+ent-GeneratorSterling = generador Sterling ZQ-340
+    .gender = male
+    .desc = Un generador sigiloso, aunque muy ineficiente y caro, desarrollado en el marco del TSFN-SWP. Consume plasma como si no hubiera un mañana, pero puedes dar por hecho que ocultará tu firma térmica.
+
+ent-GeneratorSterlingPDV = generador Sterling RD-540
+    .gender = male
+    .desc = Un generador sigiloso, aunque muy ineficiente y caro, obtenido mediante ingeniería inversa a partir de los ZQ-340 de la TSF. Consume plasma como si no hubiera un mañana, pero puedes dar por hecho que ocultará tu firma térmica.
+
+ent-GeneratorSterlingPDVShuttle = generador Sterling RD-540
+    .gender = male
+    .desc = Un generador sigiloso, aunque muy ineficiente y caro, obtenido mediante ingeniería inversa a partir de los ZQ-340 de la TSF. Consume plasma como si no hubiera un mañana, pero puedes dar por hecho que ocultará tu firma térmica.
+
+ent-GeneratorSterlingShuttle = generador Sterling ZQ-340
+    .gender = male
+    .desc = Un generador sigiloso, aunque muy ineficiente y caro, desarrollado en el marco del TSFN-SWP. Consume plasma como si no hubiera un mañana, pero puedes dar por hecho que ocultará tu firma térmica.
+
 ent-GeneratorWallmountAPU = APU de transbordador
     .gender = male
     .desc = Una unidad de energía auxiliar para un transbordador - 6kW.
@@ -4214,7 +4673,7 @@ ent-Igniter = encendedor
     .gender = male
     .desc = Crea una chispa cuando se activa mediante una señal.
 
-ent-IgniteRune = Runa de ignición
+ent-IgniteRune = runa de ignición
 
 ent-ImmovableRod = vara inamovible
     .gender = female
@@ -4349,6 +4808,8 @@ ent-IngotSilver1 = lingote de plata
     .desc = Un pesado lingote de metal.
 
 ent-InstantEffectEMP = efecto EMP instantáneo
+
+ent-InstantEffectEMPCharon = efecto EMP instantáneo
 
 ent-IntegrationTestMarker = Marcador de Prueba de Integración
 
@@ -5588,6 +6049,8 @@ ent-LightMechaSMG = Ametralladora rotatoria RAC-6 .45 ACP
 ent-Lightning = relámpago
 
 ent-LightningEMP = relámpago ionizado
+
+ent-LightningEMPCharon = relámpago ionizado
 
 ent-LightningRevenant = relámpago espeluznante
 
@@ -6981,6 +7444,10 @@ ent-MachineShieldMS500Circuitboard = Placa del generador de escudo MS-500
     .gender = female
     .desc = Una placa de máquina para un generador de escudo.
 
+ent-MachineShipDrill = taladro de nave
+    .gender = male
+    .desc = Un pequeño taladro para naves capaz de perforar asteroides.
+
 ent-MacroBombImplant = implante de macrobomba
     .gender = male
     .desc = Este implante crea una gran explosión al morir, tras una cuenta atrás preprogramada.
@@ -7021,13 +7488,29 @@ ent-Magazine127x99mmEmpty = cargador (12,7x99mm vacío)
 
 ent-Magazine127x99mmExplosive = cargador (12,7x99mm alto explosivo)
 
+ent-Magazine140mm = cargador de munición APHE de 140 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles APHE de 140 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Magazine140mmSACLOS = cargador de munición SACLOS de 140 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 120 proyectiles de 140 mm guiados por láser mediante control semiautomático por línea de visión. Es un nombre larguísimo, pero solo significa que tú los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+
 ent-Magazine20mm = cargador de munición sólida de 20mm
     .gender = male
     .desc = Un cargador de munición que contiene proyectiles sólidos de 20mm infinitos. Utilizable por piezas de artillería montadas en embarcaciones.
 
+ent-Magazine20mmAS = cargador de munición AS de 20 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 1250 proyectiles antiescudo de 20 mm. Compatible con piezas de artillería montadas en naves.
+
 ent-Magazine30mm = cargador de munición sólida de 30mm
     .gender = male
     .desc = Un cargador de munición que contiene proyectiles sólidos de 30mm infinitos. Utilizable por piezas de artillería montadas en embarcaciones.
+
+ent-Magazine30mmHE = cargador de munición HE de 30 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 2000 proyectiles HE de 30 mm. Compatible con piezas de artillería montadas en naves.
 
 ent-Magazine35mmGrenade = cargador (granada 35x53mm SAPHE)
 
@@ -7229,6 +7712,22 @@ ent-Magazine57mmHE = cargador de munición HE de 57mm
     .gender = male
     .desc = Un cargador de munición con proyectiles de alto explosivo de 57mm en cantidad ilimitada. Utilizable por piezas de artillería montadas en embarcaciones.
 
+ent-Magazine57mmSACLOS = cargador de munición LG-SACLOS de 57 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 600 proyectiles de 57 mm con guiado láser semiautomático por línea de mira. Menudo trabalenguas, pero solo significa que los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+
+ent-Magazine57mmSACLOSInfinite = cargador de munición LG-SACLOS de 57 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles de 57 mm con guiado láser semiautomático por línea de mira. Menudo trabalenguas, pero solo significa que los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+
+ent-Magazine57mmSmart = cargador de munición HMNG de 57 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 600 proyectiles autoguiados de 57 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Magazine57mmSmartInfinite = cargador de munición HMNG de 57 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles autoguiados de 57 mm. Compatible con piezas de artillería montadas en naves.
+
 ent-Magazine57x28mmPistolEmpty = cargador de pistola (5.7x28mm, universal)
 
 ent-Magazine57x28mmPistolFMJ = cargador de pistola (5.7x28mm FMJ)
@@ -7279,21 +7778,21 @@ ent-Magazine57x28mmSubMachineGunTopMountedFMJ = cargador de montaje superior (5.
 
 ent-Magazine57x28mmSubMachineGunUranium = cargador de SMG (5.7x28mm de uranio)
 
-ent-Magazine635x40mmCaseless = cargador (635x40mm sin vaina)
+ent-Magazine635x40mmCaseless = cargador (6,35x40 mm sin vaina)
 
-ent-Magazine635x40mmCaselessBig = cargador de caja (635x40mm sin vaina)
+ent-Magazine635x40mmCaselessBig = cargador de caja (6,35x40 mm sin vaina)
 
-ent-Magazine635x40mmCaselessPistol = cargador de pistola (635x40mm sin vaina)
+ent-Magazine635x40mmCaselessPistol = cargador de pistola (6,35x40 mm sin vaina)
 
-ent-Magazine635x40mmCaselessPistolPractice = cargador de pistola (635x40mm sin vaina, de prácticas)
+ent-Magazine635x40mmCaselessPistolPractice = cargador de pistola (6,35x40 mm sin vaina, de prácticas)
 
-ent-Magazine635x40mmCaselessPractice = cargador (635x40mm sin vaina, de prácticas)
+ent-Magazine635x40mmCaselessPractice = cargador (6,35x40 mm sin vaina, de prácticas)
 
-ent-Magazine635x40mmCaselessRubber = cargador (635x40mm sin vaina)
+ent-Magazine635x40mmCaselessRubber = cargador (6,35x40 mm sin vaina)
 
-ent-Magazine635x40mmCaselessShort = cargador corto (635x40mm sin vaina)
+ent-Magazine635x40mmCaselessShort = cargador corto (6,35x40 mm sin vaina)
 
-ent-Magazine635x40mmCaselessShortPractice = cargador corto (635x40mm sin vaina, de prácticas)
+ent-Magazine635x40mmCaselessShortPractice = cargador corto (6,35x40 mm sin vaina, de prácticas)
 
 ent-Magazine68x52mmCaseless = cargador (6.8x52mm STANAG sin vaina)
 
@@ -7500,6 +7999,8 @@ ent-MagazineNovaliteC1Rubber = peine (5.56x45mm goma)
 ent-MagazinePistolDebug = cargador bang, sin vida
 
 ent-MagazinePistolDebugZoom = cargador bang, veloz
+
+ent-MagazineShenzhen = cargador QBU-284 (13,4x92 mm DU-APFSDS)
 
 ent-MagazineSmart = cargador (.160 inteligente)
 
@@ -7806,10 +8307,6 @@ ent-MarishTranslatorImplant = implante de traductor Marish
 ent-MarishTranslatorImplanter = implante de traductor Marish
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MarsocFTLPDA = PDA de líder de equipo de fuego MARSOC de la TSFMC
-    .gender = female
-    .desc = Un ordenador personal estándar de la TSFMC.
 
 ent-MarsocPDA = PDA de operativo MARSOC de la TSFMC
     .gender = female
@@ -8313,518 +8810,4 @@ ent-MedicalInternIDCard = tarjeta de identificación de interno médico
 ent-MedicalInternPDA = PDA de interno médico
     .gender = female
     .desc = ¿Por qué no es blanco?
-
-ent-MedicalPDA = PDA médico
-    .gender = female
-    .desc = Brillante y estéril.
-
-ent-MedicalPod = cápsula médica de emergencia
-    .gender = female
-    .desc = Una cápsula utilizada para la preservación de cadáveres de alto valor. Algo terrible ocurrió aquí.
-
-ent-MedicalPodFilled = cápsula médica de emergencia
-    .gender = female
-    .desc = Una cápsula utilizada para la preservación de cadáveres de alto valor. Algo terrible ocurrió aquí.
-
-ent-MedicalRecordsComputerCircuitboard = placa de ordenador de registros médicos
-    .gender = female
-    .desc = Una placa de circuito impreso de ordenador para el sistema de registros médicos.
-
-ent-MedicalScanner = escáner médico
-    .gender = male
-    .desc = Un escáner médico voluminoso.
-
-ent-MedicalScannerMachineCircuitboard = placa de máquina de escáner médico
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un escáner médico.
-
-ent-MedicalTechFab = techfab médico
-    .gender = male
-    .desc = Fabrica equipamiento para uso en la enfermería.
-
-ent-MedicalTechFabCircuitboard = placa de máquina de techfab médico
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un techfab médico.
-
-ent-MedicalTechFabFlatpack = paquete plano de techfab médico
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un techfab médico.
-
-ent-MedicalTrackingImplant = implante de rastreo médico
-    .gender = male
-    .desc = Este implante incluye un monitor de dispositivo de rastreo para el canal de radio Médico.
-
-ent-MedicalTrackingImplanter = implantador
-    .gender = male
-    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MedicalTrackingImplanterLabeled = implantador
-    .gender = male
-    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MedicatedSuture = sutura medicada
-    .gender = female
-    .desc = Una sutura empapada en medicina que trata eficazmente los traumatismos por fuerza contundente y cierra heridas.
-
-ent-MediumMechCoilgun = Cañón de bobina EMP CL-03
-    .gender = male
-    .desc = Un cañón de bobina de tamaño medio con cámara para sabots de 3cm. Inflige daño leve, aunque extiende el temido efecto EMP en un área. Necesita un Hardpoint Medio.
-
-ent-MediumMechDMR = Autocañón DMR-90mm
-    .gender = male
-    .desc = Un autocañón de servicio pesado con cámara para 90mm. Arma de uso general para Hardpoint Medio.
-
-ent-MediumMechTOW = Plataforma de misil antitanque ASM-55 TOW
-    .gender = female
-    .desc = Misil antitanque reconvertido. El ordenador de guiado por cable se sustituye por un sistema de puntería mucho más sofisticado, pero la movilidad deja mucho que desear. Encaja en Hardpoints Medios.
-
-ent-MediumXenoArtifact = artefacto alienígena
-    .gender = male
-    .desc = Un extraño dispositivo alienígena.
-
-ent-MediumXenoArtifactItem = artefacto alienígena
-    .gender = male
-    .desc = Un extraño dispositivo alienígena de mano.
-
-ent-Medkit = botiquín de primeros auxilios
-    .gender = male
-    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
-
-ent-MedkitAdvanced = botiquín de primeros auxilios avanzado
-    .gender = male
-    .desc = Un botiquín avanzado para tratar heridas avanzadas.
-
-ent-MedkitAdvancedFilled = botiquín de primeros auxilios avanzado
-    .gender = male
-    .desc = Un botiquín avanzado para tratar heridas avanzadas.
-
-ent-MedkitBrute = botiquín de tratamiento de traumatismos por contusión
-    .gender = male
-    .desc = Un botiquín para cuando te den con la caja de herramientas.
-
-ent-MedkitBruteFilled = botiquín de tratamiento de traumatismos por contusión
-    .gender = male
-    .desc = Un botiquín para cuando te den con la caja de herramientas.
-
-ent-MedkitBurn = botiquín de tratamiento de quemaduras
-    .gender = male
-    .desc = Un botiquín médico especializado para cuando el laboratorio de toxinas se incendie espontáneamente.
-
-ent-MedkitBurnFilled = botiquín de tratamiento de quemaduras
-    .gender = male
-    .desc = Un botiquín médico especializado para cuando el laboratorio de toxinas se incendie espontáneamente.
-
-ent-MedkitCombat = botiquín médico de combate
-    .gender = male
-    .desc = Para los pesos pesados entre nosotros.
-
-ent-MedkitCombatFilled = botiquín médico de combate
-    .gender = male
-    .desc = Para los pesos pesados entre nosotros.
-
-ent-MedkitCombatStasiziumFilled = botiquín futurista
-    .gender = male
-    .desc = Botiquín lleno de medicamentos del futuro
-
-ent-MedkitFilled = botiquín de primeros auxilios
-    .gender = male
-    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
-
-ent-MedkitO2 = botiquín de tratamiento por privación de oxígeno
-    .gender = male
-    .desc = Una caja llena de productos para el oxígeno.
-
-ent-MedkitOxygenFilled = botiquín de tratamiento por privación de oxígeno
-    .gender = male
-    .desc = Una caja llena de productos para el oxígeno.
-
-ent-MedkitRadiation = botiquín de tratamiento de radiación
-    .gender = male
-    .desc = Si hubieras tomado tu Rad-X, no necesitarías esto.
-
-ent-MedkitRadiationFilled = botiquín de tratamiento de radiación
-    .gender = male
-    .desc = Si hubieras tomado tu Rad-X, no necesitarías esto.
-
-ent-MedkitToxin = botiquín de tratamiento de toxinas
-    .gender = male
-    .desc = Se usa para tratar el contenido tóxico en sangre.
-
-ent-MedkitToxinFilled = botiquín de tratamiento de toxinas
-    .gender = male
-    .desc = Se usa para tratar el contenido tóxico en sangre.
-
-ent-MedMedicIDCard = tarjeta de identificación de socorrista de emergencias
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MedTekCartridge = Cartucho MedTek
-    .gender = male
-    .desc = Un programa que proporciona herramientas de diagnóstico médico.
-
-ent-MegaSprayBottle = botella de spray gigante
-    .gender = female
-    .desc = Una enorme botella de spray con una potencia de limpieza sin rival.
-
-ent-MeleeDebug100 = palo de golpe 100dmg
-    .gender = male
-    .desc = golpea fuerte, ya
-
-ent-MeleeDebug200 = palo de golpe 200dmg
-    .gender = male
-    .desc = golpea fuerte, ya
-
-ent-MeleeDebugBurner = quemador explosivo
-    .gender = male
-    .desc = quema tus partes
-
-ent-MeleeDebugBurner200 = quemador explosivo 200dmg
-    .gender = male
-    .desc = quema tus partes
-
-ent-MeleeDebugGib = palo de golpe descuartizador
-    .gender = male
-    .desc = golpea fuerte, ya
-
-ent-MeleeDebugSever = cercenador explosivo
-    .gender = male
-    .desc = cercena tus partes dentro de una semana
-
-ent-MeleeDebugSever100 = cercenador explosivo 100dmg
-    .gender = male
-    .desc = cercena tus partes dentro de una semana
-
-ent-MeleeDebugSever200 = cercenador explosivo 200dmg
-    .gender = male
-    .desc = cercena tus partes dentro de una semana
-
-ent-MeleeHammer = martillo
-    .gender = male
-    .desc = 3 acero 2 madera
-
-ent-Memorial = memorial
-    .gender = male
-    .desc = Para conmemorar algo.
-
-ent-MemorialDisplay = Expositor Conmemorativo
-    .gender = male
-    .desc = Una lista actualizada de quienes no han escatimado nada y lo han dado todo en la expansión del Frontier.
-
-ent-MemoryCell = celda de memoria
-    .gender = female
-    .desc = Un circuito D-Latch que almacena una señal que puede modificarse según los puertos de entrada y habilitación.
-
-ent-MercenaryCounterfeitCache = alijo de falsificaciones
-    .gender = male
-    .desc = Alijo con créditos falsificados y carteles de películas piratas.
-
-ent-MercenaryIDCard = tarjeta de identificación de mercenario
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MercenaryPDA = PDA de mercenario
-    .gender = female
-    .desc = Este PDA huele a guerra.
-
-ent-MercenaryTechFab = techfab de mercenario
-    .gender = male
-    .desc = Imprime lo mínimo imprescindible de herramientas del oficio que cualquier mercenario de bajo presupuesto o seguridad privada pudiera necesitar. Sin lujos.
-
-ent-MercenaryTechFabCircuitboardHackedNF = placa de máquina de techfab de mercenario hackeada
-    .gender = female
-    .desc = Una placa de circuito pintada con aerosol para un techfab de mercenario con algunos cacharros pegados. No te preocupes por eso, choomba.
-
-ent-MercenaryTechFabCircuitboardNF = placa de máquina de techfab de mercenario
-    .gender = female
-    .desc = Una placa de circuito impresa en máquina para un techfab de mercenario.
-
-ent-MercenaryTechFabFlatpack = paquete plano de techfab de mercenario
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un techfab de mercenario.
-
-ent-MercenaryTechFabHacked = techfab de mercenario hackeado
-    .gender = male
-    .desc = Imprime lo mínimo imprescindible de herramientas del oficio que cualquier mercenario de bajo presupuesto o seguridad privada pudiera necesitar. Sin lujos.
-
-ent-Mesh10Lingering = malla regenerativa
-    .gender = female
-    .desc = Se usa para tratar incluso las quemaduras más graves. También es eficaz contra las quemaduras cáusticas.
-
-ent-MetalBarrelBlack = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelBlue = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelGreen = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelGrey = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelRed = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelWhite = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBarrelYellow = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-MetalBaseballBat = bate de béisbol metálico
-    .gender = male
-    .desc = Un bate de béisbol metálico muy robusto y pesado para dar buenas palizas. Tiene un agradable mango de madera.
-
-ent-MetalDoor = puerta metálica
-    .gender = female
-    .desc = Una puerta, ¿a dónde llevará?
-
-ent-MetalFoam = espuma metálica
-
-ent-MetalFoamGrenade = granada de espuma metálica
-    .gender = female
-    .desc = Una herramienta de emergencia para tapar agujeros. Casi tan buena como las paredes de verdad.
-
-ent-MetalFoamGrenadeLaunched = granada de espuma metálica
-    .gender = female
-    .desc = Una herramienta de emergencia para tapar agujeros. Casi tan buena como las paredes de verdad.
-
-ent-MeteorLarge = meteoro
-    .gender = male
-    .desc = Los prefieres cuando se queman en la atmósfera.
-
-ent-MeteorMedium = meteoro
-    .gender = male
-    .desc = Los prefieres cuando se queman en la atmósfera.
-
-ent-MeteorRock = roca meteorítica
-    .gender = female
-    .desc = Lo que queda de un meteorito.
-
-ent-MeteorRockBananium = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en bananio.
-
-ent-MeteorRockCoal = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en carbón.
-
-ent-MeteorRockDiamond = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en diamantes.
-
-ent-MeteorRockGold = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en oro.
-
-ent-MeteorRockPlasma = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en plasma.
-
-ent-MeteorRockQuartz = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en cuarzo.
-
-ent-MeteorRockSilver = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en plata.
-
-ent-MeteorRockTin = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en hierro.
-
-ent-MeteorRockUranium = roca meteorítica
-    .gender = female
-    .desc = Una veta de mineral rica en uranio.
-
-ent-MeteorSmall = meteoro
-    .gender = male
-    .desc = Los prefieres cuando se queman en la atmósfera.
-
-ent-MeteorSpaceDust = polvo espacial
-    .gender = male
-    .desc = Hace estornudar a la estación.
-
-ent-MeteorUrist = Urist McMeteor
-    .gender = male
-    .desc = Como miembro exitoso de la sociedad con una psique estable e inquebrantable, una determinación sin límites y una afinidad natural por las finanzas y la dominación, has sido elegido, no, has sido guiado sin esfuerzo por el trauma divino (biológico) hacia este momento. Las puertas del destino se abren de par en par, y una vez más te encuentras de pie sobre la nada palpitante. Un insoportable dolor de cabeza del alma.
-
-ent-MicroBombImplant = implante de microbomba
-    .gender = male
-    .desc = Este implante detona al usuario al activarse o al morir.
-
-ent-MicroBombImplanter = implantador del Syndicate
-    .gender = male
-    .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MicroManipulatorStockPart = manipulador
-    .gender = male
-    .desc = Un manipulador básico utilizado en la construcción de una variedad de dispositivos.
-
-ent-MicrophoneInstrument = micrófono
-    .gender = male
-    .desc = Perfecto para cantar a pleno pulmón.
-
-ent-MicrowaveMachineCircuitboard = placa de máquina de microondas
-
-ent-MilitaryPowerCellLMG = batería para LMG
-    .gender = female
-    .desc = Una batería de coche compatible con la LMG láser, acoplable a una mochila proveedora de carga.
-
-ent-MilitaryPowerCellMG = Celda de batería EM72 Ashstorm
-    .gender = female
-    .desc = Una celda de batería redonda diseñada para el EM72 Ashstorm.
-
-ent-MilitaryTechfabMachineCircuitboard = placa de ensambladora militar multipropósito
-    .gender = female
-    .desc = Una placa de circuito impreso para una ensambladora militar.
-
-ent-Milkalyzer = lechealizador
-    .gender = male
-    .desc = Un escáner ambiental portátil que informa de los niveles actuales de gas. ¡Muuu!
-
-ent-MimanaSeeds = paquete de semillas de mimana
-
-ent-MimeIDCard = tarjeta de identificación de mimo
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MimePDA = PDA de mimo
-    .gender = female
-    .desc = Sorprendentemente no está en silencio.
-
-ent-MimePowersImplant = implante de voto de mimo
-    .gender = male
-    .desc = Este implante permite al usuario tomar el voto del mimo.
-
-ent-MimePowersImplanter = implantador
-    .gender = male
-    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MindBase = mente
-
-ent-MindRoleDragon = Rol de Dragón
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleEmotionalSupportPet = Rol de Fantasma (Mascota de Apoyo Emocional)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleFamiliar = Rol de Fantasma (Familiar)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleFreeAgent = Rol de Fantasma (Agente Libre)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleFreeAgentHarmless = Rol de Fantasma (Agente Libre)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleNeutral = Rol de Fantasma
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleSilicon = Rol de Fantasma (Silicio)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleSiliconAntagonist = Rol de Fantasma (Antagonista de Silicio)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleSoloAntagonist = Rol de Fantasma (Antagonista en Solitario)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleTeamAntagonist = Rol de Fantasma (Antagonista de Equipo)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleGhostRoleTeamAntagonistFlock = Rol de Fantasma (Antagonista de Equipo)
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleHeadRevolutionary = Rol de Líder Revolucionario
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleInitialInfected = Rol de Infectado Inicial
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleJob = Rol de Trabajo
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleNinja = Rol de Ninja Espacial
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleNukeops = Rol de Operativo de Nukeops
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleNukeopsCommander = Rol de Comandante de Nukeops
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleNukeopsMedic = Rol de Médico de Nukeops
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleObserver = Rol de Observador
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleRevolutionary = Rol de Revolucionario
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleSiliconBrain = Rol de Cerebro Borg
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleSubvertedSilicon = Rol de Silicio Subvertido
-
-ent-MindRoleSurvivor = Rol de Superviviente
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleThief = Rol de Ladrón
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleTraitor = Rol de Traidor
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleTraitorReinforcement = Rol de Refuerzo del Syndicate
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleTraitorSleeper = Rol de Agente Durmiente
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleWizard = Rol de Mago
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindRoleZombie = Rol de Zombie
-    .gender = male
-    .desc = Entidad de rol mental
-
-ent-MindShieldImplant = implante de escudo mental
-    .gender = male
-    .desc = Este implante protegerá el cerebro de influencias externas e impedirá el uso de dispositivos de control mental.
 
