@@ -1,11 +1,11 @@
 <Document>
-  # Flight
+  # Vuelo
 
   <Box>
     <GuideEntityEmbed Entity="CEActionZFlightToggle" Caption="The flight action"/>
   </Box>
 
-  Certain winged specieses are capable of flying on planets. This allows them to somewhat freely move up and down the planet's air, at the cost of significant stamina draw.
+  Algunas especies aladas pueden volar en los planetas. Esto les permite ascender y descender con cierta libertad por la atmósfera del planeta a costa de un consumo considerable de resistencia.
 
-  The stamina draw of flight can be described with the following function: [bold]baseDrain * (mass / 70)[/bold] (where baseDrain is your species's base stamina drain and mass is your own weight).
+  El consumo de resistencia del vuelo puede describirse mediante la siguiente función: [bold]consumoBase * (masa / 70)[/bold] (donde consumoBase es el consumo de resistencia base de tu especie y masa es tu propio peso).
 </Document>

@@ -1,36 +1,36 @@
 <Document>
-  # Felinids
+  # Felínidos
 
   <Box>
     <GuideEntityEmbed Entity="MobFelinidDummy" Caption=""/>
   </Box>
 
-  Small and mischievous cat-eared people. Being small in itself has lots of upsides and downsides. They can hide inside duffelbags.
+  Personas pequeñas y traviesas con orejas de gato. Su reducido tamaño tiene muchas ventajas y desventajas. Pueden esconderse dentro de bolsas de lona.
 
-  ## Diet
+  ## Dieta
 
-  - Can eat raw meat.
-  - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
+  - Pueden comer carne cruda.
+  - Se intoxican con teobromina (chocolate, té y café) y alicina (cebolla y ajo).
 
-  ## Benefits
+  ## Ventajas
 
-  - They are smaller than Humans, making them harder to hit.
-  - Can fit in duffelbags.
-  - Have the ability to throw up an hairball to get rid of some of the chemicals from their bloodstream.
-  - Able to eat mice and rats after picking them up. This has the benefit of regenerating the hairball ability and feeding them.
-  - Uses their claws to do Slashing damage and Piercing damage.
-  - Can walk completely silently, but only while barefooted.
-  - Immunity to the OwOnavirus disease.
+  - Son más pequeños que los humanos, por lo que resulta más difícil acertarles.
+  - Caben en bolsas de lona.
+  - Pueden vomitar una bola de pelo para eliminar parte de las sustancias químicas de su sangre.
+  - Pueden comerse ratones y ratas después de recogerlos. Esto les alimenta y regenera su capacidad de expulsar bolas de pelo.
+  - Usan las garras para infligir daño cortante y perforante.
+  - Pueden caminar sin hacer ningún ruido, pero solo cuando van descalzos.
+  - Son inmunes a la enfermedad OwOnavirus.
 
-  ## Drawbacks
+  ## Desventajas
 
-  - Takes 10% more Blunt and Slash damage.
-  - Are easily shoved, pushed and carried around by every other morphotypes due to their small size.
-  - They are weaker and struggle to carry and pull things due to their small size. They are unable to carry an Oni.
-  - They have slightly less stamina than Humans.
+  - Reciben un 10 % más de daño contundente y cortante.
+  - Debido a su pequeño tamaño, los demás morfotipos pueden empujarlos y transportarlos con facilidad.
+  - Son más débiles y, debido a su pequeño tamaño, les cuesta transportar y arrastrar objetos. No pueden cargar con un Oni.
+  - Tienen algo menos de resistencia que los humanos.
 
-  ## Soft Paws
+  ## Patas acolchadas
 
-  This species lands softer when dropping from high altitudes. (In layman's terms, they have a higher distance where falling does not hurt or stun them.)
+  Esta especie aterriza con mayor suavidad al caer desde grandes alturas. (En términos sencillos, pueden caer desde más alto sin sufrir daño ni quedar aturdidos).
 
 </Document>
