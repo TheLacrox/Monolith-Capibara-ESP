@@ -1,30 +1,68 @@
 # Capibara translation workflow
 
-Translates the `en-US` Fluent tree into `es-ES` via Claude subagents.
+Current default: incremental maintenance after an upstream merge.
 
-## Inputs
-- `_Capibara/batches.json` — ordered array of batches (core-facing dirs first). Each batch is an
-  array of en-US-relative `.ftl` paths, packed to ~180 source lines per batch so no single agent
-  gets an oversized file. Regenerate with the batch generator (see the implementation plan,
-  Task 6 Step 1) — re-run it after a sync to translate only NEW/CHANGED files.
-- `_Capibara/glossary.md` — canonical es-ES terms + Fluent-preservation rules.
+Use `_Capibara/agent-workflows.md` for common preflight, conflict handling, validation, and PR
+handoff. Read `_Capibara/glossary.md` completely before translating.
 
-## Run (from the main Claude session)
-1. Invoke the `Workflow` tool with `args` = the batch count (an integer, e.g. 185) and the script
-   below. Passing only the count keeps `args` tiny; each agent reads its own slice of
-   `batches.json` by index.
-2. Each agent:
-   - Extracts its file list: `pwsh -c "(Get-Content _Capibara/batches.json -Raw | ConvertFrom-Json)[<i>] -join [Environment]::NewLine"`
-   - Reads `_Capibara/glossary.md` and follows it.
-   - For each en-US relative path, reads `Resources/Locale/en-US/<path>`, translates human text
-     only (preserving every `{ }` placeable, message ID, selector, function, escape), and writes
-     the result to `Resources/Locale/es-ES/<path>`.
-3. After the run:
-   - `pwsh _Capibara/validate-locale.ps1` MUST exit 0. Re-run failing batches (or hand-fix) until clean.
-   - Boot check: `dotnet test Content.IntegrationTests --filter "FullyQualifiedName~CapibaraCultureTest" -c Release`.
-   - `pwsh _Capibara/sync-locale.ps1 -UpdateManifest` to record the source hashes.
+## Incremental maintenance
 
-## Workflow script
+1. Detect source drift:
+
+   ```powershell
+   pwsh _Capibara/sync-locale.ps1
+   Get-Content _Capibara/sync-report.txt
+   ```
+
+2. Locate each `NEW` or `CHANGED` ID in `Resources/Locale/en-US/` and edit only its mirrored
+   `Resources/Locale/es-ES/` file.
+3. Translate human-readable text only. Preserve every message ID, attribute name, variable, term,
+   reference, selector key, function call, argument, escape, brace, and placeable boundary.
+4. Review diffs file by file. Do not mix unrelated editorial cleanup into an upstream sync.
+5. Validate before changing source hashes:
+
+   ```powershell
+   pwsh _Capibara/validate-locale.ps1
+   dotnet test Content.IntegrationTests --filter CapibaraCultureTest
+   pwsh _Capibara/sync-locale.ps1 -UpdateManifest
+   pwsh _Capibara/sync-locale.ps1
+   ```
+
+6. Require the final sync report to contain no unhandled `NEW` or `CHANGED` IDs.
+
+## Optional bounded delegation
+
+Delegate only when multiple independent files need translation. Partition work by file, give every
+worker its exact path list plus `_Capibara/glossary.md`, and bound concurrency to the available agent
+slots. Never assign the same file to two workers. The main agent reviews all output and alone runs
+validation and manifest updates.
+
+For a small maintenance pass, edit inline; orchestration overhead is not useful for one file or a
+few message IDs.
+
+## Legacy full-tree Claude workflow
+
+This section preserves the completed initial machine-translation process for reproducibility. It is
+not the normal maintenance path. The 2026-07-01 run translated 1,437 files in 185 batches through
+Claude's `Workflow` tool.
+
+### Legacy inputs
+
+- `_Capibara/batches.json` — ordered array of en-US-relative `.ftl` path batches, packed to roughly
+  180 source lines per batch.
+- `_Capibara/glossary.md` — canonical es-ES terms and Fluent-preservation rules.
+
+### Legacy run
+
+1. From a Claude session with the `Workflow` tool, invoke the script below with `args` equal to the
+   batch count.
+2. Each worker reads its batch from `_Capibara/batches.json`, reads the glossary, and writes only
+   its assigned mirrored es-ES files.
+3. After the run, validate locale structure, run `CapibaraCultureTest`, and update the manifest only
+   when both pass.
+
+### Legacy Workflow script
+
 ```javascript
 export const meta = {
   name: 'capibara-translate-es',
@@ -48,7 +86,7 @@ await pipeline(
 return { batches: N }
 ```
 
-## Resume
-Re-invoke the Workflow with the same script + `resumeFromRunId` of the prior run; completed
-agents return cached results, only unfinished batches re-run.
-```
+### Legacy resume
+
+Reinvoke `Workflow` with the same script and `resumeFromRunId` from the earlier run. Completed
+workers return cached results; only unfinished batches rerun.
