@@ -163,13 +163,17 @@ public sealed partial class ShipyardConsoleMenu : FancyWindow
             else
                 priceText = BankSystemExtensions.ToSpesoString(prototype!.Price);
 
+            // Capibara ESP: vessel descriptions are raw YAML strings with no upstream Loc hook.
+            // Look up an additive shipyard-<id>-desc key (es-ES/_Capibara/shipyard.ftl), fall back to YAML.
+            var vesselDescription = Loc.TryGetString($"shipyard-{prototype!.ID}-desc", out var locDesc) ? locDesc : prototype.Description;
+            // Capibara ESP end
             var vesselEntry = new VesselRow
             {
                 Vessel = prototype,
                 VesselName = { Text = prototype!.Name },
-                VesselDescription = { Text = prototype!.Description }, // Mono
+                VesselDescription = { Text = vesselDescription }, // Mono // Capibara ESP: localized
                 Purchase = { Text = Loc.GetString("shipyard-console-purchase-available"), Disabled = !canPurchase },
-                Guidebook = { Disabled = prototype.GuidebookPage is null, TooltipDelay = 0.2f, ToolTip = prototype.Description },
+                Guidebook = { Disabled = prototype.GuidebookPage is null, TooltipDelay = 0.2f, ToolTip = vesselDescription }, // Capibara ESP: localized
                 Price = { Text = priceText },
             };
             vesselEntry.Purchase.OnPressed += (args) => { OnOrderApproved?.Invoke(args); };

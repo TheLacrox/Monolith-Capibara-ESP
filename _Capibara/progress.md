@@ -43,6 +43,11 @@
   - Entities: fresh dump 17,027 rows; all strings already in `entities/tmp/tr-*.json`
     (incl. the 2026-07-21 refresh maps) → regenerated 17,007 keys, 0 English fallbacks.
   - Space-biome renames + 2 new biomes, 13 new vessel/POI splash keys, 9 new guide-entry titles.
+  - Local run check (server + client) caught one Fluent parse error (continuation line starting
+    with `[`) → fixed; `validate-locale.ps1` now flags that pattern.
+  - NEW divergence #3 (user-approved): shipyard purchase descriptions localized via
+    `shipyard-<vessel-id>-desc` keys in `es-ES/_Capibara/shipyard.ftl` (186 vessels, 8-agent
+    workflow). Regenerate after upstream adds/changes vessels: extract `- type: vessel`.`description`.
 - [ ] Human editorial review pass (machine output; proofread high-visibility strings first).
 - [ ] NOT translated (deliberate): map names (proper nouns), random-flavor datasets
   (ion-storm laws, ship names — raw upstream YAML, no loc support), changelog, hardcoded C# strings.

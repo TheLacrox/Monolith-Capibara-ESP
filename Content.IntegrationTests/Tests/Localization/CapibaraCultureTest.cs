@@ -44,6 +44,11 @@ public sealed class CapibaraCultureTest
             Is.EqualTo("un"),
             "INDEFINITE() should use the Spanish es-ES override.");
 
+        // 6. Shipyard purchase descriptions (Capibara divergence #3) resolve from the additive
+        //    es-ES/_Capibara/shipyard.ftl keys instead of the raw YAML description.
+        Assert.That(loc.HasString("shipyard-Eris-desc"), Is.True,
+            "shipyard-<vessel-id>-desc keys should exist in the es-ES bundle.");
+
         await pair.CleanReturnAsync();
     }
 }
