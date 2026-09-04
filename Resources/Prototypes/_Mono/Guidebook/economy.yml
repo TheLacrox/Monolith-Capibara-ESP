@@ -32,7 +32,7 @@
 
 - type: guideEntry
   id: PrecisionAssembler
-  name: Precision Assembler Recipes
+  name: Recetas del ensamblador de precisión # Capibara ESP: es-ES title (raw name, not loc-id-able)
   text: "/ServerInfo/_Mono/Guidebook/Economy/PrecisionAssembler.xml"
   priority: 3
   filterEnabled: True

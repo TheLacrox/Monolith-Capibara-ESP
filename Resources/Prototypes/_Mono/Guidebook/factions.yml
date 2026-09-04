@@ -42,7 +42,7 @@
 
 - type: guideEntry
   id: TSFMC_SOP
-  name: S.O.P.
+  name: Procedimientos estándar # Capibara ESP: es-ES title (raw name, not loc-id-able)
   text: "/ServerInfo/_Mono/Guidebook/Factions/TSFMC_SOP.xml"
   priority: 0
 
@@ -57,7 +57,7 @@
 
 - type: guideEntry
   id: TSFMC_Brigade
-  name: 21st Brigade
+  name: 21.ª Brigada # Capibara ESP: es-ES title (raw name, not loc-id-able)
   text: "/ServerInfo/_Mono/Guidebook/Factions/TSFMC_Brigade.xml"
   priority: 0
 

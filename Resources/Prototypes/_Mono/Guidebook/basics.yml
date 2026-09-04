@@ -1,5 +1,5 @@
 - type: guideEntry
   id: BeginnerGuide
-  name: Beginner's Guide
+  name: Guía para principiantes # Capibara ESP: es-ES title (raw name, not loc-id-able)
   text: "/ServerInfo/_Mono/Guidebook/BeginnerGuide.xml"
   priority: 2

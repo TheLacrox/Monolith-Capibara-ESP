@@ -6,7 +6,8 @@
 # ("Eris PDV3" -> vessel-eris-pdv-desc). Missing key = raw English fallback.
 #
 # Intentionally untranslated names (proper nouns / dynamic suffixes):
-#   Colossus Central (reads naturally in Spanish), Bahama Mama's, ADS Zenith CK-395,
+#   Caelestinus Central, TSFN Chengdu, MMC Hokkaido, PDV Jupiter, TSF-CIV "Stellar Blessing",
+#   Bahama Mama's, ADS Zenith CK-395,
 #   Cargo Depot (gets a letter appended at runtime, key would never match),
 #   ship names (carry a per-purchase hull number that a translation would drop).
 
@@ -34,11 +35,16 @@ vessel-trade-mall-name = Centro Comercial
 vessel-tsfmc-flagship-halcyon-name = Buque Insignia del TSFMC Halcyon
 vessel-tsfmc-secondary-outpost-name = Puesto Secundario del TSFMC
 vessel-zvezda-orbital-habitation-name = Hábitat Orbital Zvezda
+vessel-zeta-node-name = Nodo Zeta
+vessel-inso-357k-asteroid-cluster-name = Cúmulo de Asteroides INSO-357k
+vessel-linear-21-asteroid-cluster-name = Cúmulo de Asteroides LINEAR-21
+vessel-pdv-helios-fortress-name = Fortaleza Helios del PDV
 
 ## Vessel descriptions (VesselInfo)
 
-vessel-colossus-central-desc = Lo más parecido a la civilización en este sector. Casi te sientes a salvo.
+vessel-caelestinus-central-desc = Lo más parecido a la civilización en este sector. Casi te sientes a salvo.
 vessel-pdv-helio-fortress-desc = Un aura imperial opresiva acecha este lugar. Gloria al Sultán.
+vessel-pdv-helios-fortress-desc = Un aura imperial opresiva acecha este lugar. Gloria al Sultán.
 vessel-tsfmc-flagship-halcyon-desc = Un acorazado retirado convertido en base avanzada, y hogar de las operaciones del TSFMC.
 vessel-freeport-camelot-desc = Una vieja estación destartalada, remendada a lo largo de muchísimos ciclos...
 vessel-eris-pdv-desc = Construida para ser barata y eficaz, esta nave consigue aun así que varias toneladas de acero se sientan como un puente desvencijado.
@@ -49,7 +55,16 @@ vessel-kalisto-pdv-desc = Estrecha y sucia. Esto solo puede acabar bien...
 vessel-vulture-pdv-desc = Se rumorea que un Vulture arrasó un planeta pequeño él solo. Ahora te toca a ti comprobarlo.
 vessel-flyssa-tsfn-desc = El orgullo de la TSFN y una estrella brillante en el sector. Sol invictus.
 vessel-saturn-hss-desc = La respuesta del Sultán a los invasores del TSFMC. Aguanta castigo como ningún otro casco. Alabado sea el Sultán.
-vessel-altair-tsfn-desc = ¿De verdad merece la pena todo esto? Una sensación de arrepentimiento te invade, y luego desaparece.
+vessel-altair-tsfn-desc = Una fragata resistente construida para aguantar un castigo brutal... y sobrevivir. Con suerte, los condensadores de refrigerante no reventarán.
 vessel-andromeda-tsf-desc = Suficientes cañones para tapar las estrellas.
 vessel-buran-ussp-desc = Anticuada, pero aún fiable.
 vessel-ledokol-ussp-desc = ¿Por qué habré venido a este sector?
+vessel-zvezda-orbital-habitation-desc = Una estación medio abandonada y en descomposición. A veces se oye cómo se dobla el casco.
+vessel-tsfn-chengdu-desc = Suficiente armamento pesado para partir un planeta.
+vessel-zeta-node-desc = Hasta el aire tiene una fina capa de polvo.
+vessel-tsf-civ-stellar-blessing-desc = Una nave colonial del sistema de la Federación, enviada al Radio de Colossus para la expansión industrial. Hogar de civiles de la TSF.
+vessel-metis-pdv-desc = Diminuta, estrecha y mal construida. Este casco no durará mucho...
+vessel-aldebaran-tsf-desc = Uno de los pilares de la Federación: rápida, precisa y, con suerte, letal.
+vessel-hoplite-tsf-desc = Un armazón pequeño pero potente; cuidado con el latigazo de los propulsores.
+vessel-shiv-tsf-desc = Una nave tan curtida que aún se ven las cicatrices de la radiación bajo la pintura nueva.
+vessel-spica-tsf-desc = Esta nave es la encarnación viva de una patrullera solariana militarizada: va rápido y tiene capacidad EMP suficiente para freír, de forma permanente, todos los sistemas eléctricos de un carguero pequeño.
