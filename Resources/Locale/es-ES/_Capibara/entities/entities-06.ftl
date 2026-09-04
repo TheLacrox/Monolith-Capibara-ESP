@@ -1,3 +1,610 @@
+ent-SurveillanceCameraRouterSecurity = enrutador de cámara de seguridad
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterService = enrutador de cámara de servicio
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterSupply = enrutador de cámara de suministros
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterTSF = enrutador de cámara tsfmc
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterUSSP = enrutador de cámara USSP
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraScience = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraSecurity = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraService = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraSupply = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraTSF = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraUSSP = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraWirelessRouterCircuitboard = placa de enrutador inalámbrico de cámara de vigilancia
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un enrutador inalámbrico de cámara de vigilancia.
+
+ent-SurveillanceCameraWirelessRouterConstructed = enrutador de cámara inalámbrico
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraWirelessRouterEntertainment = enrutador de cámara de entretenimiento
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceWirelessCameraAnchoredCircuitboard = placa de cámara inalámbrica
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una cámara inalámbrica.
+
+ent-SurveillanceWirelessCameraAnchoredConstructed = cámara inalámbrica
+    .gender = female
+    .desc = Una cámara. Te está observando. Más o menos.
+
+ent-SurveillanceWirelessCameraAnchoredEntertainment = cámara inalámbrica
+    .gender = female
+    .desc = Una cámara. Te está observando. Más o menos.
+
+ent-SurveillanceWirelessCameraMonitorCircuitboard = placa de monitor de cámara inalámbrica de vigilancia
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para un monitor de cámara inalámbrica de vigilancia.
+
+ent-SurveillanceWirelessCameraMovableCircuitboard = placa de cámara inalámbrica móvil
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una cámara inalámbrica móvil.
+
+ent-SurveillanceWirelessCameraMovableConstructed = cámara inalámbrica
+    .gender = female
+    .desc = Una cámara. Te está observando. Más o menos.
+
+ent-SurveillanceWirelessCameraMovableEntertainment = cámara inalámbrica
+    .gender = female
+    .desc = Una cámara. Te está observando. Más o menos.
+
+ent-SurvivalKnife = cuchillo de supervivencia
+    .gender = male
+    .desc = Arma de primer y último recurso para combatir a las carpas espaciales.
+
+ent-Suture10Lingering = sutura medicada
+    .gender = female
+    .desc = Una sutura empapada en medicina que trata eficazmente los traumatismos por fuerza contundente y cierra heridas.
+
+ent-SyndiAgentPDA = PDA de agente del Syndicate
+    .gender = female
+    .desc = Para los días en que curar a los agentes del Syndicate normales no es suficiente, ¡prueba a curar a los operativos nucleares!
+
+ent-SyndicateBomb = bomba del Syndicate
+    .gender = female
+    .desc = Una bomba para operativos y agentes del Syndicate por igual. El artículo real, sin más entrenamiento, ¡al lío!
+
+ent-SyndicateBombFake = bomba del Syndicate
+    .gender = female
+    .desc = Una bomba para operativos y agentes del Syndicate por igual. El artículo real, sin más entrenamiento, ¡al lío!
+
+ent-SyndicateBombSilicon = bomba del Syndicate modificada
+    .gender = female
+    .desc = Una bomba para operativos y agentes del Syndicate por igual. Parece que esta explota por impacto físico
+
+ent-SyndicateBusinessCard = tarjeta de visita del Syndicate
+    .gender = female
+    .desc = Una tarjeta negra con el logo del Syndicate. Hay algo escrito en el reverso.
+
+ent-SyndicateCommsComputerCircuitboard = placa de ordenador de comunicaciones del Syndicate
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para una consola de comunicaciones del Syndicate.
+
+ent-SyndicateComputerComms = ordenador de comunicaciones del Syndicate
+    .gender = male
+    .desc = Un ordenador capaz de hackear remotamente los sistemas de comunicaciones de la estación. Usarlo para hacer un anuncio alertará a la estación de tu presencia.
+
+ent-SyndicateComputerTabletopComms = ordenador de comunicaciones del Syndicate
+    .gender = male
+    .desc = Un ordenador capaz de hackear remotamente los sistemas de comunicaciones de la estación. Usarlo para hacer un anuncio alertará a la estación de tu presencia.
+
+ent-SyndicateElectricRangeMachineCircuitboard = placa de cocina eléctrica del Syndicate
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una cocina eléctrica del Syndicate.
+
+ent-SyndicateIDCard = tarjeta de identificación del Syndicate
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-SyndicateJawsOfLife = cizalla de rescate avanzada
+    .gender = female
+    .desc = Útil para entrar en la estación o sus departamentos.
+
+ent-SyndicateKitchenElectricRange = cocina eléctrica donk co.
+    .gender = female
+    .desc = Una cocina funcional con una amplia gama de funciones.
+
+ent-SyndicateMicrowave = microondas donk co.
+    .desc = ¡Tan avanzado que puede cocinar donk-pockets en apenas 2,5 segundos!
+
+ent-SyndicateMicrowaveMachineCircuitboard = placa de microondas donk co.
+
+ent-SyndicatePersonalAI = dispositivo de IA personal del Syndicate
+    .gender = male
+    .desc = ¡Tu compañero del Syndicate con quien es divertido estar!
+
+ent-SyndicateShuttleConsoleCircuitboard = placa de consola de transbordador del Syndicate
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para una consola de transbordador del Syndicate.
+
+ent-SyndicateSponge = cubo de mono
+    .gender = male
+    .desc = ¡Solo añade agua!
+
+ent-SyndicateSpongeBox = caja de cubos de mono
+    .gender = female
+    .desc = Cubos de mono de la marca Drymate. ¡Solo añade agua!
+
+ent-SyndicateSpongeWrapped = cubo de mono
+    .gender = male
+    .desc = Desenvuelve esto para obtener un cubo de mono.
+
+ent-SyndicateWhistle = silbato de trinchera
+    .gender = male
+    .desc = Un silbato utilizado por los comandantes del Syndicate para llamar la atención. ¡Avanti!
+
+ent-SyndieFlag = bandera del Syndicate
+    .gender = female
+    .desc = Huele a sangre. ¡Muerte a NT!
+
+ent-SyndieHandyFlag = bandera de mano del Syndicate
+    .gender = female
+    .desc = Para patriotas verdaderamente rebeldes. ¡Muerte a NT!
+
+ent-SyndieMiniBomb = minibomba del Syndicate
+    .gender = female
+    .desc = Explosivo fabricado por el Syndicate para sembrar destrucción y causar caos.
+
+ent-SyndieSoldierSpawner = generador de soldado del Syndicate
+
+ent-SyndieSoldierTeamLeaderSpawner = generador de líder de equipo del Syndicate
+
+ent-SyndieTrickyBomb = bomba trampa del Syndicate
+    .gender = female
+    .desc = Explosivo fabricado por el Syndicate para crear una excelente distracción.
+
+ent-SyndieVisitorSpawner = generador de víctima de desastre syndie
+
+ent-SyndiHypo = hipospray Gorlex
+    .gender = male
+    .desc = Usando diseños de ingeniería inversa de NT, Cybersun los produjo en cantidades limitadas para los operativos de Gorlex Marauder.
+
+ent-SyndiPDA = PDA del Syndicate
+    .gender = female
+    .desc = Bien, es hora de ser un miembro productivo de- ¡oh genial, soy el malo, a matar gente!
+
+ent-SynthesizerInstrument = sintetizador
+    .gender = male
+    .desc = Es un instrumento.
+
+ent-Syringe = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeAmbuzol = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeBicaridine = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeBluespace = jeringa de espacio azul
+    .gender = female
+    .desc = Inyección con tecnología avanzada de espacio azul.
+
+ent-SyringeCase = estuche de jeringas
+    .gender = male
+    .desc = Un estuche de transporte resistente que ayuda a mantener organizados los suministros médicos de viaje.
+
+ent-SyringeCaseAlt = estuche de medipens
+    .gender = male
+    .desc = Un estuche de transporte resistente que ayuda a mantener tus medipens organizados.
+
+ent-SyringeCaseAltFilled = estuche de medipens
+    .gender = male
+    .desc = Un estuche de transporte resistente que ayuda a mantener tus medipens organizados.
+
+ent-SyringeCognizine = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeCryostasis = jeringa de crioestasis
+    .gender = female
+    .desc = Una jeringa utilizada para contener productos químicos o soluciones sin reacciones.
+
+ent-SyringeDermaline = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeEphedrine = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeEthylredoxrazine = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeHyronalin = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeInaprovaline = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeIpecac = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeLetoferol = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeOpporozidone = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringePhalanximine = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeRomerol = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeSaline = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeSigynate = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeStimulants = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-SyringeTranexamicAcid = jeringa
+    .gender = female
+    .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
+
+ent-Table = mesa
+    .gender = female
+    .desc = Una pieza cuadrada de metal sobre cuatro patas metálicas.
+
+ent-TableBrass = mesa de latón
+    .gender = female
+    .desc = Una reluciente mesa de latón resistente a la corrosión. ¡Steampunk!
+
+ent-TableCarpet = mesa de juego
+    .gender = female
+    .desc = Juégalas, vaquero.
+
+ent-TableCounterMetal = mostrador de metal
+    .gender = male
+    .desc = Parece un buen lugar donde dejar una bebida.
+
+ent-TableCounterWood = mostrador de madera
+    .gender = male
+    .desc = No le apliques fuego. Los rumores dicen que arde con facilidad.
+
+ent-TableDebug = mesa
+    .gender = female
+    .desc = ¡¡PONTE ESOS CALCETINES DE PROGRAMADOR!!
+
+ent-TableFancyBlack = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyBlue = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyCyan = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyGreen = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyOrange = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyPink = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyPurple = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyRed = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFancyWhite = mesa elegante
+    .gender = female
+    .desc = Cara y lujosa.
+
+ent-TableFolding = mesa plegable
+    .gender = female
+    .desc = Si llevas seis de estas, te conviertes en el niño más guay de la iglesia.
+
+ent-TableFoldingSpawnFolded = mesa plegable
+    .gender = female
+    .desc = Si llevas seis de estas, te conviertes en el niño más guay de la iglesia.
+
+ent-TableFrame = armazón de mesa
+    .gender = male
+    .desc = Piezas de metal que forman la estructura de una mesa.
+
+ent-TableGlass = mesa de cristal
+    .gender = female
+    .desc = Una pieza cuadrada de cristal sobre cuatro patas metálicas.
+
+ent-TablePlasmaGlass = mesa de cristal de plasma
+    .gender = female
+    .desc = Una pieza cuadrada de cristal de plasma sobre cuatro patas metálicas. ¡Bonita!
+
+ent-TableReinforced = mesa reforzada
+    .gender = female
+    .desc = Una pieza cuadrada de metal sobre cuatro patas metálicas. Extra robusta.
+
+ent-TableReinforcedGlass = mesa de cristal reforzado
+    .gender = female
+    .desc = Una pieza cuadrada de cristal sobre cuatro patas metálicas. Extra robusta.
+
+ent-TableStone = mesa de piedra
+    .gender = female
+    .desc = Literalmente la cosa más sólida que hayas visto jamás.
+
+ent-TableWeb = mesa de telaraña
+    .gender = female
+    .desc = Realmente suave y sorprendentemente duradera.
+
+ent-TableWood = mesa de madera
+    .gender = female
+    .desc = No le apliques fuego. Los rumores dicen que arde con facilidad.
+
+ent-TableWoodReinforced = mesa de madera reforzada
+    .gender = female
+    .desc = Una mesa de madera clásica. Extra robusta.
+
+ent-TableXeno = mesa xeno
+    .gender = female
+    .desc = Yo no pondría la cubertería encima.
+
+ent-TagTestDummy = TagTestDummy
+
+ent-TaikoInstrument = taiko
+    .gender = male
+    .desc = Un tambor grande. Mirarlo te llena de las ganas de golpearlo.
+
+ent-TaikoInstrumentFlatpack = paquete plano de taiko
+    .gender = male
+    .desc = Un paquete plano que contiene un taiko.
+
+ent-TailCarp = cola de carpa
+    .gender = female
+    .desc = Unas glándulas únicas en esta cola permiten a las carpas espaciales volar en el vacío.
+
+ent-TajaranCube = cubo tajaran
+    .gender = male
+    .desc = ¡Solo añade agua!
+
+ent-TapeRecorderTranscript = transcripción de registro
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-TargetClown = diana de payaso
+    .gender = female
+    .desc = Una diana de tiro. Esta es un payaso.
+
+ent-TargetDarts = diana de dardos
+    .gender = female
+    .desc = Una diana para jugar a los dardos.
+
+ent-TargetDartsFlatpack = diana de dardos
+    .gender = female
+    .desc = Un paquete plano para construir una diana de dardos.
+
+ent-TargetHuman = diana humana
+    .gender = female
+    .desc = Una diana de tiro. Esta es un humano.
+
+ent-TargetStrange = diana extraña
+    .gender = female
+    .desc = Una diana de tiro. No estás muy seguro de qué es esta, pero parece ser extra robusta.
+
+ent-TargetSyndicate = diana del Syndicate
+    .gender = female
+    .desc = Una diana de tiro. Esta es un agente del Syndicate.
+
+ent-tatamimat = esterilla de tatami
+    .gender = female
+    .desc = Es una porción de una esterilla de tatami.
+
+ent-tatamisingle = cuadrado de tatami
+    .gender = male
+    .desc = Es tatami, pero cuadrado.
+
+ent-TauCetiBasicTranslatorImplant = implante traductor común avanzado
+    .gender = male
+    .desc = Una versión más avanzada del implante traductor, ¡enseña a tus amigos analfabetos la capacidad de hablar y entender la lengua galáctica!
+
+ent-TeaPlantSeeds = paquete de semillas de planta de té
+
+ent-TearGasGrenade = granada de gas lacrimógeno
+    .gender = female
+    .desc = Una granada de gas lacrimógeno para control de disturbios. Causa irritación, dolor y te hace llorar a mares.
+
+ent-Teaspoon = cucharilla
+    .gender = female
+    .desc = Una cucharilla pequeña para transferir cantidades mínimas de polvo a tazas.
+
+ent-TechDiskBase = disco tecnológico
+    .gender = male
+    .desc = Un disco capaz de añadir una investigación específica a un servidor.
+
+ent-TechDiskBluespaceBags = disco tecnológico de almacenamiento de espacio azul pre-fractura
+    .gender = male
+    .desc = Un disco capaz de añadir almacenamiento avanzado de espacio azul a las recetas de un servidor.
+
+ent-TechDiskBulldog = disco tecnológico de facción PDV Bulldog
+    .gender = male
+    .desc = Un disco capaz de añadir el Bulldog y su munición a las recetas de un servidor, para tecno-fabricadores de facción.
+
+ent-TechDiskC20r = disco tecnológico de facción PDV C-20r
+    .gender = male
+    .desc = Un disco capaz de añadir el C-20r y su munición a las recetas de un servidor, para tecno-fabricadores de facción.
+
+ent-TechDiskCivAdvancedTools = disco tecnológico de herramientas eléctricas civiles
+    .gender = male
+    .desc = Un disco capaz de añadir herramientas de rescate hidráulicas y taladros eléctricos a las recetas de un servidor.
+
+ent-TechDiskCivBackpackWaterTank = disco tecnológico de hidrolimpiadora civil
+    .gender = male
+    .desc = Un disco capaz de añadir pulverizadores de líquido de alta capacidad y tanques a las recetas de un servidor. ¡Nunca se usaría para un lanzallamas, lo juro!
+
+ent-TechDiskCivBluespaceBags = disco tecnológico de almacenamiento de espacio azul civil
+    .gender = male
+    .desc = Un disco capaz de añadir almacenamiento bluespace básico a las recetas de un servidor.
+
+ent-TechDiskCivCTLA50 = disco tecnológico CTLA-50 civil
+    .gender = male
+    .desc = Un disco capaz de añadir propulsores FTL CTLA-50/25 a las recetas de un servidor.
+
+ent-TechDiskCivMicroreactors = disco tecnológico de celdas de energía de alta eficiencia civil
+    .gender = male
+    .desc = Un disco capaz de añadir microreactores y celdas de hipercapacidad a las recetas de un servidor.
+
+ent-TechDiskCivMS250 = disco tecnológico de escudo MS-250 civil
+    .gender = male
+    .desc = Un disco capaz de añadir placas de escudo MS-250/MS-100 a las recetas de un servidor.
+
+ent-TechDiskCivShipComps = disco tecnológico de componentes de nave civil
+    .gender = male
+    .desc = Un disco capaz de añadir escudos básicos y propulsores FTL a las recetas de un servidor.
+
+ent-TechDiskCivTranslationBasic = disco de tecnología de traducción de especies civil
+    .gender = male
+    .desc = Un disco capaz de añadir traductores específicos de especie a las recetas de un servidor.
+
+ent-TechDiskComputerCircuitboard = placa de terminal de disco tecnológico
+    .gender = female
+    .desc = Una placa de circuito impreso para un terminal de disco tecnológico.
+
+ent-TechDiskEnergyWeapons = disco tecnológico de facción de armas de energía pre-Fractura
+    .gender = male
+    .desc = Un disco capaz de añadir armas de energía y escudos a las recetas de un servidor, para los fabricadores de facción.
+
+ent-TechDiskFtl = disco tecnológico de propulsor bluespace pre-Fractura
+    .gender = male
+    .desc = Un disco capaz de añadir propulsores FTL a las recetas de un servidor.
+
+ent-TechDiskHristov = disco tecnológico de facción PDV Hristov
+    .gender = male
+    .desc = Un disco capaz de añadir el Hristov y su munición a las recetas de un servidor, para los fabricadores de facción.
+
+ent-TechDiskM90 = disco tecnológico de facción PDV M-90
+    .gender = male
+    .desc = Un disco capaz de añadir el M-90 y su munición a las recetas de un servidor, para los fabricadores de facción.
+
+ent-TechDiskMechBallistics = disco tecnológico de meca de armas balísticas
+    .gender = male
+    .desc = Un disco capaz de añadir armas balísticas para mecas a las recetas de un servidor.
+
+ent-TechDiskMechCiv = disco tecnológico de meca APLU
+    .gender = male
+    .desc = Un disco capaz de añadir cargadores mecánicos civiles a las recetas de un servidor.
+
+ent-TechDiskMechEWAR = disco tecnológico de meca EWAR
+    .gender = male
+    .desc = Un disco capaz de añadir equipamiento EWAR para mecas a las recetas de un servidor.
+
+ent-TechDiskMechGygax = disco tecnológico de meca de combate terrestre
+    .gender = male
+    .desc = Un disco capaz de añadir la construcción del Gygax a las recetas de un servidor.
+
+ent-TechDiskMechHeavyIndustrial = disco tecnológico de meca industrial pesada
+    .gender = male
+    .desc = Un disco capaz de añadir mecas de carga y salvamento pesadas a las recetas de un servidor.
+
+ent-TechDiskMechIFF = disco tecnológico de meca IFF
+    .gender = male
+    .desc = Un disco capaz de añadir equipamiento IFF para mecas a las recetas de un servidor.
+
+ent-TechDiskMechMissiles = disco tecnológico de meca con portamisiles
+    .gender = male
+    .desc = Un disco capaz de añadir portamisiles para mecas a las recetas de un servidor.
+
+ent-TechDiskMechS2Base = disco tecnológico de meca S2 básica
+    .gender = male
+    .desc = Un disco capaz de añadir mecas S2 básicas a las recetas de un servidor.
+
+ent-TechDiskMechS2Spec = disco tecnológico de meca S2 especializada
+    .gender = male
+    .desc = Un disco capaz de añadir chasis de meca S2 especializados a las recetas de un servidor.
+
+ent-TechDiskMechS4Base = disco tecnológico de meca S4 básica
+    .gender = male
+    .desc = Un disco capaz de añadir mecas S4 básicas a las recetas de un servidor.
+
+ent-TechDiskMechS4Spec = disco tecnológico de meca S4 especializada
+    .gender = male
+    .desc = Un disco capaz de añadir chasis de meca S4 especializados a las recetas de un servidor.
+
+ent-TechDiskMechWeaponsHeavy = disco tecnológico de armamento pesado para mecas
+    .gender = male
+    .desc = Un disco capaz de añadir armas pesadas para mecas a las recetas de un servidor.
+
+ent-TechDiskMechWeaponsLight = disco tecnológico de armamento ligero para mecas
+    .gender = male
+    .desc = Un disco capaz de añadir armas ligeras para mecas a las recetas de un servidor.
+
+ent-TechDiskMechWeaponsMedium = disco tecnológico de armamento medio para mecas
+    .gender = male
+    .desc = Un disco capaz de añadir armas medias para mecas a las recetas de un servidor.
+
+ent-TechDiskMla73 = disco tecnológico de facción PDV MLA-73
+    .gender = male
+    .desc = Un disco capaz de añadir el MLA-73 y su munición a las recetas de un servidor, para los fabricadores de facción.
+
+ent-TechDiskPrinter = impresora de discos tecnológicos
+    .gender = female
+    .desc = Una máquina que imprime automáticamente discos tecnológicos cada 7,5 minutos a partir de datos pre-Fractura recabados automáticamente. Necesita 120 kW de energía HV para funcionar.
+
+ent-TechDiskRCD = disco tecnológico de manipulación rápida de materia
+    .gender = male
+    .desc = Un disco capaz de añadir equipamiento RCD a las recetas de un servidor.
+
 ent-TechDiskRogueTools = disco tecnológico de facción PDV de equipamiento
     .gender = male
     .desc = Un disco capaz de añadir diversas herramientas de los Rogues a las recetas de un servidor, para los fabricadores de facción.
@@ -20,23 +627,23 @@ ent-TechDiskTranslationPreFracture = disco de tecnología de traducción avanzad
 
 ent-TechDiskTSFAnnie = Disco tecnológico de facción TSF Annie
     .gender = male
-    .desc = Un disco capaz de añadir la M-27 Annie y su munición a las recetas de un servidor, para los techfabs de facción.
+    .desc = Un disco capaz de añadir el QBZ-430 Annie y su munición a las recetas de un servidor para los techfabs de facción.
 
 ent-TechDiskTSFBandit = Disco tecnológico de facción TSF Bandit
     .gender = male
-    .desc = Un disco capaz de añadir la MR-3 Bandit y su munición a las recetas de un servidor, para los techfabs de facción.
+    .desc = Un disco capaz de añadir el QBU-406 Bandit y su munición a las recetas de un servidor para los techfabs de facción.
 
 ent-TechDiskTSFDrozd = Disco tecnológico de facción TSF Drozd
     .gender = male
-    .desc = Un disco capaz de añadir la M-5 Drozd y su munición a las recetas de un servidor, para los techfabs de facción.
+    .desc = Un disco capaz de añadir el CS/LR-8 Drozd y su munición a las recetas de un servidor para los techfabs de facción.
 
-ent-TechDiskTSFICWS = Disco tecnológico de facción TSF ICWS
+ent-TechDiskTSFICWS = disco tecnológico de facción Taotie de la TSF
     .gender = male
-    .desc = Un disco capaz de añadir el XLR-556 ICWS y su munición a las recetas de un servidor, para los techfabs de facción.
+    .desc = Un disco capaz de añadir el QBZX-281 Taotie y su munición a las recetas de un servidor para los techfabs de facción.
 
 ent-TechDiskTSFLecter = Disco tecnológico de facción TSF Lecter
     .gender = male
-    .desc = Un disco capaz de añadir la M-6 Lecter y su munición a las recetas de un servidor, para los techfabs de facción.
+    .desc = Un disco capaz de añadir el QBZ-410 Lecter y su munición a las recetas de un servidor para los techfabs de facción.
 
 ent-TechDiskUniversalShipAmmo = Disco tecnológico de facción de munición naval universal
     .gender = male
@@ -307,6 +914,10 @@ ent-ThrusterNfsd = propulsor
 
 ent-ThrusterNfsdMachineCircuitboard = placa de máquina de propulsor TSFMC
 
+ent-ThrusterNfsdStealh = propulsor furtivo
+    .gender = male
+    .desc = Un propulsor con una estela de propulsión y una emisión térmica reducidas, pero con un empuje considerablemente menor.
+
 ent-ThrusterPartsT2 = propulsor
     .gender = male
     .desc = Un propulsor que permite mover un transbordador.
@@ -316,6 +927,10 @@ ent-ThrusterRogue = propulsor
     .desc = Un propulsor que permite mover un transbordador.
 
 ent-ThrusterRogueMachineCircuitboard = placa de máquina de propulsor Rogue
+
+ent-ThrusterRogueStealth = propulsor furtivo
+    .gender = male
+    .desc = Un propulsor con una estela de propulsión y una emisión térmica reducidas, pero con un empuje considerablemente menor.
 
 ent-ThrusterSecurity = propulsor
     .gender = male
@@ -389,10 +1004,6 @@ ent-TobaccoPouchRedFilled = bolsa «Fungal Whiff»
 ent-TobaccoSeeds = paquete de semillas de tabaco
     .gender = male
     .desc = Estas semillas crecen hasta convertirse en plantas de tabaco.
-
-ent-ToggleNightVision = Activar/desactivar visión nocturna
-    .gender = male
-    .desc = Activa o desactiva la visión nocturna.
 
 ent-ToggleThermalVision = Activar/desactivar visión térmica
     .gender = male
@@ -1147,7 +1758,11 @@ ent-TSFBorgChassisMedical = cyborg médico TSF
     .gender = male
     .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
 
-ent-TSFCarrierComputer = consola de portador TSF
+ent-TSFCarrierComputer = consola del portaaviones Tumour de la TSF
+    .gender = female
+    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
+
+ent-TSFCarrierComputerFujian = consola del portaaviones Fujian de la TSF
     .gender = female
     .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
 
@@ -1163,10 +1778,6 @@ ent-TsfEngiPDA = PDA de ingeniero TSFMC
     .gender = female
     .desc = Un ordenador personal estándar de la TSFMC.
 
-ent-TsfMarsocFTLIDCard = tarjeta de identificación de líder de equipo de fuego MARSOC TSFMC
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
 ent-TsfMarsocIDCard = tarjeta de identificación de operativo MARSOC TSFMC
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
@@ -1174,6 +1785,10 @@ ent-TsfMarsocIDCard = tarjeta de identificación de operativo MARSOC TSFMC
 ent-TSFMCCircuitBoard = placa de leyes (TSFMC)
     .gender = female
     .desc = Una placa electrónica que contiene el conjunto de leyes TSFMC.
+
+ent-TSFNChengduComputer = consola del hangar interno del Chengdu de la TSFN
+    .gender = female
+    .desc = Astillero ligero que utiliza los hangares internos del Chengdu y no tiene acceso al catálogo completo de naves de la TSFMC.
 
 ent-TubaInstrument = tuba
     .gender = female
@@ -1199,11 +1814,11 @@ ent-TurbineCCSmall = turbina de gas pequeña
 
 ent-TurbinePDV = turbina de gas
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada al PDV Denasvars.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la PDV.
 
 ent-TurbinePDVSmall = turbina de gas pequeña
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada al PDV Denasvars.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la PDV.
 
 ent-TurbineSmall = turbina de gas pequeña
     .gender = female
@@ -1211,11 +1826,11 @@ ent-TurbineSmall = turbina de gas pequeña
 
 ent-TurbineTSF = turbina de gas
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada a los líderes de equipo de fuego TSF.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la TSF.
 
 ent-TurbineTSFSmall = turbina de gas pequeña
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada a los líderes de equipo de fuego TSF.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la TSF.
 
 ent-TurbineUnaffiliated = turbina de gas
     .gender = female
@@ -1227,11 +1842,11 @@ ent-TurbineUnaffiliatedSmall = turbina de gas pequeña
 
 ent-TurbineUSSP = turbina de gas
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada a los Serzhants de la USSP.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la USSP.
 
 ent-TurbineUSSPSmall = turbina de gas pequeña
     .gender = female
-    .desc = Una gran turbina usada para generar energía mediante gas caliente. Bloqueada a los Serzhants de la USSP.
+    .desc = Una gran turbina utilizada para generar energía mediante gas caliente. Su uso está restringido a la USSP.
 
 ent-TurboItemRecharger = recargador turbo
     .gender = male
@@ -1268,6 +1883,14 @@ ent-UllmanWeaponPulseSniper = Rifle francotirador de pulso U.I. DP-40
 ent-UndeterminedPDVInfiltratorKit = Selector de equipo del Infiltrador PDV
     .gender = male
     .desc = Un pequeño mando a distancia que utiliza tecnología bluespace para desplegar el kit de infiltrador imperial de tu elección.
+
+ent-UndeterminedPDVTarkhanKit = selector de equipamiento Tarkhan de la PDV
+    .gender = male
+    .desc = Un pequeño mando a distancia que utiliza tecnología bluespace para desplegar un kit imperial Tarkhan a tu elección.
+
+ent-UndeterminedTSFMarsocKit = selector de equipamiento MARSOC de la TSF
+    .gender = male
+    .desc = Un pequeño mando a distancia que utiliza tecnología bluespace para desplegar un kit MARSOC de la TSF a tu elección.
 
 ent-UndeterminedVoidsuitCap = Selector de traje de vacío del Capitán
     .gender = male
@@ -1596,6 +2219,8 @@ ent-ValyrianStandardTranslatorImplanter = implante traductor de Valyrian Standar
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
 
 ent-VanquisherMagazine = Cargador automático de misiles HE de 150 mm Vanquisher
+
+ent-VanquisherMagazineInfinite = Cargador automático de misiles HE de 150 mm Vanquisher
 
 ent-VanykCartridge = misil HEAT de 150 mm
     .gender = male
@@ -2713,6 +3338,14 @@ ent-WallMining = muro minero
 ent-WallMiningDiagonal = muro minero
     .gender = male
     .desc = Mantiene el aire dentro y a la greytide fuera.
+
+ent-WallMiningDiagonalOutpost = muro minero
+    .gender = male
+    .desc = Mantiene el aire dentro y a la greytide fuera.
+
+ent-WallMiningOutpost = muro minero
+    .gender = male
+    .desc = Mantiene el aire dentro y a la quimera fuera.
 
 ent-WallmountGeneratorAPUElectronics = electrónica de APU de montaje en pared
     .gender = female
@@ -4128,6 +4761,10 @@ ent-WeaponAdvancedLaserExpedition = pistola láser avanzada
     .gender = female
     .desc = Una pistola láser de alta energía de grado civil experimental con batería nuclear de autocarga.
 
+ent-WeaponAMRShenzhen = fusil antimaterial (AMR) de bobina TCA QBU-284 'Shenzhen'
+    .gender = male
+    .desc = Un fusil antimaterial (AMR) alimentado por cargador que utiliza electroimanes para disparar proyectiles DU-APFSDS de 13,4x92 mm a una velocidad extrema.
+
 ent-WeaponAntiqueLaser = pistola láser antigua
     .gender = female
     .desc = Esta es una pistola láser antigua. Toda la artesanía es de la más alta calidad. Está decorada con una empuñadura de caoba y filigrana de cromo. El objeto amenaza con picos de energía. En el objeto hay una imagen de un capitán y un payaso. El payaso está muerto. El capitán adopta una pose heroica.
@@ -4201,6 +4838,10 @@ ent-WeaponCaseHeavyAmmo = caja de munición
     .desc = Una carcasa reforzada para guardar proyectiles de cañón pesados o grandes cantidades de munición de bajo calibre.
 
 ent-WeaponCaseHeavyAmmo150AP = caja de munición
+    .gender = female
+    .desc = Una carcasa reforzada para guardar proyectiles de cañón pesados o grandes cantidades de munición de bajo calibre.
+
+ent-WeaponCaseHeavyAmmo150APHE = caja de munición
     .gender = female
     .desc = Una carcasa reforzada para guardar proyectiles de cañón pesados o grandes cantidades de munición de bajo calibre.
 
@@ -4744,13 +5385,13 @@ ent-WeaponDEWBasilisk = 'Basilisk' DEW-15-XXR fusil de radiación
     .gender = male
     .desc = Un dudoso fusil de ingeniería inversa desarrollado por la Dinastía para usar contra el personal de la Federación. Probablemente no sea el más seguro de usar, pero sus rayos no están en el espectro de luz visible y es inmune al EMP gracias al uso de cartuchos de base química.
 
-ent-WeaponDEWCalico = 'Calico' DEW-20-C fusil de energía
+ent-WeaponDEWCalico = fusil de energía QBH-20-C Calico
     .gender = male
     .desc = Un arma de energía dirigida de carga por cartucho usada por los soldados de la Federación Trans-Solaria. Al usar cartuchos de láser químico, no se ve afectada por los EMP, lo que la convierte en una favorita entre los marines que pueden requisarla.
 
-ent-WeaponDEWSmilodon = 'Smilodon' DEW-50-C arma de energía automática
+ent-WeaponDEWSmilodon = arma de energía automática QJH-50-C Smilodon
     .gender = male
-    .desc = Modificada a partir del DEW "Calico" original, el "Smilodon" lleva la filosofía de su predecesor al mundo de las ametralladoras ligeras: capaz de usar cajas de batería *y* cargadores químicos, además de contar con almacenamiento secundario para los marines en movimiento, los únicos fallos del Smilodon son los inconvenientes propios de las armas de láser y su voluminoso armazón. El disparo continuado calibra la dispersión.
+    .desc = Modificada a partir de la Calico DEW original, la Smilodon lleva la filosofía de su predecesora al mundo de las ametralladoras ligeras: puede usar cajas de baterías *y* cargadores químicos, además de contar con almacenamiento secundario para los marines en movimiento. Los únicos defectos de la Smilodon son los inconvenientes propios de las armas láser y su voluminoso armazón. El fuego continuado calibra la dispersión.
 
 ent-WeaponDisabler = paralizador
     .gender = male
@@ -4784,7 +5425,7 @@ ent-WeaponEnergyGunExpedition = pistola de energía
     .gender = female
     .desc = Una pistola de energía híbrida básica con dos modos: aturdir y matar. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
 
-ent-WeaponEnergyGunFrost = VFD EN-5 FROST
+ent-WeaponEnergyGunFrost = VFD QBH-5 FROST
     .gender = male
     .desc = Una pistola de energía de autocarga con municiones letales capaces de infligir daño grave. Incluye munición paralizadora y mayor precisión en comparación con sus versiones anteriores.
 
@@ -4815,6 +5456,34 @@ ent-WeaponEnergyShotgun = Escopeta de energía NT
 ent-WeaponEnergyShotgunOverseer = Escopeta de energía "Dignity"
     .gender = female
     .desc = Un arma que ha sido lo último que han visto muchos piratas, "Dignity" es una escopeta de energía de una mano que suelen usar los supervisores cazapiratas.
+
+ent-WeaponEnergyTurretControlPanelFrame = conjunto del panel de control de torreta centinela
+    .gender = male
+    .desc = Un conjunto incompleto montado en la pared para un panel de control de torreta centinela.
+
+ent-WeaponEnergyTurretFreeportControlPanel = panel de control de torreta centinela de Freeport
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
+
+ent-WeaponEnergyTurretPDVControlPanel = panel de control de torreta centinela de la PDV
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
+
+ent-WeaponEnergyTurretStationControlPanel = panel de control de torreta centinela
+    .gender = male
+    .desc = Una interfaz de pared para configurar a distancia los parámetros operativos de las torretas centinela vinculadas.
+
+ent-WeaponEnergyTurretTSFControlPanel = panel de control de torreta centinela de la TSF
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
+
+ent-WeaponEnergyTurretUSSPControlPanel = panel de control de torreta centinela de la USSP
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
+
+ent-WeaponEnergyTurretViperControlPanel = panel de control de torreta centinela de la VG
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
 
 ent-WeaponFlareGun = Pistola de bengalas (calibre 12)
     .gender = female
@@ -4996,11 +5665,11 @@ ent-WeaponLauncherRocketToy = RPG de juguete
     .gender = male
     .desc = Un peluche que lanza "granadas" de espuma. Hay costuras en el lateral que deletrean "SAM".
 
-ent-WeaponLauncherTSFAnubis = TCA MK.6 "Anubis" TPGL (granada 35x53mm)
+ent-WeaponLauncherTSFAnubis = TCA QLU-907 Anubis TPGL (granada de 35x53 mm)
     .gender = female
     .desc = Un fusil lanzagranadas de precisión con cargador, dotado de un sistema de control de fuego integrado, concebido originalmente para uso contra fortificaciones y contrainsurgencia. Dispara granadas de 35mm con alta velocidad y precisión.
 
-ent-WeaponLauncherTSFOsiris = GP-909 'Osiris' Lanzagranadas
+ent-WeaponLauncherTSFOsiris = QLU-909 Osiris MGL
     .gender = male
     .desc = La poderosa solución de la TSF para todo lo que no tenga suficiente potencia explosiva. Capaz de disparar la mayoría de granadas estándar.
 
@@ -5012,17 +5681,17 @@ ent-WeaponLightMachineGunL6C = PA L6C ROW (7.62x39mm)
     .gender = female
     .desc = Una L6 SAW para uso de cíborgs. Genera munición 762x39mm al instante desde un fabricador de munición interno, que se recarga lentamente de forma autónoma.
 
-ent-WeaponLMGGrizzly = TCA MMG-68 "Grizzly" (6.8x52mm sin vaina)
+ent-WeaponLMGGrizzly = TCA QJY-68 Grizzly (6,8x52 mm sin vaina)
     .gender = female
-    .desc = Una ametralladora media con recámara para 6.8x52mm sin vaina, acepta tanto cargadores de caja como estándar. Una etiqueta en el lateral reza "SOLO PARA USO MILITAR". El peso de la ametralladora dificulta su manejo. Para facilitar la estandarización, también acepta 5.56x45mm y 7.62x39mm.
+    .desc = Una ametralladora media recamarada para munición sin vaina de 6,8x52 mm; admite tanto cargadores de caja como cargadores estándar. El peso de la ametralladora dificulta manejarla con soltura.
 
 ent-WeaponLMGHammer = NCI AK-150 HAMMER (7.62x39mm)
     .gender = male
     .desc = Una AK de estilo clásico de la Tierra, modificada y mejorada con ingeniería de la USSP y nuevas filosofías de diseño. En esencia, se ha convertido en una ametralladora ligera con un cargador de caja junto a diversas mejoras de reducción de retroceso y un chasis estilizado. Viva el Comisariado.
 
-ent-WeaponLMGMR8B = VFD MR-8B LWMMG (8x65mm SKR)
+ent-WeaponLMGMR8B = VFD QBZ-244 Fenghuang (8x65 mm SKR)
     .gender = male
-    .desc = La variante LWMMG de la serie MR-8. Con recámara para 8x65mm SKR, y acepta tanto cargadores de caja como STANAG. Una etiqueta en el lateral reza "SOLO PARA USO MILITAR".
+    .desc = Variante de carabina de la QLU-243, con cañón acortado y optimizado para fuego sostenido intenso. Recamarada para 8x65 mm SKR y compatible con cargadores de caja y STANAG. Solo se entrega a MARSOC y está vetada en las requisiciones estándar de la TSFN y la TSFMC.
 
 ent-WeaponLMGRatel = VFD PSW "Ratel" (7.62x51mm)
     .gender = male
@@ -5192,7 +5861,7 @@ ent-WeaponPistolCHIMPUpgradeKit = chip de mejora para cañón de mano C.H.I.M.P.
     .gender = male
     .desc = Un kit de mejora experimental para el C.H.I.M.P.
 
-ent-WeaponPistolCobra = CS PT-72 cobra (635x40mm)
+ent-WeaponPistolCobra = CS PT-72 Cobra (6,35x40 mm)
     .desc = Una pistola de operaciones especiales robusta y resistente con silenciador integrado. Usa munición sin casquillo 6.35x40mm. Es habitual entre los imperiales Phaethon y es la pistola de mano más común entre las tripulaciones de abordaje o los agentes.
 
 ent-WeaponPistolDebug = bang, muerto
@@ -5398,11 +6067,11 @@ ent-WeaponRifleAK502Registered = NCI AK-502 (7.62x39mm)
     .gender = male
     .desc = Un rifle de combate estándar de la USSP. Usa munición 7.62x39mm. Lleva un montaje de raíl Erebus sujeto al asa de transporte para ópticas.
 
-ent-WeaponRifleAnnie = TCA M27 Annie (7.62x39mm)
+ent-WeaponRifleAnnie = TCA QBZ-430 Annie (7,62x39 mm)
     .gender = female
     .desc = Una bestia diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
 
-ent-WeaponRifleAnnieRegistered = TCA M27 Annie (7.62x39mm)
+ent-WeaponRifleAnnieRegistered = TCA QBZ-430 Annie (7,62x39 mm)
     .gender = female
     .desc = Una bestia diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
 
@@ -5424,6 +6093,10 @@ ent-WeaponRifleBBEmpty = BB Gun
 
 ent-WeaponRifleBurner = CS Burner (12.7x99mm)
     .desc = Un arma del Syndicate de gran calibre, en 12.7x99mm, capaz de disparar proyectiles antimaterial y altamente explosivos.
+
+ent-WeaponRifleDragonfang = TCA QBB-81-1 Dragonfang (7,62x51 mm)
+    .gender = female
+    .desc = Un fusil de batalla pesado utilizado por FORECON durante las primeras etapas de la expedición Colossus. Este fusil ofrece una potencia de fuego excepcional en un armazón por lo demás compacto. Recamarado para 7,62x51 mm, diezma todo lo que ose interponerse en nuestra conquista militar. El cañón tiene rosca para supresores y cuenta con un raíl Erebus en el asa de transporte y otro en la parte inferior para ópticas y empuñaduras.
 
 ent-WeaponRifleFoam = Foam Force Astro Ace
     .gender = male
@@ -5449,18 +6122,18 @@ ent-WeaponRifleIroh = HWL FG.J "Iroh" (5.56x45mm)
     .gender = male
     .desc = Un rifle de primera, finamente ajustado. Preciso, de disparo rápido y caro como pocos. Equipado con raíles Erebus en el guardamanos y el asa de transporte, y un cañón roscado para accesorios.
 
-ent-WeaponRifleJackdaw = CS CAWS-25 Jackdaw (635x40mm)
+ent-WeaponRifleJackdaw = CS CAWS-25 Jackdaw (6,35x40 mm)
     .desc = El principio del fin lo anuncia el canto de una grajilla. Usa munición sin casquillo de 6.35x40mm.
 
-ent-WeaponRifleLecter = TCA M-6 Lecter (6.8x52mm Caseless)
+ent-WeaponRifleLecter = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
     .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
-ent-WeaponRifleLecterPMC = TCA M-6 Lecter (6.8x52mm Caseless)
+ent-WeaponRifleLecterPMC = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
     .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
-ent-WeaponRifleLecterRubber = TCA M-6 Lecter (6.8x52mm Caseless)
+ent-WeaponRifleLecterRubber = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
     .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
@@ -5478,15 +6151,19 @@ ent-WeaponRifleMla34 = SKR-WS MLA-34 smartgun (.160 smart)
 ent-WeaponRifleMla34Registered = SKR-WS MLA-34 smartgun (.160 smart)
     .desc = Una smartgun especial de producción limitada, diseñada como arma de autodefensa para tripulación de naves sin entrenamiento.
 
-ent-WeaponRifleMR3C = SKR-WS MR-3C Bandit (8x65mm SKR)
-    .desc = Un DMR bullpup preciso y fiable, desarrollado como modelo de producción a partir de los primeros prototipos MR-8C. Se alimenta de cargadores STANAG de 8x65mm. Incorpora un riel Erebus para miras.
-
-ent-WeaponRifleMR3CRegistered = SKR-WS MR-3C Bandit (8x65mm SKR)
-    .desc = Un DMR bullpup preciso y fiable, desarrollado como modelo de producción a partir de los primeros prototipos MR-8C. Se alimenta de cargadores STANAG de 8x65mm. Incorpora un riel Erebus para miras.
-
-ent-WeaponRifleMR8C = VFD MR-8C DMR (8x65mm SKR)
+ent-WeaponRifleMolot = PD-VI LA/53 Molot (7,62x51 mm)
     .gender = male
-    .desc = La variante DMR de la serie MR-8, con una precisión extraordinaria. Calibrado en 8x65mm SKR. Una etiqueta en el lateral reza "SOLO USO MILITAR". Hay un riel Erebus en la parte superior del receptor y en la parte inferior del guardamanos para miras y empuñaduras.
+    .desc = Un fusil potente que dispara munición de 7,62x51 mm para los Tarkhans de la PDV. Tiene una buena cadencia de tiro y una velocidad de salida excepcional.
+
+ent-WeaponRifleMR3C = SKR-WS QBU-430 Bandit (8x65 mm SKR)
+    .desc = Un DMR bullpup preciso y fiable, desarrollado como modelo de producción más económico a partir de los primeros prototipos QBU-243. Se alimenta mediante cargadores STANAG de 8x65 mm. Cuenta con un raíl Erebus para ópticas.
+
+ent-WeaponRifleMR3CRegistered = SKR-WS QBU-430 Bandit (8x65 mm SKR)
+    .desc = Un DMR bullpup preciso y fiable, desarrollado como modelo de producción más económico a partir de los primeros prototipos QBU-243. Se alimenta mediante cargadores STANAG de 8x65 mm. Cuenta con un raíl Erebus para ópticas.
+
+ent-WeaponRifleMR8C = VFD QBU-243 Xian DMR (8x65 mm SKR)
+    .gender = male
+    .desc = Fusil de tirador designado de alta potencia y cadencia relativamente rápida, destinado a MARSOC. Recamarado para 8x65 mm SKR. Cuenta con un raíl Erebus en la parte superior del cajón de mecanismos y otro en la parte inferior del guardamanos para montar ópticas y empuñaduras.
 
 ent-WeaponRifleNovaliteC1 = LWC Novalite C1 (5.56x45mm)
     .gender = male
@@ -5507,6 +6184,10 @@ ent-WeaponRifleNtsfLtr = NTSF-LTR-556 (5.56x45mm,6.8x52mm Caseless)
 ent-WeaponRiflePrometheus = HWM FCL "Prometheus" (5.56x45mm)
     .gender = male
     .desc = El fusil de combate ligero "Prometheus" de Herstal Weapon Manufacture (Fusil de Combat Léger) en 556x45mm. Hecho para producirse en masa para la lucha contra los xenos. Su cadencia de fuego es decente, con la ráfaga siendo superior y la precisión pobre.
+
+ent-WeaponRifleRiversong = TCA QBZ-91 Riversong (6,8x52 mm sin vaina)
+    .gender = female
+    .desc = Un fusil bullpup diseñado para su uso en tanques, lanchas de desembarco y otros vehículos de espacio reducido de la Infantería Terrestre de la TSFMC. Esta arma también ganó popularidad entre el personal de abordaje por su reducido tamaño y la posibilidad de dispararla con una sola mano. Es precisa, fácil de usar y dispara cartuchos STANAG de 6,8x52 mm. También admite cargadores de 5,56x45 mm para facilitar la estandarización. El cañón tiene rosca para supresores y cuenta con un raíl Erebus en el asa de transporte y otro en la parte inferior para ópticas y empuñaduras.
 
 ent-WeaponRifleSVS = NCI SVS-42 (7.62x54mmR)
     .gender = male
@@ -5532,13 +6213,21 @@ ent-WeaponRifleVulcanRubber = HWM FCM "Vulcan" (7.62x51mm)
     .gender = male
     .desc = Una de las armas portátiles más pesadas del arsenal de Seguridad, el Herstal Weapon Manufacture FCM (Fusil de Combat Moyen) "Vulcan" es una versión moderna de un clásico, apodado informalmente el "Brazo Derecho del Mundo Libre". Usa munición 7,62x51mm.
 
+ent-WeaponRifleVympel = PD-VI M-32 Vympel (5,56x45 mm)
+    .gender = male
+    .desc = Un diseño bullpup compacto. Utiliza munición de fusil de 5,56x45 mm. El cañón tiene rosca para supresores y el guardamanos cuenta con un raíl Erebus para empuñaduras.
+
 ent-WeaponRifleWSPR = CS KMP-WSPR (7.62x39mm)
     .desc = Un rifle de ráfaga Dynasty de última generación, versátil y fiable. Usa munición 7,62x39mm. Hay un riel Erebus en la parte superior del receptor para miras.
 
 ent-WeaponRifleWSPRRegistered = CS KMP-WSPR (7.62x39mm)
     .desc = Un rifle de ráfaga Dynasty de última generación, versátil y fiable. Usa munición 7,62x39mm. Hay un riel Erebus en la parte superior del receptor para miras.
 
-ent-WeaponRifleXlr556 = VFD XLR-556 ICWS (5.56x45mm)
+ent-WeaponRifleWSPRTarkhan = PD-VI LA/22 "Kord" (7,62x51 mm)
+    .gender = male
+    .desc = Un WSPR adaptado como GPMG de 7,62x51 mm para los Tarkhans, que de algún modo conserva el supresor integrado. Cuenta con un raíl Erebus en la parte superior del cajón de mecanismos para montar ópticas.
+
+ent-WeaponRifleXlr556 = VFD QBZX-281 Taotie ICWS (5,56x45 mm)
     .gender = male
     .desc = Un "rifle" de próxima generación propuesto para la infantería estándar de las TSF. Calibrado en 5,56x45mm, su RPM es increíble, pero a gran cadencia de fuego le corresponde un gran control del fuego...
 
@@ -5601,6 +6290,10 @@ ent-WeaponShotgunEnforcerRegistered = Enforcer (calibre 12)
 ent-WeaponShotgunEnforcerRubber = Enforcer (calibre 12)
     .gender = male
     .desc = Una escopeta semiautomática de primera calidad, y el orgullo de todas las fuerzas de seguridad. Usa cartuchos de escopeta del calibre 12.
+
+ent-WeaponShotgunFlagbearer = PD-VI LK/210 Flagbearer (calibre 12)
+    .gender = male
+    .desc = Una escopeta totalmente automática de calibre 12 alimentada por un enorme tambor integrado. Capacidad para 32 cartuchos.
 
 ent-WeaponShotgunHandmade = pistola artesanal (calibre 12)
     .gender = female
@@ -5733,19 +6426,19 @@ ent-WeaponSubMachineGunC20rPMC = subfusil CS C-20r (9x19mm)
     .gender = male
     .desc = Una SMG de la Era Corporativa, usada antaño por Operativos Nucleares, que ahora encuentra comprador entre la Dinastía Phaethon. Usa munición de 9x19mm.
 
-ent-WeaponSubMachineGunDrozd = TCA M-5 Drozd (.45 ACP)
+ent-WeaponSubMachineGunDrozd = TCA CS/LR-8 Drozd (.45 ACP)
     .gender = female
     .desc = Una SMG que antaño encontró uso entre las fuerzas de seguridad de NT, y que ahora se ha convertido en una de las armas de abordaje y anti-abordaje más fiables del mercado. Usa munición de .45 ACP. El cañón tiene rosca para silenciadores, y cuenta con un riel Erebus en la parte inferior para agarres.
 
-ent-WeaponSubMachineGunDrozdExpedition = TCA M-5 Drozd (.45 ACP)
+ent-WeaponSubMachineGunDrozdExpedition = TCA CS/LR-8 Drozd (.45 ACP)
     .gender = female
     .desc = Una SMG que antaño encontró uso entre las fuerzas de seguridad de NT, y que ahora se ha convertido en una de las armas de abordaje y anti-abordaje más fiables del mercado. Usa munición de .45 ACP. El cañón tiene rosca para silenciadores, y cuenta con un riel Erebus en la parte inferior para agarres.
 
-ent-WeaponSubMachineGunDrozdPMC = TCA M-5 Drozd (.45 ACP)
+ent-WeaponSubMachineGunDrozdPMC = TCA CS/LR-8 Drozd (.45 ACP)
     .gender = female
     .desc = Una SMG que antaño encontró uso entre las fuerzas de seguridad de NT, y que ahora se ha convertido en una de las armas de abordaje y anti-abordaje más fiables del mercado. Usa munición de .45 ACP. El cañón tiene rosca para silenciadores, y cuenta con un riel Erebus en la parte inferior para agarres.
 
-ent-WeaponSubMachineGunDrozdRubber = TCA M-5 Drozd (.45 ACP)
+ent-WeaponSubMachineGunDrozdRubber = TCA CS/LR-8 Drozd (.45 ACP)
     .gender = female
     .desc = Una SMG que antaño encontró uso entre las fuerzas de seguridad de NT, y que ahora se ha convertido en una de las armas de abordaje y anti-abordaje más fiables del mercado. Usa munición de .45 ACP. El cañón tiene rosca para silenciadores, y cuenta con un riel Erebus en la parte inferior para agarres.
 
@@ -5757,19 +6450,19 @@ ent-WeaponSubMachineGunKnallstock = LWC Knallstock (9x19mm/.45 ACP)
     .gender = male
     .desc = Una SMG resistente y fiable que usa largas ráfagas de disparo rápido. Acepta cargadores de pistola de 9x19 o .45 ACP. Vigila su consumo de munición.
 
-ent-WeaponSubMachineGunMalandro = RS-2 Malandro (4.6x30mm)
-    .desc = Un subfusil robusto y desgastado, con recámara para 4.6x30mm, diseñado para tiroteos a corta distancia, con una ráfaga de 10 disparos a costa de la precisión.
+ent-WeaponSubMachineGunMalandro = RS-2 Malandro (9x19 mm)
+    .desc = Un subfusil robusto y deteriorado, recamarado para 9x19 mm y diseñado para tiroteos a corta distancia; ofrece una ráfaga de 10 disparos a costa de la precisión.
 
-ent-WeaponSubMachineGunMalandroPMC = RS-2 Malandro (4.6x30mm)
-    .desc = Un subfusil robusto y desgastado, con recámara para 4.6x30mm, diseñado para tiroteos a corta distancia, con una ráfaga de 10 disparos a costa de la precisión.
+ent-WeaponSubMachineGunMalandroPMC = RS-2 Malandro (9x19 mm)
+    .desc = Un subfusil robusto y deteriorado, recamarado para 9x19 mm y diseñado para tiroteos a corta distancia; ofrece una ráfaga de 10 disparos a costa de la precisión.
 
-ent-WeaponSubMachineGunMalandroRegistered = RS-2 Malandro (4.6x30mm)
-    .desc = Un subfusil robusto y desgastado, con recámara para 4.6x30mm, diseñado para tiroteos a corta distancia, con una ráfaga de 10 disparos a costa de la precisión.
+ent-WeaponSubMachineGunMalandroRegistered = RS-2 Malandro (9x19 mm)
+    .desc = Un subfusil robusto y deteriorado, recamarado para 9x19 mm y diseñado para tiroteos a corta distancia; ofrece una ráfaga de 10 disparos a costa de la precisión.
 
-ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (635x40mm sin casquillo)
+ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (6,35x40 mm sin vaina)
     .desc = Un diseño de PDW fiable, habitualmente distribuido a pilotos y tripulantes de AFV. Este ha sido modificado con un silenciador integrado. Las leyendas sobre esta arma dicen que es un esquema de la Era Corporativa construido por la Dinastía Phaethon. Puede usar cargadores de subfusil 9x19mm en caso de necesidad. Un carril Erebus está presente en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
 
-ent-WeaponSubMachineGunMla73Registered = SKR-WS MLA-73 (635x40mm sin casquillo)
+ent-WeaponSubMachineGunMla73Registered = SKR-WS MLA-73 (6,35x40 mm sin vaina)
     .desc = Un diseño de PDW fiable, habitualmente distribuido a pilotos y tripulantes de AFV. Este ha sido modificado con un silenciador integrado. Las leyendas sobre esta arma dicen que es un esquema de la Era Corporativa construido por la Dinastía Phaethon. Puede usar cargadores de subfusil 9x19mm en caso de necesidad. Un carril Erebus está presente en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
 
 ent-WeaponSubMachineGunTypewriter = PA Typewriter (.45 ACP)
@@ -5863,6 +6556,9 @@ ent-WeaponTurretAllHostile = torreta balística
 ent-WeaponTurretASM220 = Portatorpedos ASM-220 "Trident"
     .desc = Un pesado portatorpedos integrado para cruceros que depende de carga manual, generalmente realizada en puerto. A pesar de esto, tiene los misiles más grandes del sector.
 
+ent-WeaponTurretASM220Station = Portatorpedos ASM-220 "Trident"
+    .desc = Un pesado bastidor de torpedos integrado para cruceros que depende de la carga manual, normalmente realizada en puerto. A pesar de ello, alberga los misiles más grandes del sector. Esta unidad está conectada a un sistema que carga automáticamente el VLS desde las reservas de una nave capital o una estación.
+
 ent-WeaponTurretAsmgtHostileUniversallyDeployed = ASMGT
     .gender = male
     .desc = Una Torreta Ametralladora Centinela Autónoma (ASMGT) es una torreta de cargador con cañones compatibles con cartuchos de 5.56x45mm, 7.62x39mm, 9x19mm y 6.35x40mm. Usa el destornillador para desmontar. Este es un modelo Civil para defensa a bordo en sectores hostiles, con blindaje reducido y cadencia de fuego limitada para cumplir con la ley de comercio interestelar.
@@ -5909,7 +6605,19 @@ ent-WeaponTurretCyrexa = Cañón CYREXA de 220mm
     .gender = male
     .desc = Una batería principal de doble cañón que lanza salvas rápidas y devastadoras a alcance extremo. Dispara proyectiles automáticos de 220mm con una fuerza bruta ligeramente reducida. Puede activarse de forma remota o vincularse a un GCS.
 
+ent-WeaponTurretCyrexaHECluster = Cañón CYREXA de 220mm
+    .gender = male
+    .desc = Una batería principal de doble cañón que lanza salvas rápidas y devastadoras a alcance extremo. Dispara proyectiles automáticos de 220mm con una fuerza bruta ligeramente reducida. Puede activarse de forma remota o vincularse a un GCS.
+
+ent-WeaponTurretCyrexaHomingCluster = Cañón CYREXA de 220mm
+    .gender = male
+    .desc = Una batería principal de doble cañón que lanza salvas rápidas y devastadoras a alcance extremo. Dispara proyectiles automáticos de 220mm con una fuerza bruta ligeramente reducida. Puede activarse de forma remota o vincularse a un GCS.
+
 ent-WeaponTurretDravon = Autocañón ADBP-7 DRAVON de 90mm
+    .gender = male
+    .desc = Un autocañón de un solo cañón fabricado por Aetherion Dynamics. Pieza de artillería media con alto impacto pero cadencia de fuego relativamente baja, que dispara proyectiles HEAT para dañar el blindaje y los sistemas de la nave. Puede activarse de forma remota o vincularse a un GCS.
+
+ent-WeaponTurretDravonFlak = Autocañón ADBP-7 DRAVON de 90mm
     .gender = male
     .desc = Un autocañón de un solo cañón fabricado por Aetherion Dynamics. Pieza de artillería media con alto impacto pero cadencia de fuego relativamente baja, que dispara proyectiles HEAT para dañar el blindaje y los sistemas de la nave. Puede activarse de forma remota o vincularse a un GCS.
 
@@ -6055,9 +6763,9 @@ ent-WeaponTurretLightMunitionsBay = Bahía de Munición Ligera GPOB-L
     .gender = female
     .desc = Una bahía de munición acorazada y relativamente pequeña, capaz de albergar hasta dos paquetes de armamento ligero. Se encuentra habitualmente en naves ligeras, especialmente bombarderos, y ofrece un método de uso limitado para dañar objetivos muy por encima de la categoría del usuario.
 
-ent-WeaponTurretLongbow = Autocañón L65-"Longbow" 90mm
+ent-WeaponTurretLongbow = autocañón L/65 "Longbow" de 140 mm
     .gender = male
-    .desc = Dispara proyectiles de 90mm en ráfagas de 20 rondas desde un cargador automático interno.
+    .desc = Dispara proyectiles de 140 mm en una ráfaga de 15 disparos desde un autocargador interno.
 
 ent-WeaponTurretM220 = Lanzador EMP M220 RUBICON
     .gender = male
@@ -6088,6 +6796,10 @@ ent-WeaponTurretNanoTrasen = torreta balística
     .desc = Una torreta automática de ametralladora balística.
 
 ent-WeaponTurretPaladin = Vaina de Misiles MLRS-382 "Paladin"
+    .gender = female
+    .desc = Vaina de misiles pesados que dispara cohetes guiados de 250mm en ráfagas de 4.
+
+ent-WeaponTurretPaladinInfinite = Vaina de Misiles MLRS-382 "Paladin"
     .gender = female
     .desc = Vaina de misiles pesados que dispara cohetes guiados de 250mm en ráfagas de 4.
 
@@ -6197,6 +6909,10 @@ ent-WeaponTurretUSSP = torreta balística
     .desc = Una torreta automática de ametralladora balística.
 
 ent-WeaponTurretVanquisher = Vaina de misiles SRM-573 "Vanquisher"
+    .gender = female
+    .desc = Una vaina de misiles de corto alcance que dispara cohetes no guiados de 150 mm con una cadencia de fuego devastadora.
+
+ent-WeaponTurretVanquisherInfinite = Vaina de misiles SRM-573 "Vanquisher"
     .gender = female
     .desc = Una vaina de misiles de corto alcance que dispara cohetes no guiados de 150 mm con una cadencia de fuego devastadora.
 
@@ -6897,6 +7613,10 @@ ent-WristwatchGold = reloj de oro
 ent-Wronch = wronch
     .gender = male
     .desc = Cosa wronch. ¡Mu!
+
+ent-WWDPToggleNightVision = Activar/desactivar visión nocturna
+    .gender = male
+    .desc = Activa o desactiva la visión nocturna.
 
 ent-XenoAITimedSpawner = Generador temporizado de IA Xeno
 

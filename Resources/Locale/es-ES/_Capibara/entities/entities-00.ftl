@@ -10,6 +10,22 @@ ent-120mmCartridgeAPHEDS = Cartucho APHEDS de 120mm
     .gender = male
     .desc = Un proyectil perforante de alta explosividad con sabot desechable de propulsión química para cañones de 120mm.
 
+ent-140mmBulletAPHE = proyectil APHE de 140 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-140mmBulletSACLOS = proyectil SACLOS de 140 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-140mmCartridge = cartucho (140 mm HEAT)
+
+ent-140mmCartridgeSACLOS = cartucho (140 mm SACLOS)
+
+ent-150mmApheShell = proyectil APHE de 150 mm
+    .gender = male
+    .desc = Un proyectil APHE de propulsión química para cañones de 150 mm. Servirá.
+
 ent-150mmApShell = Proyectil AP de 150mm
     .gender = male
     .desc = Un proyectil AP de propulsión química para cañones de 150mm. No es gran cosa, ya que la mayoría de los cañones de 150mm están optimizados para proyectiles EMP. Es un método rudimentario, y desde luego no pasaría una inspección de la TSFN.
@@ -22,7 +38,13 @@ ent-20mmBullet = Bala de 20mm
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-20mmBulletAS = bala de 20 mm (AS)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-20mmCartridge = cartucho (20mm sólido)
+
+ent-20mmCartridgeAS = cartucho (20 mm AS)
 
 ent-220mmBulletAPHE = Proyectil APHE de 220mm
     .gender = male
@@ -36,11 +58,39 @@ ent-220mmCartridgeAPHE = Cartucho APHE de 220mm
     .gender = male
     .desc = Un proyectil perforante de alta explosividad de propulsión química para cañones de 220mm.
 
+ent-220mmCartridgeHECluster = proyectil HE-CLST de 220 mm
+    .gender = male
+    .desc = Un proyectil de racimo de alto explosivo y propulsión química para cañones de 220 mm. Dispara una dispersión de proyectiles explosivos.
+
+ent-220mmCartridgeSmartCluster = proyectil HMNG-CLST de 220 mm
+    .gender = male
+    .desc = Un proyectil de racimo autoguiado y propulsión química para cañones de 220 mm. Dispara una dispersión de proyectiles explosivos que buscan objetivos mediante un sistema de rastreo básico.
+
+ent-220mmPelletHE = proyectil de racimo HE de 220 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-220mmPelletHESpread = proyectil de racimo HE de 220 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-220mmPelletSmart = proyectil de racimo HMNG de 220 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-220mmPelletSmartSpread = proyectil de racimo HMNG de 220 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-255mmBulletAPHE = Proyectil APHE de 255mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
 ent-255mmBulletEMP = Proyectil EMP de 255mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-255mmBulletMinelayer = proyectil minador de 255 mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -52,6 +102,10 @@ ent-255mmCartridgeEMP = Cartucho EMP de 255mm
     .gender = male
     .desc = Un proyectil de pulso electromagnético de propulsión química para cañones de 255mm.
 
+ent-255mmCartridgeMinelayer = proyectil minador de 255 mm
+    .gender = male
+    .desc = Un proyectil de propulsión química para cañones de 255 mm con una espoleta temporizada. Cuando la espoleta se activa transcurrido 1 segundo, expulsa una carga de 4 grandes minas antinave que permanecen activas durante 1 hora.
+
 ent-280mmRocket = Cohete "Bazooka" de 280mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
@@ -60,7 +114,13 @@ ent-30mmBullet = BaseBullet
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-30mmBulletHE = BaseBullet
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-30mmCartridge = cartucho (30x173mm AP)
+
+ent-30mmCartridgeHE = cartucho (30x173 mm HE)
 
 ent-35mmBullet = BaseBullet
     .gender = male
@@ -80,7 +140,19 @@ ent-57mmBulletHE = BaseBullet
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-57mmBulletSACLOS = BaseBullet
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-57mmBulletSmart = BaseBullet
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-57mmCartridgeHE = cartucho (57mm HE)
+
+ent-57mmCartridgeSACLOS = cartucho (57 mm LG-SACLOS)
+
+ent-57mmCartridgeSmart = cartucho (57 mm HMNG)
 
 ent-60mmMechShell = Proyectil de 60mm
     .gender = male
@@ -90,21 +162,45 @@ ent-90mmBulletAP = Proyectil
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-90mmBulletFlak = Proyectil
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-90mmBulletHE = Proyectil
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-90mmBulletMinelayer = proyectil minador de 90 mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
 ent-90mmCartridgeAP = cartucho (90mm AP)
 
+ent-90mmCartridgeFlak = cartucho (90 mm antiaéreo)
+
 ent-90mmCartridgeHE = cartucho (90mm HE)
+
+ent-90mmCartridgeMinelayer = cartucho (90 mm minador)
 
 ent-90mmMagazineAP = Cargador de munición AP de 90mm
     .gender = male
     .desc = Un cargador de munición con proyectiles perforantes de 90mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 90mm.
 
+ent-90mmMagazineFlak = cargador de munición antiaérea de 90 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles antiaéreos de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
+
 ent-90mmMagazineHE = Cargador de munición HE de 90mm
     .gender = male
     .desc = Un cargador de munición con proyectiles de alta explosividad de 90mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 90mm.
+
+ent-90mmMagazineMinelayer = cargador de munición minadora de 90 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 400 proyectiles minadores de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
+
+ent-90mmMagazineMinelayerInfinite = cargador de munición minadora de 90 mm
+    .gender = male
+    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles minadores de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
 
 ent-AberrantFleshDigestiveSack = saco de asimilación
     .gender = male
@@ -510,6 +606,9 @@ ent-ActionPolymorphWizardSpider = Polimorfismo Araña
     .gender = male
     .desc = Te convierte en una araña.
 
+ent-ActionPreviewShowMenu = Controles de vista previa
+    .desc = Muestra información de vista previa del transbordador.
+
 ent-ActionRadarUiButton = Escáner de Masa
     .gender = male
     .desc = Escanea el área circundante en busca de firmas de masa
@@ -705,6 +804,10 @@ ent-ActionToggleMask = Activar/Desactivar Máscara
 ent-ActionToggleMoonBoots = Activar/Desactivar Botas Lunares
     .gender = male
     .desc = Activa o desactiva las botas lunares.
+
+ent-ActionToggleNightVision = Activar/desactivar visión nocturna
+    .gender = male
+    .desc = Activa o desactiva la visión nocturna.
 
 ent-ActionToggleNinjaGloves = Activar/Desactivar guantes ninja
     .gender = male
@@ -2781,15 +2884,15 @@ ent-AmmoBox57x28mmRubber = caja de munición (5.7x28mm goma)
 
 ent-AmmoBox57x28mmUranium = caja de munición (5.7x28mm uranio)
 
-ent-AmmoBox635x40mmCaseless = caja de munición (635x40mm sin vaina)
+ent-AmmoBox635x40mmCaseless = caja de munición (6,35x40 mm sin vaina)
 
-ent-AmmoBox635x40mmCaselessBig = caja grande de munición (635x40mm sin vaina)
+ent-AmmoBox635x40mmCaselessBig = caja grande de munición (6,35x40 mm sin vaina)
 
-ent-AmmoBox635x40mmCaselessBigRubber = caja grande de munición (635x40mm sin vaina de goma)
+ent-AmmoBox635x40mmCaselessBigRubber = caja grande de munición (6,35x40 mm sin vaina de goma)
 
-ent-AmmoBox635x40mmCaselessPractice = caja de munición (635x40mm sin vaina de entrenamiento)
+ent-AmmoBox635x40mmCaselessPractice = caja de munición (6,35x40 mm sin vaina, de prácticas)
 
-ent-AmmoBox635x40mmCaselessRubber = caja de munición (635x40mm sin vaina de goma)
+ent-AmmoBox635x40mmCaselessRubber = caja de munición (6,35x40 mm sin vaina, de goma)
 
 ent-AmmoBox68x52mmCaseless = caja de munición (6.8x52mm STANAG sin vaina)
 
@@ -2888,6 +2991,10 @@ ent-AmmoBox9x19mmRIP = caja de munición (9x19mm RIP)
 ent-AmmoBox9x19mmRubber = caja de munición (9x19mm goma)
 
 ent-AmmoBox9x19mmUranium = caja de munición (9x19mm uranio)
+
+ent-AmmoBoxShenzhen = caja de munición (DU-APFSDS sin vaina de 13,4x92 mm)
+
+ent-AmmoBoxShenzhenBig = caja grande de munición (13,4x92 mm DU-APFSDS sin vaina)
 
 ent-AmmoLoader = cargador de munición
     .gender = male
@@ -3415,6 +3522,10 @@ ent-Asm220TorpedoHE = torpedo de alto explosivo ASM-220
     .gender = male
     .desc = Contiene una gran carga explosiva. Decir que es de alto explosivo se queda corto.
 
+ent-Asm220TorpedoHESACLOS = torpedo SACLOS de alto explosivo ASM-220
+    .gender = male
+    .desc = Contiene una gran carga explosiva. Decir que es de alta explosividad se queda corto. Incorpora un sistema de guiado SACLOS y necesita guiado manual hasta el objetivo, pero puede desplazarse más rápido.
+
 ent-Asm220TorpedoLOSAT = misil LOSAT ASM-220
     .gender = male
     .desc = Básicamente un gran hiperperforador de plastitanio. Atraviesa el casco con facilidad.
@@ -3794,6 +3905,26 @@ ent-BailiffIDCard = tarjeta de identificación de capitán TSFMC
 ent-BailiffPDA = PDA de capitán TSF
     .gender = female
     .desc = Un ordenador personal estándar de la TSFMC.
+
+ent-BallisticTurretHeavyAIFP = torreta centinela remota pesada de Freeport
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
+
+ent-BallisticTurretHeavyAIPDV = torreta centinela remota pesada de la PDV
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
+
+ent-BallisticTurretHeavyAITSF = torreta centinela remota pesada de la TSF
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
+
+ent-BallisticTurretHeavyAIUSSP = torreta centinela remota pesada de la USSP
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
+
+ent-BallisticTurretHeavyAIVG = torreta centinela remota pesada de la VG
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
 
 ent-BallisticTurretHeavyBase = torreta balística pesada
     .gender = female
@@ -4648,6 +4779,8 @@ ent-BiomassReclaimerMachineCircuitboard = placa de máquina de recuperador de bi
     .gender = female
     .desc = Una placa de circuito impreso para un recuperador de biomasa.
 
+ent-BiomeSourceClusterA = fuente de bioma INSO-357k
+
 ent-BiomeSourceFallback = fuente de bioma de reserva
 
 ent-BiomeSourceFarReachesI = fuente de bioma de confines lejanos I
@@ -4663,6 +4796,8 @@ ent-BiomeSourceInnerRing = fuente de bioma de anillo interior
 ent-BiomeSourceMiddleRing = fuente de bioma de anillo medio
 
 ent-BiomeSourceOuterRing = fuente de bioma de anillo exterior
+
+ent-BiomeSourceWilds = fuente del bioma salvaje
 
 ent-BioSynthEyes = ojos biosintéticos
     .desc = Estos ojos pueden trasplantarse a cualquier organismo vivo y se adaptarán a su receptor.
@@ -5479,11 +5614,11 @@ ent-BorgChassisSelectable = cyborg
 
 ent-BorgChassisSelectablePDV = cíborg PDV
     .gender = male
-    .desc = Un cyborg construido específicamente para uso por el PDV.
+    .desc = Un cíborg construido específicamente para la PDV.
 
 ent-BorgChassisSelectableTSF = cíborg TSF
     .gender = male
-    .desc = Un cyborg construido específicamente para uso por las TSF.
+    .desc = Un cíborg construido específicamente para la TSF.
 
 ent-BorgChassisService = cyborg de servicio
     .gender = male
@@ -5760,6 +5895,30 @@ ent-BountyContractsCartridge = cartucho de contratos de recompensa
 ent-BowImprovised = arco
     .gender = male
     .desc = El original apunta y dispara de toda la vida.
+
+ent-Box220mmAPHE = caja de munición APHE de 220 mm
+    .gender = female
+    .desc = Una caja grande que contiene 24 proyectiles APHE de 220 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Box220mmHECluster = caja de munición HE-CLST de 220 mm
+    .gender = female
+    .desc = Una caja grande que contiene 24 proyectiles de racimo de alto explosivo de 220 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Box220mmSmartCluster = caja de munición HMNG-CLST de 220 mm
+    .gender = female
+    .desc = Una caja grande que contiene 24 proyectiles de racimo autoguiados de 220 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Box255mmAPHE = caja de munición APHE de 255 mm
+    .gender = female
+    .desc = Una caja grande que contiene 16 proyectiles APHE de 255 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Box255mmEMP = caja de munición EMP de 255 mm
+    .gender = female
+    .desc = Una caja grande que contiene 16 proyectiles EMP de 255 mm. Compatible con piezas de artillería montadas en naves.
+
+ent-Box255mmMine = caja de munición minadora de 255 mm
+    .gender = female
+    .desc = Una caja grande que contiene 16 proyectiles minadores de 255 mm. Compatible con piezas de artillería montadas en naves.
 
 ent-BoxAgrichem = kit NT "AgriChem Is Fun"
     .gender = male
@@ -6885,15 +7044,15 @@ ent-Bullet57x28mmUranium = bala (5.7x28mm de uranio)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-Bullet635x40mmCaseless = bala (635x40mm sin vaina)
+ent-Bullet635x40mmCaseless = bala (6,35x40 mm sin vaina)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-Bullet635x40mmCaselessPractice = bala (635x40mm sin vaina práctica)
+ent-Bullet635x40mmCaselessPractice = bala (6,35x40 mm sin vaina de prácticas)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-Bullet635x40mmCaselessRubber = bala (635x40mm sin vaina de goma)
+ent-Bullet635x40mmCaselessRubber = bala (6,35x40 mm sin vaina de goma)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -8346,15 +8505,15 @@ ent-Cartridge57x28mmUranium = cartucho (5.7x28mm de uranio)
     .gender = male
     .desc = Un pequeño cartucho PDW. Mayor daño interno que el 4.6, pero menor capacidad de perforación de armadura. Anteriormente tristemente célebre por su alto coste.
 
-ent-Cartridge635x40mmCaseless = cartucho (635x40mm sin vaina)
+ent-Cartridge635x40mmCaseless = cartucho (6,35x40 mm sin vaina)
     .gender = male
     .desc = Desarrollado durante las guerras corporativas para armas subsónicas, con el fin de mantener un perfil bajo durante las operaciones.
 
-ent-Cartridge635x40mmCaselessPractice = cartucho (635x40mm sin vaina de práctica)
+ent-Cartridge635x40mmCaselessPractice = cartucho (6,35x40 mm sin vaina de prácticas)
     .gender = male
     .desc = Desarrollado durante las guerras corporativas para armas subsónicas, con el fin de mantener un perfil bajo durante las operaciones.
 
-ent-Cartridge635x40mmCaselessRubber = cartucho (635x40mm sin vaina de goma)
+ent-Cartridge635x40mmCaselessRubber = cartucho (6,35x40 mm sin vaina de goma)
     .gender = male
     .desc = Desarrollado durante las guerras corporativas para armas subsónicas, con el fin de mantener un perfil bajo durante las operaciones.
 
@@ -8570,6 +8729,10 @@ ent-CartridgeRocketSlow = granada PG-7VL "Cohete Caracol"
     .gender = female
     .desc = Una ojiva de 1,5 diseñada para el lanzador RPG-7. Es inusualmente lenta.
 
+ent-CartridgeShenzhen = cartucho (13,4x92 mm DU-APFSDS sin vaina)
+    .gender = male
+    .desc = Proyectil antimaterial de gran tamaño, con alta penetración de blindaje y daño estructural.
+
 ent-CartridgeSmart = cartucho (.160 inteligente)
     .gender = male
     .desc = Una bala inteligente de .160 con una pequeña carga de propelente de refuerzo en la base.
@@ -8628,6 +8791,32 @@ ent-CCServiceWorkerPDA = PDA de servicio del Sector Colossus
 
 ent-CDDogtags = chapas de identificación
     .desc = Un juego de chapas de identificación, colgadas de un pequeño cordón para llevarlas puestas.
+
+ent-CEActionToggleLookUp = Mirar hacia arriba
+    .gender = male
+    .desc = Levantas la cabeza y miras al cielo.
+
+ent-CEActionZFlightDown = Descender
+    .gender = male
+    .desc = Reduce el aleteo y desciende un nivel Z.
+
+ent-CEActionZFlightToggle = Activar/desactivar vuelo
+    .gender = male
+    .desc = Alza el vuelo o vuelve a aterrizar.
+
+ent-CEActionZFlightUp = Ascender
+    .gender = male
+    .desc = Bate las alas y asciende un nivel Z.
+
+ent-CEActionZLevelDown = Bajar
+    .gender = male
+    .desc = Baja un nivel Z
+
+ent-CEActionZLevelUp = Subir
+    .gender = male
+    .desc = Sube un nivel Z
+
+ent-CEDustEffect = efecto de polvo
 
 ent-CEIDCard = tarjeta de identificación del Ingeniero Jefe
     .gender = female
@@ -8693,6 +8882,10 @@ ent-CentcomPDA = PDA de CentComm
     .gender = female
     .desc = Señal verde claro de la burocracia andante.
 
+ent-CentrifugeLathe = centrífuga industrial de procesamiento de uranio
+    .gender = female
+    .desc = Una centrífuga industrial de gas de gran tamaño para procesar a granel isótopos y materiales y, en general, hacer que todo dé vueltas. Es mucho más eficiente al producir uranio fisible que las versiones en miniatura. No está equipada para reprocesar combustible nuclear.
+
 ent-CentrifugeLatheMini = centrífuga de procesamiento de uranio económica en miniatura
     .gender = female
     .desc = Una centrífuga de gas industrial de tamaño medio para el procesamiento «a granel» de isótopos, materiales y, en general, hacer que todo gire. No es tan rápida ni eficiente como su hermana de estación, pero es útil para operaciones más pequeñas. Demasiado pequeña para reprocesar combustible nuclear.
@@ -8716,6 +8909,56 @@ ent-CerberusSpread = dispersión Cerberus
 ent-CerenkiteReactorFuelRod = varilla de combustible de cerenkite
     .gender = female
     .desc = Una varilla de combustible para un reactor nuclear.
+
+ent-CEWater = agua
+    .gender = male
+    .desc = Seguro que vas a mojarte los pies.
+
+ent-CEWaterMoving = agua
+    .gender = male
+    .desc = Seguro que vas a mojarte los pies.
+
+ent-CEZLevelLadderDirtCliff = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderDirtCliffCorner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderDirtCliffCornerInner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderStone = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderStoneCorner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderStoneCornerInner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderWooden = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelLadderWoodenCorner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofGreen = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofGreenCorner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofGreenCornerInner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofRed = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofRedCorner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
+
+ent-CEZLevelsLadderRoofRedCornerInner = escaleras
+    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
 
 ent-Chainsaw = motosierra
     .gender = female
@@ -8822,274 +9065,4 @@ ent-ChameleonDisguise = Urist McKleiner
 ent-ChameleonPDA = PDA de contratista
     .gender = female
     .desc = ¿Por qué no es gris?
-
-ent-ChameleonProjector = proyector camaleón
-    .gender = male
-    .desc = Tecnología de holoparásito usada para crear una réplica de luz sólida de cualquier objeto a tu alrededor. El disfraz se destruye al ser recogido o desactivado.
-
-ent-ChanterelleSeeds = paquete de esporas de rebozuelo
-
-ent-ChaplainHolywaterFlaskFilled = frasco de agua bendita
-    .gender = male
-    .desc = Que esta agua sea bendecida por la deidad de tu elección.
-
-ent-ChaplainIDCard = tarjeta de identificación del capellán
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-ChaplainPDA = PDA del capellán
-    .gender = female
-    .desc = El PDA elegido por Dios.
-
-ent-ChargedLightning = rayo cargado
-
-ent-CharonSlugAmmo = Cartucho CHARON M381 280mm proyectil de 26,5 kg
-    .gender = male
-    .desc = Un paquete todo en uno que contiene acelerante de gas plasma y un proyectil de tungsteno de alta densidad. Económico, devastador y de largo alcance.
-
-ent-CharonSubnuclearSlugAmmo = Cartucho CHARON M381 280mm proyectil nuclear de 1,5 kt
-    .gender = male
-    .desc = NUCLEAR. CARNICERÍA. Un paquete todo en uno que contiene acelerante de gas plasma y una ojiva de fisión de bajo rendimiento. Puede causar indignación pública, pero *tenías* que usarlo, ¿verdad?
-
-ent-CheapLighter = mechero barato
-    .gender = male
-    .desc = Un mechero de plástico peligrosamente barato, ¡no te quemes el pulgar!
-
-ent-CheapRollerBed = camilla con ruedas
-    .gender = female
-    .desc = Una camilla destartalada con ruedas. Se usa para transportar pacientes.
-
-ent-CheapRollerBedSpawnFolded = camilla con ruedas
-    .gender = female
-    .desc = Una camilla destartalada con ruedas. Se usa para transportar pacientes.
-
-ent-CheckerBoard = tablero de damas
-    .gender = male
-    .desc = Un tablero de damas. ¡Piezas incluidas!
-
-ent-CheckerBoardTabletop = tablero de damas
-
-ent-CheckerCrownBlack = corona de damas negra
-
-ent-CheckerCrownWhite = corona de damas blanca
-
-ent-CheckerPieceBlack = pieza de damas negra
-
-ent-CheckerPieceWhite = pieza de damas blanca
-
-ent-CheekStorage = almacenamiento en mejillas
-    .gender = male
-    .desc = Las mejillas de un animal, capaces de almacenar objetos pequeños.
-
-ent-ChefIDCard = tarjeta de identificación del cocinero
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-ChefPDA = PDA del cocinero
-    .gender = female
-    .desc = Cubierto de grasa y harina.
-
-ent-ChemBag = bolsa de química
-    .gender = female
-    .desc = Una bolsa para guardar productos químicos, como pastillas, botes de pastillas, botellas y jeringas.
-
-ent-ChemBagSomething = bolsa de química
-    .gender = female
-    .desc = Una bolsa para guardar productos químicos, como pastillas, botes de pastillas, botellas y jeringas.
-
-ent-ChemDispenser = dispensador químico
-    .gender = male
-    .desc = Un dispensador químico de grado industrial.
-
-ent-ChemDispenserEmpty = dispensador químico
-    .gender = male
-    .desc = Un dispensador químico de grado industrial.
-
-ent-ChemDispenserMachineCircuitboard = placa de máquina del dispensador químico
-    .gender = female
-    .desc = Una placa de circuito impreso para un dispensador químico.
-
-ent-ChemicalBarrelAbsinthe = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelAle = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelAluminium = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelBeer = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelCarbon = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelChlorine = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelCoffeeLiqueur = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelCognac = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelCopper = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelCornoil = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelDiethylamine = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelEthanol = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelExplosiveEmpty = barril explosivo
-    .gender = male
-    .desc = Se cree que el antiguo y misterioso símbolo del frente significaba antaño '¡Úsame como cobertura!' en tiempos pasados.
-
-ent-ChemicalBarrelExplosiveFilled = barril explosivo
-    .gender = male
-    .desc = Se cree que el antiguo y misterioso símbolo del frente significaba antaño '¡Úsame como cobertura!' en tiempos pasados.
-
-ent-ChemicalBarrelFluorine = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelGin = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelGold = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelHydrogen = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelIodine = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelIron = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelKetchup = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelLithium = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelMayo = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelMead = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelMercury = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelMustard = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelNitrogen = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelOil = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelOliveoil = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelOxygen = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelPhosphorus = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelPotassium = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelRadium = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelRum = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSilicon = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSilver = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSodium = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSpaceCleaner = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSpaceLube = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSugar = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelSulfur = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelTequila = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelVermouth = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelVodka = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelWater = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
-
-ent-ChemicalBarrelWhiskey = barril metálico
-    .gender = male
-    .desc = Un barril metálico. Se puede llenar de líquido.
 
