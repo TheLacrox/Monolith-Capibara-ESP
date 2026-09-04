@@ -5,7 +5,7 @@
     <GuideEntityEmbed Entity="CEActionZFlightToggle" Caption="The flight action"/>
   </Box>
 
-  Algunas especies aladas pueden volar en los planetas. Esto les permite ascender y descender con cierta libertad por la atmósfera del planeta a costa de un consumo considerable de resistencia.
+  Ciertas especies aladas son capaces de volar en planetas. Esto les permite moverse con cierta libertad hacia arriba y hacia abajo por el aire del planeta, a costa de un consumo considerable de resistencia.
 
-  El consumo de resistencia del vuelo puede describirse mediante la siguiente función: [bold]consumoBase * (masa / 70)[/bold] (donde consumoBase es el consumo de resistencia base de tu especie y masa es tu propio peso).
+  El consumo de resistencia del vuelo se describe con la siguiente función: [bold]baseDrain * (mass / 70)[/bold] (donde baseDrain es el consumo base de resistencia de tu especie y mass es tu propio peso).
 </Document>

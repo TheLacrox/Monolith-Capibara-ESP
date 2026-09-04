@@ -2,6 +2,8 @@
 
 winter-solstice-description = Las tres ramas de la Federación de Marines Trans-Solares están bajo la dirección del mando supremo unificado de la Federación, conocido como Winter Solstice.
 
+pdv-highcomm-description = Los altos cargos de la PDV, a los que los asustados rahkshan se refieren simplemente como el alto mando...
+
 
 # Compañías Núcleo
 
@@ -56,4 +58,4 @@ cerberus-surplus-provisions = Cerberus Surplus Provisions, o CSP, es un conglome
 
 redsail-corsairs-description = Los RedSail Corsairs, o RSC, son un peligroso e influyente grupo de piratas y malhechores, conocidos públicamente por llevar a cabo actividades ilegales y violentas contra civiles, funcionarios y personal militar por igual. Su fuente de ingresos y especialización es el secuestro, el robo de carga, la toma de rehenes y el robo a mano armada. Están marcados abiertamente por el Colossus Central como organización criminal. En conjunto, los Corsairs funcionan como una unión entre saqueadores libres de todo tipo que han jurado lealtad entre sí.
 
-plxcor-description = PLXCOR es una destacada organización terrorista que opera en el sector Colossus. Los miembros de PLXCOR, también conocidos como unidades PLEX, son conocidos por sus opiniones extremas sobre la vida orgánica y por su propensión a la violencia. Todas las organizaciones que operan en el sector Colossus la clasifican como organización terrorista y la buscan por delitos que incluyen: asesinatos en masa; secuestros en masa; terrorismo generalizado; bioterrorismo; bioterrorismo con letoferol; tortura; mutilación corporal; tráfico de formas de vida sintientes; ciborgización forzada de formas de vida sintientes; etc. Deben considerarse armados y extremadamente peligrosos.
+plxcor-description = PLXCOR es una conocida organización terrorista que opera en el Sector Colossus. Los miembros de PLXCOR, también conocidos como unidades PLEX, son conocidos por sus opiniones extremas hacia la vida orgánica, así como por su propensión a la violencia. Todas las organizaciones que operan en el Sector Colossus los clasifican como organización terrorista, buscada por crímenes que incluyen: asesinato en masa; secuestro en masa; terrorismo generalizado; bioterrorismo; bioterrorismo con letoferol; tortura; mutilación corporal; tráfico de formas de vida sintientes; borgización forzosa de formas de vida sintientes; etc. Deben considerarse armados y extremadamente peligrosos.

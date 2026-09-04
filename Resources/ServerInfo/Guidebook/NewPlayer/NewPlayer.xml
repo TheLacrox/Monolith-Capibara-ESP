@@ -1,19 +1,19 @@
 <Document>
 # ¡Te damos la bienvenida a Space Station 14!
 
-Acabas de comenzar tu turno a bordo de una estación o nave.
-¡Te damos la bienvenida al sector! Trabaja por tu cuenta y vende tus servicios, o pide unirte a la tripulación de otra persona. Si ya has despertado en una nave, disfruta de tu estancia a bordo.
+Acabas de empezar tu turno a bordo de una estación o nave.
+¡Bienvenido al sector! ¡Sé un contratista independiente y vende tus servicios, o pide unirte a la tripulación de otra persona! Si te has despertado ya en una nave, ¡disfruta de tu estancia a bordo!
 
-[bold]Asegúrate de cumplir todas las reglas del servidor.[/bold] Puedes hacer preguntas o denunciar incumplimientos de las reglas al [color=#EB2D3A][bold]equipo de administración[/bold][/color] mediante el [bold]menú de ayuda de administración[/bold]. ([italic]Se abre al pulsar [/italic][color=yellow][bold][keybind="OpenAHelp"/][/bold][/color]).
+[bold]Asegúrate de seguir todas las reglas del servidor.[/bold] Puedes hacer preguntas o denunciar infracciones de las reglas al [color=#EB2D3A][bold]equipo de administración[/bold][/color] usando el [bold]menú de ayuda de administración[/bold]. ([italic]accesible pulsando [/italic][color=yellow][bold][keybind="OpenAHelp"/][/bold][/color])
 
-Puedes encontrar guías más detalladas sobre [italic]trabajos concretos[/italic] y [italic]mecánicas[/italic] [textlink="aquí." link="SS14"/]
+Puedes encontrar guías más detalladas sobre [italic]trabajos específicos[/italic] y [italic]mecánicas[/italic] [textlink="aquí." link="SS14"/]
 
 Puedes volver a abrir esta guía en cualquier momento mediante [color=yellow][bold][keybind="OpenGuidebook"][/bold][/color].
 
-## Controles básicos
-Estos son los controles que necesitarás para jugar con normalidad:
+## Controles Básicos
+Los siguientes son los controles que necesitarás para el juego habitual:
 
-- Corre mediante [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]. Mantén pulsado [color=yellow][bold][keybind="Walk"][/bold][/color] para caminar.
+- Corre usando [color=yellow][bold][keybind="MoveUp"][keybind="MoveLeft"][keybind="MoveDown"][keybind="MoveRight"][/bold][/color]. Mantén pulsado [color=yellow][bold][keybind="Walk"][/bold][/color] para caminar
 
 - Examina el mundo que te rodea mediante [color=yellow][bold][keybind="ExamineEntity"][/bold][/color].
 
@@ -21,20 +21,20 @@ Estos son los controles que necesitarás para jugar con normalidad:
 
 - Al colocar el cursor sobre una entidad y pulsar [color=yellow][bold][keybind="UseSecondary"][/bold][/color], se muestra el [italic]menú contextual[/italic], que contiene interacciones adicionales.
 
-- Cambia de mano mediante [color=yellow][bold][keybind="SwapHands"][/bold][/color] y activa el objeto que sostienes mediante [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color].
+- Cambia de mano usando [color=yellow][bold][keybind="SwapHands"][/bold][/color] y activa el objeto que tienes en la mano con [color=yellow][bold][keybind="ActivateItemInHand"][/bold][/color]
 
-- Suelta los objetos que sostienes mediante [color=yellow][bold][keybind="Drop"][/bold][/color] o lánzalos mediante [color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color].
+- Suelta los objetos que sostienes con [color=yellow][bold][keybind="Drop"][/bold][/color] o lánzalos usando [color=yellow][bold][keybind="ThrowItemInHand"][/bold][/color]
 
 - Arrastra y suelta objetos mediante [color=yellow][bold][keybind="TryPullObject"][/bold][/color] y [color=yellow][bold][keybind="ReleasePulledObject"][/bold][/color].
 
-Puedes consultar una lista más completa en la página de [textlink="controles" link="Controls"].
+Puedes encontrar una lista más completa en la página de [textlink="controles" link="Controls"].
 
 ## ¿Qué es SS14?
 Space Station 14 es un juego multijugador sobre la paranoia y el caos en una estación espacial, además de una nueva versión del clásico de culto Space Station 13.
 
-Únete a decenas de jugadores en una estación espacial diseñada y simulada al detalle, sumérgete en la interpretación y afronta amenazas por el camino.
+Únete a docenas de otros jugadores en una estación espacial intrincadamente diseñada y simulada, sumergiéndote en el rol y haciendo frente a las amenazas que surjan por el camino.
 
-SS14 es un [italic]juego de código abierto[/italic] desarrollado por [bold]personas como tú.[/bold]
+SS14 es un [italic]juego de código abierto[/italic] desarrollado por gente [bold]¡como tú![/bold]
 Recibe [color=lime]actualizaciones diarias[/color] y a veces puede ser [color=#EB2D3A][bold]inestable.[/bold][/color]
 
 [italic]Si quieres informar de errores o ayudar con el desarrollo, únete al Discord y descubre cómo empezar.[/italic]

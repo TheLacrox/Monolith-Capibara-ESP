@@ -48,6 +48,7 @@ surgery-popup-step-SurgeryStepInsertLungs = ¡{$user} está insertando pulmones 
 surgery-popup-step-SurgeryStepInsertLiver = ¡{$user} está insertando un hígado en el {$part} de {$target}!
 surgery-popup-step-SurgeryStepInsertEyes = ¡{$user} está insertando ojos en el {$part} de {$target}!
 surgery-popup-step-SurgeryStepInsertHeart = ¡{$user} está insertando un corazón en el {$part} de {$target}!
+surgery-popup-step-SurgeryStepInsertPump = ¡{$user} está insertando una bomba en el {$part} de {$target}!
 surgery-popup-step-SurgeryStepInsertStomach = ¡{$user} está insertando un estómago en el {$part} de {$target}!
 
 surgery-popup-step-SurgeryStepSealOrganWound = {$user} está sellando las heridas del {$part} de {$target}.

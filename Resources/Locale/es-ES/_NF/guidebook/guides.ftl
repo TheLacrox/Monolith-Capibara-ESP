@@ -1,6 +1,8 @@
 # Base entries
-guide-entry-nf14 = Guía Frontier
+guide-entry-nf14 = Fundamentos de Monolith
+guide-entry-basics = Guía de Inicio
 guide-entry-bank = Banco Central Colossus
+guide-entry-safety-deposit-box = Sistema de Cajas de Seguridad
 guide-entry-piloting = Pilotaje
 guide-entry-startinggear = Equipo Inicial
 guide-entry-hiring = Contratar Tripulación

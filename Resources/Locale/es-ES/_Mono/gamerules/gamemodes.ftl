@@ -1,6 +1,12 @@
 mono-roguetsf-title = Carrera Armamentista (TSF|PDV)
 mono-roguetsf-description = Los imperiales PDV nativos amenazan el destacamento local de TSFMC en el sector.
 
+mono-roguetsf-hyperwar-title = Hiperguerra (TSF|PDV)
+mono-roguetsf-hyperwar-description = PDV y TSF han declarado la guerra total, todos los civiles han sido evacuados del sector.
+
+mono-roguetsf-hyperwar-nuclear-title = Hiperguerra Nuclear (TSF|PDV)
+mono-roguetsf-hyperwar-nuclear-description = PDV y TSF han declarado la guerra total, todos los civiles han sido evacuados del sector. El ganador de la partida se decide por quién detona la bomba.
+
 mono-mixed-title = Mixto (TSF|PDV)
 mono-mixed-description = Los imperiales PDV nativos amenazan la expansión colonial de TSF en el sector. El sector parece estar lleno de una variedad de peligros.
 
@@ -19,8 +25,5 @@ mono-chimera-description = Los imperiales PDV nativos amenazan la expansión col
 mono-allatonce-title = Apocalipsis (TODOS, 3h)
 mono-allatonce-description = Un campo de batalla entre fuerzas PDV y TSF por igual, con sistemas ADS antiguos y bioarmas Chimera filtrándose en el sector.
 
-mono-roguetsf-hyperwar-title = Hiperguerra (TSF|PDV)
-mono-roguetsf-hyperwar-description = La PDV y la TSF han declarado la guerra total; todos los civiles han sido evacuados del sector.
-
-mono-roguetsf-hyperwar-nuclear-title = Hiperguerra nuclear (TSF|PDV)
-mono-roguetsf-hyperwar-nuclear-description = La PDV y la TSF han declarado la guerra total; todos los civiles han sido evacuados del sector. El ganador de la partida se decide por quién detone la bomba.
+mono-secret-title = Secreto (?)
+mono-secret-description = La amenaza principal de la partida es desconocida. Tendrás que descubrirlo más adelante.

@@ -5,7 +5,7 @@
     <GuideEntityEmbed Entity="MobFelinidDummy" Caption=""/>
   </Box>
 
-  Personas pequeñas y traviesas con orejas de gato. Su reducido tamaño tiene muchas ventajas y desventajas. Pueden esconderse dentro de bolsas de lona.
+  Personas pequeñas y traviesas con orejas de gato. Ser pequeño tiene, por sí mismo, muchas ventajas y desventajas. Pueden esconderse dentro de bolsas de lona.
 
   ## Dieta
 
@@ -16,21 +16,21 @@
 
   - Son más pequeños que los humanos, por lo que resulta más difícil acertarles.
   - Caben en bolsas de lona.
-  - Pueden vomitar una bola de pelo para eliminar parte de las sustancias químicas de su sangre.
-  - Pueden comerse ratones y ratas después de recogerlos. Esto les alimenta y regenera su capacidad de expulsar bolas de pelo.
-  - Usan las garras para infligir daño cortante y perforante.
-  - Pueden caminar sin hacer ningún ruido, pero solo cuando van descalzos.
-  - Son inmunes a la enfermedad OwOnavirus.
+  - Tienen la capacidad de vomitar una bola de pelo para librarse de parte de las sustancias químicas de su torrente sanguíneo.
+  - Pueden comerse ratones y ratas tras recogerlos. Esto tiene la ventaja de regenerar la habilidad de la bola de pelo y de alimentarlos.
+  - Usan sus garras para infligir daño por Corte y daño por Perforación.
+  - Pueden caminar en completo silencio, pero solo mientras vayan descalzos.
+  - Inmunidad a la enfermedad OwOnavirus.
 
   ## Desventajas
 
-  - Reciben un 10 % más de daño contundente y cortante.
-  - Debido a su pequeño tamaño, los demás morfotipos pueden empujarlos y transportarlos con facilidad.
-  - Son más débiles y, debido a su pequeño tamaño, les cuesta transportar y arrastrar objetos. No pueden cargar con un Oni.
-  - Tienen algo menos de resistencia que los humanos.
+  - Reciben un 10% más de daño por Golpe y Corte.
+  - Son fáciles de empujar, apartar y cargar por cualquier otro morfotipo debido a su pequeño tamaño.
+  - Son más débiles y les cuesta cargar y arrastrar cosas debido a su pequeño tamaño. No pueden cargar a un Oni.
+  - Tienen ligeramente menos resistencia que los Humanos.
 
-  ## Patas acolchadas
+  ## Patas Suaves
 
-  Esta especie aterriza con mayor suavidad al caer desde grandes alturas. (En términos sencillos, pueden caer desde más alto sin sufrir daño ni quedar aturdidos).
+  Esta especie aterriza con más suavidad al caer desde grandes alturas. (En términos sencillos, tienen una mayor distancia a partir de la cual las caídas no les hieren ni aturden.)
 
 </Document>

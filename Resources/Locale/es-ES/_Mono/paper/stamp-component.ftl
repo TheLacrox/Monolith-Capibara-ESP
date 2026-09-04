@@ -5,6 +5,7 @@ stamp-component-stamped-name-tsf-captain = Capitán de la TSFMC
 stamp-component-stamped-name-ussp-stratcomm = USSP STRATCOMM
 stamp-component-stamped-name-ussp-taccomm = USSP TACCOMM
 stamp-component-stamped-name-ussp = Unión de Planetas Socialistas Soviéticos
+stamp-component-stamped-name-mmc-liason = Enlace Corporativo de Mieyo
 stamp-component-stamped-name-pdv-overwatch = Vigilancia Local de la Dinastía Phaethon
 stamp-component-stamped-name-pdv-vizier = El Gran Visir del Sultán
 stamp-component-stamped-name-pdv-asvaran = El Asvaran del Sultán

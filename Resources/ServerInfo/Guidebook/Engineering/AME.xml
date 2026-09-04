@@ -1,26 +1,26 @@
 <Document>
-  # Motor de Antimateria (AME)
-  El Motor de Antimateria es un generador de apoyo a corto plazo para la estación, que proporciona una cantidad considerable de energía durante un tiempo limitado.
+  # Motor de Reacción de Isótopos (IRE)
+  El Motor de Reacción de Isótopos es un generador avanzado pero caro para la estación, que proporciona una cantidad considerable de energía durante un tiempo limitado.
 
-  Se usa principalmente para ayudar a los ingenieros a poner en marcha motores más grandes como el [textlink="Motor de Singularidad" link="SingularityEngine"] o el [textlink="Motor Tesla" link="TeslaEngine"], complementando las [textlink="baterías" link="PowerStorage"] de la estación con energía parcial para extender su tiempo de funcionamiento.
+  Se usa principalmente para ayudar a los ingenieros a arrancar motores más grandes como el [textlink="Motor de Singularidad" link="SingularityEngine"] o el [textlink="Motor Tesla" link="TeslaEngine"], complementando las [textlink="baterías" link="PowerStorage"] de la estación con energía parcial para prolongar su autonomía.
 
   ## Construcción
-  <Box>Partes necesarias:</Box>
+  <Box>Piezas necesarias:</Box>
   <Box>
   <GuideEntityEmbed Entity="AmeController"/>
   <GuideEntityEmbed Entity="AmePartFlatpack"/>
   <GuideEntityEmbed Entity="AmeJar"/>
   </Box>
 
-  El Controlador AME es la parte del AME que suministra energía a la red de la estación a través de una [textlink="conexión HV" link="VoltageNetworks"].
-  Por ello, querrás comenzar la construcción del AME con el controlador encima de un [color=orange]cable HV[/color].
+  El controlador del IRE es la parte del IRE que envía energía a la red de la estación a través de una [textlink="conexión HV" link="VoltageNetworks"].
+  Por ello, querrás empezar la construcción del IRE con el controlador encima de un [color=orange]cable HV[/color].
 
-  La mayoría de las estaciones tienen [color=orange]cableado HV[/color] expuesto o lugares designados para colocar con llave inglesa un controlador AME, de modo que se conecte a la red.
+  La mayoría de las estaciones tienen [color=orange]cableado HV[/color] expuesto o puntos designados para anclar con llave inglesa un controlador de IRE, de modo que quede conectado a la red.
 
-  El blindaje AME es la estructura física que forma el motor de antimateria. Se fabrica convirtiendo los paquetes planos AME en blindaje usando una multiherramienta.
+  El blindaje del IRE es la estructura física que forma el motor de antimateria. Se fabrica convirtiendo paquetes planos de IRE en blindaje con una multiherramienta.
 
-  Para construir un AME, comienza colocando un cuadrado de 3x3 o mayor de paquetes planos AME en preparación para la construcción, asegurándote de maximizar el número de piezas "centrales" que estén rodeadas por los ocho lados.
-  Cuantas más piezas centrales haya, más núcleos tendrá tu AME y más energía podrá generar de forma segura.
+  Para construir un IRE, empieza colocando un cuadrado de 3x3 o mayor de paquetes planos de IRE como preparación para la construcción, procurando maximizar el número de piezas «centrales» rodeadas por los ocho lados.
+  Cuantas más piezas centrales haya, más núcleos tendrá tu AME y más energía podrá producir de forma segura.
 
   <Box>
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
@@ -38,7 +38,7 @@
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
   </Box>
 
-  Una vez hecho esto, puedes usar una multiherramienta para convertir cada paquete plano AME en blindaje, lo que debería dar lugar a una configuración AME terminada.
+  Una vez hecho esto, puedes usar una multiherramienta para convertir cada paquete plano de IRE en blindaje, lo que debería formar una configuración de IRE terminada.
 
   <GuideEntityEmbed Entity="AmeController" Caption=""/>
   <Box>
@@ -57,20 +57,20 @@
     <GuideEntityEmbed Entity="AmeShielding" Caption="" Margin="0"/>
   </Box>
   <Box>
-    [color=#999999][italic]Un ejemplo de configuración de un solo núcleo[italic][/color]
+    [color=#999999][italic]Ejemplo de una configuración de un solo núcleo[italic][/color]
   </Box>
 
-  ## Operación
-  Para activar el AME, inserta un frasco de combustible en el controlador AME y establece la tasa de inyección segura.
+  ## Funcionamiento
+  Para arrancar el IRE, inserta un tarro de combustible en el controlador del IRE y ajusta la tasa de inyección segura.
 
-  La tasa de inyección segura es el punto en el que el AME puede funcionar de forma segura sin sobrecalentarse, maximizando al mismo tiempo la producción de energía.
+  La tasa de inyección segura es el punto en el que el IRE puede funcionar sin sobrecalentarse, maximizando a la vez la producción de energía.
 
-  Esta tasa es siempre el doble del número de núcleos.
+  Esta tasa siempre es el doble del número de núcleos.
 
-  Por ejemplo, un AME con un núcleo tendrá una tasa de inyección segura de 2. Con dos núcleos, la tasa de inyección segura sería de 4, y así sucesivamente.
+  Por ejemplo, un IRE con un núcleo tendrá una tasa de inyección segura de 2. Con dos núcleos, la tasa de inyección segura sería 4, y así sucesivamente.
 
-  Cualquier valor superior a esta proporción acabará provocando que el motor [color=#ff0000]se sobrecaliente[/color] y, poco después, [color=#ff0000]explote[/color].
+  Cualquier valor por encima de esta proporción acabará provocando que el motor se [color=#ff0000]sobrecaliente[/color] y, poco después, [color=#ff0000]explote[/color].
 
-  El controlador AME [textlink="informa" link="InspectingPower"] tanto la cantidad de energía que está suministrando a la red como la potencia máxima teórica que podría suministrar si se le demandara.
+  El controlador del IRE [textlink="informará" link="InspectingPower"] tanto de la cantidad de energía que está suministrando a la red como de la potencia máxima teórica que podría proporcionar si se le exigiera.
 
 </Document>

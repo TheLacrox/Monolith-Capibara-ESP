@@ -9,6 +9,10 @@ ghost-role-information-tsfmc-core-description = Un núcleo de IA ADS que ha sido
 ghost-role-information-pdv-core = Núcleo de IA PDV
 ghost-role-information-pdv-core-description = Un núcleo de IA ADS que ha sido reprogramado e instalado en una nave Imperial.
 
+# Xenoborg Mothership
+ghost-role-information-Xenoborg-Mothership = Núcleo de la Nave Nodriza Xenoborg
+ghost-role-information-Xenoborg-Mothership-description = Una máquina consciente capaz de producir Xenoborgs. Sin ella, los Xenoborgs están condenados.
+
 # Conjuntos de Leyes del Núcleo de IA
 
 law-vessel-0 = El propietario de la nave es el único miembro de la tripulación, a menos que designe a otros como tal.
@@ -48,3 +52,15 @@ borg-type-tsfengineer-name = Cyborg Ingeniero TSFMC
 borg-type-tsfengineer-desc = Un cyborg especializado en proyectos de construcción y reparación.
 borg-type-tsfmedical-name = Cyborg Médico TSFMC
 borg-type-tsfmedical-desc = Un cyborg de atención clínica de respuesta a emergencias diseñado para el cuidado activo de heridas y respuesta rápida.
+
+# xenoborg
+borg-type-BorgChassisSelectableXenoborg-name = Cyborg Xenoborg
+borg-type-BorgChassisSelectableXenoborg-desc = Un híbrido de hombre y máquina que aspira a replicarse. Les encanta extraer cerebros para insertarlos en chasis Xenoborg nuevos y así hacer crecer su ejército. Este tipo es indeciso y no se ha especializado en cómo servir mejor a la Nave Nodriza
+borg-type-xenoborgheavy-name = Xenoborg Pesado
+borg-type-xenoborgheavy-desc = Un híbrido de hombre y máquina que aspira a replicarse. Les encanta extraer cerebros para insertarlos en chasis Xenoborg nuevos y así hacer crecer su ejército. Este tipo cuenta con láseres pesados y está cubierto de gruesas placas de blindaje. Puede que sea más resistente, pero su velocidad es acorde a su corpulencia.
+borg-type-xenoborgengineer-name = Xenoborg Ingeniero
+borg-type-xenoborgengineer-desc = Un híbrido de hombre y máquina que aspira a replicarse. Les encanta extraer cerebros para insertarlos en chasis Xenoborg nuevos y así hacer crecer su ejército. Este parece ser un tipo de ingeniería, ya que cuenta con más herramientas para apoyar a los demás Xenoborgs.
+borg-type-xenoborgscout-name = Xenoborg Explorador
+borg-type-xenoborgscout-desc = Un híbrido de hombre y máquina que aspira a replicarse. Les encanta extraer cerebros para insertarlos en chasis Xenoborg nuevos y así hacer crecer su ejército. Este es un tipo explorador; sus ágiles propulsores le permiten moverse rápidamente por el espacio.
+borg-type-xenoborgstealth-name = Xenoborg Sigiloso
+borg-type-xenoborgstealth-desc = Un híbrido de hombre y máquina que aspira a replicarse. Les encanta extraer cerebros para insertarlos en chasis Xenoborg nuevos y así hacer crecer su ejército. Este es un tipo sigiloso. Su blindaje reluce a la luz como ningún otro material que hayas visto.

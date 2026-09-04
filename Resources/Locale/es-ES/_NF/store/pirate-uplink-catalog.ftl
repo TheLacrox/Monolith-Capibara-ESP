@@ -6,6 +6,7 @@ store-category-pirateutility = Utilidades
 store-category-pirateammo = Munición
 store-category-pirateexplosives = Explosivos
 store-category-pdvvouchers = Vales
+store-category-pdvmaterials = Materiales
 store-category-pirategambling = Apuestas
 # Mono edit end
 
@@ -26,7 +27,7 @@ uplink-pirate-hoverbike-desc = Un paquete plano que contiene el gran vehículo p
 uplink-pirate-blunderbuss-name = Trabuco
 uplink-pirate-blunderbuss-desc = Mortal a corta distancia, una escopeta ilegal que suele encontrarse al lado de un pirata.
 uplink-pirate-revolver-name = Revólver Elegante
-uplink-pirate-revolver-desc = Un revólver extraño, ilegal y de aspecto antiguo, favorito de las fuerzas imperiales. Usa munición del calibre .45 magnum.
+uplink-pirate-revolver-desc = Un revólver extraño, ilegal y de aspecto antiguo, favorito de las fuerzas imperiales. Usa munición del calibre .357 magnum.
 uplink-pirate-cannon-name = Cañón Manual
 uplink-pirate-cannon-desc = ¡Kaboom!
 uplink-pirate-cannonball-name = Cofre de Balas de Cañón
@@ -44,7 +45,7 @@ uplink-pirate-flintlock-desc = El compañero de un capitán pirata. ¡Yarrr! Usa
 uplink-pirate-shotgunammo-name = Caja de Cartuchos para Trabuco
 uplink-pirate-shotgunammo-desc = Una caja de cartuchos de escopeta del calibre 12, usados en el trabuco.
 uplink-pirate-revolverammo-name = Caja de Munición para Revólver Pirata
-uplink-pirate-revolverammo-desc = Una caja de balas del calibre .45 magnum, usadas en el revólver pirata.
+uplink-pirate-revolverammo-desc = Una caja de balas del calibre .357 magnum, usadas en el revólver pirata.
 uplink-pirate-flintlockammo-name = Caja de Munición para Pistola de Chispa
 uplink-pirate-flintlockammo-desc = Una caja de balas de 14.5x114mm, usadas en la pistola de chispa.
 uplink-pirate-ecutlass-name = Sable de Energía

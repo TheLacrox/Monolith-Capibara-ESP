@@ -1,0 +1,105 @@
+plant-analyzer-interface-title = Agrinfo 3000 Analizador de Plantas
+plant-analyzer-window-no-seed-information-text = No hay ninguna semilla/planta escaneada en memoria.
+plant-analyzer-window-tab-basics = Información Básica
+plant-analyzer-window-tab-tolerances = Tolerancias
+plant-analyzer-window-tab-mutations = Mutaciones
+plant-analyzer-window-tab-scan = Escanear
+plant-analyzer-window-tab-extractor = Extractor
+plant-analyzer-window-tab-databank = Banco de datos
+plant-analyzer-window-scanmode = Modo del analizador:
+plant-analyzer-window-mode-mutation = Mutaciones
+plant-analyzer-window-mode-scan = Escanear
+plant-analyzer-window-mode-implant = Implantar
+plant-analyzer-window-mode-extract = Extraer
+
+plant-analyzer-add = +
+plant-analyzer-subtract = -
+plant-analyzer-delete-entry = Eliminar
+plant-analyzer-delete-mutations = Eliminar mutaciones
+plant-analyzer-invalid-gene = -----
+plant-analyzer-invalid-database = No se han detectado datos
+plant-analyzer-database-entries-header = Base de datos:
+plant-analyzer-selected-entry = ID seleccionado: {$index}
+plant-analyzer-extractor-hint = Selecciona un gen y luego usa el analizador sobre una semilla para extraerlo. La semilla se consumirá.
+plant-analyzer-implant-hint = Selecciona una entrada almacenada y luego usa el analizador sobre una semilla o planta para implantarla.
+plant-analyzer-delete-mutations-hint = Usa el analizador sobre una semilla o planta para eliminar sus mutaciones acumuladas.
+
+plant-analyzer-database-consume-gas = Consume {$gas}: {$value}
+plant-analyzer-database-exude-gas = Emite {$gas}: {$value}
+plant-analyzer-database-chemical = {$reagent}: Mín. - {$min}, Máx. - {$max}, Divisor de potencia - {$divisor}, Inherente - {$inherent}
+
+plant-analyzer-gene-nutrientconsumption = Consumo de nutrientes
+plant-analyzer-gene-waterconsumption = Consumo de agua
+plant-analyzer-gene-idealheat = Calor ideal
+plant-analyzer-gene-heattolerance = Tolerancia al calor
+plant-analyzer-gene-ideallight = Luz ideal
+plant-analyzer-gene-lighttolerance = Tolerancia a la luz
+plant-analyzer-gene-toxinstolerance = Tolerancia a toxinas
+plant-analyzer-gene-lowpressuretolerance = Presión mínima
+plant-analyzer-gene-highpressuretolerance = Presión máxima
+plant-analyzer-gene-pesttolerance = Tolerancia a plagas
+plant-analyzer-gene-weedtolerance = Tolerancia a malas hierbas
+plant-analyzer-gene-endurance = Resistencia
+plant-analyzer-gene-yield = Rendimiento
+plant-analyzer-gene-lifespan = Vida útil
+plant-analyzer-gene-maturation = Maduración
+plant-analyzer-gene-production = Producción
+plant-analyzer-gene-growthstages = Etapas de crecimiento
+plant-analyzer-gene-harvestrepeat = Tipo de cosecha
+plant-analyzer-gene-potency = Potencia
+plant-analyzer-gene-seedless = Sin semillas
+plant-analyzer-gene-viable = Viable
+plant-analyzer-gene-ligneous = Leñosa
+plant-analyzer-gene-canscream = Gritona
+plant-analyzer-gene-turnintokudzu = Kudzu
+plant-analyzer-gene-consumegases = Gases consumidos
+plant-analyzer-gene-exudegases = Gases emitidos
+plant-analyzer-gene-chemicals = Sustancias químicas
+
+plant-analyzer-window-label-name-scanned-plant = Planta escaneada: {$seedName}
+plant-analyzer-window-label-name-scanned-seed = Semilla escaneada: {$seedName}
+plant-analyzer-unknown-plant = Desconocido
+plant-analyzer-plant-endurance-text = Resistencia de la planta: {$seedEndurance}
+plant-analyzer-plant-chemistry-text = Sustancias contenidas: {$seedChem}
+plant-analyzer-plant-gases-none = Ninguno
+plant-analyzer-plant-yield-text = Rendimiento de la planta: {$seedYield}
+plant-analyzer-plant-harvest-text = Tipo de cosecha: {$plantHarvestType}
+plant-analyzer-plant-potency-text = Potencia de la planta: {$seedPotency}%
+plant-analyzer-plant-exude-text = Gases emitidos: {$gases}
+plant-analyzer-plant-consume-text = Gases consumidos: {$gases}
+plant-analyzer-plant-lifespan-text = Vida útil: {$lifespan}
+plant-analyzer-plant-maturation-text = Maduración: {$maturation}
+plant-analyzer-plant-production-text = Producción: {$production}
+plant-analyzer-plant-growthstages-text = Etapas de crecimiento: {$growthStages}
+
+plant-analyzer-tolerance-nutrient-usage = Uso de nutrientes: {$nutrientUsage} u/etapa
+plant-analyzer-tolerance-water-usage = Uso de agua: {$waterUsage} u/etapa
+plant-analyzer-tolerance-ideal-heat = Calor ideal: {$idealHeat} K
+plant-analyzer-tolerance-heat-tolerance = Tolerancia al calor: ±{$heatTolerance} K
+plant-analyzer-tolerance-ideal-light = Luz ideal: {$idealLight} cd
+plant-analyzer-tolerance-light-tolerance = Tolerancia a la luz: ±{$lightTolerance} cd
+plant-analyzer-tolerance-toxin-tolerance = Tolerancia a toxinas: {$toxinsTolerance}
+plant-analyzer-tolerance-low-pressure = Presión baja: {$lowPressureTolerance} kPa
+plant-analyzer-tolerance-high-pressure = Presión alta: {$highPressureTolerance} kPa
+plant-analyzer-tolerance-pest-tolerance = Tolerancia a plagas: {$pestTolerance}
+plant-analyzer-tolerance-weed-tolerance = Tolerancia a malas hierbas: {$weedTolerance}
+
+plant-analyzer-plant-mutations-text = Mutaciones: {$traits}
+plant-analyzer-plant-speciation-text = Subtipos posibles: {$speciation}
+
+plant-analyzer-mutation-unviable = No viable
+plant-analyzer-mutation-turnintokudzu = Kudzuficación
+plant-analyzer-mutation-seedless = Sin semillas
+plant-analyzer-mutation-slip = Resbaladiza
+plant-analyzer-mutation-sentient = Sintiente
+plant-analyzer-mutation-ligneous = Leñosa
+plant-analyzer-mutation-bioluminescent = Bioluminiscente
+plant-analyzer-mutation-canscream = Mandrágora
+
+plant-analyzer-harvest-Unknown = Desconocido
+plant-analyzer-harvest-Repeat = Perenne
+plant-analyzer-harvest-NoRepeat = Efímera
+plant-analyzer-harvest-SelfHarvest = Autocosechable
+
+plant-analyzer-boolean-true = Verdadero
+plant-analyzer-boolean-false = Falso

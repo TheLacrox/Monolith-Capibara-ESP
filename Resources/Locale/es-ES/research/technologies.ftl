@@ -21,6 +21,7 @@ research-technology-bluespace-storage = Almacenamiento Bluespace
 research-technology-portable-fission = Fisión Portátil
 research-technology-space-scanning = Exploración Espacial
 research-technology-excavation = Excavación Masiva
+research-technology-ore-silo = Gestión de Materiales
 
 research-technology-salvage-weapons = Armas de Salvamento
 research-technology-draconic-munitions = Municiones Dracónicas

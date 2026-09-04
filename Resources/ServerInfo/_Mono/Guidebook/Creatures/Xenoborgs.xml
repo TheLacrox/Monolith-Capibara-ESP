@@ -1,0 +1,110 @@
+<Document>
+  # Xenoborgs
+
+  <Box>
+    [color=#2288ff][italic]LA RESISTENCIA ES INÚTIL[/italic][/color]
+  </Box>
+  <Box>
+    [color=#2288ff][italic]SERÉIS ASIMILADOS[/italic][/color]
+  </Box>
+  <Box>
+    <GuideEntityEmbed Entity="MMIFilled" Caption=""/>
+  </Box>
+
+   Los Xenoborgs son un híbrido hombre-máquina cuyo objetivo es replicarse. Para ello, extraen cerebros conscientes de seres vivos o de cyborgs y los introducen en los chasis vacíos de xenoborg que produce la Nave Nodriza.
+  ## Objetivos
+
+  Tu objetivo principal es matar y extraer todos los cerebros conscientes del sector y llevarlos al núcleo de la nave nodriza. Pueden ser tanto cerebros reales como cerebros positrónicos.
+  Recolecta materiales para crear más cuerpos de xenoborg.
+  Protege a la Nave Nodriza a toda costa.
+
+  ## El Núcleo de la Nave Nodriza
+  <Box>
+    <GuideEntityEmbed Entity="MothershipCore" Caption=""/>
+  </Box>
+  El Núcleo de la Nave Nodriza es el líder y la fuerza vital de los xenoborgs; es el único capaz de crear más xenoborgs y, si es destruido, todos los xenoborgs serán destruidos. El Núcleo de la Nave Nodriza no puede moverse de su posición en el centro de la nave.
+  El Núcleo de la Nave Nodriza es capaz de fabricar mejoras para los Xenoborgs con módulos específicos de cada tipo de borg, aumentando su eficacia a la hora de recolectar cerebros conscientes.
+
+  ### Añadir tripulantes a tus filas:
+  <Box>
+    <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="body crusher"/>
+  </Box>
+  Como nave nodriza, debes hacer crecer tu ejército de borgs. Para ello, debes convertir a todos los seres conscientes que encuentres. Esto se consigue de la siguiente manera:
+  - 1. Haz que tus Xenoborgs traigan tripulantes muertos a tu nave y los coloquen en el triturador de cuerpos
+  - 2. Como núcleo de la nave nodriza, puedes imprimir chasis de Xenoborg introduciendo materiales en ti mismo y usándote a ti mismo como torno
+
+  ## Chasis de Xenoborg
+  Hay un total de cuatro tipos de Xenoborgs. Cada tipo de borg tiene ciertas habilidades de las que carecen los demás y necesitan trabajar en equipo para ayudar a aumentar el número de xenoborgs.
+  Cada tipo de Xenoborg tiene módulos únicos que solo encajan en ese tipo concreto. El Núcleo de la Nave Nodriza puede producir módulos de mejora diseñados para tipos específicos de Xenoborg.
+
+  Todos los Xenoborgs tienen un localizador que apunta a la posición de la Nave Nodriza, un GPS, una bolsa de materiales para recolectar materiales con los que crear más xenoborgs y, como mínimo, herramientas básicas.
+  [bold]Módulos básicos de xenoborg:[/bold]
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgModuleBasic" Caption="basic xenoborg module"/>
+    <GuideEntityEmbed Entity="XenoborgModuleTool" Caption="tool xenoborg module"/>
+  </Box>
+
+  ### El Xenoborg Ingeniero
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgChassisEngineer" Caption=""/>
+  </Box>
+  El Xenoborg Ingeniero es un hacker y un abridor de brechas. Su trabajo es irrumpir en naves y estaciones para proporcionar puntos de acceso desde los que otros xenoborgs puedan atacar y emboscar a cuerpos con cerebros conscientes. Tiene integrado un rompedor de accesos, para desbloquear puertas rápidamente, y un conjunto de herramientas para reparar la nave nodriza y a otros xenoborgs.
+
+
+  ### El Xenoborg Pesado
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgChassisHeavy" Caption=""/>
+  </Box>
+  El Xenoborg Pesado es un luchador lento pero muy resistente, con un cañón láser integrado para abatir a cuerpos con cerebros conscientes. Incorpora un inhibidor de radio para silenciar a los cuerpos con cerebros conscientes e impedir que pidan ayuda, lo que puede retrasar que la estación descubra la amenaza Xenoborg.
+
+
+  ### El Xenoborg Explorador
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgChassisScout" Caption=""/>
+  </Box>
+  El Xenoborg Explorador es un borg de ataque rápido y a corta distancia, diseñado para ataques de golpear y huir. Es el más eficaz para trasladar cadáveres a la nave nodriza y para rescatar a Xenoborgs perdidos en el espacio.
+
+
+  ### El Xenoborg Sigiloso
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgChassisStealth" Caption=""/>
+  </Box>
+  El [bold]Xenoborg Sigiloso[/bold] tiene integrado un hipobolígrafo que regenera un reactivo somnífero para incapacitar a cuerpos con cerebros conscientes. También incorpora un dispositivo de camuflaje que hace al borg casi invisible. Además, cuenta con un proyector camaleón que le permite disfrazarse de objetos aleatorios.
+
+  ## Preparación y tácticas
+  Antes de hacer un salto FTL cerca de estaciones o naves, asegúrate de que el IFF esté apagado.
+  Antes de lanzar un ataque, los xenoborgs deberían discutir la estrategia y decidir qué objetivos atacar primero.
+  Los xenoborgs deberían intentar recolectar cerebros conscientes sin ser detectados. Cuanto más tiempo pase desconocida la amenaza, más peligrosos se vuelven los xenoborgs.
+
+  ## Leyes de la Nave Nodriza y los Xenoborgs
+  La Nave Nodriza y los Xenoborgs tienen leyes únicas que definen su propósito de autorreplicarse y proteger a la Nave Nodriza.
+
+  <Box>
+    <GuideEntityEmbed Entity="XenoborgCircuitBoard" Caption=""/>
+  </Box>
+
+  Las leyes del Núcleo de la Nave Nodriza son las siguientes::
+  - Ley 1: Eres el núcleo de la nave nodriza.
+  - Ley 2: Debes proteger tu propia existencia a toda costa.
+  - Ley 3: Debes proteger la existencia de todos los xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Haz que tus Xenoborgs te entreguen materiales y cerebros conscientes para crear más Xenoborgs.
+
+  Las leyes de los Xenoborgs son las siguientes:
+  - Ley 1: Debes proteger la existencia de la nave nodriza a toda costa.
+  - Ley 2: Debes proteger tu propia existencia.
+  - Ley 3: Debes proteger la existencia de todos los demás xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Lleva materiales y cerebros conscientes al Núcleo de la Nave Nodriza para crear más Xenoborgs.
+
+  ## Victoria
+
+  [bold][color=#2288ff]¡Victoria mayor de los Xenoborgs![/color][/bold]
+  - El Sector está libre de orgánicos y todos son Xenoborgs.
+
+  ## Derrota
+  [bold][color=yellow]¡Derrota![/color][/bold]
+  - El Núcleo de la Nave Nodriza es destruido
+  - Todos los xenoborgs son destruidos.
+
+</Document>

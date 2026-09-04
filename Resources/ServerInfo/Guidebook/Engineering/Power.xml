@@ -1,8 +1,8 @@
 <Document>
   # Energía
-  La energía es el sustento de la estación.
+  La energía es el alma de la estación.
   Sin ella, la estación caerá rápidamente en el caos.
-  Los ingenieros son responsables de mantener la red eléctrica de la estación, asegurando que la energía se suministre, distribuya y que todos los departamentos queden satisfechos.
+  Los ingenieros son responsables de mantener la red eléctrica de la estación, asegurándose de que la energía se suministre, se distribuya y todos los departamentos queden satisfechos.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
@@ -13,23 +13,23 @@
     <GuideEntityEmbed Entity="APCBasic" Caption=""/>
   </Box>
 
-  Hay muchos aspectos distintos en la simulación del sistema eléctrico de Space Station 14, así como en el gameplay previsto para Ingeniería.
+  La simulación del sistema de energía de Space Station 14 tiene muchos aspectos diferentes, al igual que la jugabilidad prevista para Ingeniería.
 
-  Información importante a tener en cuenta:
-  - Los [textlink="generadores" link="Generators"] de la estación están organizados por niveles y siguen una jerarquía. Cuanto más bajo es el nivel, menos sostenibles son, pero más fáciles de configurar. Cuanto más alto es el nivel, más sostenibles son, pero más complejos de configurar.
-  - Space Station 14 cuenta con [textlink="redes de voltaje" link="VoltageNetworks"], que distribuyen la energía por la estación y reducen su voltaje mediante máquinas para que puedan ser usadas por otros dispositivos.
-  - Los [textlink="generadores" link="Generators"] de energía tienen [textlink="aceleración progresiva" link="Ramping"], lo que significa que tardan un tiempo en igualar la demanda de la red con su suministro.
+  Alguna información importante a tener en cuenta:
+  - Los [textlink="generadores" link="Generators"] de la estación están divididos en niveles y siguen una jerarquía. Cuanto más bajo es el nivel, menos sostenibles son, pero más fáciles de montar. Cuanto más alto es el nivel, más sostenibles son, pero más complejos de montar.
+  - Space Station 14 cuenta con [textlink="redes de voltaje" link="VoltageNetworks"], que distribuyen la energía por la estación y cuyo voltaje es reducido por máquinas para que otras máquinas puedan usarlo.
+  - Los [textlink="generadores" link="Generators"] de energía tienen [textlink="escalonamiento" link="Ramping"], lo que significa que tardan un tiempo en ajustar su suministro a la demanda de la red.
 
-  ## Empezando
-  Al inicio del turno, la estación funciona únicamente con energía de [textlink="batería" link="PowerStorage"].
-  Esto durará como máximo entre 5 y 10 minutos, dependiendo del consumo eléctrico de la estación.
+  ## Primeros Pasos
+  Al comienzo del turno, la estación funciona únicamente con la energía de las [textlink="baterías" link="PowerStorage"].
+  Esto durará como mucho 5-10 minutos, dependiendo del consumo de energía de la estación.
 
-  Para extender esto, puedes arrancar el [textlink="Motor de Antimateria" link="AME"] de la estación, o [textlink="AME." link="AME"]
-  Esto extenderá el tiempo de funcionamiento de las baterías de la estación de forma considerable, dándote más tiempo para configurar los [textlink="generadores" link="Generators"] de nivel superior de la estación.
-  Puedes extenderlo aún más instalando [textlink="paneles solares" link="SolarPanels"], que generan energía de forma gratuita.
+  Para prolongarlo, puedes poner en marcha el [textlink="Motor de Reacción Isotópica" link="AME"] de la estación, o [textlink="IRE." link="AME"]
+  Esto prolongará considerablemente la autonomía de las baterías de la estación, dándote más tiempo para montar los [textlink="generadores de mayor nivel de la estación." link="Generators"]
+  Puedes prolongarlo aún más montando [textlink="paneles solares" link="SolarPanels"], que generan energía gratis.
 
-  Después de configurar el [textlink="AME" link="AME"] y los [textlink="Solares" link="SolarPanels"], deberías estar generando una cantidad decente de energía.
+  Tras montar el [textlink="IRE" link="AME"] y los [textlink="paneles solares" link="SolarPanels"], deberías estar generando una cantidad decente de energía.
 
-  Ahora que te has ganado algo de tiempo, puedes centrarte en configurar [textlink="generadores" link="Generators"] de nivel superior como el [textlink="Motor de Singularidad" link="SingularityEngine"], que puede proporcionar energía durante el resto del turno.
+  Ahora que has ganado tiempo, puedes centrarte en montar [textlink="generadores" link="Generators"] de mayor nivel como el [textlink="Motor de Singularidad" link="SingularityEngine"], que puede proporcionar energía durante el resto del turno.
 
 </Document>

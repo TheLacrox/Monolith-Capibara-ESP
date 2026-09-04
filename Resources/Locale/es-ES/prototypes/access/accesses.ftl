@@ -45,6 +45,7 @@ id-card-access-level-syndicate-agent = Agente del Sindicato
 id-card-access-level-central-command = Mando Central
 
 id-card-access-level-wizard = Mago
-id-card-access-level-station-ai = Inteligencia artificial
-id-card-access-level-borg = Cíborg
+
+id-card-access-level-station-ai = Inteligencia Artificial
+id-card-access-level-borg = Cyborg
 id-card-access-level-basic-silicon = Robot

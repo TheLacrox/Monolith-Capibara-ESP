@@ -34,6 +34,9 @@ This fork's purpose: a fully Spanish translation kept mergeable with upstream.
      names/descs are raw YAML strings with no upstream Loc hook; looks up additive
      `space-biome-<ID>-name/-desc` keys (`es-ES/_Capibara/space-biomes.ftl`) and
      `vessel-<name-slug>-name/-desc` keys (`es-ES/_Capibara/vessels.ftl`), falls back to YAML.
+  3. `Content.Client/_NF/Shipyard/UI/ShipyardConsoleMenu.xaml.cs` — shipyard purchase descriptions are raw
+     YAML `description:` strings; looks up additive `shipyard-<vessel-id>-desc` keys
+     (`es-ES/_Capibara/shipyard.ftl`), falls back to YAML. Ship names stay English (proper nouns).
   Adding ANY new C# divergence requires explicit user approval first.
 - EXCEPTION (approved): `Resources/ServerInfo/**` (guidebook, rules, intro texts) is translated
   IN PLACE — the engine has no per-locale mechanism for these docs. **On a merge conflict there:

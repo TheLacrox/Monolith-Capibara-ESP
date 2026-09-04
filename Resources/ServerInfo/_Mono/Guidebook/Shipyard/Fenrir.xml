@@ -4,20 +4,20 @@
   <GuideEntityEmbed Entity="WeaponTurretCharonReload"/>
   <GuideEntityEmbed Entity="AFInterceptorPDV"/>
   </Box>
-    [color=#a4885c]Tamaño de nave:[/color] Mediana
+    [color=#a4885c]Tamaño de la nave:[/color] Mediano
 
   [color=#a4885c]Tripulación recomendada:[/color] 3-4
 
-  [color=#a4885c]Tipo de generación de energía:[/color] Motor antimateria (AME)
+  [color=#a4885c]Tipo de generación de energía:[/color] Motor de Reacción de Isótopos (IRE)
 
   [color=#a4885c]Expediciones:[/color] Ninguna
 
   [color=#a4885c]Consola IFF:[/color] Incluida
 
-  "El BT-Y Fenrir es un destructor de tamaño medio en uso con la Vanguardia de la Dinastía Phaethon. Su arma principal es un [bold][color=#990000]M381 Charon Mass Driver[/bold][/color] y ha sido equipado con [color=#0055CC][bold]dos bahías de mech[/color] [color=#00CC55]de tamaño medio[/bold][/color]. Los modelos sin modificar pueden albergar como máximo [bold][color=#00CC55]mechs de clase S-2[/bold][/color]."
+  "El BT-Y Fenrir es un destructor de tamaño medio en servicio con la Vanguardia de la Dinastía Phaethon. Su arma principal es un [bold][color=#990000]lanzamasas M381 Charon[/bold][/color] y ha sido equipado con [color=#0055CC][bold]dos[/color] [color=#00CC55]bahías de mechas[/bold][/color] de tamaño medio. Los modelos sin modificar pueden albergar como máximo [bold][color=#00CC55]mechas de clase de tamaño S-2[/bold][/color]."
 
 
-  # LISTA DE COMPROBACIÓN PREVIA AL VUELO
+  # LISTA DE VERIFICACIÓN PREVIA AL VUELO
 
   ## 1. Suministro de energía
 
@@ -28,12 +28,12 @@
     <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
 
-  - Comprueba que la configuración AME de núcleo único está en su lugar.
+  - Comprueba que la configuración de AME de núcleo único está instalada.
   - Comprueba que ambas unidades ADV-SMES están ancladas al suelo.
-  - Comprueba que la unidad de subestación está firmemente asegurada a la pared.
-  - Asegúrate de que los disyuntores de todas las unidades APC están encendidos.
-  - Comprueba la carga* actual (W) de las unidades APC.
-  - Comprueba la carga* actual (W) de las unidades APC.
+  - Comprueba que la unidad de subestación está firmemente sujeta a la pared.
+  - Asegúrate de que los disyuntores de todas las unidades APC están activados.
+  - Comprueba la Carga* actual (W) de las unidades APC.
+  - Comprueba la Carga* actual (W) de las unidades APC.
 
   ## 1.2. Unidad AME.
   <Box>
@@ -48,9 +48,9 @@
   - Ajusta la potencia de salida de la unidad AME a 2 inyecciones.
   - Activa la inyección.
 
-  ## 2. Atmósferas
+  ## 2. Atmosféricos
 
-  ## 2.1. Circuito de distribución
+  ## 2.1. Bucle de distribución
   <Box>
     <GuideEntityEmbed Entity="OxygenCanister"/>
     <GuideEntityEmbed Entity="NitrogenCanister"/>
@@ -58,42 +58,42 @@
     <GuideEntityEmbed Entity="GasPressurePump"/>
   </Box>
 
-  - Comprueba que el contenedor de O2 está anclado al puerto de conexión AZUL.
-  - Comprueba que el contenedor de N2 está anclado al puerto de conexión ROJO.
-  - Comprueba que el mezclador de gas está ajustado a la proporción de mezcla correcta (~22% Oxígeno, ~78% Nitrógeno).
-  - Comprueba que el mezclador de gas está ajustado a 101.325kPa.
+  - Comprueba que el contenedor de O2 está anclado al puerto conector AZUL.
+  - Comprueba que el contenedor de N2 está anclado al puerto conector ROJO.
+  - Comprueba que el mezclador de gas está configurado con la proporción de mezcla correcta (~22% Oxígeno, ~78% Nitrógeno).
+  - Comprueba que el mezclador de gas está ajustado a 101,325 kPa.
   - Activa el mezclador de gas.
 
-  ## 3. Bahías de mech
+  ## 3. Bahías de mechas
 
-  -[bold][color=#FF0000]Necesitas fabricar tus propios Mechs en Puerto.[/color][/bold]
+  -[bold][color=#FF0000]Tienes que fabricar tus propios mechas en puerto.[/color][/bold]
   <Box>
     <GuideEntityEmbed Entity="AFInterceptorPDV"/>
     <GuideEntityEmbed Entity="AFInterceptorMPDV"/>
     <GuideEntityEmbed Entity="MechGygaxPDV"/>
     <GuideEntityEmbed Entity="MechDurandPDV"/>
   </Box>
-  - Opcionalmente, lleva mechs para que tu tripulación los pilote durante el combate; los mechs tipo S-2 tendrán que volar desde el espacio y aparcar dentro de las bahías de mech; los vehículos pequeños tipo S-1 pueden entrar junto con los pasajeros.
+  - Opcionalmente, lleva mechas para que tu tripulación los pilote durante el combate; los mechas de tipo S-2 tendrán que volar desde el espacio y aparcar dentro de las bahías de mechas, mientras que las naves pequeñas de tipo S-1 pueden entrar simplemente junto con los pasajeros.
   <Box>
     <GuideEntityEmbed Entity="LightMechaAutocannon"/>
     <GuideEntityEmbed Entity="MediumMechTOW"/>
     <GuideEntityEmbed Entity="WeaponMechCombatShotgunIncendiary"/>
     <GuideEntityEmbed Entity="WeaponMechCombatUltraRifle"/>
   </Box>
-  - Asegúrate de armar tus Mechs con cargamentos de armas según su función en combate, como abordaje con S-1 y diseños de interceptor o bombardero con tipos S-2.
+  - Asegúrate de armar tus mechas con equipamientos de armas acordes a su función en combate, como abordajes con los S-1 y diseños de Interceptor o Bombardero con los de tipo S-2.
   <Box>
     <GuideEntityEmbed Entity="PowerCageHigh"/>
     <GuideEntityEmbed Entity="PowerCageMech"/>
     <GuideEntityEmbed Entity="PowerCageRecharger"/>
   </Box>
-  - Prioriza equipar tus mechs con Celdas de Combustible para Mech; dado que estas celdas se fabrican con uranio fisionable, se recargan solas y son muy eficientes para su uso con mechs. En ausencia de uranio fisionable, se recomienda usar Celdas de Alta Potencia; ordena a tus pilotos que no desperdicien disparos y que permanezcan cerca de la nave nodriza para recargar.
-  - Mantén celdas de energía de repuesto en los recargadores de celdas para redesplegar rápidamente los mechs que se hayan quedado sin munición.
+  - Prioriza equipar tus mechas con celdas de combustible para mechas: como estas celdas se fabrican con uranio fisible, se recargan solas y son muy eficientes en rendimiento para su uso en mechas. A falta de uranio fisible, se recomienda usar jaulas de energía de alta capacidad; ordena a tus pilotos que no malgasten disparos y que se mantengan cerca de la nave nodriza para recargar.
+  - Guarda jaulas de energía de repuesto en los recargadores de jaulas para redesplegar rápidamente los mechas que se hayan quedado sin munición.
 
-  ## 3.1 Clases de Mech
+  ## 3.1 Clases de mechas
 
-  - Todo Mech de Combate S-1 es un [bold][color=#0055FF]Abordador[/bold][/color], con poca o ninguna utilidad en el combate activo de naves y debe usarse para eliminar supervivientes tras las batallas o intentar abordajes durante el combate activo mientras las naves principales se enfrentan al enemigo.
-  - El AF-28 "Broadsword" es un [bold][color=#0055FF]Interceptor[/color][/bold] S-2, cuyo objetivo principal en combate es interceptar bombarderos y abordadores enemigos. No es muy útil para dañar el casco, pero puede ayudar en un apuro apuntando a los puntos débiles de la armadura. El armamento de Mech Ligero puede usarse dentro de los barcos; sin embargo, la clase Interceptor no se mueve muy rápido dentro de los barcos y no es muy eficaz en combate interior.
-  - El AF-28 M "Halberd" es un [bold][color=#0055FF]Bombardero[/color][/bold] S-2; es una variante lateral del modelo Broadsword que sacrifica armadura y velocidad del propulsor para montar armamento de mech de clase Media capaz de amenazar a los barcos. El armamento de Mech Mediano no puede usarse dentro de los barcos; los pilotos podrían querer montar un arma Ligera para no quedar completamente indefensos en el interior.
+  - Todo mecha de combate S-1 es un [bold][color=#0055FF]Abordador[/bold][/color], que apenas tiene utilidad en combate naval activo y debería usarse para rematar supervivientes tras las batallas o intentar abordajes durante el combate activo mientras las naves principales también están enfrentándose al enemigo.
+  - El AF-28 "Broadsword" es un [bold][color=#0055FF]Interceptor[/color][/bold] S-2; su principal cometido en combate es interceptar bombarderos y abordadores enemigos. No son muy útiles para dañar el casco, pero pueden ayudar en un apuro apuntando a los puntos débiles del blindaje. El armamento ligero de mecha puede usarse dentro de las naves; sin embargo, la clase Interceptor no se mueve muy rápido dentro de las naves y no es muy eficaz en combate interior.
+  - El AF-28 M "Halberd" es un [bold][color=#0055FF]Bombardero[/color][/bold] S-2; es una variante lateral del modelo Broadsword que sacrifica blindaje y velocidad de mochila propulsora para montar armamento de mecha de clase Media capaz de suponer una amenaza para las naves. El armamento de mecha Medio no puede usarse dentro de las naves; los pilotos quizá quieran montar un arma Ligera para no estar completamente indefensos dentro de las naves.
 
   ## 4. Otras comprobaciones
   <Box>
@@ -101,8 +101,8 @@
     <GuideEntityEmbed Entity="GravityGeneratorMini"/>
   </Box>
 
-  - Comprueba que los 3 giroscopios están anclados, encendidos y activados.
-  - Comprueba que el mini generador de gravedad está anclado, encendido y activado.
+  - Comprueba que los 3 giroscopios están anclados, alimentados y activados.
+  - Comprueba que el mini generador de gravedad está anclado, alimentado y activado.
 
   # CARACTERÍSTICAS PRINCIPALES Y ARMAMENTO
   <Box>
@@ -111,33 +111,33 @@
     <GuideEntityEmbed Entity="WeaponTurretAdderScattercannon"/>
   </Box>
 
-  - El Fenrir está armado con un [bold][color=#990000]M381 Charon Mass Driver[/bold][/color], [bold][color=#0055CC]4 autocañones ADBP-7 Dravon[/bold][/color] y [bold][color=#0055CC]2 dispersadores Adder[/bold][/color].
+  - El Fenrir está armado con un [bold][color=#990000]lanzamasas M381 Charon[/bold][/color], [bold][color=#0055CC]4 cañones automáticos ADBP-7 Dravon[/bold][/color] y [bold][color=#0055CC]2 cañones dispersores Adder[/bold][/color].
 
   <Box>
     <GuideEntityEmbed Entity="BlastDoor"/>
     <GuideEntityEmbed Entity="ComputerShuttle"/>
   </Box>
 
-  - [color=#992222][bold]Importante[/color][/bold]; [bold][color=#990000]el M381 Charon Mass Driver[/bold][/color], no puede disparar hasta que las puertas antiexplosión estén abiertas; los controles están vinculados a los [color=#00CC55][bold]botones del puerto de tu consola del transbordador[/color][/bold]. [color=#00CC55][bold]El Puerto 1 abre[/color][/bold] las puertas antiexplosión, [color=#00CC55][bold] El Puerto 2 cierra[/color][/bold] las puertas antiexplosión.
+  - [color=#992222][bold]Importante[/color][/bold]: [bold][color=#990000]el lanzamasas M381 Charon[/bold][/color] no puede disparar hasta que las puertas blindadas estén abiertas; los controles están vinculados a los [color=#00CC55][bold]botones de puerto de tu consola del transbordador[/color][/bold]. El [color=#00CC55][bold]Puerto 1 abre[/color][/bold] las puertas blindadas y el [color=#00CC55][bold] Puerto 2 cierra[/color][/bold] las puertas blindadas.
 
 
   <Box>
     <GuideEntityEmbed Entity="CharonSlugAmmo"/>
   </Box>
 
-  - Se te ha suministrado con [color=#00CC55][bold]5[/color][/bold] proyectiles de 280mm 26,5kg para tu [bold][color=#990000]M381 Mass Driver[/bold][/color].
+  - Se te han suministrado [color=#00CC55][bold]5[/color][/bold] proyectiles de 280 mm y 26,5 kg para tu [bold][color=#990000]lanzamasas M381[/bold][/color].
 
   ## Notas adicionales
 
 
-  * - Las bahías de mech comienzan [bold][color=#992222]vacías[/bold][/color], ya que es [bold][color=#00CC55]tu responsabilidad llenarlas[/bold][/color] de acuerdo con tu estrategia. Las puertas antiexplosión de las bahías pueden activarse y desactivarse usando los [bold][color=#00CC55]dos botones situados junto a[/bold][/color] tus terminales de control del transbordador.
+  * - Las bahías de mechas comienzan [bold][color=#992222]vacías[/bold][/color], ya que es [bold][color=#00CC55]tu responsabilidad llenarlas[/bold][/color] de acuerdo con tu estrategia. Las puertas blindadas de las bahías pueden abrirse y cerrarse con los [bold][color=#00CC55]dos botones situados junto a[/bold][/color] tus terminales de control del transbordador.
 
 
-  * - [bold][color=#00CC55]El área de taller[/bold][/color] ha sido provista con una cantidad adecuada de [bold][color=#FFA500]combustible para soldador[/color][/bold] y [bold][color=#0055CC]nanites[/color][/bold] para realizar reparaciones en mechs y tripulación inorgánica.
+  * - [bold][color=#00CC55]La zona de taller[/bold][/color] ha sido abastecida con una cantidad adecuada de [bold][color=#FFA500]combustible de soldadura[/color][/bold] y [bold][color=#0055CC]nanites[/color][/bold] para realizar reparaciones en mechas y tripulantes inorgánicos.
 
 
-  * - Tanto el [bold][color=#992222]arsenal[/color][/bold] como el [color=#90D6FF][bold]medbay[/color][/bold] han sido equipados adecuadamente con [bold][color=#00CC55]trajes de resistencia[/bold][/color], [bold][color=#00CC55]armas[/bold][/color] y [bold][color=#00CC55]medicina[/bold][/color].
+  * - Tanto la [bold][color=#992222]armería[/color][/bold] como la [color=#90D6FF][bold]enfermería[/color][/bold] han sido equipadas adecuadamente con [bold][color=#00CC55]hardsuits[/bold][/color], [bold][color=#00CC55]armas[/color][/bold] y [bold][color=#00CC55]medicamentos[/color][/bold].
 
 
-  * - [bold][color=#00CC55] El área de fabricación[/bold][/color] ha sido equipada con un [bold][color=#00CC55]armario de materiales[/bold][/color] que contiene los materiales necesarios para imprimir una pequeña cantidad de objetos. El [bold][color=#992222]arsenal[/color][/bold] también ha sido equipado con una [bold][color=#00CC55]tecfab de munición[/bold][/color].
+  * - [bold][color=#00CC55] La zona del fabricador[/bold][/color] ha sido equipada con una [bold][color=#00CC55]taquilla de materiales[/color][/bold] que contiene los materiales necesarios para imprimir una pequeña cantidad de objetos. La [bold][color=#992222]armería[/color][/bold] también ha sido equipada con un [bold][color=#00CC55]techfab de munición[/bold][/color].
 </Document>

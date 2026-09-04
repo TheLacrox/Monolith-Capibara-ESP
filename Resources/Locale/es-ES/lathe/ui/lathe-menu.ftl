@@ -22,6 +22,8 @@ lathe-menu-material-amount-missing = { $amount ->
     [1] {NATURALFIXED($amount, 2)} {$unit} de {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} que faltan[/color])
     *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} de {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} que faltan[/color])
 }
+lathe-menu-entity-amount-missing = {$amount} de {$material} ([color=red]faltan {$missingAmount}[/color])
+lathe-menu-reagent-amount-missing = {$amount}u de {$material} ([color=red]faltan {$missingAmount}u[/color])
 lathe-menu-no-materials-message = No hay materiales cargados.
 lathe-menu-silo-linked-message = Silo conectado
 lathe-menu-fabricating-message = Fabricando...

@@ -1,0 +1,51 @@
+<Document>
+  # Fundamentos de la economía
+  El sector Colossus, al estar aislado de la industria del resto de la galaxia, exige un esfuerzo considerable a los residentes del sector para fabricar la mayoría de los componentes electrónicos y estructuras. Por suerte, los procesos implicados se han simplificado enormemente.
+  Esta entrada del PDA instruirá al aspirante a industrial en los fundamentos de la industria y en cómo poner en marcha una nueva economía local.
+
+  ## Fundamentos
+
+  <Box>
+    <GuideEntityEmbed Entity="SheetSteel" Caption="steel"/>
+    <GuideEntityEmbed Entity="SheetPlasteel" Caption="plasteel"/>
+    <GuideEntityEmbed Entity="SheetGlass" Caption="glass"/>
+  </Box>
+
+  Todo en este mundo tiene un coste, y para la industria básica ese coste son las materias primas. Los productos más avanzados requerirán más recursos y tiempo, pero eso queda muy lejos por ahora.
+  Antes de poder fabricar siquiera una placa de armadura básica, necesitas encontrar o construir unas cuantas estaciones de trabajo: el [color=gray]torno de acero industrial[/color], el [color=orange]Horno de Arco[/color] y el [color=cyan]Ensamblador de Precisión[/color].
+  Todas estas estaciones de trabajo se pueden encontrar en ciertos Puntos de Interés, aunque el [color=gray]torno de acero industrial[/color] se puede construir con una investigación.
+  Muchos objetos también requerirán experiencia en química para producirse. Aunque solo son estrictamente necesarios vasos de precipitados, reactivos en bruto y un molinillo de reactivos, tener acceso a un laboratorio químico puede facilitar mucho la obtención de ciertas soluciones.
+  [color=yellow]Se recomienda encarecidamente especializarse en un tipo concreto de producto: ¡cada uno es complicado! ¡Recuerda que a menudo puedes comprar los objetos necesarios a otros jugadores![/color]
+
+  <Box>
+    <GuideEntityEmbed Entity="IndustrialPressEconomyPlates" Caption="industrial steel lathe"/>
+    <GuideEntityEmbed Entity="IndustrialFurnaceEconomy" Caption="industrial arc furnace"/>
+    <GuideEntityEmbed Entity="PrecisionAssemblerEconomy" Caption="precision assembler"/>
+    <GuideEntityEmbed Entity="KitchenReagentGrinder" Caption="reagent grinder"/>
+  </Box>
+
+  Ahora que (presumiblemente) has encontrado estas estaciones de trabajo y los materiales necesarios para usarlas, es hora de poner en marcha la cadena de montaje. Puedes encontrar una tabla de referencia de las recetas del [color=orange]Horno de Arco[/color] y del [color=cyan]Ensamblador de Precisión[/color] [textlink="en la página de Recetas de la economía de la guía." link="EconomyRecipes"]
+  Al principio, la tabla parecerá confusa, y es porque lo es. En general, los bienes de la economía se pueden dividir en cuatro "niveles" numerados de valor: cuanto mayor es el nivel, más valioso es el componente, pero ese valor procede del esfuerzo.
+  Todos los componentes de nivel 1 (necesarios para todos los demás) se pueden crear normalmente en el [color=gray]torno de acero industrial[/color], y son la base de la mayoría de los demás objetos. Se fabrican a partir de láminas de material en bruto refinadas en un procesador de minerales, y se elaboran como cualquier otro objeto producido en un torno: simplemente introduce las láminas de material, haz clic en el objeto deseado en el menú y espera.
+
+  Los componentes de nivel 2 son donde los productos se complican. Todos requieren una producción inicial en un [color=orange]Horno de Arco[/color] o un [color=cyan]Ensamblador de Precisión[/color], y muchos también requieren añadir componentes adicionales después de la fabricación.
+  [bold][color=yellow]Recuerda: ¡todos los productos "sin terminar" indican en su descripción lo que necesitan para empezar su construcción![/color][/bold]
+  [color=red]IMPORTANTE: ¡la mayoría de los componentes son frágiles! ¡Ten cuidado al exponerlos a posibles fuentes de daño![/color]
+
+  Para ayudar a explicar el proceso de creación de un producto de nivel 2, este tutorial incluye una guía paso a paso sobre cómo crear una placa de armadura pesada.
+
+  ## Placa de armadura pesada
+  <Box>
+    <GuideEntityEmbed Entity="ArmorPlateEconomy2Start" Caption="heavy armor plate"/>
+  </Box>
+
+  Las placas de armadura pesada son uno de los productos de nivel 2 más sencillos de fabricar. La única parte especialmente confusa de su producción es conseguir la plata que requieren y averiguar cómo manejar el [color=orange]Horno de Arco[/color].
+
+  Si miramos la receta en la página de Recetas de la economía de la guía, vemos que las placas de armadura pesada requieren tres cosas distintas: dos placas de armadura básica, 100 unidades de plata y un [color=orange]Horno de Arco[/color] para unir los componentes.
+  Las placas de armadura básica son bastante fáciles de conseguir: basta con fabricarlas en un [color=gray]torno de acero industrial[/color] por 20 láminas de acero y 10 láminas de plasteel cada una, y luego meterlas en el horno. Muchos otros componentes de nivel 1 también se encuentran en el torno de acero.
+  La forma química de la plata se puede producir moliendo lingotes de plata en un molinillo de reactivos, a 10 unidades por lingote. La plata se puede acumular en cualquier recipiente capaz de contener suficiente solución, y luego meterse en el horno. Muchas otras recetas requieren formas químicas similares de materiales, como oro, plasma y litio, que siguen todas la misma ruta: ¡mete su respectivo material sólido en la batidora!
+
+  Una vez introducidas en el horno las dos placas de armadura básica y el recipiente con la plata, debería activarse un botón [color=green]verde[/color] de "ensamblar". (Si la receta es incompatible, pulsar el botón no hará nada.) Al pulsar el botón se iniciará la secuencia de producción del horno y, al terminar, debería salir una placa de armadura pesada.
+  Si necesitas expulsar el contenido del horno (por ejemplo, si has metido los materiales equivocados), debería resaltarse un botón [color=red]rojo[/color] de "expulsar contenido". Al pulsarlo hará lo que dice y expulsará todo el contenido del horno.
+
+</Document>

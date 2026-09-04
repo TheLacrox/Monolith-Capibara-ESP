@@ -1,12 +1,12 @@
 <Document>
 # Regla de Conflicto 2
-## Respeta la regla de nueva vida.
+## Respeta la regla de la nueva vida.
 
-[color=yellow][bold]Tras la muerte, tu memoria y comportamiento dependen de cómo regreses:[/bold][/color]
-- [color=green][bold]Resurrección (desfibrilador, intervención médica):[/bold][/color] Recuperas la memoria completa de tu vida anterior, pero los detalles sobre quién te mató, cómo y con qué deben permanecer vagos u oscuros. Puedes recordar algunos aspectos generales, pero no nombres específicos, naves ni información de identificación clara.
-- [color=yellow][bold]Clonado (clonador médico):[/bold][/color] Olvida los últimos 15 minutos antes de la muerte (eventos, enfrentamientos, personas involucradas). No actúes en base a información de ese período.
-- [color=red][bold]Reaparecer:[/bold][/color] Olvida los últimos 30 minutos antes de la muerte. No busques venganza, ni guardes rencores, ni actúes en base a información relacionada con tu muerte o los últimos 30 minutos. No inicies combate sin provocación con el jugador, tripulación o grupo que causó la muerte de tu personaje dentro de 1 hora desde que reapareciste. Puedes recordar eventos anteriores, pero no puedes regresar a por los objetos de tu vida anterior. También debes evitar regresar al lugar de tu muerte durante una situación en curso (como una batalla o un enfrentamiento).
--- Los antagonistas de rol fantasma (Chimera, ADM/ADC, Asakim, Borers, etc.) generalmente están exentos de lo anterior, a menos que se demuestre un abuso claro.
+[color=yellow][bold]Tras la muerte, tu memoria y tu comportamiento dependen de cómo regreses:[/bold][/color]
+- [color=green][bold]Reanimación (desfibrilador, intervención médica, clonador médico):[/bold][/color] Recuperas toda la memoria de tu vida anterior, pero los detalles sobre quién te mató, cómo y con qué deben permanecer vagos o difusos. Puedes recordar algunos aspectos generales, pero no nombres concretos, naves ni información identificativa clara.
+- [color=red][bold]Reaparición:[/bold][/color] Olvida los últimos 30 minutos antes de la muerte. No busques venganza, no guardes rencor ni actúes basándote en información relacionada con tu muerte o con los últimos 30 minutos. No inicies combate sin provocación con el jugador, la tripulación o el grupo que causó la muerte de tu personaje durante la hora siguiente a tu reaparición. Puedes recordar sucesos anteriores, pero no puedes volver a por los objetos de tu vida anterior. También debes evitar regresar al lugar de tu muerte durante una situación en curso (como una batalla o un enfrentamiento).
+-- Los Antagonistas de rol fantasma (Chimera, ADM/ADC, Asakim, Borers, etc.) están generalmente exentos de lo anterior a menos que se demuestre un abuso claro.
 - [color=yellow][bold]No puedes reaparecer como el mismo personaje en una facción contraria.[/bold][/color]
+- Los conflictos de [color=red][bold]Facción contra Facción[/bold][/color] no aplican las restricciones de combate por defecto al reaparecer, pero no deberías entrar en combate (a menos que te veas obligado) durante los [color=red][bold]15 minutos[/bold][/color] siguientes a tu reaparición.
 
 </Document>

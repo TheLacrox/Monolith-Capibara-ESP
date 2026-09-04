@@ -2,10 +2,28 @@
 
   # Recetas de Economía
 
-  Estas combinaciones de materiales, cuando se introducen en sus respectivas máquinas, pueden crear recursos importantes.
+  Estas combinaciones de materiales, introducidas en sus respectivas máquinas, permiten crear recursos importantes.
 
-  Recordatorio: los productos químicos pueden estar presentes en cualquier contenedor insertado en la máquina, además de otros recursos.
+  Recordatorio: los productos químicos pueden estar en cualquier contenedor que se introduzca en la máquina junto con los demás recursos.
 
-  Muchos materiales comunes también pueden contener productos químicos. Estos pueden extraerse mediante una trituradora de reactivos.
+  Muchos materiales comunes también contienen productos químicos. Se pueden extraer con una trituradora de reactivos.
+
+  [color=yellow]¡Los componentes «sin terminar» siempre indican qué componentes necesitan para iniciar su construcción![/color]
+
+  # Planificador industrial
+
+  Un planificador industrial puede fabricarse en cualquier autotorno o comprarse en las plataformas de carga. Muestra las cadenas de todo lo que se fabrica a mano, como las placas de blindaje pesado.
+
+  <Box>
+    <GuideEntityEmbed Entity="EconomyPlanner" Caption="industrial planner"/>
+  </Box>
+
+  # Horno de arco
+
+  <GuideMicrowaveGroupEmbed Group="ArcFurnace"/>
+
+  # Ensamblador de precisión
+
+  <GuideMicrowaveGroupEmbed Group="PrecisionAssembler"/>
 
 </Document>

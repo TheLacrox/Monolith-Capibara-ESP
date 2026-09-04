@@ -43,6 +43,8 @@ wires-board-name-jukebox = Gramola
 wires-board-name-computer = Ordenador
 wires-board-name-holopad = Holopad
 wires-board-name-barsign = Cartel de Bar
+wires-board-name-weapon-energy-turret = Torreta Centinela
+wires-board-name-turret-controls = Panel de Control de Torreta Centinela
 
 # nombres que se muestran en el HUD de hackeo de cables y en los registros de administrador.
 

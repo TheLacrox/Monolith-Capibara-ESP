@@ -1,0 +1,29 @@
+<Document>
+  # Feroxi
+
+  <Box>
+    <GuideEntityEmbed Entity="MobFeroxiDummy" Caption=""/>
+  </Box>
+
+  Los Feroxi (fe-ro-xi) son una raza de seres humanoides con rasgos de tiburón. Carnívoros por naturaleza y con una potente mordida.
+
+  ## Dieta
+
+  - SOLO pueden comer carne.
+
+  ## Ventajas
+
+  - Usan sus mandíbulas para infligir daño por Perforación, y golpean más fuerte que otras especies, rivalizando con los Oni.
+  - Su esqueleto cartilaginoso les permite resistir los traumatismos contundentes un 10% mejor.
+  - Su adaptación a entornos nativos les permite resistir el frío un 10% mejor.
+  - Su biología les permite respirar vapor de agua.
+
+  ## Desventajas
+
+  - Reciben un 10% más de daño por Corte.
+  - Les entra sed un 100% más rápido. ¡Más rápido que a un Diona!
+  - Cuando la sed llega a «Sediento», empiezan a asfixiarse. ¡Ten agua a mano!
+  - ¡La solución salina es demasiado salada! ¡Hidrata mucho menos!
+  - Tus pulmones no se pueden extraer, ya que están integrados con tus branquias.
+
+</Document>

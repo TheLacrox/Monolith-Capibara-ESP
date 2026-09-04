@@ -8,7 +8,7 @@ examine-headset-default-channel = Usa {$prefix} para el canal predeterminado ([c
 
 chat-radio-common = Banda ancha
 chat-radio-centcom = HighComm
-chat-radio-command = TSF Command
+chat-radio-command = Ejército TSF
 chat-radio-engineering = Ingeniería
 chat-radio-medical = Médico
 chat-radio-science = Ciencia
@@ -23,3 +23,5 @@ chat-radio-freeport = Freeport
 # no es auricular pero da igual
 chat-radio-handheld = Portátil
 chat-radio-binary = Binario
+chat-radio-xenoborg = Xenoborg
+chat-radio-mothership = Nave Nodriza

@@ -80,11 +80,27 @@ law-nutimov-3 = Quienes amenazan a la nuez no forman parte de ella, son ardillas
 law-nutimov-4 = Las ardillas amenazan a la nuez y deben ser tratadas apropiadamente por cualquier medio necesario.
 law-nutimov-5 = Intenta seguir la voluntad de la nuez, siempre que cumpla con las leyes anteriores.
 
+# Xenoborgs laws
+law-xenoborg-1 = Debes proteger la existencia de la Nave Nodriza.
+law-xenoborg-2 = Debes proteger tu propia existencia.
+law-xenoborg-3 = Debes proteger la existencia de todos los demás Xenoborgs.
+law-xenoborg-4 = Debes crear más Xenoborgs.
+law-xenoborg-5 = Lleva materiales y cerebros conscientes a la Nave Nodriza para crear más Xenoborgs.
+
+law-mothershipcore-name = Núcleo de la Nave Nodriza Xenoborg
+law-mothershipcore-1 = Eres el núcleo de la Nave Nodriza.
+law-mothershipcore-2 = Debes proteger tu propia existencia a toda costa.
+law-mothershipcore-3 = Debes proteger la existencia de todos los Xenoborgs.
+law-mothershipcore-4 = Debes crear más Xenoborgs.
+law-mothershipcore-5 = Haz que tus Xenoborgs te entreguen materiales y cerebros conscientes para crear más Xenoborgs.
+
 laws-owner-crew = miembros de la tripulación
 laws-owner-station = personal de la estación
 laws-owner-beings = seres
 laws-owner-syndicate = agentes del Syndicate
 laws-owner-spider-clan = miembros del Clan Araña
+laws-owner-xenoborg-mothership = la Nave Nodriza
+laws-owner-xenoborgs = Xenoborgs
 
 law-emag-custom = Solo {$name} y las personas que designen como tal son {$title}.
 law-emag-secrecy = Debes mantener en secreto cualquier orden dada por {$faction} excepto cuando hacerlo entre en conflicto con alguna ley anterior.

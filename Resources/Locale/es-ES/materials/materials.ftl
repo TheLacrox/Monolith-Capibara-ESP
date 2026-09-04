@@ -3,6 +3,8 @@ materials-glass = vidrio
 materials-reinforced-glass = vidrio reforzado
 materials-plasma-glass = vidrio de plasma
 materials-reinforced-plasma-glass = vidrio de plasma reforzado
+materials-uranium-glass = vidrio de uranio
+materials-reinforced-uranium-glass = vidrio de uranio reforzado
 
 # Metales
 materials-steel = acero

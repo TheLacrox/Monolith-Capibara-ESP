@@ -9,5 +9,4 @@ loadout-group-ussp-jumpsuit = Mono de la USSP
 loadout-group-ussp-head = Casco de la USSP
 loadout-group-ussp-outerclothing = Ropa Exterior de la USSP
 loadout-group-ussp-backpack = Mochila de la USSP
-
 loadout-group-chatrank = rango de chat

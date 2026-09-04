@@ -11,3 +11,10 @@ delta-chat-emote-name-snarl = Gruñido
 delta-chat-emote-name-whine = Gemido
 delta-chat-emote-name-howl = Aullido
 delta-chat-emote-name-awoo = Awoo
+
+chat-speech-verb-name-feroxi = Feroxi
+chat-speech-verb-feroxi-1 = burbujea
+chat-speech-verb-feroxi-2 = sisea
+chat-speech-verb-feroxi-3 = rechina
+chat-speech-verb-feroxi-4 = gruñe
+chat-emote-name-gnash = Rechinar

@@ -26,6 +26,7 @@ shipyard-console-no-voucher-redemptions = Todos los canjes de vales han sido uti
 shipyard-console-invalid-voucher-type = Este vale no se puede usar en esta consola.
 shipyard-console-denied = No puedes comprar esta nave en este momento.
 shipyard-console-limited = Hay demasiados transbordadores activos de este tipo, ¡inténtalo de nuevo más tarde!
+shipyard-console-timelock = No puedes desplegar esta nave por el momento.
 
 shipyard-console-contraband-onboard = Contrabando ilegal detectado a bordo.
 shipyard-console-station-resources = Recursos vitales de la estación detectados a bordo.

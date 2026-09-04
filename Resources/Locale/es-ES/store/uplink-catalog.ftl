@@ -3,7 +3,7 @@ uplink-pistol-viper-name = Viper
 uplink-pistol-viper-desc = Una pistola pequeña, fácil de ocultar, aunque algo poco potente. Reacondicionada con un receptor totalmente automático. Usa cargadores de pistola (9x19mm FMJ).
 
 uplink-revolver-python-name = Python
-uplink-revolver-python-desc = Un revólver del Syndicate brutalmente simple, efectivo y ruidoso. Viene cargado con balas perforantes. Usa calibre .45 magnum.
+uplink-revolver-python-desc = Un revólver del Syndicate brutalmente simple, efectivo y ruidoso. Viene cargado con balas perforantes. Usa calibre .357 magnum.
 
 uplink-pistol-cobra-name = Cobra
 uplink-pistol-cobra-desc = Una pistola de operador robusta y resistente con silenciador incorporado. Usa cargadores de pistola (6.35x40mm Caseless).
@@ -91,14 +91,14 @@ uplink-pistol-magazine-c20r-desc = Cargador de rifle con 30 cartuchos. Compatibl
 uplink-pistol-magazine-caseless-name = Cargador de Pistola (6.35x40mm Caseless)
 uplink-pistol-magazine-caseless-desc = Cargador de pistola con 10 cartuchos. Compatible con la Cobra.
 
-uplink-speedloader-45_magnum-name = Cargador Rápido (.45 magnum AP)
+uplink-speedloader-357_magnum-name = Cargador Rápido (.357 magnum AP)
 uplink-speedloader-magnu-desc = Cargador rápido para revólver con 6 cartuchos perforantes, capaz de ignorar la armadura por completo. Compatible con la Python.
 
 uplink-mosin-ammo-name = Caja de Munición (7.62x39mm FMJ)
 uplink-mosin-ammo-desc = Una caja de 60 cartuchos para el rifle de excedentes.
 
-uplink-sniper-ammo-name = Caja de Munición (.60 14.5x114mm)
-uplink-sniper-ammo-desc = Una caja de 10 cartuchos para el rifle de francotirador Hristov.
+uplink-sniper-ammo-name = Caja de Munición (14.5x114mm AP)
+uplink-sniper-ammo-desc = Una caja de 10 cartuchos perforantes para el rifle de francotirador Hristov.
 
 # Utilidad
 uplink-holopara-kit-name = Kit de Holoparásito
@@ -285,7 +285,7 @@ uplink-holy-hand-grenade-name = Granada de Mano Santa
 uplink-holy-hand-grenade-desc = Oh Señor, bendice esta Tu granada de mano, para que con ella puedas volar a Tus enemigos en diminutos pedazos, en Tu misericordia.
 
 uplink-revolver-cap-gun-fake-name = Pistola de Fulminantes Falsa
-uplink-revolver-cap-gun-fake-desc = ¡Engaña a tu enemigo! Puede usar tanto balas de fulminante como de calibre .45 magnum. Viene cargada con balas .45 magnum.
+uplink-revolver-cap-gun-fake-desc = ¡Engaña a tu enemigo! Puede usar tanto balas de fulminante como de calibre .357 magnum. Viene cargada con balas .357 magnum.
 
 uplink-banana-peel-explosive-name = Cáscara de Plátano Explosiva
 uplink-banana-peel-explosive-desc = ¡Estallarán de risa cuando resbalen con ella!

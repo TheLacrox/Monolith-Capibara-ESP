@@ -9,6 +9,10 @@ device-frequency-prototype-name-fax = Fax
 device-frequency-prototype-name-basic-device = Dispositivos Básicos
 device-frequency-prototype-name-cyborg-control = Control de Ciborg
 device-frequency-prototype-name-robotics-console = Consola de Robótica
+device-frequency-prototype-name-xenoborg = Xenoborg
+device-frequency-prototype-name-mothership = Nave Nodriza
+device-frequency-prototype-name-turret = Torreta Centinela
+device-frequency-prototype-name-turret-control = Control de Torreta Centinela
 
 ## frecuencias de cámara
 device-frequency-prototype-name-surveillance-camera-test = Prueba de Subred
@@ -24,6 +28,7 @@ device-frequency-prototype-name-surveillance-camera-entertainment = Cámaras de 
 device-frequency-prototype-name-surveillance-camera-tsf = Cámaras TSFMC
 device-frequency-prototype-name-surveillance-camera-Rogue = Cámaras PDV
 device-frequency-prototype-name-surveillance-camera-USSP = Cámaras USSP
+device-frequency-prototype-name-surveillance-camera-xenoborgs = Cámara Xenoborg
 
 # prefijos para direcciones de dispositivos generadas aleatoriamente
 device-address-prefix-vent = VNT-
@@ -35,6 +40,7 @@ device-address-prefix-heater = HTR-
 device-address-prefix-freezer = FZR-
 device-address-prefix-volume-pump = VPP-
 device-address-prefix-smes = SMS-
+device-address-prefix-turret = TRT-
 
 # PDAs y terminales
 device-address-prefix-console = CLS-

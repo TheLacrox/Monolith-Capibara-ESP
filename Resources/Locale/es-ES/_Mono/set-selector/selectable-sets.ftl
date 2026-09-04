@@ -26,61 +26,61 @@ selectable-set-pdvtarkhan-breacher-kit-name = Kit Flagbearer
 selectable-set-pdvtarkhan-breacher-kit-desc =
     Un kit con:
     - una escopeta Flagbearer
-    - 4 cajas de cartuchos de perdigones
+    - 4 cajas de perdigones
     - una Anaconda
-    - un rompedor de acceso
+    - un perturbador de autenticación
     - unas mandíbulas de la vida
-    - y un botiquín de combate.
+    - y un botiquín médico de combate.
 
 selectable-set-pdvtarkhan-molot-kit-name = Kit Molot
 selectable-set-pdvtarkhan-molot-kit-desc =
     Un kit con:
-    - un rifle Molot
-    - 4 cargadores de 7,62x51 mm
-    - una hoja VT-7 HF
-    - un rompedor de acceso
-    - y un botiquín de combate.
+    - un fusil Molot
+    - 4 cargadores de 7.62x51mm
+    - una hoja HF VT-7
+    - un perturbador de autenticación
+    - y un botiquín médico de combate.
 
 selectable-set-pdvtarkhan-wspr-kit-name = Kit LA/22 Kord
 selectable-set-pdvtarkhan-wspr-kit-desc =
     Un kit con:
     - una ametralladora ligera LA/22 Kord
-    - 4 cajas de 7,62x51 mm
-    - un rompedor de acceso
-    - y un botiquín de combate.
+    - 4 cajas de 7.62x51mm
+    - un perturbador de autenticación
+    - y un botiquín médico de combate.
 
 selectable-set-tsfmarsoc-fenghuang-kit-name = Kit Fenghuang
 selectable-set-tsfmarsoc-fenghuang-kit-desc =
     Un kit con:
-    - un rifle Fenghuang
-    - 4 cargadores de 8x65 mm
-    - una empuñadura vertical
+    - un fusil Fenghuang
+    - 4 cargadores de 8x65mm
+    - una empuñadura delantera vertical
     - unas mandíbulas de la vida
-    - y un botiquín de combate.
+    - y un botiquín médico de combate.
 
 selectable-set-tsfmarsoc-shenzhen-kit-name = Kit Shenzhen
 selectable-set-tsfmarsoc-shenzhen-kit-desc =
     Un kit con:
-    - un rifle antimaterial de bobina Shenzhen
-    - 4 cargadores de 13,4x92 mm
-    - una caja de 30 proyectiles de 13,4x92 mm
+    - un fusil antimaterial de bobinas Shenzhen
+    - 4 cargadores de 13.4x92mm
+    - una caja de 30 cartuchos de 13.4x92mm
     - unas mandíbulas de la vida
-    - y un botiquín de combate.
+    - y un botiquín médico de combate.
 
 selectable-set-tsfmarsoc-pulse-kit-name = Kit de carabina de pulso
 selectable-set-tsfmarsoc-pulse-kit-desc =
     Un kit con:
     - una carabina de pulso NT-WS recuperada
     - un recargador portátil
-    - una mágnum de energía EG-4
+    - un revólver de energía EG-4
     - unas mandíbulas de la vida
-    - y un botiquín de combate.
+    - y un botiquín médico de combate.
 
 selectable-set-tsfmarsoc-hailstorm-kit-name = Kit Hailstorm
 selectable-set-tsfmarsoc-hailstorm-kit-desc =
     Un kit con:
     - una NT-WS Mk.348 Hailstorm recuperada
-    - 4 cajas de 9x19 mm
-    - una mágnum de energía EG-4
+    - 4 cajas de 9x19mm
+    - un revólver de energía EG-4
     - unas mandíbulas de la vida
-    - y un botiquín de combate.
+    - y un botiquín médico de combate.

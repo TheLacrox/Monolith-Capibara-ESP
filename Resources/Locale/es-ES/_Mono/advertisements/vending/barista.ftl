@@ -19,13 +19,16 @@ advertisement-uplink-ads-4 = CONEXIÓN DE CARGA ESTABLECIDA.
 advertisement-uplink-ads-5 = MANTENIENDO LA INTEGRIDAD DEL SUMINISTRO.
 advertisement-uplink-ads-6 = EQUIPO PRESENTE, ESPERANDO ORDEN DE DISPENSACIÓN.
 
+advertisement-mieyo-ads-1 = ¡Que tengas un día Mieyo-ravilloso!
+advertisement-mieyo-ads-2 = ¡Que tengas un día feno-Mieyo-nal!
+
 wayward-comments-ads-1 = Yo...
-wayward-comments-ads-2 = ¿Quién..?
-wayward-comments-ads-3 = ¡Es..!
+wayward-comments-ads-2 = ¿Quién...?
+wayward-comments-ads-3 = ¡Es...!
 wayward-comments-ads-4 = hora...de...
 wayward-comments-ads-5 = ¿dónde...estás?
 wayward-comments-ads-6 = ayuda...ayuda...
-wayward-comments-ads-7 = ¿vienes...a jugar...?
+wayward-comments-ads-7 = ¿ven...a jugar...?
 wayward-comments-ads-8 = ¡encuéntralo...!
 wayward-comments-ads-9 = por favor...
 wayward-comments-ads-10 = necesito...

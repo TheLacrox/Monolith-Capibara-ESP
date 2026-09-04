@@ -12,6 +12,6 @@ shipyard-console-preview = Vista previa
 shipyard-preview-ui-title = Previsualizador 100
 
 shipyard-preview-data-label = Datos de la nave:
-shipyard-preview-tile-count = Número de casillas: {$count}
+shipyard-preview-tile-count = Número de baldosas: {$count}
 
 shipyard-preview-exit = Salir de la vista previa

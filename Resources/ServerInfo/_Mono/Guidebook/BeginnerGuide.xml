@@ -1,0 +1,76 @@
+<Document>
+  # Guía para principiantes
+
+  Empezar en Monolith (incluso con algo de experiencia en cómo funcionan otros forks) puede resultar abrumador con todo nuestro contenido exclusivo.
+  Con cero horas, solo tienes acceso a unos pocos roles: Contratista TSF, Ciudadano Libre PDV y Empleado MMC.
+
+  Esta guía pretende ayudarte a superar tu primer turno, acostumbrarte a la jugabilidad de Monolith y conseguir algo más de dinero en tu cuenta.
+
+  ## Crear tu primer personaje
+
+  Crear un personaje no es muy diferente de crear uno en cualquier otro fork. Elige una especie, escoge un nombre, etcétera.
+  Sin embargo, Monolith tiene algunas consideraciones adicionales:
+
+  ### Equipamiento de trabajo
+  Cada trabajo tiene un equipamiento amplio, lo que puede asustar al abrir el menú por primera vez. Sin embargo, la mayoría de las opciones disponibles son puramente cosméticas; las más importantes para la jugabilidad son:
+  - Tu arma secundaria
+  - Cartuchos de PDA
+  - Implantadores
+  - Herramientas
+  - Gafas
+  - Cinturón
+
+  Casi todos los objetos del equipamiento se pueden conseguir dentro del juego, ya sea en máquinas expendedoras o en lathes, así que no te agobies si olvidaste los guantes aislantes o las gafas de ingeniería. Simplemente compra unos en una máquina expendedora de la estación.
+
+  ### Rasgos físicos
+
+  Los rasgos son pequeñas ventajas que puedes añadir a tu personaje. Mientras que en la mayoría de forks los rasgos son en gran parte cosméticos o negativos (como acentos y discapacidades), en Monolith hay rasgos "físicos" con más impacto en la jugabilidad.
+  Estos rasgos van desde pequeñas mejoras de salud, pasando por acciones más rápidas, hasta biónicos. Sin embargo, solo puedes coger una cantidad limitada de ventajas positivas antes de tener que coger otras desventajas negativas.
+  [bold]Nota: las piezas biónicas son vulnerables a los EMP. Cuidado con las armas EMP mientras luces esas molonas piernas veloces.[/bold]
+
+  ### Banco
+
+  Cada personaje tiene su propia cuenta bancaria. Esta se divide en dos fondos: tu banco normal (que puede usarse para comprar cualquier cosa) y tu cuenta de ahorros (que tiene prioridad para los costes del equipamiento y otros objetos meta, como las cajas de seguridad).
+  Los personajes nuevos empiezan con 75k en su cuenta bancaria normal.
+  Los créditos se pueden conseguir de muchas maneras, normalmente vendiendo objetos en plataformas de venta o pidiendo un pago a quien te contrate.
+  Los créditos en forma de objeto se pueden llevar después a un cajero automático (presente en la mayoría de estaciones), insertarlos y depositarlos a través de la interfaz del cajero.
+  A medida que tu cuenta bancaria normal se llena, una mayor parte de tus depósitos se transfiere a tu cuenta de ahorros. Esto suele limitar de forma flexible que tu banco normal acumule miles de millones de créditos, pero normalmente no necesitas más de un millón de créditos para acceder a todo el contenido del juego.
+
+  ## Aparecer en la partida
+
+  Al aparecer por primera vez (normalmente como Contratista TSF, Ciudadano Libre PDV o Empleado MMC), lo más probable es que te encuentres en una sala de aparición. Alrededor de las distintas estaciones hay máquinas expendedoras. Entre las cosas importantes que puedes coger están las herramientas y un arma.
+  Una vez te hayas orientado, localiza una consola del astillero (normalmente de color azul). [bold]No podrás usar el astillero de tu facción a menos que tengas un rol militar.[/bold] Usa un Desguace o un astillero normal en su lugar.
+  Aparecerás con todos los objetos de tu equipamiento, junto con una caja de supervivencia que contiene varios elementos esenciales: un tanque de oxígeno de bolsillo, comida, un escáner de masa, una palanca, un bolígrafo espacial y una pluma de epinefrina, y dos bengalas.
+
+  ### Usar una consola del astillero
+
+  Para usar una consola del astillero, saca tu tarjeta de identificación del PDA (normalmente con alt+clic) e introdúcela en la consola. Al abrir la interfaz verás varias naves disponibles; coge la que te parezca mejor, aunque si no estás seguro una nave minera siempre es una opción viable.
+  Tras comprar tu nave (y, opcionalmente, renombrarla), expulsa tu tarjeta y consulta tu escáner de masa para ver la ubicación de tu nave. Dirígete al muelle e instálate.
+
+  ### Naves
+
+  Casi todas las naves tienen trajes espaciales de cortesía a bordo. Si no, simplemente compra uno en una máquina expendedora de la estación. Las naves necesitan combustible según su generador, así que prepárate para minar un poco o compra reservas en una máquina expendedora. Cuando estés completamente equipado, dirígete a la
+  consola del transbordador de la nave, pasa tu tarjeta de identificación para desbloquearla y prepárate para el vuelo.
+  Todas las naves necesitan propulsores y giroscopios para volar, que a su vez necesitan energía; si alguno se destruye, puedes perder funcionalidad. Si pierdes alguno, ya sea en combate o por accidentes desafortunados, puedes comprar repuestos, construir otros nuevos tú mismo o recuperar piezas de
+  naves abandonadas.
+
+  Llegados a este punto, deberías leer la sección de pilotaje de transbordadores de esta guía y, opcionalmente, también la sección de artillería.
+
+  ### Obtener beneficios
+
+  Suponiendo que hayas comprado una nave minera, una forma infalible de ganar algo de dinero es salir a buscar asteroides, en cúmulos de asteroides o en los confines exteriores del sector. Minar es sencillo: usa el equipo de minería de la nave o destruye la roca de los asteroides tú mismo con el equipo adecuado,
+  y luego recoge los minerales resultantes con una bolsa de minerales o con un imán de minerales montado en la nave. Tras conseguir tu primera tanda de recursos, vuélcalos en un procesador de minerales antes de vender las láminas refinadas en una plataforma de venta o negociando un trato con otros jugadores.
+
+  Algunos consejos para minar de forma óptima:
+  - La mayoría de objetos relacionados con minerales o materiales tienen imanes que pueden recoger automáticamente trozos sueltos de mineral. Pueden acelerar la recogida de materiales entre lathes y almacenamiento.
+  - Aunque la minería manual es más barata, cuidado con los gólems de roca, cangrejos y otras anomalías que pueden aparecer ocasionalmente. Mina siempre armado.
+  - La minería desde la nave es mucho más rápida que la manual, pero requiere más equipo para empezar. ¡Pide consejo a otro minero o únete a su tripulación!
+
+  Con los créditos que consigas, compra mejor equipo, mina más o experimenta con otros roles.
+
+  ## Final de la partida
+
+  Antes de entrar en criosueño o desconectarte de cualquier otra forma tras una sesión, asegúrate de atracar tu nave en una estación con una consola del astillero y venderla. Esto te devolverá aproximadamente el 75% del valor de la nave. Además, asegúrate de depositar todos tus créditos en un cajero automático
+  ¡para que no se pierdan!
+
+</Document>

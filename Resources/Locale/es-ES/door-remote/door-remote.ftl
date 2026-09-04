@@ -2,6 +2,7 @@
 door-remote-open-close-text = Abre y cierra puertas
 door-remote-toggle-bolt-text = Activa/desactiva los cerrojos
 door-remote-emergency-access-text = Activa/desactiva el acceso de emergencia
+door-remote-toggle-eletrify-text = Activar/desactivar sobrecarga
 door-remote-invalid-text = No válido
 door-remote-mode-label = Modo: [color=white]{$modeString}[/color]
 

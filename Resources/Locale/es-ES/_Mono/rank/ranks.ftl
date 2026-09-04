@@ -1,24 +1,31 @@
+### Rangos fijos de TSFMC/TSFN
+
 tsf-marsoc = WS.MARSOC
 
-tsf-e1 = Sold.
-tsf-e2 = Sold. 1.ª
-tsf-e3 = Cabo 2.º
-tsf-e4 = Cabo
-tsf-e5 = Sgto.
-tsf-e6 = Sgto. 1.º
-tsf-e7 = Sgto. art.
-tsf-e8 = Sgto. maestre
+## Rangos de equipamiento de TSFMC
 
-tsf-o1 = Alf.
-tsf-o2 = Tte.
-tsf-o3 = Cap.
-tsf-o4 = My.
-tsf-o5 = Tte. Cnel.
-tsf-o6 = Cnel.
+tsf-e1 = Pvt.
+tsf-e2 = PFC.
+tsf-e3 = LCpl.
+tsf-e4 = Cpl.
+tsf-e5 = Sgt.
+tsf-e6 = SSgt.
+tsf-e7 = GySgt.
+tsf-e8 = MSgt.
 
-tsfn-w1 = Subof.
-tsfn-w2 = Subof. jefe 2.º
+tsf-o1 = 2LT.
+tsf-o2 = 1LT.
+tsf-o3 = Cpt.
+tsf-o4 = Maj.
+tsf-o5 = LtCol.
+tsf-o6 = Col.
 
+## Rangos de equipamiento de TSFN
+# Estos se usan para ingenieros
+tsfn-w1 = WO
+tsfn-w2 = CWO2
+
+# Estos se usan para sanitarios
 tsfn-e2 = HA
 tsfn-e3 = HN
 tsfn-e4 = HM3
@@ -26,6 +33,7 @@ tsfn-e5 = HM2
 tsfn-e6 = HM1
 tsfn-e7 = HMC
 
+## Rangos de equipamiento de TSFN (CN)
 tsfn-e1-cn = HJ1-LNG
 tsfn-e2-cn = HJ2-SHW
 tsfn-e3-cn = HJ3-ZW
@@ -36,23 +44,54 @@ tsfn-e7-cn = HJ7-SX
 tsfn-e8-cn = HJ8-DX
 tsfn-e9-cn = HJ9-SHJ
 
+### Rangos del PDV
+## Spaska no usa rango de chat para poder ocultarse con facilidad. Tampoco importa mucho con la máscara de voz, jaja
 pdv-rahkshan = Rhk.
 pdv-denasvar = Dns.
 pdv-asvaran = Asv.
-pdv-vizier = Gran visir
+pdv-vizier = Gran Visir
+pdv-tarkhan = PDRV Tarkhan
 
-pdv-tarkhan = Tarkhan PDRV
+#Roles de administración del PDV
+pdv-ambassador = Embajador
+pdv-prince = Príncipe
 
-ussp-rifleman = Fus.
-ussp-sergeant = Sgto.
-ussp-commissar = Comisario
+### Rangos de equipamiento de la USSP
 
+### Rangos de fusilero
+ussp-or1 = Ryad.
+ussp-or2 = Efr.
+
+### Fusilero/Serzhant compartido (equivalente a cabo)
+ussp-or3 = MlSrz.
+
+### Rangos de Serzhant
+ussp-or4 = Srz.
+ussp-or5 = StSrz.
+ussp-or6 = Sts.
+
+### Rangos de comisario
+ussp-cm1 = Pol.
+ussp-cm2 = StPol.
+ussp-cm3 = BKom.
+
+
+
+### Rangos de VG
 vg-infanteer = Inf.
-vg-lieutenant = Tte.
+vg-lieutenant = Lt.
 vg-commander = Comandante
 
-cc-judge = Juez
+### Rangos de MMC
+mmc-employee = Empleado
+mmc-security = Seguridad Corporativa
+mmc-asset-security = Seguridad de Activos
+mmc-asset-security-senior = Seguridad de Activos Sénior
+mmc-liason = Enlace Corporativo
+
+### Rangos de CC/MD
+cc-judge = Jdg.
 cc-stc = STC
 cc-overseer = Supervisor
 md-doc = Director de Atención
-md-medic = Urg.
+md-medic = ER.

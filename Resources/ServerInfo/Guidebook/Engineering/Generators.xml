@@ -1,8 +1,8 @@
 <Document>
   # Generadores
-  Los generadores son dispositivos que producen energía para la estación. Varían en tamaño y potencia de salida, y cada uno tiene sus propias peculiaridades y requisitos.
+  Los generadores son dispositivos que producen energía para la estación. Varían en tamaño y producción de energía, y cada uno tiene sus propias peculiaridades y requisitos.
 
-  Los ingenieros deben configurar generadores de nivel bajo como los Arrays Solares y el AME al inicio del turno, para dar tiempo suficiente de configurar generadores de nivel alto como el Motor de Singularidad para un suministro de energía sostenido durante el resto del turno.
+  Se espera que los ingenieros pongan en marcha generadores de bajo nivel, como los Paneles Solares y el IRE, al comienzo del turno, para dar tiempo suficiente a montar generadores de mayor nivel, como el Motor de Singularidad, que proporcionen energía sostenida durante el resto del turno.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
@@ -12,7 +12,7 @@
     ## Motor de Singularidad y Tesla
   </Box>
   <Box>
-    [color=#999999][italic]Dispositivos capaces de energía infinita — y potencial destructivo[italic][/color]
+    [color=#999999][italic]Dispositivos capaces de generar energía infinita — y de un potencial destructivo[italic][/color]
   </Box>
 
   <Box>
@@ -23,7 +23,7 @@
     ## Generador Nuclear
   </Box>
   <Box>
-    [color=#999999][italic]Aprovecha el poder de la fisión nuclear para alimentar la estación.[italic][/color]
+    [color=#999999][italic]Aprovecha la energía de la fisión nuclear para alimentar la estación.[italic][/color]
   </Box>
 
   <Box>
@@ -31,7 +31,7 @@
     <GuideEntityEmbed Entity="AmePartFlatpack" Caption=""/>
   </Box>
   <Box>
-    ## Motor de Antimateria
+    ## Motor de Reacción Isotópica
   </Box>
   <Box>
     [color=#999999][italic]Generador de apoyo a corto plazo para la estación[italic][/color]
@@ -46,7 +46,7 @@
     ## Generador Termoeléctrico
   </Box>
   <Box>
-    [color=#999999][italic]Generador de atmósferas avanzado que aprovecha la energía de los gases[italic][/color]
+    [color=#999999][italic]Generador atmosférico avanzado que aprovecha la energía de los gases[italic][/color]
   </Box>
 
   <Box>

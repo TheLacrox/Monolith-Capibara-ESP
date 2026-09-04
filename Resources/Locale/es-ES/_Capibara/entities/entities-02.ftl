@@ -1,3 +1,453 @@
+ent-ClothingUniformJumpsuitLawyerBlue = traje de abogado azul
+    .gender = male
+    .desc = Un llamativo traje azul usado por abogados y fanfarrones.
+
+ent-ClothingUniformJumpsuitLawyerGood = traje del buen abogado
+    .gender = male
+    .desc = ¡Un traje hortera perfecto para un abogado CRIMINAL!
+
+ent-ClothingUniformJumpsuitLawyerPurple = traje de abogado morado
+    .gender = male
+    .desc = Una elegante pieza morada que llevan abogados y gente del espectáculo.
+
+ent-ClothingUniformJumpsuitLawyerRed = traje de abogado rojo
+    .gender = male
+    .desc = Un llamativo traje rojo usado por abogados y fanfarrones.
+
+ent-ClothingUniformJumpsuitLibrarian = mono de bibliotecario
+    .gender = male
+    .desc = Un acogedor jersey verde ideal para un curador de libros.
+
+ent-ClothingUniformJumpsuitLoungewear = ropa de estar por casa
+    .gender = female
+    .desc = Una larga pieza de tela que envuelve tu cuerpo para mayor comodidad.
+
+ent-ClothingUniformJumpsuitMailCarrier = mono de cartero
+    .gender = male
+    .desc = El enemigo de los perros en todas partes.
+
+ent-ClothingUniformJumpsuitMedicalDoctor = mono de médico
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección menor contra peligros biológicos. Tiene una cruz en el pecho que indica que quien lo lleva es personal médico capacitado.
+
+ent-ClothingUniformJumpsuitMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryArcadiaTac = mono táctico Arcadia
+    .gender = male
+    .desc = Un mono táctico producido por Arcadia Industries.
+
+ent-ClothingUniformJumpsuitMilitaryAtmospherics = mono de técnico de atmósferas
+    .gender = male
+    .desc = Estoy en el trabajo. No puedo salir del trabajo. El trabajo es respirar. Estoy analizando la calidad del aire.
+
+ent-ClothingUniformJumpsuitMilitaryCaptain = mono del Capitán
+    .gender = male
+    .desc = Es un mono azul con algunas marcas doradas que denotan el rango de "Capitán".
+
+ent-ClothingUniformJumpsuitMilitaryCargo = mono de técnico de logística
+    .gender = male
+    .desc = Un mono resistente, emitido a los miembros del departamento de Logística.
+
+ent-ClothingUniformJumpsuitMilitaryChemistry = Mono de química
+    .gender = male
+    .desc = Hay algunas manchas extrañas en este mono. Hm.
+
+ent-ClothingUniformJumpsuitMilitaryCMO = Mono del Médico Jefe
+    .gender = male
+    .desc = Es un mono que llevan quienes tienen la experiencia para ser Médico Jefe. Proporciona una ligera protección biológica.
+
+ent-ClothingUniformJumpsuitMilitaryColorBlack = Mono negro
+    .gender = male
+    .desc = Un mono negro genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorBlue = Mono azul
+    .gender = male
+    .desc = Un mono azul genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorBrown = Mono marrón
+    .gender = male
+    .desc = Un mono marrón genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorDarkBlue = Mono azul oscuro
+    .gender = male
+    .desc = Un mono azul oscuro genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorDarkGreen = Mono verde oscuro
+    .gender = male
+    .desc = Un mono verde oscuro genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorGreen = Mono verde
+    .gender = male
+    .desc = Un mono verde genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorGrey = Mono gris
+    .gender = male
+    .desc = Un elegante mono gris que te recuerda a los buenos tiempos.
+
+ent-ClothingUniformJumpsuitMilitaryColorLightBrown = Mono marrón claro
+    .gender = male
+    .desc = Un mono marrón claro genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorMaroon = Mono granate
+    .gender = male
+    .desc = Un mono granate genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorOrange = Mono naranja
+    .gender = male
+    .desc = Un mono naranja genérico sin marcas de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorPink = Mono rosa
+    .gender = male
+    .desc = Un mono rosa genérico sin marcas de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorPurple = Mono morado
+    .gender = male
+    .desc = Un mono morado genérico sin marcas de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorRed = Mono rojo
+    .gender = male
+    .desc = Un mono rojo genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorTeal = Mono turquesa
+    .gender = male
+    .desc = Un mono turquesa genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryColorYellow = Mono amarillo
+    .gender = male
+    .desc = Un mono amarillo genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitMilitaryContractor = mono de contratista
+    .gender = male
+    .desc = Un robusto mono, comúnmente emitido a los contratistas de NT.
+
+ent-ClothingUniformJumpsuitMilitaryContractorTac = mono de contratista
+    .gender = male
+    .desc = Un robusto mono, comúnmente emitido a los contratistas de NT.
+
+ent-ClothingUniformJumpsuitMilitaryEngineering = mono de ingeniería
+    .gender = male
+    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
+
+ent-ClothingUniformJumpsuitMilitaryEngineeringChief = Mono del Ingeniero Jefe
+    .gender = male
+    .desc = Es un mono de alta visibilidad otorgado a los ingenieros lo suficientemente locos como para alcanzar el rango de Ingeniero Jefe.
+
+ent-ClothingUniformJumpsuitMilitaryGenetics = mono de genética
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
+
+ent-ClothingUniformJumpsuitMilitaryHydroponics = mono de hidroponía
+    .gender = male
+    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
+
+ent-ClothingUniformJumpsuitMilitaryMailCarrier = mono de cartero
+    .gender = male
+    .desc = El enemigo de los perros en todas partes.
+
+ent-ClothingUniformJumpsuitMilitaryMedicalDoctor = mono de médico
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección menor contra peligros biológicos. Tiene una cruz en el pecho que indica que quien lo lleva es personal médico capacitado.
+
+ent-ClothingUniformJumpsuitMilitaryParamedic = mono de paramédico
+    .gender = male
+    .desc = Tiene una cruz en él, eso es bueno, ¿verdad?
+
+ent-ClothingUniformJumpsuitMilitaryPilot = mono de piloto
+    .gender = male
+    .desc = ¿Tú también crees que debería haber un bolsillo para tus cigarrillos favoritos?
+
+ent-ClothingUniformJumpsuitMilitaryQM = mono del cuartelmaestre
+    .gender = male
+    .desc = ¿Qué puede hacer el marrón por ti?
+
+ent-ClothingUniformJumpsuitMilitaryResearchDirector = jersey de cuello alto del Director de Investigación
+    .gender = male
+    .desc = Es un mono usado por quienes tienen los conocimientos para alcanzar el puesto de Director de Investigación. Su tela ofrece una protección menor contra contaminantes biológicos.
+
+ent-ClothingUniformJumpsuitMilitarySalvageSpecialist = mono del especialista en salvamento
+    .gender = male
+    .desc = Es un elegante mono con un resistente peto. Está muy sucio.
+
+ent-ClothingUniformJumpsuitMilitaryScientist = mono de científico
+    .gender = male
+    .desc = Está fabricada con una fibra especial que aumenta la inteligencia percibida y reduce la ética personal. Tiene marcas que identifican a su portador como científico.
+
+ent-ClothingUniformJumpsuitMilitaryService = mono de trabajador de servicios
+    .gender = male
+    .desc = Un mono estándar para los trabajadores de servicios de NT.
+
+ent-ClothingUniformJumpsuitMilitarySr = mono del supervisor
+    .gender = male
+    .desc = Bastante soso e inofensivo. Perfecto para desaparecer de la faz del universo.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = mono de capitán mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = mono de médico mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = mono de capitán mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = mono de médico mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-ClothingUniformJumpsuitMilitaryVirology = mono de virología
+    .gender = male
+    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
+
+ent-ClothingUniformJumpsuitMime = traje de mimo
+    .gender = male
+    .desc = ...
+
+ent-ClothingUniformJumpsuitMonasticRobeDark = hábito monástico oscuro
+    .gender = male
+    .desc = Es un hábito oscuro, que suelen llevar las personas religiosas.
+
+ent-ClothingUniformJumpsuitMonasticRobeLight = hábito monástico claro
+    .gender = male
+    .desc = Es un hábito claro, que suelen llevar las personas religiosas.
+
+ent-ClothingUniformJumpsuitMusician = esmoquin de músico
+    .gender = male
+    .desc = Un elegante esmoquin para los amantes de la música.  ¡Perfecto para cualquier actuación de cabaret!
+
+ent-ClothingUniformJumpsuitNanotrasen = mono de Nanotrasen
+    .gender = male
+    .desc = Un sobrio mono azul para representar a NT.
+
+ent-ClothingUniformJumpsuitNavyGold = mono de oficial de marina
+    .gender = male
+    .desc = Un traje que llevan los miembros de alto rango del Mando Central. El resto está clasificado.
+
+ent-ClothingUniformJumpsuitNfsd = mono de TSFMC
+    .gender = male
+    .desc = Un mono de manga larga producido para coroneles adjuntos. Diseñado para reducir la rozadura entre las piernas para mayor comodidad de piel, limo, escamas, pelaje y madera.
+
+ent-ClothingUniformJumpsuitNfsdShort = mono de TSFMC
+    .gender = male
+    .desc = Un mono de manga corta producido para coroneles adjuntos. Diseñado para reducir la rozadura entre las piernas para mayor comodidad de piel, limo, escamas, pelaje y madera.
+
+ent-ClothingUniformJumpsuitNfsdTacBlack = mono táctico de TSFMC
+    .gender = male
+    .desc = Un mono táctico para los diputados en el campo.
+
+ent-ClothingUniformJumpsuitNfsdTacCamo = mono táctico de TSFMC
+    .gender = male
+    .desc = Un mono táctico para los diputados en el campo.
+
+ent-ClothingUniformJumpsuitNfsdTacCream = mono táctico de PDV
+    .gender = male
+    .desc = Un mono táctico para las fuerzas de PDV en el campo.
+
+ent-ClothingUniformJumpsuitNfsdTacGray = mono táctico de TSFMC
+    .gender = male
+    .desc = Un mono táctico para los diputados en el campo.
+
+ent-ClothingUniformJumpsuitNinja = mono de ninja
+    .gender = male
+    .desc = Un cómodo traje de ninja, práctico tanto para relajarse como para entrenar.
+
+ent-ClothingUniformJumpsuitOperative = mono de operativo
+    .gender = male
+    .desc = Uniforme para operativos élite del Syndicate que realizan operaciones tácticas en el espacio profundo.
+
+ent-ClothingUniformJumpsuitParamedic = mono de paramédico
+    .gender = male
+    .desc = Tiene una cruz en él, eso es bueno, ¿verdad?
+
+ent-ClothingUniformJumpsuitParamedicNT = mono de paramédico
+    .gender = male
+    .desc = Un mono básico blanco y azul diseñado para paramédicos de Nanotrasen destinados en sectores de combate.
+
+ent-ClothingUniformJumpsuitParamedicSyndie = mono de paramédico del Syndicate
+    .gender = male
+    .desc = Por alguna razón, ponértelo te hace sentir que estás peligrosamente cerca de violar la Convención de Ginebra.
+
+ent-ClothingUniformJumpsuitParamedicSyndieNF = mono de paramédico del Syndicate
+    .gender = male
+    .desc = Por alguna razón, ponértelo te hace sentir que estás peligrosamente cerca de violar la Convención de Ginebra.
+
+ent-ClothingUniformJumpsuitPilot = mono de piloto
+    .gender = male
+    .desc = ¿Tú también crees que debería haber un bolsillo para tus cigarrillos favoritos?
+
+ent-ClothingUniformJumpsuitPirate = calzones de pirata
+    .desc = Una variante pirata del mono de un marinero espacial.
+
+ent-ClothingUniformJumpsuitPirateLuffy = uniforme de pirata sospechoso
+    .gender = male
+    .desc = Un conjunto de ropa pirata de aspecto bastante sospechoso.
+
+ent-ClothingUniformJumpsuitPirateSlops = calzones de pirata
+    .desc = Un uniforme harapiento pero cómodo para saquear el sector.
+
+ent-ClothingUniformJumpsuitPrisoner = mono de prisionero
+    .gender = male
+    .desc = Pillado.
+
+ent-ClothingUniformJumpsuitPrisonGuard = uniforme de guardia de prisión
+    .gender = male
+    .desc = Un uniforme cómodo, duradero e impermeable diseñado para mantener al personal penitenciario cómodo y seguro.
+
+ent-ClothingUniformJumpsuitPrivateSec = mono de seguridad privada
+    .gender = male
+    .desc = Un uniforme especializado para un guardia de seguridad privada. Para el contratista privado exigente que necesita un aspecto profesional.
+
+ent-ClothingUniformJumpsuitPsychologist = traje de psicólogo
+    .gender = male
+    .desc = No pierdo las cosas. Las coloco en lugares que luego se me escapan.
+
+ent-ClothingUniformJumpsuitPublicAffairsLiaison = mono del enlace de asuntos públicos
+    .gender = male
+    .desc = Un traje almidonado y planchado para el enlace de asuntos públicos.
+
+ent-ClothingUniformJumpsuitPyjamaSyndicateBlack = pijama negro del Syndicate
+    .gender = male
+    .desc = Para esas largas noches en perma.
+
+ent-ClothingUniformJumpsuitPyjamaSyndicatePink = pijama rosa del Syndicate
+    .gender = male
+    .desc = Para esas largas noches en perma.
+
+ent-ClothingUniformJumpsuitPyjamaSyndicateRed = pijama rojo del Syndicate
+    .gender = male
+    .desc = Para esas largas noches en perma.
+
+ent-ClothingUniformJumpsuitQM = mono del cuartelmaestre
+    .gender = male
+    .desc = ¿Qué puede hacer el marrón por ti?
+
+ent-ClothingUniformJumpsuitQMFormal = traje formal del intendente
+    .gender = male
+    .desc = Inspirado en los intendentes militares del pasado, el atuendo perfecto para abastecer una ocasión formal.
+
+ent-ClothingUniformJumpsuitQMTurtleneck = jersey de cuello alto del cuartelmaestre
+    .gender = male
+    .desc = Un elegante jersey de cuello alto hecho para el duro entorno de trabajo de suministros.
+
+ent-ClothingUniformJumpsuitRecruitNT = mono de recluta
+    .gender = male
+    .desc = Un elegante mono gris con ribetes azules. Perfecto para el ayudante digno.
+
+ent-ClothingUniformJumpsuitRecruitSyndie = mono de recluta del Syndicate
+    .gender = male
+    .desc = Un mono gris oscuro de dudosa reputación. Como si los pasajeros no fueran ya bastante sospechosos.
+
+ent-ClothingUniformJumpsuitRecruitSyndieNF = mono de recluta del Syndicate
+    .gender = male
+    .desc = Un mono gris oscuro de dudosa reputación. Como si los pasajeros no fueran ya bastante sospechosos.
+
+ent-ClothingUniformJumpsuitRepairmanNT = mono de técnico de reparaciones
+    .gender = male
+    .desc = Un mono que te recuerda a cierto puesto de trabajo en el sector de tripulación. Esperemos que no tengas que hacer el mismo trabajo que ESOS bichos raros.
+
+ent-ClothingUniformJumpsuitRepairmanSyndie = mono de técnico de reparaciones del Syndicate
+    .gender = male
+    .desc = Funcional, elegante y de lo más chulo. Los ingenieros de Nanotrasen desearían poder lucir tan bien.
+
+ent-ClothingUniformJumpsuitRepairmanSyndieNF = mono de técnico de reparaciones del Syndicate
+    .gender = male
+    .desc = Funcional, elegante y de lo más chulo. Los ingenieros de Nanotrasen desearían poder lucir tan bien.
+
+ent-ClothingUniformJumpsuitReporter = traje de reportero
+    .gender = male
+    .desc = Un buen reportero es escéptico toda su vida.
+
+ent-ClothingUniformJumpsuitResearchDirector = jersey de cuello alto del Director de Investigación
+    .gender = male
+    .desc = Es un cuello vuelto llevado por quienes tienen los conocimientos para alcanzar el puesto de Director de Investigación. Su tejido proporciona una protección mínima contra contaminantes biológicos.
+
+ent-ClothingUniformJumpsuitRoboticist = mono de robótico
+    .gender = male
+    .desc = Es de color negro estilizador con costuras reforzadas; ideal para el trabajo industrial.
+
+ent-ClothingUniformJumpsuitSafari = traje de safari
+    .gender = male
+    .desc = Perfecto para una excursión por la selva.
+
+ent-ClothingUniformJumpsuitSalvageSpecialist = mono del especialista en salvamento
+    .gender = male
+    .desc = Es un elegante mono con un resistente peto. Está muy sucio.
+
+ent-ClothingUniformJumpsuitScientist = mono de científico
+    .gender = male
+    .desc = Está fabricada con una fibra especial que aumenta la inteligencia percibida y reduce la ética personal. Tiene marcas que identifican a su portador como científico.
+
+ent-ClothingUniformJumpsuitScientistFormal = mono formal de científico
+    .gender = male
+    .desc = Un uniforme para científicos sofisticados, que luce mejor con su corbata a juego.
+
+ent-ClothingUniformJumpsuitSec = mono de seguridad
+    .gender = male
+    .desc = Un mono fabricado con material resistente que ofrece una protección sólida.
+
+ent-ClothingUniformJumpsuitSecBlue = camisa azul y corbata
+    .gender = female
+    .desc = Ahora mismo estoy un poco ocupado, Calhoun.
+
+ent-ClothingUniformJumpsuitSecGrey = mono de seguridad gris
+    .gender = male
+    .desc = Una reliquia táctica de antaño, de antes de que los grupos militares decidieran que era más barato teñir los trajes de rojo que lavar la sangre.
+
+ent-ClothingUniformJumpsuitSecGuard = uniforme de guardia de seguridad
+    .gender = male
+    .desc = Un uniforme especializado para el guardia de la estación del Puesto Colonial. Impecable y oficial para que los merodeadores del muelle sepan que vas en serio.
+
+ent-ClothingUniformJumpsuitSeniorEngineer = mono de ingeniero sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ingeniería.
+
+ent-ClothingUniformJumpsuitSeniorOfficer = mono de oficial sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Seguridad.
+
+ent-ClothingUniformJumpsuitSeniorPhysician = mono de médico sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento Médico.
+
+ent-ClothingUniformJumpsuitSeniorResearcher = mono de investigador sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ciencia.
+
+ent-ClothingUniformJumpsuitSpecOps = mono de oficial de operaciones especiales
+    .gender = male
+    .desc = Un traje que llevan los oficiales de operaciones especiales de alto rango. El resto está clasificado.
+
+ent-ClothingUniformJumpsuitSr = uniforme de supervisor
+    .gender = male
+    .desc = Un conjunto de primera línea para el supervisor de Colossus Central. No se escatimó en la confección; cada puntada es una obra maestra. El simple hecho de que se haya emitido este traje demuestra la confianza que el Mando Central deposita en su representante en este puesto.
+
+ent-ClothingUniformJumpsuitSyndieFormal = traje formal del Syndicate
+    .gender = male
+    .desc = El uniforme del Syndicate está confeccionado con un estilo elegante; da pena incluso hacer jugarretas sucias con él puesto.
+
+ent-ClothingUniformJumpsuitSyndieFormalNF = traje formal del Syndicate
+    .gender = male
+    .desc = El uniforme del Syndicate está confeccionado con un estilo elegante; da pena incluso hacer jugarretas sucias con él puesto.
+
+ent-ClothingUniformJumpsuitTacticool = mono tacticool
+    .gender = male
+    .desc = Uniforme para operativos de pacotilla que hacen LARP realizando el robo táctico de guantes aislantes en el espacio profundo.
+
+ent-ClothingUniformJumpsuitTshirtJeans = camiseta blanca y vaqueros
+    .gender = female
+    .desc = Incluso en el espacio, esta combinación sigue siendo tendencia.
+
 ent-ClothingUniformJumpsuitTshirtJeansGray = camiseta gris y vaqueros
     .gender = female
     .desc = Aunque no haya bosques en el espacio, esta combinación sigue siendo práctica.
@@ -37,6 +487,26 @@ ent-ClothingUniformKendoHakama = hakama
 ent-ClothingUniformMartialGi = gi
     .gender = male
     .desc = Parte superior e inferior blancas utilizadas tradicionalmente en artes marciales, generalmente combinadas con un cinturón.
+
+ent-ClothingUniformMMC = traje de campo de seguridad corporativa de MMC
+    .gender = male
+    .desc = Un conjunto táctico negro mate que lleva la seguridad corporativa de MMC.
+
+ent-ClothingUniformMMCCargos = traje de campo de seguridad corporativa de MMC (cargos)
+    .gender = male
+    .desc = Un top táctico negro mate combinado con duraderos pantalones cargo marrones.
+
+ent-ClothingUniformMMCJeans = traje de campo de seguridad corporativa de MMC (vaqueros)
+    .gender = male
+    .desc = Una camisa negra mate combinada con vaqueros. La llevan los agentes de seguridad de activos de MMC que prefieren el trabajo de campo con algo más de flexibilidad.
+
+ent-ClothingUniformMMCJumpsuit = mono de MMC
+    .gender = male
+    .desc = Un traje de trabajo básico para empleados de MMC.
+
+ent-ClothingUniformMMCWarm = traje de campo cálido de seguridad corporativa de MMC
+    .gender = male
+    .desc = Una variante muy aislada del traje de campo de la seguridad corporativa de MMC, forrada para entornos extremos. Construida para sobrevivir sin concesiones.
 
 ent-ClothingUniformOveralls = mono de trabajo
     .gender = male
@@ -638,6 +1108,18 @@ ent-ComplexXenoArtifactItem = artefacto alienígena
     .gender = male
     .desc = Un extraño dispositivo alienígena de mano.
 
+ent-ComponentBrickEconomy1 = componentes básicos
+    .desc = Una carcasa con sistemas de interfaz mecánico-eléctrica, como engranajes, motores paso a paso, cableado y más.
+
+ent-ComponentBrickEconomy1SpawnerT2 = componentes básicos
+    .desc = Una carcasa con sistemas de interfaz mecánico-eléctrica, como engranajes, motores paso a paso, cableado y más.
+
+ent-ComponentBrickEconomy2 = componentes avanzados
+    .desc = Una carcasa con sistemas de interfaz mecánico-eléctrica más avanzados, precisos y duraderos.
+
+ent-ComponentBrickEconomy3 = supercomponentes
+    .desc = Una carcasa con sistemas de interfaz de última generación y piezas diversas. Robusta, eficiente y cara.
+
 ent-ComputerAdvancedRadar = ordenador de radar avanzado
     .gender = male
     .desc = Este radar avanzado te permite detectar objetos lejanos para obtener una mayor ventaja táctica.
@@ -878,6 +1360,10 @@ ent-ComputerShipyardMedical = consola del astillero médico
     .gender = female
     .desc = Sirve para comprar y vender transbordadores médicos
 
+ent-ComputerShipyardMMC = consola de astillero de MMC
+    .gender = female
+    .desc = Se usa para transferir naves desde las reservas de servicio de MMC.
+
 ent-ComputerShipyardNfsd = consola del astillero TSFMC
     .gender = female
     .desc = Sirve para comprar naves TSFMC.
@@ -909,6 +1395,10 @@ ent-ComputerShipyardUSSP = consola del astillero USSP
 ent-ComputerShipyardViper = consola del astillero del Grupo Viper
     .gender = female
     .desc = Sirve para importar naves de varios fabricantes.
+
+ent-ComputerShipyardZvezda = consola del astillero Zvezda
+    .gender = female
+    .desc = Sirve para comprar y vender "transbordadores"
 
 ent-ComputerShuttle = consola del transbordador
     .gender = female
@@ -977,6 +1467,10 @@ ent-ComputerSurveillanceCameraMonitor = monitor de cámaras
 ent-ComputerSurveillanceWirelessCameraMonitor = monitor de cámaras inalámbrico
     .gender = male
     .desc = Un monitor de cámaras de vigilancia inalámbrico. Los estás vigilando. Quizás.
+
+ent-ComputerSurveillanceWirelessXenoborgCameraMonitor = monitor de cámaras xenoborg
+    .gender = male
+    .desc = Un monitor inalámbrico de cámaras de xenoborg. Los estás vigilando. Quizá.
 
 ent-ComputerTabletopAdvancedRadar = ordenador de radar avanzado
     .gender = male
@@ -1261,6 +1755,14 @@ ent-ComputerWithdrawBankATMComputerCircuitboard = placa de ordenador de cajero d
 ent-ComputerWithdrawBankATMFlatpack = paquete plano de cajero de solo retirada
     .gender = male
     .desc = Un paquete plano para construir un cajero. Mejor no darle muchas vueltas.
+
+ent-ComputerXenoborgsControl = consola de control de xenoborgs
+    .gender = female
+    .desc = Sirve para monitorizar de forma remota a todos los xenoborgs.
+
+ent-ComputerXenoborgsControlCircuitboard = placa de consola de control de xenoborgs
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para una consola de control de xenoborg.
 
 ent-CondenserMachineCircuitBoard = placa de máquina condensadora
     .gender = female
@@ -1972,13 +2474,13 @@ ent-CrateEngineering = caja de ingeniería
     .gender = female
     .desc = Un gran contenedor para objetos.
 
-ent-CrateEngineeringAMEControl = caja de la unidad de control de antimateria
+ent-CrateEngineeringAMEControl = caja de unidad de control de motor de reacción de isótopos (IRE)
     .gender = female
-    .desc = La unidad de control de un reactor de antimateria.
+    .desc = La unidad de control de un motor de reacción de isótopos.
 
-ent-CrateEngineeringAMEJar = caja del tarro de contención de antimateria
+ent-CrateEngineeringAMEJar = caja de bombonas de isótopos
     .gender = female
-    .desc = 3 frascos de antimateria, para abastecer un reactor de antimateria.
+    .desc = 3 botes de isótopos, para alimentar un reactor de isótopos.
 
 ent-CrateEngineeringAMEShielding = caja de reactor de antimateria empaquetado
     .gender = female
@@ -2450,25 +2952,25 @@ ent-CrateMousetrapBoxes = caja de ratoneras
     .gender = female
     .desc = Ratoneras, para cuando el servicio entero está plagado de una horda de ratas. Úsalas con moderación... o no.
 
-ent-CrateNanotrasen = caja NT
+ent-CrateNanotrasen = caja descarriada
     .gender = female
-    .desc = Una caja blanca y azul con el símbolo de Nanotrasen.
+    .desc = Una caja blanca y azul con las letras "NT" en relieve. Ominosa.
 
-ent-CrateNanotrasenDS = caja NT amenazante
+ent-CrateNanotrasenDS = caja descarriada
     .gender = female
-    .desc = Una caja roja y negra con un aura amenazante que te pone los pelos de punta con solo mirarla.
+    .desc = Una caja roja y negra con un aura amenazante. Te pone los pelos de punta con solo mirarla.
 
-ent-CrateNanotrasenLootFilledT1 = caja de equipo NT
+ent-CrateNanotrasenLootFilledT1 = caja de equipo descarriada
     .gender = female
-    .desc = Una caja blanca y azul con el símbolo de Nanotrasen, una reliquia de las guerras corporativas que podría contener cosas interesantes.
+    .desc = Una caja blanca y azul con las letras "NT" en relieve. Ominosa.
 
-ent-CrateNanotrasenLootFilledT2 = caja de equipo NT
+ent-CrateNanotrasenLootFilledT2 = caja de equipo descarriada
     .gender = female
-    .desc = Una caja blanca y azul con el símbolo de Nanotrasen, una reliquia de las guerras corporativas que podría contener cosas interesantes.
+    .desc = Una caja blanca y azul con las letras "NT" en relieve. Ominosa.
 
-ent-CrateNanotrasenLootFilledT3 = caja de equipo NT amenazante
+ent-CrateNanotrasenLootFilledT3 = caja de equipo descarriada
     .gender = female
-    .desc = Una caja blanca y azul con el símbolo de Nanotrasen, una reliquia de las guerras corporativas que podría contener cosas interesantes.
+    .desc = Una caja blanca y azul con las letras "NT" en relieve. Ominosa.
 
 ent-CrateNfsdArmor = caja de armadura TSFMC
     .gender = female
@@ -2740,9 +3242,13 @@ ent-CratePlasticBiodegradable = caja de plástico biodegradable
     .gender = female
     .desc = Se siente increíblemente endeble.
 
-ent-CratePlateBlunt_Slash = caja de placas de armadura anticontusión/anticorte
+ent-CratePlateBlunt_Slash = Caja de placas de armadura antitraumatismo
     .gender = female
-    .desc = Contiene dos (2) placas de armadura balística anticontusión/anticorte.
+    .desc = Contiene dos (2) placas de armadura especializadas en daño contundente/cortante.
+
+ent-CratePlatePierce = Caja de placas de armadura balística
+    .gender = female
+    .desc = Contiene dos (2) placas de armadura especializadas en daño perforante.
 
 ent-CratePrivateSecure = caja privada
     .gender = female
@@ -2997,25 +3503,25 @@ ent-CrateTrackingImplants = Implantes de rastreo
 ent-CrateTrackingImplantsNfsd = Implantes de rastreo TSFMC
     .desc = Contiene varios implantadores de rastreo. Ideal para prisioneros que quieras liberar pero seguir rastreando.
 
-ent-CrateTradeContrabandSecure1 = Caja de contrabando del Syndicate
+ent-CrateTradeContrabandSecure1 = muestra monolítica
     .gender = female
-    .desc = Contiene mercancías fabricadas en el sector Spinward, listas para ser contrabandeadas a un depósito de carga para obtener beneficios. ASEGÚRATE DE QUE LA CAJA ESTÉ INTACTA.
+    .desc = Un megalito estable de composición desconocida y origen desconocido. Sensaciones primarias de inquietud te recorren con solo verlo. Inmensamente valioso para la investigación de anomalías.
 
-ent-CrateTradeContrabandSecure2 = Caja de contrabando del Syndicate
+ent-CrateTradeContrabandSecure2 = caja incrustada
     .gender = female
-    .desc = Contiene mercancías fabricadas en el sector Spinward, listas para ser contrabandeadas a un depósito de carga para obtener beneficios. ASEGÚRATE DE QUE LA CAJA ESTÉ INTACTA.
+    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
 
-ent-CrateTradeContrabandSecure3 = Caja de contrabando del Syndicate
+ent-CrateTradeContrabandSecure3 = caja de seguridad incrustada
     .gender = female
-    .desc = Contiene mercancías fabricadas en el sector Spinward, listas para ser contrabandeadas a un depósito de carga para obtener beneficios. ASEGÚRATE DE QUE LA CAJA ESTÉ INTACTA.
+    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
 
-ent-CrateTradeContrabandSecure4 = Caja de contrabando de Donk Co.
-    .gender = female
-    .desc = Contiene mercancías fabricadas en el sector Spinward, listas para ser contrabandeadas a un depósito de carga para obtener beneficios. ASEGÚRATE DE QUE LA CAJA ESTÉ INTACTA.
+ent-CrateTradeContrabandSecure4 = alijo incrustado
+    .gender = male
+    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
 
-ent-CrateTradeContrabandSecure5 = Caja de contrabando de Cybersun Industries
-    .gender = female
-    .desc = Contiene mercancías fabricadas en el sector Spinward, listas para ser contrabandeadas a un depósito de carga para obtener beneficios. ASEGÚRATE DE QUE LA CAJA ESTÉ INTACTA.
+ent-CrateTradeContrabandSecure5 = tesoro incrustado
+    .gender = male
+    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
 
 ent-CrateTradeSecureHigh = Caja de comercio de carga exprés
     .gender = female
@@ -3668,6 +4174,10 @@ ent-DataFarmResearchCircuitboard = placa de circuito de granja de datos (investi
     .desc = Parece que podrías usar un destornillador para cambiar el tipo de placa. No puede empaquetarse como paquete plano debido a sus componentes complejos.
 
 ent-DatafarmResearchFaction = granja de datos atornillada (Investigación)
+    .gender = female
+    .desc = Un servidor ávido de energía dedicado a extraer datos de... algún lugar. Este genera puntos de investigación a razón de 200 por segundo. Parece estar atornillado al suelo.
+
+ent-DatafarmResearchFaction200 = granja de datos atornillada (Investigación)
     .gender = female
     .desc = Un servidor ávido de energía dedicado a extraer datos de... algún lugar. Este genera puntos de investigación a razón de 200 por segundo. Parece estar atornillado al suelo.
 
@@ -4640,7 +5150,7 @@ ent-DefibrillatorOneHandedUnpowered = desfibrilador
     .gender = male
     .desc = ¡APÁRTENSE! ¡Zzzzat!
 
-ent-DefibrillatorSyndicate = desfibrilador interdyne
+ent-DefibrillatorSyndicate = desfibrilador avanzado
     .gender = male
     .desc = También sirve como arma de defensa propia contra intrusos propensos a cometer crímenes de guerra.
 
@@ -5036,6 +5546,18 @@ ent-DoorElectronicsMercenary = electrónica de puerta
     .gender = female
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
+ent-DoorElectronicsMieyo = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
+ent-DoorElectronicsMieyoLiason = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
+ent-DoorElectronicsMieyoSecurity = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
 ent-DoorElectronicsMorgue = electrónica de puerta
     .gender = female
     .desc = Una placa electrónica utilizada en puertas y esclusas.
@@ -5116,6 +5638,10 @@ ent-DoorElectronicsViperCommand = electrónica de puerta
     .gender = female
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
+ent-DoorElectronicsXenoborg = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
 ent-DoorRemoteAll = mando a distancia de puerta maestro
     .gender = male
     .desc = Un dispositivo que puede abrir y bloquear puertas de forma remota.
@@ -5156,6 +5682,10 @@ ent-DoorRemoteService = mando a distancia de puerta de Servicio
     .gender = male
     .desc = Un dispositivo que puede abrir y bloquear puertas de forma remota.
 
+ent-DoorRemoteXenoborg = mando a distancia de puerta xenoborg
+    .gender = male
+    .desc = Un dispositivo que puede abrir y bloquear puertas de forma remota.
+
 ent-DoubleEmergencyAirTank = doble tanque de emergencia de aire
     .gender = male
     .desc = Un contenedor de soporte vital de emergencia de doble tanque de alta calidad. Contiene una buena cantidad de aire para su pequeño tamaño.
@@ -5179,6 +5709,14 @@ ent-DoubleEmergencyOxygenTank = doble tanque de emergencia de oxígeno
 ent-DoubleEmergencyOxygenTankFilled = doble tanque de emergencia de oxígeno
     .gender = male
     .desc = Un contenedor de soporte vital de emergencia de doble tanque de alta calidad. Contiene una buena cantidad de oxígeno para su pequeño tamaño. Puede contener 2,5 L de gas.
+
+ent-DoubleEmergencyWaterVaporTank = tanque doble de vapor de agua de emergencia
+    .gender = male
+    .desc = Un contenedor de soporte vital de emergencia de doble tanque y alta calidad. Contiene una cantidad decente de vapor de agua para su pequeño tamaño. Puede albergar 2,5 L de gas.
+
+ent-DoubleEmergencyWaterVaporTankFilled = tanque doble de vapor de agua de emergencia
+    .gender = male
+    .desc = Un contenedor de soporte vital de emergencia de doble tanque y alta calidad. Contiene una cantidad decente de vapor de agua para su pequeño tamaño. Puede albergar 2,5 L de gas.
 
 ent-Doubloon = ficha de datos
     .gender = female
@@ -6698,6 +7236,12 @@ ent-DwarfCube = cubo enano
     .gender = male
     .desc = ¡Solo añade agua!
 
+ent-EconomyPlanner = planificador industrial
+    .gender = male
+    .desc = Una tableta que contiene un diagrama de flujo visual sobre cómo producir bienes propietarios. (¡Colócala en el suelo e interactúa con ella para abrir el diagrama!)
+
+ent-EconomyPlannerTabletop = planificador industrial
+
 ent-Ectoplasm = ectoplasma
     .gender = female
     .desc = Mucho menos mortal en esta forma.
@@ -6758,6 +7302,26 @@ ent-ElectricRangeMachineCircuitboard = placa de máquina de cocina eléctrica
 ent-ElectrolysisUnitMachineCircuitboard = placa de máquina de unidad de electrólisis
     .gender = female
     .desc = Una placa de circuito impreso de máquina para una unidad de electrólisis.
+
+ent-ElectromagnetEconomy1 = electroimán básico
+    .gender = male
+    .desc = Un anillo circular compuesto de metal magnético y cableado conductor. Útil para estructuras de contención e interfaces mecánicas/eléctricas. Añade componentes básicos para empezar a montar un electroimán compuesto.
+
+ent-ElectromagnetEconomy2 = electroimán compuesto
+    .gender = male
+    .desc = Un electroimán apilado con forma de tubo, revestido de un material altamente conductor. Capaz de intercambiar energía eléctrica y cinética con gran potencia.
+
+ent-ElectromagnetEconomy2Start = electroimán compuesto (sin terminar)
+    .gender = male
+    .desc = Un electroimán compuesto en construcción. Necesita 10 cables LV para empezar la construcción.
+
+ent-ElectromagnetEconomy3 = electroimán superconductor
+    .gender = male
+    .desc = Un electroimán superconductor robusto. Extremadamente útil para contención y propulsión de alta energía.
+
+ent-ElectromagnetEconomy3Start = electroimán superconductor (sin terminar)
+    .gender = male
+    .desc = Un electroimán superconductor en construcción. Necesita más ensamblaje en un ensamblador de precisión.
 
 ent-EliteRadarCircuitboard = placa de ordenador de radar élite
     .gender = female
@@ -6826,6 +7390,14 @@ ent-EmergencyRollerBed = camilla con ruedas
 ent-EmergencyRollerBedSpawnFolded = camilla con ruedas
     .gender = female
     .desc = Una cama con ruedas de aspecto robusto utilizada en emergencias.
+
+ent-EmergencyWaterVaporTank = tanque de vapor de agua de emergencia
+    .gender = male
+    .desc = Un tanque fácilmente portátil para emergencias. Contiene muy poco vapor de agua, diseñado únicamente para uso de supervivencia. Puede almacenar 0,66 L de gas.
+
+ent-EmergencyWaterVaporTankFilled = tanque de vapor de agua de emergencia
+    .gender = male
+    .desc = Un tanque fácilmente portátil para emergencias. Contiene muy poco vapor de agua, diseñado únicamente para uso de supervivencia. Puede almacenar 0,66 L de gas.
 
 ent-Emitter = emisor
     .gender = male
@@ -6912,6 +7484,14 @@ ent-EncryptionKeyMedical = clave de cifrado médica
 ent-EncryptionKeyMedicalScience = clave de cifrado med-sci
     .gender = male
     .desc = Una clave de cifrado utilizada por alguien que no ha decidido de qué lado estar.
+
+ent-EncryptionKeyMieyo = clave de cifrado de MMC
+    .gender = male
+    .desc = Una clave de cifrado para las comunicaciones corporativas de Mieyo.
+
+ent-EncryptionKeyMieyoCommand = clave de cifrado de mando de MMC
+    .gender = male
+    .desc = Una clave de cifrado para las comunicaciones de mando de Mieyo.
 
 ent-EncryptionKeyNfsd = clave de cifrado TSFMC
     .gender = male
@@ -7267,6 +7847,14 @@ ent-ExtendedEmergencyOxygenTankFilled = tanque de oxígeno de emergencia de capa
     .gender = male
     .desc = Un tanque de emergencia de capacidad ampliada. Técnicamente apto para uso prolongado. Puede contener 1,5 L de gas.
 
+ent-ExtendedEmergencyWaterVaporTank = tanque de vapor de agua de emergencia de capacidad ampliada
+    .gender = male
+    .desc = Un tanque de emergencia de capacidad ampliada. Técnicamente apto para uso prolongado. Puede contener 1,5 L de gas.
+
+ent-ExtendedEmergencyWaterVaporTankFilled = tanque de vapor de agua de emergencia de capacidad ampliada
+    .gender = male
+    .desc = Un tanque de emergencia de capacidad ampliada. Técnicamente apto para uso prolongado. Puede contener 1,5 L de gas.
+
 ent-ExteriorLightBulb = bombilla de exterior
     .gender = female
     .desc = Una bombilla colorida con un pequeño cristal de color en su interior.
@@ -7578,6 +8166,10 @@ ent-FenceWoodSmallTJunction = valla de madera pequeña
 ent-FentanylSolidified = cristal de fentanilo
     .gender = male
     .desc = 5u de Fentanilo solidificado con Tricordrazina. Vale mucho.
+
+ent-FeroxiCube = cubo de feroxi
+    .gender = male
+    .desc = ¡Solo añade agua!
 
 ent-FigureSpawner = Generador de figurines de premio
 
@@ -8382,6 +8974,10 @@ ent-FloorTileItemXeno = suelo xeno
     .gender = male
     .desc = Podrían funcionar como un arma arrojadiza bastante decente.
 
+ent-FloorTileItemXenoborg = suelo xenoborg
+    .gender = male
+    .desc = Podrían funcionar como un arma arrojadiza bastante decente.
+
 ent-FloorTileItemXenoMaint = mantenimiento técnico xeno
     .gender = male
     .desc = Podrían funcionar como un arma arrojadiza bastante decente.
@@ -9009,6 +9605,10 @@ ent-FoodBurgerBigBiteRotten = Hamburguesa podrida
     .gender = female
     .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
 
+ent-FoodBurgerBoomRoach = Boomroachburger
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
 ent-FoodBurgerBrain = Hamburguesa de cerebro
     .gender = female
     .desc = Una hamburguesa de aspecto extraño. Parece casi sintiente.
@@ -9020,6 +9620,10 @@ ent-FoodBurgerCarp = Hamburguesa filet-o-carpa
 ent-FoodBurgerCat = Hamburguesa de gato
     .gender = female
     .desc = ¡Por fin esos gatos y gatopersonas sirven para algo!
+
+ent-FoodBurgerCecropiaMothRoach = Mothroachburger cecropia
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
 
 ent-FoodBurgerCheese = Hamburguesa de queso
     .gender = female
@@ -9077,9 +9681,21 @@ ent-FoodBurgerHuman = Hamburguesa humana
     .gender = female
     .desc = No puedes saber de quién está hecha...
 
+ent-FoodBurgerImperiRoach = Roachburger imperi
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
 ent-FoodBurgerJelly = Hamburguesa de jalea
     .gender = female
     .desc = ¿Delicia culinaria...?
+
+ent-FoodBurgerLeopardMothRoach = Mothroachburger leopardo
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerLunarMothRoach = Mothroachburger lunar
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
 
 ent-FoodBurgerMcguffin = McGuffin
     .gender = male
@@ -9093,7 +9709,19 @@ ent-FoodBurgerMime = Hamburguesa del mimo
     .gender = female
     .desc = Su sabor desafía al lenguaje.
 
+ent-FoodBurgerMopRoach = roachburger de fregona
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
 ent-FoodBurgerMothRoach = Mothroachburger
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerMustardMothRoach = mothroachburger de mostaza
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerOwORoach = roachburger OwO
     .gender = male
     .desc = La última lámpara que vio fue la del interior del microondas.
 
@@ -9108,633 +9736,4 @@ ent-FoodBurgerPlainRotten = Hamburguesa podrida
 ent-FoodBurgerRat = Hamburguesa de rata
     .gender = female
     .desc = Más o menos lo que esperabas...
-
-ent-FoodBurgerRobot = Roburger
-    .gender = male
-    .desc = La lechuga es el único componente orgánico. Bip.
-
-ent-FoodBurgerRosyMothRoach = Mothroachburger rosa
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerSoy = Hamburguesa soylent
-    .gender = female
-    .desc = Después de comerlo, tienes un irresistible impulso de comprar figuritas de superhéroes a precios desorbitados.
-
-ent-FoodBurgerSpell = Hamburguesa de hechizo
-    .gender = female
-    .desc = Esto es absolutamente Ei Nath.
-
-ent-FoodBurgerSuper = Hamburguesa superbocado
-    .gender = female
-    .desc = Esto es una montaña de hamburguesa. ¡COMIDA!
-
-ent-FoodBurgerTofu = Hamburguesa de tofu
-    .gender = female
-    .desc = ¿Qué... eso es carne?
-
-ent-FoodBurgerXeno = Xenohamburguesa
-    .gender = female
-    .desc = Huele a cáustico. Sabe a herejía.
-
-ent-FoodButter = Barra de mantequilla
-    .gender = female
-    .desc = Una barra de deliciosa, dorada y grasienta bondad.
-
-ent-FoodButterSlice = Rodaja de mantequilla
-    .gender = female
-    .desc = Una nuez de deliciosa, dorada y grasienta bondad.
-
-ent-FoodCabbage = col
-    .gender = male
-    .desc = Puaaaaaaaaj. Col.
-
-ent-FoodCakeApple = tarta de manzana
-    .gender = female
-    .desc = Una tarta rellena de manzana.
-
-ent-FoodCakeAppleSlice = porción de tarta de manzana
-    .gender = female
-    .desc = Una porción de tarta celestial.
-
-ent-FoodCakeBatter = masa para tarta
-    .gender = female
-    .desc = Cocínala para obtener una tarta.
-
-ent-FoodCakeBirthday = tarta de cumpleaños
-    .gender = female
-    .desc = Feliz cumpleaños, pequeño payaso...
-
-ent-FoodCakeBirthdaySlice = porción de tarta de cumpleaños
-    .gender = female
-    .desc = Una porción de tu cumpleaños.
-
-ent-FoodCakeBlueberry = tarta de arándanos
-    .gender = female
-    .desc = Te mancha los dientes.
-
-ent-FoodCakeBlueberrySlice = porción de arándanos
-    .gender = female
-    .desc = Te mancha los dientes.
-
-ent-FoodCakeBrain = tarta cerebro
-    .gender = female
-    .desc = Una cosa-tarta blandurria.
-
-ent-FoodCakeBrainSlice = porción de tarta cerebro
-    .gender = female
-    .desc = Déjame contarte algo sobre los priones. SON DELICIOSOS.
-
-ent-FoodCakeCarrot = tarta de zanahoria
-    .gender = female
-    .desc = El postre favorito de un cierto conejito travieso.
-
-ent-FoodCakeCarrotSlice = porción de tarta de zanahoria
-    .gender = female
-    .desc = Una zanahorosa porción de tarta de zanahoria. ¡Las zanahorias son buenas para los ojos!
-
-ent-FoodCakeCheese = tarta de queso
-    .gender = female
-    .desc = PELIGROSAMENTE quesosa.
-
-ent-FoodCakeCheeseSlice = porción de tarta de queso
-    .gender = female
-    .desc = Una porción de pura quesatisfacción.
-
-ent-FoodCakeChocolate = tarta de chocolate
-    .gender = female
-    .desc = Una tarta con chocolate añadido.
-
-ent-FoodCakeChocolateSlice = porción de tarta de chocolate
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakeChristmas = tarta de Navidad
-    .gender = female
-    .desc = Una tarta hecha de Navidad.
-
-ent-FoodCakeChristmasSlice = porción de tarta de Navidad
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakeClown = tarta payaso
-    .gender = female
-    .desc = Una graciosa tarta con cara de payaso.
-
-ent-FoodCakeClownSlice = porción de tarta payaso
-    .gender = female
-    .desc = Una porción de malos chistes y accesorios ridículos.
-
-ent-FoodCakeLemon = tarta de limón
-    .gender = female
-    .desc = Una tarta con limón añadido.
-
-ent-FoodCakeLemonSlice = porción de tarta de limón
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakeLemoon = tarta lemoon
-    .gender = female
-    .desc = Una tarta que representa la luna de la Tierra.
-
-ent-FoodCakeLemoonSlice = fragmento de tarta lemoon
-    .gender = male
-    .desc = Un fragmento de luna, con olor a leche.
-
-ent-FoodCakeLime = tarta de lima
-    .gender = female
-    .desc = Una tarta con lima añadida.
-
-ent-FoodCakeLimeSlice = porción de tarta de lima
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakeOrange = tarta de naranja
-    .gender = female
-    .desc = Una tarta con naranja añadida.
-
-ent-FoodCakeOrangeSlice = porción de tarta de naranja
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakePlain = tarta
-    .gender = female
-    .desc = Una tarta sencilla, no una mentira.
-
-ent-FoodCakePlainSlice = porción de tarta
-    .gender = female
-    .desc = Solo una porción de tarta, es suficiente para todos.
-
-ent-FoodCakePumpkin = tarta de calabaza especiada
-    .gender = female
-    .desc = Una tarta hueca con calabaza de verdad.
-
-ent-FoodCakePumpkinSlice = porción de tarta de calabaza especiada
-    .gender = female
-    .desc = Una picante porción de bondad de calabaza.
-
-ent-FoodCakeSlime = tarta de slime
-    .gender = female
-    .desc = Una tarta hecha de slimes. Probablemente no electrificada.
-
-ent-FoodCakeSlimeSlice = porción de tarta de slime
-    .gender = female
-    .desc = Una porción de tarta de slime.
-
-ent-FoodCakeSpaceman = tarta del astronauta
-    .gender = female
-    .desc = Una tarta glaseada con trompeta de astronauta.
-
-ent-FoodCakeSpacemanSlice = porción de tarta del astronauta
-    .gender = female
-    .desc = Una tarta glaseada con trompeta de astronauta.
-
-ent-FoodCakeSuppermatter = supracena
-    .gender = female
-    .desc = Alimento extremadamente denso y poderoso.
-
-ent-FoodCakeSuppermatterSlice = fragmento de supracena
-    .gender = male
-    .desc = Una porción única de poder.
-
-ent-FoodCakeVanilla = tarta de vainilla
-    .gender = female
-    .desc = Una tarta glaseada de vainilla.
-
-ent-FoodCakeVanillaSlice = porción de tarta de vainilla
-    .gender = female
-    .desc = Una porción de tarta glaseada de vainilla.
-
-ent-FoodCannabisButter = barra de mantequilla de cannabis
-    .gender = female
-    .desc = Añade esto a tus productos horneados favoritos para un buen rato.
-
-ent-FoodCarrot = zanahoria
-    .gender = female
-    .desc = ¡Es buena para los ojos!
-
-ent-FoodCartCold = carrito de comida fría
-    .gender = male
-    .desc = ¡Es el heladero! ¡Es el heladero!
-
-ent-FoodCartHot = carrito de comida caliente
-    .gender = male
-    .desc = Sal ahí fuera y vende unos perritos calientes.
-
-ent-FoodCheese = rueda de queso
-    .gender = female
-    .desc = Una gran rueda de delicioso Cheddar.
-
-ent-FoodCheeseCurds = cuajada de queso
-    .gender = female
-    .desc = No confundir con el queso de cuajada. Deliciosa frita.
-
-ent-FoodCheeseGrits = gachas de maíz con queso
-    .desc = Un espeso y sabroso cuenco de gachas de maíz con queso.
-
-ent-FoodCheeseSlice = cuña de queso
-    .gender = female
-    .desc = Una cuña de delicioso Cheddar. La rueda de queso de la que fue cortada no puede haber ido muy lejos.
-
-ent-FoodCherry = cereza
-    .gender = female
-    .desc = Cereza roja y jugosa con hueso en su interior.
-
-ent-FoodChevre = rulo de chèvre
-    .gender = male
-    .desc = Un rulo suave de cremoso Chèvre.
-
-ent-FoodChevreSlice = disco de chèvre
-    .gender = male
-    .desc = Un pequeño disco de cremoso Chèvre. Un adorno ideal para guarniciones francesas.
-
-ent-FoodChiliPepper = guindilla
-    .gender = female
-    .desc = Picante, mejor no te toques los ojos.
-
-ent-FoodChillyPepper = guindilla fría
-    .gender = female
-    .desc = Gélido y ardiente.
-
-ent-FoodCocoaBeans = granos de cacao
-    .desc = ¡Nunca puede haber demasiado chocolate!
-
-ent-FoodCocoaPod = vaina de cacao
-    .gender = female
-    .desc = ¡Nunca puede haber demasiado chocolate!
-
-ent-FoodCoffee = bayas de café
-    .desc = Bayas rojas que contienen granos de café.
-
-ent-FoodCoffeeBeansRaw = granos de café verde
-    .desc = Granos de café verde, esperando ser tostados.
-
-ent-FoodCoffeeBeansRoastedDark = granos de café tostado oscuro
-    .desc = Granos de café torrefacto al estilo vienés. Ahumados y especiados.
-
-ent-FoodCoffeeBeansRoastedLight = granos de café tostado suave
-    .desc = Granos de café tostado canela. Frescos y afrutados.
-
-ent-FoodCoffeeBeansRoastedMedium = granos de café tostado medio
-    .desc = Granos de café tostado city. Suaves y con sabor a nuez.
-
-ent-FoodCondimentBottleBBQ = botella de salsa BBQ
-    .gender = female
-    .desc = Toallitas para manos no incluidas.
-
-ent-FoodCondimentBottleColdsauce = botella de salsa fría
-    .gender = female
-    .desc = Deja la lengua entumecida a su paso.
-
-ent-FoodCondimentBottleEnzyme = enzima universal
-    .gender = female
-    .desc = Se usa en la cocina para preparar diversos platos.
-
-ent-FoodCondimentBottleHotsauce = botella de salsa picante
-    .gender = female
-    .desc = ¡Casi puedes SABOREAR las úlceras de estómago ahora!
-
-ent-FoodCondimentBottleKetchup = botella de kétchup
-    .gender = female
-    .desc = Ya te sientes más americano.
-
-ent-FoodCondimentBottleSoysauce = botella de salsa de soja
-    .gender = female
-    .desc = Se usa para sazonar platos con perfección umami. ¡Con sodio extra!
-
-ent-FoodCondimentBottleVinegar = botella de vinagre
-    .gender = female
-    .desc = Se usa en cocina para realzar el sabor.
-
-ent-FoodCondimentPacketAstrotame = Astrotame
-    .gender = male
-    .desc = La dulzura de mil azúcares pero sin ninguna de las calorías.
-
-ent-FoodCondimentPacketBbq = salsa BBQ
-    .gender = female
-    .desc = Toallitas para manos no incluidas.
-
-ent-FoodCondimentPacketColdsauce = salsa fría
-    .gender = female
-    .desc = Salsa fría. Deja la lengua entumecida a su paso.
-
-ent-FoodCondimentPacketCornoil = aceite de maíz
-    .gender = male
-    .desc = Aceite de maíz. Un delicioso aceite usado en cocina. Hecho de maíz.
-
-ent-FoodCondimentPacketHorseradish = salsa de rábano picante
-    .gender = female
-    .desc = Un sobre de apestosa salsa de rábano picante.
-
-ent-FoodCondimentPacketHotsauce = salsa picante
-    .gender = female
-    .desc = ¡Casi puedes SABOREAR las úlceras de estómago ahora!
-
-ent-FoodCondimentPacketKetchup = kétchup
-    .gender = male
-    .desc = Ya te sientes más americano.
-
-ent-FoodCondimentPacketMustard = mostaza
-    .gender = female
-    .desc = Un condimento elaborado con las semillas molidas de la planta de mostaza.
-
-ent-FoodCondimentPacketPepper = pimienta negra
-    .gender = female
-    .desc = Se usa a menudo para sazonar la comida o hacer estornudar a la gente.
-
-ent-FoodCondimentPacketSalt = sal
-    .gender = female
-    .desc = Sal. De océanos espaciales, se supone.
-
-ent-FoodCondimentPacketSoy = salsa de soja
-    .gender = female
-    .desc = Un condimento salado a base de soja.
-
-ent-FoodCondimentPacketSugar = azúcar
-    .gender = male
-    .desc = ¡Azúcar espacial delicioso!
-
-ent-FoodCondimentSqueezeBottleClear = bote exprimible
-    .gender = male
-    .desc = Cuando se trata de botes exprimibles, esta es la elección obvia.
-
-ent-FoodCondimentSqueezeBottleKetchup = bote exprimible
-    .gender = male
-    .desc = Un recipiente de plástico fino usado para guardar condimentos.
-
-ent-FoodCondimentSqueezeBottleMustard = bote exprimible
-    .gender = male
-    .desc = Un recipiente de plástico fino usado para guardar condimentos.
-
-ent-FoodContainerEgg = caja de huevos
-    .gender = female
-    .desc = ¡No los tires!
-
-ent-FoodContainerEggEmpty = caja de huevos
-    .gender = female
-    .desc = ¡No los tires!
-
-ent-FoodCookieFortune = galleta de la fortuna
-    .gender = female
-    .desc = La fortuna dice: El fin está cerca... y es culpa tuya.
-
-ent-FoodCorn = mazorca de maíz
-    .gender = female
-    .desc = ¡Le falta mantequilla! Y cocción...
-
-ent-FoodCornTrash = zuro de maíz
-    .gender = male
-    .desc = No queda ni un maldito grano.
-
-ent-FoodCroissantRaw = cruasán crudo
-    .gender = male
-    .desc = Mantecoso, hojaldrado y listo para convertirse en algo delicioso.
-
-ent-FoodCroissantRawCotton = cruasán de algodón crudo
-    .gender = male
-    .desc = Mantecoso, hojaldrado, fibroso y listo para convertirse en algo delicioso.
-
-ent-FoodCucumber = pepino
-    .gender = male
-    .desc = Como agua fresca y crujiente.
-
-ent-FoodCucumberSlice = rodaja de pepino
-    .gender = female
-    .desc = Como agua fresca y crujiente, pero más pequeña.
-
-ent-FoodCurdCheese = requesón
-    .gender = male
-    .desc = Conocido por muchos nombres en la cocina, el requesón es útil para una gran variedad de platos.
-
-ent-FoodCuredCarp = filete de pescado crudo
-    .gender = male
-    .desc = Un trozo de pescado espacial fresco, apto para comer. Huele a espacio y a pescado.
-
-ent-FoodCuredCarpBattered = filete de pescado crudo rebozado
-    .gender = male
-    .desc = Un trozo de pescado espacial fresco, rebozado en una mezcla pegajosa de harina y huevo.
-
-ent-FoodCuredCarpFried = pescado frito
-    .gender = male
-    .desc = Un delicioso trozo de pescado, crujiente y frito a la perfección.
-
-ent-FoodDonkpocket = donk-pocket
-    .gender = male
-    .desc = El alimento preferido del traidor experimentado.
-
-ent-FoodDonkpocketBerry = berry-pocket
-    .gender = male
-    .desc = Un donk-pocket incansablemente dulce. Hecho con aromas 100% artificiales.
-
-ent-FoodDonkpocketBerryWarm = berry-pocket caliente
-    .gender = male
-    .desc = Un donk-pocket incansablemente dulce, ahora caliente y delicioso.
-
-ent-FoodDonkpocketCarp = carp-pocket
-    .gender = male
-    .desc = Una edición perdida del donk pocket, hecha específicamente para los trabajadores del salvamento.
-
-ent-FoodDonkpocketCarpWarm = carp-pocket caliente
-    .gender = male
-    .desc = Una edición perdida del donk pocket, hecha específicamente para los trabajadores del salvamento.
-
-ent-FoodDonkpocketDank = dank-pocket
-    .gender = male
-    .desc = El alimento preferido del botánico experimentado.
-
-ent-FoodDonkpocketDankWarm = dank-pocket caliente
-    .gender = male
-    .desc = El alimento caliente preferido del botánico experimentado.
-
-ent-FoodDonkpocketDink = dink-pocket
-    .gender = male
-    .desc = Un donk-pocket de lagarto de marca alternativa, relleno de zanahoria encurtida y envuelto en algas. Mejor frío, o mejor aún, sin comer del todo.
-
-ent-FoodDonkpocketHonk = honk-pocket
-    .gender = male
-    .desc = El premiado donk-pocket que conquistó el corazón de payasos y humanos por igual.
-
-ent-FoodDonkpocketHonkWarm = honk-pocket caliente
-    .gender = male
-    .desc = El premiado donk-pocket, ahora caliente y tostadito.
-
-ent-FoodDonkpocketPizza = pizza-pocket
-    .gender = male
-    .desc = Delicioso, con queso y sorprendentemente saciante.
-
-ent-FoodDonkpocketPizzaWarm = pizza-pocket caliente
-    .gender = male
-    .desc = El relleno de queso sienta de maravilla cuando está caliente.
-
-ent-FoodDonkpocketSpicy = spicy-pocket
-    .gender = male
-    .desc = El clásico aperitivo, ahora con un toque picante activado por el calor.
-
-ent-FoodDonkpocketSpicyWarm = spicy-pocket caliente
-    .gender = male
-    .desc = El clásico aperitivo, ahora quizás demasiado picante.
-
-ent-FoodDonkpocketStonk = stonk-pocket
-    .gender = male
-    .desc = Sabroso, pero un triste recordatorio del gran crack del 24.
-
-ent-FoodDonkpocketStonkWarm = stonk-pocket caliente
-    .gender = male
-    .desc = Sabroso, pero un triste recordatorio del gran crack del 24.
-
-ent-FoodDonkpocketTeriyaki = teriyaki-pocket
-    .gender = male
-    .desc = Una versión del este asiático del clásico aperitivo de la estación.
-
-ent-FoodDonkpocketTeriyakiWarm = teriyaki-pocket caliente
-    .gender = male
-    .desc = Una versión del este asiático del clásico aperitivo de la estación, ahora humeante y caliente.
-
-ent-FoodDonkpocketWarm = donk-pocket caliente
-    .gender = male
-    .desc = El alimento caliente preferido del traidor experimentado.
-
-ent-FoodDonut = donut de matcha
-    .gender = male
-    .desc = La L-teanina de este donut es relajante, aunque no euforizante. Combina perfectamente con una taza de té.
-
-ent-FoodDonutApple = donut de manzana
-    .gender = male
-    .desc = Combina perfectamente con un chupito de schnapps de canela.
-
-ent-FoodDonutBluePumpkin = donut de calabaza azul
-    .gender = male
-    .desc = Combina perfectamente con una taza de reconfortante calabaza azul borracha.
-
-ent-FoodDonutBungo = donut bungo
-    .gender = male
-    .desc = Combina perfectamente con un tarro de hippie's delight.
-
-ent-FoodDonutCaramel = donut de caramelo
-    .gender = male
-    .desc = Combina perfectamente con una taza de cacao caliente.
-
-ent-FoodDonutChaos = donut del caos
-    .gender = male
-    .desc = Como la vida, nunca sabe exactamente igual.
-
-ent-FoodDonutChocolate = donut de chocolate
-    .gender = male
-    .desc = Combina perfectamente con un vaso de leche caliente.
-
-ent-FoodDonutHomer = donut
-    .gender = male
-    .desc = Combina perfectamente con un café intenso.
-
-ent-FoodDonutJelly = donut relleno de matcha
-    .gender = male
-    .desc = La L-teanina de este donut relleno es relajante, aunque no euforizante. Combina perfectamente con una taza de té.
-
-ent-FoodDonutJellyApple = donut relleno de manzana
-    .gender = male
-    .desc = Combina perfectamente con un chupito de schnapps de canela.
-
-ent-FoodDonutJellyBluePumpkin = donut relleno de calabaza azul
-    .gender = male
-    .desc = Combina perfectamente con una taza de reconfortante calabaza azul borracha.
-
-ent-FoodDonutJellyBungo = donut relleno bungo
-    .gender = male
-    .desc = Combina perfectamente con un tarro de hippie's delight.
-
-ent-FoodDonutJellyCaramel = donut relleno de caramelo
-    .gender = male
-    .desc = Combina perfectamente con una taza de cacao caliente.
-
-ent-FoodDonutJellyChocolate = donut relleno de chocolate
-    .gender = male
-    .desc = Combina perfectamente con un vaso de leche caliente.
-
-ent-FoodDonutJellyHomer = donut relleno
-    .gender = male
-    .desc = ¿Envidia?
-
-ent-FoodDonutJellyPink = donut relleno rosa
-    .gender = male
-    .desc = Combina perfectamente con un latte de soja.
-
-ent-FoodDonutJellyPlain = donut relleno simple
-    .gender = male
-    .desc = Combina perfectamente con un café intenso.
-
-ent-FoodDonutJellySlugcat = donut relleno de slugcat
-    .gender = male
-    .desc = Sin agujero, por si aparece algún poste de aspecto sospechoso.
-
-ent-FoodDonutJellySpaceman = donut relleno del astronauta
-    .gender = male
-    .desc = Combina perfectamente con un vaso de precipitados frío de malk.
-
-ent-FoodDonutJellySweetpea = donut relleno de guisante dulce
-    .gender = male
-    .desc = ¡Combina perfectamente con una botella de Bastion Burbon!
-
-ent-FoodDonutMeat = donut de carne
-    .gender = male
-    .desc = Sabe tan asqueroso como parece.
-
-ent-FoodDonutPink = donut rosa
-    .gender = male
-    .desc = Combina perfectamente con un latte de soja.
-
-ent-FoodDonutPlain = donut simple
-    .gender = male
-    .desc = Combina perfectamente con un café intenso.
-
-ent-FoodDonutPoison = donut rosa
-    .gender = male
-    .desc = Combina perfectamente con un latte de soja.
-
-ent-FoodDonutSpaceman = donut del astronauta
-    .gender = male
-    .desc = Combina perfectamente con un vaso de precipitados frío de malk.
-
-ent-FoodDonutSweetpea = donut de guisante dulce
-    .gender = male
-    .desc = ¡Combina perfectamente con una botella de Bastion Burbon!
-
-ent-FoodDonutUncooked = donut crudo
-    .gender = male
-    .desc = Necesita un momento en la freidora y ya estará listo para comer.
-
-ent-FoodDonutUncookedJelly = donut relleno crudo
-    .gender = male
-    .desc = Combina perfectamente con un café intenso.
-
-ent-FoodDough = masa
-    .gender = female
-    .desc = Un trozo de masa.
-
-ent-FoodDoughCornmeal = Masa de harina de maíz
-    .gender = female
-    .desc = Un trozo de masa de harina de maíz.
-
-ent-FoodDoughCornmealSlice = Rebanada de masa de harina de maíz
-    .gender = female
-    .desc = Una rebanada de masa de harina de maíz.
-
-ent-FoodDoughCotton = Masa de algodón
-    .gender = female
-    .desc = Un trozo de masa de tela.
-
-ent-FoodDoughCottonFlat = Masa de algodón aplastada
-    .gender = female
-    .desc = Una masa de algodón aplastada.
-
-ent-FoodDoughCottonRope = Cordel de masa
-    .gender = male
-    .desc = Un fino fideo de masa de algodón. Se puede cocinar para hacer un bagel de algodón.
-
-ent-FoodDoughCottonSlice = Rebanada de masa de algodón
-    .gender = female
-    .desc = Una rebanada de masa de algodón.
-
-ent-FoodDoughFlat = Masa aplastada
-    .gender = female
-    .desc = Una masa aplastada.
 

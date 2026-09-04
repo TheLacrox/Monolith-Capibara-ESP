@@ -6,3 +6,8 @@ cmd-setalertlevel-invalid-level = El nivel de alerta especificado no existe en e
 
 cmd-setalertlevel-hint-1 = <level>
 cmd-setalertlevel-hint-2 = [locked]
+
+# Mono
+cmd-setwarlevel-desc = Establece el nivel de guerra en CALIENTE (true) o FRÍO (false).
+cmd-setwarlevel-help = Uso: setwarlevel [postwar]
+cmd-setwarlevel-hint-1 = [postwar]
