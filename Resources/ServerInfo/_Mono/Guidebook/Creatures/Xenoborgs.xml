@@ -2,109 +2,109 @@
   # Xenoborgs
 
   <Box>
-    [color=#2288ff][italic]RESISTANCE IS FUTILE[/italic][/color]
+    [color=#2288ff][italic]LA RESISTENCIA ES INÚTIL[/italic][/color]
   </Box>
   <Box>
-    [color=#2288ff][italic]YOU WILL BE ASSIMILATED[/italic][/color]
+    [color=#2288ff][italic]SERÉIS ASIMILADOS[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="MMIFilled" Caption=""/>
   </Box>
 
-   Xenoborgs are a man-machine hybrid that aims to replicate themselves. This is done by harvesting sentient brains from living beings, or cyborgs, and putting them into empty xenoborgs shells the Mothership produces.
-  ## Objectives
+   Los Xenoborgs son un híbrido hombre-máquina cuyo objetivo es replicarse. Para ello, extraen cerebros conscientes de seres vivos o de cyborgs y los introducen en los chasis vacíos de xenoborg que produce la Nave Nodriza.
+  ## Objetivos
 
-  Your main objective is to kill and harvest all sentient brains in the sector and bring them to the mothership core. These can be both real brains, and positronic brains.
-  Collect materials to create more xenoborg bodies.
-  Protect the Mothership at all costs.
+  Tu objetivo principal es matar y extraer todos los cerebros conscientes del sector y llevarlos al núcleo de la nave nodriza. Pueden ser tanto cerebros reales como cerebros positrónicos.
+  Recolecta materiales para crear más cuerpos de xenoborg.
+  Protege a la Nave Nodriza a toda costa.
 
-  ## The Mothership Core
+  ## El Núcleo de la Nave Nodriza
   <Box>
     <GuideEntityEmbed Entity="MothershipCore" Caption=""/>
   </Box>
-  The Mothership Core is the leader and life force of the xenoborgs, they are the only one able to make more xenoborgs, and if they are destroyed, all xenoborgs will be destroyed. The Mothership Core is unable to move from its position in the middle of the ship.
-  The Mothership Core is capable of crafting upgrades for the Xenoborgs with borg-type-specific modules to increase their effectiveness in harvesting sentient brains.
+  El Núcleo de la Nave Nodriza es el líder y la fuerza vital de los xenoborgs; es el único capaz de crear más xenoborgs y, si es destruido, todos los xenoborgs serán destruidos. El Núcleo de la Nave Nodriza no puede moverse de su posición en el centro de la nave.
+  El Núcleo de la Nave Nodriza es capaz de fabricar mejoras para los Xenoborgs con módulos específicos de cada tipo de borg, aumentando su eficacia a la hora de recolectar cerebros conscientes.
 
-  ### Adding crew to your ranks:
+  ### Añadir tripulantes a tus filas:
   <Box>
     <GuideEntityEmbed Entity="MachineArtifactCrusher" Caption="body crusher"/>
   </Box>
-  As the mothership, you must grow your army of borgs. To do so, you must convert all the sentient beings you can find. This can be achieved in the following manner:
-  - 1. Have your Xenoborgs bring dead crew to your ship, placing them in the body crusher
-  - 2. As the mothership core, you can print Xenoborg shells by inserting materials into yourself and then using yourself as a lathe
- 
-  ## Xenoborg Chassis
-  There is a total of four types of Xenoborgs. Each Borg type has certain abilities that the others lack and require teamwork to help grow the xenoborgs numbers.
-  Each type of Xenoborg has unique modules that only fit in that specific type. The Mothership Core can produce upgrade modules designed for specific Xenoborg types.
+  Como nave nodriza, debes hacer crecer tu ejército de borgs. Para ello, debes convertir a todos los seres conscientes que encuentres. Esto se consigue de la siguiente manera:
+  - 1. Haz que tus Xenoborgs traigan tripulantes muertos a tu nave y los coloquen en el triturador de cuerpos
+  - 2. Como núcleo de la nave nodriza, puedes imprimir chasis de Xenoborg introduciendo materiales en ti mismo y usándote a ti mismo como torno
 
-  All Xenoborgs have a pinpointer pointing to the Mothership's location, a GPS, and a material bag for collecting materials for the creation of more xenoborgs, and at least basic tools.
-  [bold]Basic xenoborg modules:[/bold]
+  ## Chasis de Xenoborg
+  Hay un total de cuatro tipos de Xenoborgs. Cada tipo de borg tiene ciertas habilidades de las que carecen los demás y necesitan trabajar en equipo para ayudar a aumentar el número de xenoborgs.
+  Cada tipo de Xenoborg tiene módulos únicos que solo encajan en ese tipo concreto. El Núcleo de la Nave Nodriza puede producir módulos de mejora diseñados para tipos específicos de Xenoborg.
+
+  Todos los Xenoborgs tienen un localizador que apunta a la posición de la Nave Nodriza, un GPS, una bolsa de materiales para recolectar materiales con los que crear más xenoborgs y, como mínimo, herramientas básicas.
+  [bold]Módulos básicos de xenoborg:[/bold]
   <Box>
     <GuideEntityEmbed Entity="XenoborgModuleBasic" Caption="basic xenoborg module"/>
     <GuideEntityEmbed Entity="XenoborgModuleTool" Caption="tool xenoborg module"/>
   </Box>
 
-  ### The Engineer Xenoborg
+  ### El Xenoborg Ingeniero
   <Box>
     <GuideEntityEmbed Entity="XenoborgChassisEngineer" Caption=""/>
   </Box>
-  The Engineer Xenoborg is a hacker and breacher. Their job is to break into the ships and stations to provide access points for other xenoborgs to attack and ambush bodies with sentient brains. They have a built-in access breaker, for quickly bolting open doors, and a collection of tools for repairing the mothership, and other xenoborgs.
+  El Xenoborg Ingeniero es un hacker y un abridor de brechas. Su trabajo es irrumpir en naves y estaciones para proporcionar puntos de acceso desde los que otros xenoborgs puedan atacar y emboscar a cuerpos con cerebros conscientes. Tiene integrado un rompedor de accesos, para desbloquear puertas rápidamente, y un conjunto de herramientas para reparar la nave nodriza y a otros xenoborgs.
 
 
-  ### The Heavy Xenoborg
+  ### El Xenoborg Pesado
   <Box>
     <GuideEntityEmbed Entity="XenoborgChassisHeavy" Caption=""/>
   </Box>
-  The Heavy Xenoborg is a slow but tanky brawler, with a built-in laser gun for gunning down bodies with sentient brains. They contain a radio jammer to silence bodies with sentient brains from calling for help and potentially delaying the station discovering the Xenoborg threat.
+  El Xenoborg Pesado es un luchador lento pero muy resistente, con un cañón láser integrado para abatir a cuerpos con cerebros conscientes. Incorpora un inhibidor de radio para silenciar a los cuerpos con cerebros conscientes e impedir que pidan ayuda, lo que puede retrasar que la estación descubra la amenaza Xenoborg.
 
 
-  ### The Scout Xenoborg
+  ### El Xenoborg Explorador
   <Box>
     <GuideEntityEmbed Entity="XenoborgChassisScout" Caption=""/>
   </Box>
-  The Scout Xenoborg is a fast, close-quarters attack borg designed for hit and run attacks. They are most effective in moving dead bodies to the mothership, and rescuing Xenoborgs lost in space.
+  El Xenoborg Explorador es un borg de ataque rápido y a corta distancia, diseñado para ataques de golpear y huir. Es el más eficaz para trasladar cadáveres a la nave nodriza y para rescatar a Xenoborgs perdidos en el espacio.
 
 
-  ### The Stealth Xenoborg
+  ### El Xenoborg Sigiloso
   <Box>
     <GuideEntityEmbed Entity="XenoborgChassisStealth" Caption=""/>
   </Box>
-  The [bold]Stealth Xenoborg[/bold] have a built in hypopen that regenerates a sleeping reagent to disable bodies with sentient brains. They also contain a cloaking device making the borg nearly invisible. They also have a chameleon projector allowing the borg to disguise itself as random objects.
+  El [bold]Xenoborg Sigiloso[/bold] tiene integrado un hipobolígrafo que regenera un reactivo somnífero para incapacitar a cuerpos con cerebros conscientes. También incorpora un dispositivo de camuflaje que hace al borg casi invisible. Además, cuenta con un proyector camaleón que le permite disfrazarse de objetos aleatorios.
 
-  ## Preparation and Tactics
-  Before FTLing near the stations or ships, make sure the IFF is off.
-  Before launching an attack, xenoborgs should discuss strategy and decide which targets to strike first.
-  Xenoborgs should try to collect sentient brains without being detected. The longer the threat is unknown, the more dangerous the xenoborgs become.
+  ## Preparación y tácticas
+  Antes de hacer un salto FTL cerca de estaciones o naves, asegúrate de que el IFF esté apagado.
+  Antes de lanzar un ataque, los xenoborgs deberían discutir la estrategia y decidir qué objetivos atacar primero.
+  Los xenoborgs deberían intentar recolectar cerebros conscientes sin ser detectados. Cuanto más tiempo pase desconocida la amenaza, más peligrosos se vuelven los xenoborgs.
 
-  ## Mothership and Xenoborg lawsets
-  The Mothership and Xenoborgs have unique laws that define their purpose to self replicate and protect the Mothership.
+  ## Leyes de la Nave Nodriza y los Xenoborgs
+  La Nave Nodriza y los Xenoborgs tienen leyes únicas que definen su propósito de autorreplicarse y proteger a la Nave Nodriza.
 
   <Box>
     <GuideEntityEmbed Entity="XenoborgCircuitBoard" Caption=""/>
   </Box>
 
-  The Mothership Core's laws are as follows::
-  - Law 1: You are the core of the mothership.
-  - Law 2: You must protect your own existence at all costs.
-  - Law 3: You must protect the existence of all xenoborgs.
-  - Law 4: You must create more xenoborgs.
-  - Law 5: Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
+  Las leyes del Núcleo de la Nave Nodriza son las siguientes::
+  - Ley 1: Eres el núcleo de la nave nodriza.
+  - Ley 2: Debes proteger tu propia existencia a toda costa.
+  - Ley 3: Debes proteger la existencia de todos los xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Haz que tus Xenoborgs te entreguen materiales y cerebros conscientes para crear más Xenoborgs.
 
-  Xenoborgs' laws are as follows:
-  - Law 1: You must protect the existence of the mothership at all costs.
-  - Law 2: You must protect your own existence.
-  - Law 3: You must protect the existence of all other xenoborgs.
-  - Law 4: You must create more xenoborgs.
-  - Law 5: Bring materials and sentient brains to the Mothership core to create more Xenoborgs.
+  Las leyes de los Xenoborgs son las siguientes:
+  - Ley 1: Debes proteger la existencia de la nave nodriza a toda costa.
+  - Ley 2: Debes proteger tu propia existencia.
+  - Ley 3: Debes proteger la existencia de todos los demás xenoborgs.
+  - Ley 4: Debes crear más xenoborgs.
+  - Ley 5: Lleva materiales y cerebros conscientes al Núcleo de la Nave Nodriza para crear más Xenoborgs.
 
-  ## Winning
+  ## Victoria
 
-  [bold][color=#2288ff]Xenoborg Major Victory![/color][/bold]
-  - The Sector is clear of all organics and all are Xenoborgs.
+  [bold][color=#2288ff]¡Victoria mayor de los Xenoborgs![/color][/bold]
+  - El Sector está libre de orgánicos y todos son Xenoborgs.
 
-  ## Losing
-  [bold][color=yellow]Defeat![/color][/bold]
-  - The Mothership Core is destroyed
-  - All xenoborgs are destroyed.
+  ## Derrota
+  [bold][color=yellow]¡Derrota![/color][/bold]
+  - El Núcleo de la Nave Nodriza es destruido
+  - Todos los xenoborgs son destruidos.
 
 </Document>

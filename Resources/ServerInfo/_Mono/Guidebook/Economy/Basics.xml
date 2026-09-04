@@ -1,9 +1,9 @@
 <Document>
-  # Economy Basics
-  The colossus sector, being isolated from the rest of the galaxy's industry, requires significant effort from in-sector residents to make most electronics and structures. Luckily, the processes involved have been greatly simplified.
-  This PDA entry will educate the want-to-be-industrialist on the basics of industry and the starting of a new native economy.
+  # Fundamentos de la economía
+  El sector Colossus, al estar aislado de la industria del resto de la galaxia, exige un esfuerzo considerable a los residentes del sector para fabricar la mayoría de los componentes electrónicos y estructuras. Por suerte, los procesos implicados se han simplificado enormemente.
+  Esta entrada del PDA instruirá al aspirante a industrial en los fundamentos de la industria y en cómo poner en marcha una nueva economía local.
 
-  ## Basics
+  ## Fundamentos
 
   <Box>
     <GuideEntityEmbed Entity="SheetSteel" Caption="steel"/>
@@ -11,11 +11,11 @@
     <GuideEntityEmbed Entity="SheetGlass" Caption="glass"/>
   </Box>
 
-  Everything in this world has a cost, and for basic industry that cost is raw materials. More advanced products will require more resources and time, but those are far off for now.
-  Before you are able to make even a basic armor plate, you need to find or make a few workstations: the [color=gray]Industrial steel lathe[/color], the [color=orange]Arc Furnace[/color] and the [color=cyan]Precision Assembler[/color].
-  All of these work stations can be found at certain Points of Interest, though the [color=gray]industrial steel lathe[/color] can be constructed with a research.
-  Many items will also need experience with chemistry to produce - While only beakers, raw reagents and a reagent grinder are strictly necessary, having access to a chemical bay can make the procurement of certain solutions much easier.
-  [color=yellow]It is highly recommended to specialize in a certain type of product - Each is complicated! Remember that you can often purchase required items from other players![/color]
+  Todo en este mundo tiene un coste, y para la industria básica ese coste son las materias primas. Los productos más avanzados requerirán más recursos y tiempo, pero eso queda muy lejos por ahora.
+  Antes de poder fabricar siquiera una placa de armadura básica, necesitas encontrar o construir unas cuantas estaciones de trabajo: el [color=gray]torno de acero industrial[/color], el [color=orange]Horno de Arco[/color] y el [color=cyan]Ensamblador de Precisión[/color].
+  Todas estas estaciones de trabajo se pueden encontrar en ciertos Puntos de Interés, aunque el [color=gray]torno de acero industrial[/color] se puede construir con una investigación.
+  Muchos objetos también requerirán experiencia en química para producirse. Aunque solo son estrictamente necesarios vasos de precipitados, reactivos en bruto y un molinillo de reactivos, tener acceso a un laboratorio químico puede facilitar mucho la obtención de ciertas soluciones.
+  [color=yellow]Se recomienda encarecidamente especializarse en un tipo concreto de producto: ¡cada uno es complicado! ¡Recuerda que a menudo puedes comprar los objetos necesarios a otros jugadores![/color]
 
   <Box>
     <GuideEntityEmbed Entity="IndustrialPressEconomyPlates" Caption="industrial steel lathe"/>
@@ -24,28 +24,28 @@
     <GuideEntityEmbed Entity="KitchenReagentGrinder" Caption="reagent grinder"/>
   </Box>
 
-  Now that you (presumably) have found these workstations and the materials needed to use them, it is time to start up the assembly line. You can find a reference table of [color=orange]Arc Furnace[/color] and [color=cyan]Precision Assembler[/color] recipes [textlink="in the Economy Recipes guidebook page." link="EconomyRecipes"]
-  At first, the table will look confusing, and that is because it is. Generally, economy goods can be split into four numbered "tiers" of value - The higher the tier, the more valuable a component is, but that value comes from effort.
-  All tier 1 components (needed for all others) can usually be created in the [color=gray]industrial steel lathe[/color], and are foundational to most other items. They can be made out of raw sheets of material refined from an ore processor, and are crafted like any other lathe-produced item - simply insert the sheets of material, click the desired item in the menu, and wait.
+  Ahora que (presumiblemente) has encontrado estas estaciones de trabajo y los materiales necesarios para usarlas, es hora de poner en marcha la cadena de montaje. Puedes encontrar una tabla de referencia de las recetas del [color=orange]Horno de Arco[/color] y del [color=cyan]Ensamblador de Precisión[/color] [textlink="en la página de Recetas de la economía de la guía." link="EconomyRecipes"]
+  Al principio, la tabla parecerá confusa, y es porque lo es. En general, los bienes de la economía se pueden dividir en cuatro "niveles" numerados de valor: cuanto mayor es el nivel, más valioso es el componente, pero ese valor procede del esfuerzo.
+  Todos los componentes de nivel 1 (necesarios para todos los demás) se pueden crear normalmente en el [color=gray]torno de acero industrial[/color], y son la base de la mayoría de los demás objetos. Se fabrican a partir de láminas de material en bruto refinadas en un procesador de minerales, y se elaboran como cualquier otro objeto producido en un torno: simplemente introduce las láminas de material, haz clic en el objeto deseado en el menú y espera.
 
-  Tier 2 components are where products get complicated. They all require initial production from an [color=orange]Arc Furnace[/color] or [color=cyan]Precision Assembler[/color], and many also require additional components to be added after fabrication.
-  [bold][color=yellow]Remember: All "unfinished" products say what they need to start construction in their description![/color][/bold]
-  [color=red]IMPORTANT: Most components are fragile! Be cautious when introducing them to possible damage sources![/color]
+  Los componentes de nivel 2 son donde los productos se complican. Todos requieren una producción inicial en un [color=orange]Horno de Arco[/color] o un [color=cyan]Ensamblador de Precisión[/color], y muchos también requieren añadir componentes adicionales después de la fabricación.
+  [bold][color=yellow]Recuerda: ¡todos los productos "sin terminar" indican en su descripción lo que necesitan para empezar su construcción![/color][/bold]
+  [color=red]IMPORTANTE: ¡la mayoría de los componentes son frágiles! ¡Ten cuidado al exponerlos a posibles fuentes de daño![/color]
 
-  To help explain the process of creating a Tier 2 product, this tutorial will include a walk-through about creating a Heavy Armor Plate.
+  Para ayudar a explicar el proceso de creación de un producto de nivel 2, este tutorial incluye una guía paso a paso sobre cómo crear una placa de armadura pesada.
 
-  ## Heavy Armor Plate
+  ## Placa de armadura pesada
   <Box>
     <GuideEntityEmbed Entity="ArmorPlateEconomy2Start" Caption="heavy armor plate"/>
   </Box>
 
-  Heavy armor plates are one of the simplest Tier 2 products to manufacture. The only particularly confusing part of their production is getting the silver they require and figuring out how to operate the [color=orange]Arc Furnace[/color].
+  Las placas de armadura pesada son uno de los productos de nivel 2 más sencillos de fabricar. La única parte especialmente confusa de su producción es conseguir la plata que requieren y averiguar cómo manejar el [color=orange]Horno de Arco[/color].
 
-  Looking at the recipe in the Economy Recipes guidebook page, we can see that heavy armor plates require three distinct things: Two basic armor plates, 100 units of Silver, and an [color=orange]Arc Furnace[/color] to put the components together.
-  The basic armor plates are simple enough to acquire: They can simply be fabricated in an [color=gray]Industrial steel lathe[/color] for 20 steel sheets and 10 plasteel sheets each, then put into the furnace. Many other Tier 1 components can be found in the steel lathe as well.
-  The chemical form of Silver can be produced by grinding silver ingots in a Reagent Grinder, for 10 units a stick. The silver can be accumulated in anything capable of holding enough solution, then put into the furnace. Many other recipes require similar chemical forms of materials, such as gold, plasma, and lithium, which all follow the same route: stick their respective solid material into the blender!
+  Si miramos la receta en la página de Recetas de la economía de la guía, vemos que las placas de armadura pesada requieren tres cosas distintas: dos placas de armadura básica, 100 unidades de plata y un [color=orange]Horno de Arco[/color] para unir los componentes.
+  Las placas de armadura básica son bastante fáciles de conseguir: basta con fabricarlas en un [color=gray]torno de acero industrial[/color] por 20 láminas de acero y 10 láminas de plasteel cada una, y luego meterlas en el horno. Muchos otros componentes de nivel 1 también se encuentran en el torno de acero.
+  La forma química de la plata se puede producir moliendo lingotes de plata en un molinillo de reactivos, a 10 unidades por lingote. La plata se puede acumular en cualquier recipiente capaz de contener suficiente solución, y luego meterse en el horno. Muchas otras recetas requieren formas químicas similares de materiales, como oro, plasma y litio, que siguen todas la misma ruta: ¡mete su respectivo material sólido en la batidora!
 
-  After the two basic armor plates and the container of silver are inserted into the furnace, a [color=green]green[/color] "assemble" button should be active. (If the recipe is incompatible pressing the button will do nothing.) Pressing the button will initiate the furnace's production sequence, and afterwards a heavy armor plate should be produced.
-  If you need to eject the contents of the furnace (for example, if you put the wrong materials in), a [color=red]red[/color] "eject contents" button should be highlighted. Pressing this will do what it says and eject all contents of the furnace.
+  Una vez introducidas en el horno las dos placas de armadura básica y el recipiente con la plata, debería activarse un botón [color=green]verde[/color] de "ensamblar". (Si la receta es incompatible, pulsar el botón no hará nada.) Al pulsar el botón se iniciará la secuencia de producción del horno y, al terminar, debería salir una placa de armadura pesada.
+  Si necesitas expulsar el contenido del horno (por ejemplo, si has metido los materiales equivocados), debería resaltarse un botón [color=red]rojo[/color] de "expulsar contenido". Al pulsarlo hará lo que dice y expulsará todo el contenido del horno.
 
 </Document>

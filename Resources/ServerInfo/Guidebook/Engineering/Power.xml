@@ -1,8 +1,8 @@
 <Document>
-  # Power
-  Power is the lifeblood of the station.
-  Without it, the station will quickly fall into chaos.
-  Engineers are responsible for maintaining the station's power grid, ensuring that power is supplied, distributed, and all departments are satisfied.
+  # Energía
+  La energía es el alma de la estación.
+  Sin ella, la estación caerá rápidamente en el caos.
+  Los ingenieros son responsables de mantener la red eléctrica de la estación, asegurándose de que la energía se suministre, se distribuya y todos los departamentos queden satisfechos.
 
   <Box>
     <GuideEntityEmbed Entity="SingularityGenerator" Caption=""/>
@@ -13,23 +13,23 @@
     <GuideEntityEmbed Entity="APCBasic" Caption=""/>
   </Box>
 
-  There are many different aspects to Space Station 14's power system simulation, as well as Engineering's intended gameplay.
+  La simulación del sistema de energía de Space Station 14 tiene muchos aspectos diferentes, al igual que la jugabilidad prevista para Ingeniería.
 
-  Some important information to keep in mind includes:
-  - Station [textlink="generators" link="Generators"] are tiered and follow a hierarchy. The lower the tier, the less they are sustainable, but the easier they are to setup. The higher the tier, the more sustainable they are, but the more complex they are to setup.
-  - Space Station 14 features [textlink="voltage networks" link="VoltageNetworks"], which distribute power across the station and are stepped down in voltage by machines, so they can be used by other machines.
-  - Power [textlink="generators" link="Generators"] have [textlink="ramping" link="Ramping"], which means they take time to match the grid's demand to their supply.
+  Alguna información importante a tener en cuenta:
+  - Los [textlink="generadores" link="Generators"] de la estación están divididos en niveles y siguen una jerarquía. Cuanto más bajo es el nivel, menos sostenibles son, pero más fáciles de montar. Cuanto más alto es el nivel, más sostenibles son, pero más complejos de montar.
+  - Space Station 14 cuenta con [textlink="redes de voltaje" link="VoltageNetworks"], que distribuyen la energía por la estación y cuyo voltaje es reducido por máquinas para que otras máquinas puedan usarlo.
+  - Los [textlink="generadores" link="Generators"] de energía tienen [textlink="escalonamiento" link="Ramping"], lo que significa que tardan un tiempo en ajustar su suministro a la demanda de la red.
 
-  ## Starting Out
-  At the start of the shift, the station is running off of purely [textlink="battery" link="PowerStorage"] power.
-  This will at most last 5-10 minutes, depending on the station's power draw.
+  ## Primeros Pasos
+  Al comienzo del turno, la estación funciona únicamente con la energía de las [textlink="baterías" link="PowerStorage"].
+  Esto durará como mucho 5-10 minutos, dependiendo del consumo de energía de la estación.
 
-  To extend this, you can start up the station's [textlink="Isotopes Reaction Engine" link="AME"], or [textlink="IRE." link="AME"]
-  This will extend the runtime of the station's batteries by a significant amount, giving you more time to setup the station's higher-tier [textlink="generators." link="Generators"]
-  You can extend this even further by setting up [textlink="solar panels" link="SolarPanels"], which generate power for free.
+  Para prolongarlo, puedes poner en marcha el [textlink="Motor de Reacción Isotópica" link="AME"] de la estación, o [textlink="IRE." link="AME"]
+  Esto prolongará considerablemente la autonomía de las baterías de la estación, dándote más tiempo para montar los [textlink="generadores de mayor nivel de la estación." link="Generators"]
+  Puedes prolongarlo aún más montando [textlink="paneles solares" link="SolarPanels"], que generan energía gratis.
 
-  After setting up the [textlink="AME" link="AME"] and [textlink="Solars" link="SolarPanels"], you should be generating a decent amount of power.
+  Tras montar el [textlink="IRE" link="AME"] y los [textlink="paneles solares" link="SolarPanels"], deberías estar generando una cantidad decente de energía.
 
-  Now that you've bought yourself time, you can focus on setting up higher-tier [textlink="generators" link="Generators"] like the [textlink="Singularity Engine" link="SingularityEngine"], which can provide power for the rest of the shift.
+  Ahora que has ganado tiempo, puedes centrarte en montar [textlink="generadores" link="Generators"] de mayor nivel como el [textlink="Motor de Singularidad" link="SingularityEngine"], que puede proporcionar energía durante el resto del turno.
 
 </Document>

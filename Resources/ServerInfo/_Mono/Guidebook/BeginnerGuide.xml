@@ -1,76 +1,76 @@
 <Document>
-  # Beginner's Guide
+  # Guía para principiantes
 
-  Starting out on Monolith (even with some knowledge of operations on other forks) can be daunting, with all of our unique content.
-  With zero hours, you only have access to a few roles: TSF Contractor, PDV Freeman, and MMC Employee.
+  Empezar en Monolith (incluso con algo de experiencia en cómo funcionan otros forks) puede resultar abrumador con todo nuestro contenido exclusivo.
+  Con cero horas, solo tienes acceso a unos pocos roles: Contratista TSF, Ciudadano Libre PDV y Empleado MMC.
 
-  This guide aims to help you through your first shift, get accustomed to Monolith gameplay, and get some more money in your account.
+  Esta guía pretende ayudarte a superar tu primer turno, acostumbrarte a la jugabilidad de Monolith y conseguir algo más de dinero en tu cuenta.
 
-  ## Making your first character
+  ## Crear tu primer personaje
 
-  Making a character is not very different from making a character on any other fork. Choose a species, pick a name, etcetera.
-  However, Monolith has some additional considerations:
+  Crear un personaje no es muy diferente de crear uno en cualquier otro fork. Elige una especie, escoge un nombre, etcétera.
+  Sin embargo, Monolith tiene algunas consideraciones adicionales:
 
-  ### Job Loadouts
-  Every job has a large loadout, which can be scary when opening the menu for the first time. However, most of the options available are purely cosmetic; The most important ones to gameplay are:
-  - Your sidearm
-  - PDA cartridges
-  - Implanters
-  - Tools
-  - Glasses
-  - Belt
+  ### Equipamiento de trabajo
+  Cada trabajo tiene un equipamiento amplio, lo que puede asustar al abrir el menú por primera vez. Sin embargo, la mayoría de las opciones disponibles son puramente cosméticas; las más importantes para la jugabilidad son:
+  - Tu arma secundaria
+  - Cartuchos de PDA
+  - Implantadores
+  - Herramientas
+  - Gafas
+  - Cinturón
 
-  Almost all loadout items are obtainable in-game, whether through vendors or lathes, so don't stress if you forgot insulated gloves or engineering goggles. Just buy some from a vendor on station.
+  Casi todos los objetos del equipamiento se pueden conseguir dentro del juego, ya sea en máquinas expendedoras o en lathes, así que no te agobies si olvidaste los guantes aislantes o las gafas de ingeniería. Simplemente compra unos en una máquina expendedora de la estación.
 
-  ### Physical Traits
+  ### Rasgos físicos
 
-  Traits are small perks that you can add to your character. While most forks have traits that are largely cosmetic or negative (like accents and disabilities), in Monolith there are "Physical" traits with more gameplay impact.
-  These traits range from small health buffs, to faster do-afters, to bionics. However, you can only take a limited amount of positive buffs before needing to take other negative perks.
-  [bold]Note: Bionic parts are vulnerable to EMP. Watch out for EMP weapons while rocking cool speed legs.[/bold]
+  Los rasgos son pequeñas ventajas que puedes añadir a tu personaje. Mientras que en la mayoría de forks los rasgos son en gran parte cosméticos o negativos (como acentos y discapacidades), en Monolith hay rasgos "físicos" con más impacto en la jugabilidad.
+  Estos rasgos van desde pequeñas mejoras de salud, pasando por acciones más rápidas, hasta biónicos. Sin embargo, solo puedes coger una cantidad limitada de ventajas positivas antes de tener que coger otras desventajas negativas.
+  [bold]Nota: las piezas biónicas son vulnerables a los EMP. Cuidado con las armas EMP mientras luces esas molonas piernas veloces.[/bold]
 
-  ### Bank
+  ### Banco
 
-  Every character has their own bank account. This is split into two pools: Your regular bank (which can be used to purchase anything) and your savings account (which is prioritized for loadout costs and other meta items, like safety deposit boxes).
-  New characters start with 75k in their regular bank account.
-  Credits can be acquired in many ways, usually by selling items on sellpads or by asking for payment from whoever employs you.
-  Credit items can then be taken to an ATM (found on most stations), inserted, and then deposited through the ATM UI.
-  As your regular bank account fills up, more of your deposits transfer instead to your saving account. This usually softcaps your regular bank from having billions of credits, but you don't usually need more than a million credits to access all in-game content.
+  Cada personaje tiene su propia cuenta bancaria. Esta se divide en dos fondos: tu banco normal (que puede usarse para comprar cualquier cosa) y tu cuenta de ahorros (que tiene prioridad para los costes del equipamiento y otros objetos meta, como las cajas de seguridad).
+  Los personajes nuevos empiezan con 75k en su cuenta bancaria normal.
+  Los créditos se pueden conseguir de muchas maneras, normalmente vendiendo objetos en plataformas de venta o pidiendo un pago a quien te contrate.
+  Los créditos en forma de objeto se pueden llevar después a un cajero automático (presente en la mayoría de estaciones), insertarlos y depositarlos a través de la interfaz del cajero.
+  A medida que tu cuenta bancaria normal se llena, una mayor parte de tus depósitos se transfiere a tu cuenta de ahorros. Esto suele limitar de forma flexible que tu banco normal acumule miles de millones de créditos, pero normalmente no necesitas más de un millón de créditos para acceder a todo el contenido del juego.
 
-  ## Spawning In
+  ## Aparecer en la partida
 
-  When first spawning in (usually as a TSF Contractor, PDV Freeman or MMC Employee), you will likely be faced with a spawnroom. Around the various stations are vendors. Some important pickups include tools and a weapon.
-  After getting your bearings, locate a shipyard console (usually blue colored). [bold]You will not be able to use your faction's shipyard unless you are a military role.[/bold] Use a Scrapyard or regular shipyard instead.
-  You will spawn in with all your loadout items, along with a survival box containing multiple essentials: A pocket oxygen tank, food, a mass scanner, a crowbar, a space and epinephrine pen, and two flares.
+  Al aparecer por primera vez (normalmente como Contratista TSF, Ciudadano Libre PDV o Empleado MMC), lo más probable es que te encuentres en una sala de aparición. Alrededor de las distintas estaciones hay máquinas expendedoras. Entre las cosas importantes que puedes coger están las herramientas y un arma.
+  Una vez te hayas orientado, localiza una consola del astillero (normalmente de color azul). [bold]No podrás usar el astillero de tu facción a menos que tengas un rol militar.[/bold] Usa un Desguace o un astillero normal en su lugar.
+  Aparecerás con todos los objetos de tu equipamiento, junto con una caja de supervivencia que contiene varios elementos esenciales: un tanque de oxígeno de bolsillo, comida, un escáner de masa, una palanca, un bolígrafo espacial y una pluma de epinefrina, y dos bengalas.
 
-  ### Using a Shipyard Console
+  ### Usar una consola del astillero
 
-  To use a shipyard console, take your ID out of your PDA (usually with alt-click) and put it inside the console. Opening the UI, there are multiple available ships; Take whichever one seems best, though if you're unsure a mining ship is always viable.
-  After buying your ship (and optionally renaming it), eject your card, and check your mass scanner for your ship's location. Make your way to the dock, and settle in.
+  Para usar una consola del astillero, saca tu tarjeta de identificación del PDA (normalmente con alt+clic) e introdúcela en la consola. Al abrir la interfaz verás varias naves disponibles; coge la que te parezca mejor, aunque si no estás seguro una nave minera siempre es una opción viable.
+  Tras comprar tu nave (y, opcionalmente, renombrarla), expulsa tu tarjeta y consulta tu escáner de masa para ver la ubicación de tu nave. Dirígete al muelle e instálate.
 
-  ### Vessels
+  ### Naves
 
-  Almost all ships have complimentary space suits inside. If not, just buy one from a vendor on-station. Ships require fuel depending on their generator, so either get ready to mine some or buy spare from a vendor. When you're all geared up, head to the ship's
-  shuttle console, swipe your ID to unlock it, and then prepare for flight.
-  All ships require thrusters and gyroscopes to fly, which also require power; If any get destroyed, you may lose functionality. If you do lose any whether through combat or unfortunate accidents, you can buy replacements, build new ones yourself, or salvage spares from
-  abandoned ships.
+  Casi todas las naves tienen trajes espaciales de cortesía a bordo. Si no, simplemente compra uno en una máquina expendedora de la estación. Las naves necesitan combustible según su generador, así que prepárate para minar un poco o compra reservas en una máquina expendedora. Cuando estés completamente equipado, dirígete a la
+  consola del transbordador de la nave, pasa tu tarjeta de identificación para desbloquearla y prepárate para el vuelo.
+  Todas las naves necesitan propulsores y giroscopios para volar, que a su vez necesitan energía; si alguno se destruye, puedes perder funcionalidad. Si pierdes alguno, ya sea en combate o por accidentes desafortunados, puedes comprar repuestos, construir otros nuevos tú mismo o recuperar piezas de
+  naves abandonadas.
 
-  At this point, you should read up on the shuttle piloting section of this guidebook, and optionally the gunnery section as well.
+  Llegados a este punto, deberías leer la sección de pilotaje de transbordadores de esta guía y, opcionalmente, también la sección de artillería.
 
-  ### Making a Profit
+  ### Obtener beneficios
 
-  Assuming you've bought a mining ship, one surefire way to make some cash is to go out and find asteroids, in asteroid clusters or in the outer reaches of the sector. Mining is simple; Use ship-based mining equipment or destroy asteroid rock yourself with proper equipment,
-  then collect the resulting ores via an ore bag or ship-mounted ore magnet. After getting your first batch of resources, dump them into an ore processor before selling the refined sheets via a sellpad or through arranging a deal with other players.
+  Suponiendo que hayas comprado una nave minera, una forma infalible de ganar algo de dinero es salir a buscar asteroides, en cúmulos de asteroides o en los confines exteriores del sector. Minar es sencillo: usa el equipo de minería de la nave o destruye la roca de los asteroides tú mismo con el equipo adecuado,
+  y luego recoge los minerales resultantes con una bolsa de minerales o con un imán de minerales montado en la nave. Tras conseguir tu primera tanda de recursos, vuélcalos en un procesador de minerales antes de vender las láminas refinadas en una plataforma de venta o negociando un trato con otros jugadores.
 
-  Some tips for optimal mining:
-  - Most ore or material related objects have magnets that can automatically collect loose pieces of ore. They can speed up material collection between lathes and storage.
-  - While manual mining is cheaper, watch out for rock golems, crabs and other anomalies that can occasionally appear. Always mine armed.
-  - Ship-based mining is a lot faster than manual mining, but requires more equipment to get started. Ask another miner for advice, or join their crew!
+  Algunos consejos para minar de forma óptima:
+  - La mayoría de objetos relacionados con minerales o materiales tienen imanes que pueden recoger automáticamente trozos sueltos de mineral. Pueden acelerar la recogida de materiales entre lathes y almacenamiento.
+  - Aunque la minería manual es más barata, cuidado con los gólems de roca, cangrejos y otras anomalías que pueden aparecer ocasionalmente. Mina siempre armado.
+  - La minería desde la nave es mucho más rápida que la manual, pero requiere más equipo para empezar. ¡Pide consejo a otro minero o únete a su tripulación!
 
-  Using your acquired credits, buy better equipment, mine more, or experiment with other roles!
+  Con los créditos que consigas, compra mejor equipo, mina más o experimenta con otros roles.
 
-  ## Round End
+  ## Final de la partida
 
-  Before entering cryosleep or otherwise disconnecting after a run, make sure to dock your ship to a station with a shipyard console and sell it. This will give back roughly 75% of the value on the ship. Additionally, make sure to deposit all your credits at an ATM
-  so that they aren't lost!
+  Antes de entrar en criosueño o desconectarte de cualquier otra forma tras una sesión, asegúrate de atracar tu nave en una estación con una consola del astillero y venderla. Esto te devolverá aproximadamente el 75% del valor de la nave. Además, asegúrate de depositar todos tus créditos en un cajero automático
+  ¡para que no se pierdan!
 
 </Document>
