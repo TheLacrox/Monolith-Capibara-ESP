@@ -5344,7 +5344,7 @@ ent-Igniter = encendedor
     .gender = male
     .desc = Crea una chispa cuando se activa mediante una señal.
 
-ent-IgniteRune = Runa de ignición
+ent-IgniteRune = runa de ignición
 
 ent-ImmovableRod = vara inamovible
     .gender = female

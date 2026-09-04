@@ -47,3 +47,5 @@ JobSeniorEngineer = Ingeniero Sénior
 JobSeniorOfficer = Líder de Equipo de la TSFMC
 JobSeniorPhysician = Médico Sénior
 JobSeniorResearcher = Investigador Sénior
+job-name-pdv-tarkhan = Tarkhan de la PDV
+job-name-tsf-marsoc = Operativo MARSOC de la TSFMC

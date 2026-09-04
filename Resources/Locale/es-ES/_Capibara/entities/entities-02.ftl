@@ -638,7 +638,7 @@ ent-ClusterBang = clusterbang
     .gender = male
     .desc = Solo puede usarse con granadas cegadoras. Explota varias veces.
 
-ent-ClusterBangFull = clusterbang
+ent-ClusterBangFull = ClusterBang
     .gender = male
     .desc = Lanza tres granadas cegadoras cuando se acaba el temporizador.
 
@@ -6276,7 +6276,7 @@ ent-DrinkGargleBlasterGlass = vaso metamórfico
     .gender = male
     .desc = Un vaso metamórfico que automágicamente se convierte en el vaso adecuado para la bebida que contiene. Hay un número de patente lijado en la parte inferior.
 
-ent-DrinkGildlagerBottleFull = botella de gildlager
+ent-DrinkGildlagerBottleFull = Botella de Gildlager
     .gender = female
     .desc = Schnapps de canela de 100 grados, hecho para chicas adolescentes bebedoras en las vacaciones de primavera.
 
@@ -6814,7 +6814,7 @@ ent-DrinkSakeBottleFull = botella de sake
         Claro, o a veces turbio 
         Frío como alcohol helado 
         ¡Llena la copa, bebe!
-        
+
 
 ent-DrinkSakeCup = sakazuki
     .gender = male
@@ -7817,7 +7817,7 @@ ent-ExplosionActivateRune = runa activada por explosión
 
 ent-ExplosionLight = luz de explosión
 
-ent-ExplosionRune = Runa de explosión
+ent-ExplosionRune = runa de explosión
 
 ent-ExplosionTimedRune = runa de explosión temporizada
 
@@ -8379,7 +8379,7 @@ ent-FlashPayload = carga de flash
     .gender = female
     .desc = Una carga de flash de un solo uso.
 
-ent-FlashRune = Runa de destello
+ent-FlashRune = runa de flash
 
 ent-FlashRuneTimer = runa de flash temporizada
 
@@ -9106,7 +9106,7 @@ ent-FoodAmbrosiaDeus = ambrosia deus
     .gender = female
     .desc = Una planta medicinal muy codiciada. Puede tener algunos efectos secundarios peculiares.
 
-ent-FoodAmbrosiaVulgaris = Ambrosia Vulgaris
+ent-FoodAmbrosiaVulgaris = ambrosia vulgaris
     .gender = female
     .desc = Una planta medicinal. Puede que te haga sentir un poco raro.
 

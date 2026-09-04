@@ -1,5 +1,5 @@
 <Document>
-  # Felinids
+  # Felínidos
 
   <Box>
     <GuideEntityEmbed Entity="MobFelinidDummy" Caption=""/>
@@ -10,11 +10,11 @@
   ## Dieta
 
   - Pueden comer carne cruda.
-  - Se intoxicarán con Teobromina (Chocolate, Té, Café) y Alicina (Cebolla, Ajo).
+  - Se intoxican con teobromina (chocolate, té y café) y alicina (cebolla y ajo).
 
   ## Ventajas
 
-  - Son más pequeños que los Humanos, lo que los hace más difíciles de golpear.
+  - Son más pequeños que los humanos, por lo que resulta más difícil acertarles.
   - Caben en bolsas de lona.
   - Tienen la capacidad de vomitar una bola de pelo para librarse de parte de las sustancias químicas de su torrente sanguíneo.
   - Pueden comerse ratones y ratas tras recogerlos. Esto tiene la ventaja de regenerar la habilidad de la bola de pelo y de alimentarlos.

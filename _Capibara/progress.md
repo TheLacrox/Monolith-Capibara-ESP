@@ -32,6 +32,10 @@
   - `generate-entity-ftl.ps1` now tags `.gender` on entity overrides from a Spanish head-noun
     heuristic (15,874/16,823 tagged; plural heads left neuter) → THE()/INDEFINITE() emit
     correct el/la, un/una. Extend the in-script exception lists as errors surface.
+- [x] **Upstream sync (partial): merge upstream/main 7d4b43d490 (2026-07-21)** — PR #12 (Codex), 2026-07-21
+  - Locale/guidebook/entity refresh for that delta; rules now require Spanish communications.
+  - Superseded key-by-key by the 2026-09-04 sync below (its translations were redone against the
+    newer upstream; PR #12's non-overlapping edits were merged in).
 - [x] **Upstream sync: merge upstream/main 3fb705f789 (2026-09-03)** — 2026-09-04
   - 618 upstream commits since merge-base e1e3b602a (2026-06-30). Only conflicts were ServerInfo
     docs → took upstream's English for all 42 added/changed docs, retranslated them in place.

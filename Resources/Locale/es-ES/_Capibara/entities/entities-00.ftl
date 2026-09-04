@@ -558,7 +558,7 @@ ent-ActionKnock = Abrir
     .gender = male
     .desc = Este hechizo abre las puertas cercanas.
 
-ent-ActionLayEggHost = Poner huevo
+ent-ActionLayEggHost = Poner un huevo
     .gender = male
     .desc = Fuerza a tu anfitrión a vomitar un huevo. Cuesta 200 sustancias químicas.
 
@@ -731,7 +731,7 @@ ent-ActionSmiteNoReq = Fulminar
     .gender = male
     .desc = Hace estallar a un objetivo al instante.
 
-ent-ActionSmoke = humo
+ent-ActionSmoke = Humo
     .gender = male
     .desc = Invoca humo alrededor del usuario.
 
@@ -755,13 +755,13 @@ ent-ActionSpawnRift = Convocar Grieta Carp
     .gender = male
     .desc = Invoca una grieta carp que periódicamente genera carps.
 
-ent-ActionSpiderWeb = tela de araña
+ent-ActionSpiderWeb = Telaraña
     .gender = female
     .desc = Genera una telaraña que ralentiza a tu presa.
 
 ent-ActionStethoscope = Escuchar con estetoscopio
 
-ent-ActionStunRune = runa paralizante
+ent-ActionStunRune = Runa de Aturdimiento
     .gender = female
     .desc = Invoca una runa que aturde si se activa.
 
@@ -5916,11 +5916,11 @@ ent-BorgChassisSelectable = cyborg
     .gender = male
     .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
 
-ent-BorgChassisSelectablePDV = cíborg PDV
+ent-BorgChassisSelectablePDV = cíborg de la PDV
     .gender = male
     .desc = Un cíborg construido específicamente para la PDV.
 
-ent-BorgChassisSelectableTSF = cíborg TSF
+ent-BorgChassisSelectableTSF = cíborg de la TSF
     .gender = male
     .desc = Un cíborg construido específicamente para la TSF.
 

@@ -6221,7 +6221,7 @@ ent-ClothingNeckCloakAce = capa del piloto
 
 ent-ClothingNeckCloakAdmin = capa weh
     .gender = female
-    .desc = ¡WEH!
+    .desc = ¡Weh!
 
 ent-ClothingNeckCloakAro = capa de hombre lobo
     .gender = female
@@ -8714,7 +8714,7 @@ ent-ClothingUniformJumpskirtChiefEngineerTurtle = jersey de cuello alto del Inge
 
 ent-ClothingUniformJumpskirtClown = falda de Payaso
     .gender = female
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpskirtCMO = mono-falda del Médico Jefe
     .gender = female
@@ -9202,11 +9202,11 @@ ent-ClothingUniformJumpsuitChiefEngineerTurtle = jersey de cuello alto del Ingen
 
 ent-ClothingUniformJumpsuitClown = Traje de payaso
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitClownBanana = Traje de payaso de plátano
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-ClothingUniformJumpsuitCluwne = Traje de cluwne
     .gender = male

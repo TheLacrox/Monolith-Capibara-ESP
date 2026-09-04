@@ -21,3 +21,5 @@ job-description-senior-officer = Enseña a los nuevos reclutas los fundamentos d
 job-description-sheriff = Gestiona tu destacamento de la TSFMC y mantenlos eficientes, sofoca el disenso y mantén el sector seguro.
 job-description-stc = Gestiona expertamente el espacio alrededor de la estación y ayuda al Puesto Colonial a emitir multas por naves amarradas en exceso.
 job-description-sr = Gasta todos los fondos de la estación en naves militares. Controla a tus guardias de seguridad e intenta impartir justicia en este sector.
+job-description-pdv-tarkhan = Miembro de élite de la PDV. Rara vez se despliega en Colossus.
+job-description-tsf-marsoc = Miembro de élite del MARSOC de la TSF. Rara vez se despliega en Colossus.

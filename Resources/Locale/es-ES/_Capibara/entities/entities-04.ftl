@@ -2672,8 +2672,8 @@ ent-MobPossumOld = zarigüeya
     .gender = female
     .desc = "¡Oh zarigüeya! ¡Mi zarigüeya!" -- Walt Whitman, 1865
 
-ent-MobPossumPoppy = amapola
-    .gender = female
+ent-MobPossumPoppy = Poppy
+    .gender = male
     .desc = Es una zarigüeya, un pequeño marsupial carroñero. Lleva el equipo de protección personal adecuado.
 
 ent-MobProtogen = Urist McHardDrive
@@ -8404,7 +8404,7 @@ ent-PirateClothingUniformJumpsuitChiefEngineerTurtle = jersey de cuello alto del
 
 ent-PirateClothingUniformJumpsuitClown = Traje de payaso
     .gender = male
-    .desc = ¡Honk!
+    .desc = ¡HONK!
 
 ent-PirateClothingUniformJumpsuitCMO = Mono del Médico Jefe
     .gender = male

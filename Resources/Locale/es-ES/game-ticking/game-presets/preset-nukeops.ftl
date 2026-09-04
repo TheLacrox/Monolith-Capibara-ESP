@@ -37,3 +37,9 @@ nukeops-no-one-ready = ¡Ningún jugador está listo! No se puede iniciar Nukeop
 nukeops-role-commander = Comandante
 nukeops-role-agent = Agente
 nukeops-role-operator = Operador
+
+nukeops-tsfmajor = [color=cornflowerblue]¡La TSF detonó la bomba en la estación de la PDV![/color]
+nukeops-pdvmajor = [color=goldenrod]¡La PDV detonó la bomba en la estación de la TSF![/color]
+
+nukeops-cond-nukeexplodedontsfstation = La bomba nuclear fue detonada en la estación de la PDV.
+nukeops-cond-nukeexplodedonpdvstation = La bomba nuclear fue detonada en la estación de la TSF.

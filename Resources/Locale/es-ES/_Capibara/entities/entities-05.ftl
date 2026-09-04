@@ -98,7 +98,7 @@ ent-PlayerBorgDerelictGhostRole = cíborg abandonado
     .gender = male
     .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
 
-ent-PlayerBorgPDV = cíborg PDV
+ent-PlayerBorgPDV = cíborg de la PDV
     .gender = male
     .desc = Un cíborg construido específicamente para la PDV.
 
@@ -132,7 +132,7 @@ ent-PlayerBorgSyndicateSaboteurGhostRole = cyborg saboteador del Syndicate
     .gender = male
     .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
 
-ent-PlayerBorgTSF = cíborg TSF
+ent-PlayerBorgTSF = cíborg de la TSF
     .gender = male
     .desc = Un cíborg construido específicamente para la TSF.
 
@@ -733,7 +733,7 @@ ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 No Exist
     .gender = female
     .desc = Un póster que se burla de la negación de CentComm sobre la existencia de la estación abandonada cerca de Space Station 13.
 
-ent-PosterContrabandKudzu = kudzu
+ent-PosterContrabandKudzu = Kudzu
     .gender = male
     .desc = Un póster que anuncia una película sobre plantas. ¿Qué tan peligrosas pueden ser?
 
@@ -809,7 +809,7 @@ ent-PosterContrabandSaucerNumberOne = ¡Saucer #1!
 ent-PosterContrabandShamblersJuice = Shambler's Juice
     .desc = ~¡Ponme un poco de ese Shambler's Juice!~
 
-ent-PosterContrabandSmoke = humo
+ent-PosterContrabandSmoke = Humo
     .gender = male
     .desc = Un póster que anuncia una marca rival de cigarrillos corporativos.
 
@@ -1853,7 +1853,7 @@ ent-PrizeTicket60 = ticket de premio
     .gender = male
     .desc = Un ticket de premio, listo para canjearse en un mostrador de premios.
 
-ent-ProjectileAnomalyFireball = Bola de fuego
+ent-ProjectileAnomalyFireball = bola de fuego
     .gender = female
     .desc = Una masa de llamas flotante.
 
@@ -1869,7 +1869,7 @@ ent-ProjectileEmp = proyectil PEM
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-ProjectileFireball = Bola de fuego
+ent-ProjectileFireball = bola de fuego
     .gender = female
     .desc = Será mejor que te LARGUES.
 
@@ -4859,7 +4859,7 @@ ent-ShipRailgunProjectileEMP = proyectil EMP M381 CHARON de 280 mm y 26,5 kg
 
 ent-ShipRailgunProjectileSubnuclear = posta única nuclear M381 CHARON 280mm 1,5kt
     .gender = female
-    .desc = Una vez que el genio sale de la botella, ya no hay forma de volvérselo a meter, tarkhan.
+    .desc = Una vez que el genio sale de la botella, ya no hay forma de volver a meterlo, Tarkhan.
 
 ent-ShipRepairDevice = SRD
     .gender = male
@@ -4889,7 +4889,7 @@ ent-ShipRepairDeviceRedacted = SRD pre-fractura
     .gender = male
     .desc = Un dispositivo de reparación arcano que puede reparar naves ADS.
 
-ent-ShipRubiconProjectile = proyectil PEM
+ent-ShipRubiconProjectile = Proyectil EMP
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -5193,8 +5193,8 @@ ent-Shrapnel90mmFlak = metralla
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-Shredder = Triturador
-    .gender = male
+ent-Shredder = trituradora
+    .gender = female
     .desc = Tritura cosas. ¿Qué más se puede decir?
 
 ent-ShredderMachineCircuitboard = placa de máquina trituradora
@@ -7709,7 +7709,7 @@ ent-SpawnPointChiefEngineer = ingeniero jefe
 
 ent-SpawnPointChiefMedicalOfficer = médico jefe
 
-ent-SpawnPointClown = Payaso
+ent-SpawnPointClown = payaso
 
 ent-SpawnPointContractor = contratista
 
@@ -7877,7 +7877,7 @@ ent-SpawnPointVGLieutenant = Teniente VG
 
 ent-SpawnPointWarden = alcaide
 
-ent-SpawnPointWizard = Mago
+ent-SpawnPointWizard = mago
 
 ent-SpawnPointZookeeper = cuidador del zoológico
 
@@ -8090,7 +8090,7 @@ ent-SS13Memorial = tumba del empleado desconocido
         Aquí descansa un empleado desconocido
         Desconocido por nombre o rango
         Cuyos actos no serán olvidados
-        
+
 
 ent-StairDark = escaleras
     .desc = El mayor invento desde las granadas propulsadas por cohetes.

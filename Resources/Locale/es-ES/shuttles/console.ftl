@@ -80,3 +80,13 @@ shuttle-console-docks-label = Atraques
 
 shuttle-console-undock-fail = Error al desacoplar
 shuttle-console-dock-fail = Error al acoplar
+
+shuttle-console-altitude = Altitud:
+shuttle-console-altitude-value = {$altitude}
+shuttle-console-vertical-velocity = Velocidad vertical:
+shuttle-console-vertical-velocity-value = {$velocity}
+shuttle-console-travel-state = Estado:
+shuttle-console-travel-state-grounded = En tierra
+shuttle-console-travel-state-flying = En vuelo
+shuttle-console-travel-state-hovering = Flotando
+shuttle-console-travel-state-launching = Despegando ({$countdown})

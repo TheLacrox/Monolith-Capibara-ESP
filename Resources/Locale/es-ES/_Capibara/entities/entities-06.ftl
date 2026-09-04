@@ -4545,7 +4545,7 @@ ent-WallIce = muro de hielo
 
 ent-WallInvisible = muro invisible
 
-ent-WallInvisibleShip = muro invisible
+ent-WallInvisibleShip = Muro Invisible
 
 ent-WallMeat = muro de carne
     .gender = male
@@ -8794,7 +8794,7 @@ ent-WorldChunk = fragmento de mundo
     .desc =
         Es de mala educación mirar fijamente.
         También es un poco extraño que estés mirando la representación abstracta de la cuadrícula de la realidad.
-        
+
 
 ent-WorldPeaSeeds = paquete de semillas de guisante del mundo
     .gender = male

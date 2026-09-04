@@ -58,3 +58,6 @@ device-net-id-wireless = Inalámbrico
 device-net-id-apc = Apc
 device-net-id-atmos-devices = Dispositivos Atmos
 device-net-id-reserved = Reservado
+device-frequency-prototype-name-turret = Torreta centinela
+device-frequency-prototype-name-turret-control = Control de torreta centinela
+device-address-prefix-turret = TRT-

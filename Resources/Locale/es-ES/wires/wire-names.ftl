@@ -73,3 +73,5 @@ wire-name-bomb-bolt = CERR
 wire-name-speech = ALTV
 wire-name-listen = MIC
 wire-name-log = LOG
+wires-board-name-weapon-energy-turret = Torreta centinela
+wires-board-name-turret-controls = Panel de control de torreta centinela
