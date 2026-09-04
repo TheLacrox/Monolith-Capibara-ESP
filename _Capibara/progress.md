@@ -40,8 +40,11 @@
     22 stale keys pruned. `validate-locale.ps1` exit 0, manifest updated → 0/0/0.
   - Guidebook: 42 docs (21 new, 21 changed) via a 10-agent workflow; 2 deleted docs dropped;
     `validate-guidebook.ps1 -BaselineRef 3fb705f789` clean; manifest now 327 entries.
-  - Entities: fresh dump 17,027 rows; all strings already in `entities/tmp/tr-*.json`
-    (incl. the 2026-07-21 refresh maps) → regenerated 17,007 keys, 0 English fallbacks.
+  - Entities: the dump test used to write to the process cwd, which under `dotnet test` is
+    `bin/Content.IntegrationTests/` — the repo copy silently stayed at the July state (17,027 rows) and
+    360 newer entities (Economy components, Feroxi parts, .357 ammo, autosurgeon, overwatch...) had no
+    override. Test now writes to the repo root. Fresh dump 17,387 rows → 680 new strings translated
+    (7-agent workflow, `tmp/tr-m*.json`) → 17,366 keys, 0 English fallbacks, 13,940 gendered.
   - Space-biome renames + 2 new biomes, 13 new vessel/POI splash keys, 9 new guide-entry titles.
   - Local run check (server + client) caught one Fluent parse error (continuation line starting
     with `[`) → fixed; `validate-locale.ps1` now flags that pattern.

@@ -216,6 +216,10 @@ ent-AccessBreaker = perturbador de autenticación
     .gender = male
     .desc = Un configurador de acceso hackeado, especializado en desbloquear y borrar el acceso de cerraduras digitales.
 
+ent-AccessBreakerMMC = perturbador de autenticación desechable de Mieyo
+    .gender = male
+    .desc = Un dispositivo de pirateo de un solo uso, especializado en desbloquear y borrar los accesos de las cerraduras digitales.
+
 ent-AccessBreakerUnlimited = perturbador de autenticación
     .gender = male
     .desc = Un configurador de acceso hackeado, especializado en desbloquear y borrar el acceso de cerraduras digitales.
@@ -231,6 +235,10 @@ ent-AccessConfiguratorAntag = Configurador de acceso del mercado negro
 ent-AccessConfiguratorUniversal = Configurador de acceso universal
     .gender = male
     .desc = Un configurador de acceso modificado utilizado únicamente por el mítico Administrador.
+
+ent-AccessConfiguratorXenoborg = configurador de acceso xenoborg
+    .gender = male
+    .desc = Un configurador de acceso modificado que usan los xenoborgs.
 
 ent-AccordionInstrument = acordeón
     .gender = male
@@ -274,6 +282,10 @@ ent-ActionActivateHonkImplant = Bocinar
 ent-ActionActivateMicroBomb = Activar Microbomba
     .gender = male
     .desc = Activa tu microbomba interna, destruyéndote por completo junto con tu equipo
+
+ent-ActionActivatePersonalShield = Activar escudo personal
+    .gender = male
+    .desc = Activa el escudo de energía personal del traje, que consume lentamente la carga de la batería.
 
 ent-ActionActivateScramImplant = ¡LÁRGATE!
     .gender = male
@@ -334,6 +346,10 @@ ent-ActionBecomeValid = Convertirse en Objetivo
 ent-ActionBibleSummon = Invocar familiar
     .gender = male
     .desc = Invoca un familiar que te ayudará y adquirirá inteligencia humana una vez habitado por un alma.
+
+ent-ActionBlackFlash = Black Flash
+    .gender = male
+    .desc = Lanza un golpe con todas tus fuerzas. Esto consumirá mucha resistencia.
 
 ent-ActionBlink = Parpadeo
     .gender = male
@@ -426,6 +442,14 @@ ent-ActionCritSuccumb = Sucumbir
     .gender = male
     .desc = Acepta tu destino.
 
+ent-ActionDashMoth = Impulso con alas
+    .gender = male
+    .desc = ¡Bate las alas con fuerza para lanzarte hacia un lado!
+
+ent-ActionDashMuscleFibersImplant = embestida de fibras musculares
+    .gender = female
+    .desc = Usa tu implante de fibras musculares para dar un impulso rápido.
+
 ent-ActionDevour = [color=red]Devorar[/color]
     .gender = male
     .desc = Intenta romper una estructura con tus mandíbulas o tragarte a una criatura.
@@ -453,6 +477,10 @@ ent-ActionEldritchPush = [color=yellow]Empuje de fuerza[/color]
 ent-ActionEndControlHost = Ceder el control
     .gender = male
     .desc = Cede el control del cuerpo de tu anfitrión antes de tiempo.
+
+ent-ActionEnergyCyberneticsShuntTSF = derivador de implantes KR-22
+    .gender = male
+    .desc = Teleportarte a cualquier lugar visible.
 
 ent-ActionEnergyKatanaDash = Embestida con katana
     .gender = female
@@ -707,6 +735,18 @@ ent-ActionSmoke = humo
     .gender = male
     .desc = Invoca humo alrededor del usuario.
 
+ent-ActionSpawnBiomassTile = Biomasa Vegetal
+    .gender = female
+    .desc = Genera un brote de biomasa que puede expandirse hacia fuera.
+
+ent-ActionSpawnBiomassWall = Muro de Carne Vegetal
+    .gender = male
+    .desc = Genera un grueso muro de biomasa.
+
+ent-ActionSpawnLetoferolBeast = Bestia de Letoferol
+    .gender = female
+    .desc = Crea otra bestia inferior de letoferol.
+
 ent-ActionSpawnMagicarpSpell = Convocar Magicarp
     .gender = male
     .desc = ¡Este hechizo convoca tres Magi-Carp en tu ayuda! Puede que se vuelvan o no contra el usuario.
@@ -785,6 +825,10 @@ ent-ActionToggleJusticeHelm = Activar/Desactivar Casco de la Justicia
     .gender = male
     .desc = Activa o desactiva el casco de la justicia.
 
+ent-ActionToggleLeftMantisBlade = Activar/desactivar hoja mantis izquierda
+    .gender = male
+    .desc = Extiende o retrae la hoja mantis de tu brazo izquierdo.
+
 ent-ActionToggleLight = Activar/Desactivar Luz
     .gender = male
     .desc = Enciende y apaga la luz.
@@ -820,6 +864,14 @@ ent-ActionToggleParamedicSiren = Activar sirena de paramédico
 ent-ActionTogglePhaseCloak = Camuflaje de fase
     .gender = male
     .desc = Activa o desactiva el camuflaje de fase de tu traje. ¡Ten en cuenta que si recibes un impacto, todas las habilidades quedan desactivadas durante 5 segundos, incluido tu camuflaje!
+
+ent-ActionToggleRightMantisBlade = Activar/desactivar hoja mantis derecha
+    .gender = male
+    .desc = Extiende o retrae la hoja mantis de tu brazo derecho.
+
+ent-ActionToggleSandevistan = Activar/Desactivar Sandevistan
+    .gender = male
+    .desc = Activa o desactiva los reflejos mejorados que te proporciona el Sandevistan.
 
 ent-ActionToggleSneakMode = Activar modo sigilo
     .gender = male
@@ -1174,6 +1226,14 @@ ent-AirlockAssemblyMiningGlass = estructura de esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
+ent-AirlockAssemblySalvage = estructura de esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockAssemblySalvageGlass = estructura de esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
 ent-AirlockAssemblyScience = estructura de esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
@@ -1456,6 +1516,14 @@ ent-AirlockExternalGlassMailCarrierLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
 
+ent-AirlockExternalGlassMieyo = esclusa
+    .gender = female
+    .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
+
+ent-AirlockExternalGlassMieyoLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
+
 ent-AirlockExternalGlassNfsd = esclusa
     .gender = female
     .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
@@ -1472,7 +1540,7 @@ ent-AirlockExternalGlassRogueLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
 
-ent-AirlockExternalGlassShuttleArrivals = esclusa exterior
+ent-AirlockExternalGlassShuttleArrivals = esclusa de llegadas
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
@@ -1489,6 +1557,14 @@ ent-AirlockExternalGlassShuttleLocked = esclusa exterior
     .desc = Necesaria para conectar dos naves espaciales.
 
 ent-AirlockExternalGlassShuttleMcCargo = esclusa exterior
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockExternalGlassShuttleMieyoLocked = esclusa exterior
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockExternalGlassShuttleMieyoLockedOutpost = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
@@ -1533,6 +1609,14 @@ ent-AirlockExternalNukeopLocked = esclusa
     .desc = Se abre, se cierra, puede aplastarte y quizás solo haya espacio vacío al otro lado.
 
 ent-AirlockExternalShuttleLocked = esclusa exterior
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockExternalShuttleMieyoLocked = esclusa exterior
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockExternalShuttleMieyoLockedOutpost = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
@@ -1684,7 +1768,11 @@ ent-AirlockGlassShuttleUSSPOutpostLocked = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
-ent-AirlockGlassXeno = esclusa de cristal
+ent-AirlockGlassShuttleXenoborgLocked = esclusa exterior de mecadermis
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockGlassXeno = esclusa de exodermis de resina
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -1700,6 +1788,10 @@ ent-AirlockHatchMaintenance = escotilla de mantenimiento
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
+ent-AirlockHatchMaintenanceLocked = escotilla de mantenimiento
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
 ent-AirlockHatchPDVCommandLocked = escotilla hermética
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
@@ -1709,6 +1801,10 @@ ent-AirlockHatchRogueLocked = escotilla hermética
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockHatchSyndicate = escotilla hermética
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockHatchSyndicateLocked = escotilla hermética
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -1772,6 +1868,10 @@ ent-AirlockHeavyAssemblyGrey = estructura de esclusa de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
+ent-AirlockHeavyAssemblyMieyo = estructura de esclusa de servicio pesado
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
+
 ent-AirlockHeavyAssemblyPDV = estructura de esclusa de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
@@ -1817,6 +1917,14 @@ ent-AirlockHeavyGrandVizierLocked = esclusa de servicio pesado
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
 ent-AirlockHeavyGrey = esclusa de servicio pesado
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
+
+ent-AirlockHeavyMieyoLiasonLocked = esclusa de servicio pesado
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
+
+ent-AirlockHeavyMieyoLocked = esclusa de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
@@ -1944,64 +2052,60 @@ ent-AirlockMaint = acceso de mantenimiento
     .gender = male
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintArmoryLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintArmoryLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintAtmoLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintAtmoLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintBarKitchenLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintBarKitchenLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintBarLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintBarLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintCaptainLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintCaptainLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintCargoLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintCargoLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintChapelLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintChapelLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintChemLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintChemLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintChiefEngineerLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintChiefEngineerLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintChiefMedicalOfficerLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintChiefMedicalOfficerLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintCommandLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintCommandLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintCommonLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintDetectiveLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintDetectiveLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintEngiLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintEngiLocked = acceso de mantenimiento
-    .gender = male
-    .desc = Se abre, se cierra y quizás te aplaste.
-
-ent-AirlockMaintFrontierBridgeLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintFrontierBridgeLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockMaintGlass = esclusa de cristal
@@ -2016,76 +2120,84 @@ ent-AirlockMaintGlassLockedDungeon = esclusa de cristal
     .gender = female
     .desc = Una esclusa con ventanas de cristal opaco; es difícil ver qué hay al otro lado.
 
-ent-AirlockMaintHeadOfSecurityLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintHeadOfSecurityLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintHOPLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintHOPLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintHydroLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintHydroLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintIntLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintJanitorLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintJanitorLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintKitchenHydroLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintKitchenHydroLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintKitchenLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintKitchenLocked = acceso de mantenimiento
-    .gender = male
-    .desc = Se abre, se cierra y quizás te aplaste.
-
-ent-AirlockMaintLawyerLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintLawyerLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockMaintLocked = acceso de mantenimiento
     .gender = male
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintMedLocked = acceso de mantenimiento
+ent-AirlockMaintMedLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMaintMieyoLiasonLocked = acceso de mantenimiento
     .gender = male
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintQuartermasterLocked = acceso de mantenimiento
+ent-AirlockMaintMieyoLocked = acceso de mantenimiento
     .gender = male
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintResearchDirectorLocked = acceso de mantenimiento
+ent-AirlockMaintMieyoSecurityLocked = acceso de mantenimiento
     .gender = male
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintRnDLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintQuartermasterLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintRnDMedLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintResearchDirectorLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintSalvageLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintRnDLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintSecLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintRnDMedLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintServiceLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintSalvageLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMaintTheatreLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMaintSecLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMaintServiceLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMaintTheatreLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockMedical = esclusa
@@ -2116,8 +2228,8 @@ ent-AirlockMedicalMorgueLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockMedicalMorgueMaintLocked = acceso de mantenimiento
-    .gender = male
+ent-AirlockMedicalMorgueMaintLocked = esclusa
+    .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockMedicalScienceGlassLocked = esclusa de cristal
@@ -2149,6 +2261,38 @@ ent-AirlockMercenaryGlassLockedDungeon = esclusa de cristal
     .desc = Una esclusa con ventanas de cristal opaco; es difícil ver qué hay al otro lado.
 
 ent-AirlockMercenaryLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyo = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoGlass = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoGlassLocked = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoGlassLockedLiason = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoGlassLockedSecurity = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoLocked = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoLockedLiason = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockMieyoLockedSecurity = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -2247,6 +2391,14 @@ ent-AirlockResearchDirectorLocked = esclusa
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockRogueGlassLocked = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockSalvage = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockSalvageGlass = esclusa de cristal
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -2386,6 +2538,14 @@ ent-AirlockShuttleUSSPOutpostLocked = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
+ent-AirlockShuttleXenoborg = esclusa exterior de mecadermis
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
+ent-AirlockStandardGlass = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
 ent-AirlockSyndicate = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
@@ -2494,11 +2654,19 @@ ent-AirlockVirologyLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockXeno = esclusa
+ent-AirlockXeno = esclusa de exodermis
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockXenoMaintLocked = esclusa
+ent-AirlockXenoborg = esclusa de mecadermis
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockXenoborgLocked = esclusa de mecadermis
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockXenoMaintLocked = esclusa de exodermis
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -2542,7 +2710,7 @@ ent-AITimedSpawner = Generador Temporizado de IA
 
 ent-AK570Flatpack = paquete plano AK570
     .gender = male
-    .desc = Un paquete plano para construir un autocañón de 90 mm AK570.
+    .desc = Un paquete plano para construir un autocañón AK570 de 57mm.
 
 ent-AlertsComputerCircuitboard = placa del ordenador de alertas atmosféricas
     .gender = female
@@ -2700,29 +2868,29 @@ ent-AmbrosiaVulgarisSeeds = paquete de semillas de ambrosia vulgaris
     .gender = male
     .desc = Una planta medicinal para el pueblo llano.
 
-ent-AmeController = controlador AME
+ent-AmeController = controlador IRE
     .gender = male
-    .desc = Es un controlador para el motor de antimateria.
+    .desc = Es un controlador para el motor de reacción de isótopos.
 
-ent-AmeControllerUnanchored = controlador AME
+ent-AmeControllerUnanchored = controlador IRE
     .gender = male
-    .desc = Es un controlador para el motor de antimateria.
+    .desc = Es un controlador para el motor de reacción de isótopos.
 
-ent-AmeControllerUnanchoredFlatpack = paquete plano de controlador AME
+ent-AmeControllerUnanchoredFlatpack = paquete plano de controlador IRE
     .gender = male
-    .desc = Un paquete plano para construir un controlador AME.
+    .desc = Un paquete plano para construir un controlador de IRE.
 
-ent-AmeJar = tarro de combustible AME
-    .gender = male
-    .desc = Un tarro herméticamente sellado que contiene antimateria para su uso en un reactor de antimateria.
+ent-AmeJar = bombona de isótopos IRE
+    .gender = female
+    .desc = Un tarro sellado herméticamente que contiene isótopos volátiles para su uso en un motor de reacción de isótopos. No actives su mecanismo de liberación.
 
-ent-AmePartFlatpack = paquete plano AME
+ent-AmePartFlatpack = paquete plano IRE
     .gender = male
-    .desc = Un paquete plano para construir un reactor del motor de antimateria.
+    .desc = Un paquete plano para construir un motor de reacción de isótopos (IRE).
 
-ent-AmeShielding = blindaje AME
+ent-AmeShielding = blindaje IRE
     .gender = male
-    .desc = Mantiene la antimateria dentro y la materia fuera.
+    .desc = Mantiene los isótopos dentro y la radiación sobrante fuera.
 
 ent-AmmoBox10Phz = caja de munición (DEW 10Phz)
 
@@ -2754,9 +2922,11 @@ ent-AmmoBox127x99mm = caja de munición (12.7x99mm antimaterial)
 
 ent-AmmoBox127x99mmExplosive = caja de munición (12.7x99mm alto explosivo)
 
-ent-AmmoBox145x114mm = caja de munición (14.5x114mm)
+ent-AmmoBox145x114mm = caja de munición (14.5x114mm AP)
 
-ent-AmmoBox145x114mmBig = caja grande de munición (14.5x114mm)
+ent-AmmoBox145x114mmBig = caja grande de munición (14.5x114mm AP)
+
+ent-AmmoBox145x114mmEMP = caja de munición (14.5x114mm EMPHE)
 
 ent-AmmoBox23x75mmBeanbag = caja de cartuchos de escopeta (calibre 4 saco de arena)
 
@@ -2784,6 +2954,26 @@ ent-AmmoBox23x75mmSlugRIP = caja de cartuchos de escopeta (calibre 4 RIP)
 
 ent-AmmoBox23x75mmUranium = caja de cartuchos de escopeta (calibre 4 uranio)
 
+ent-AmmoBox357_magnumAP = caja de munición (.357 magnum perforante extremo)
+
+ent-AmmoBox357_magnumBigFMJ = caja grande de munición (.357 magnum FMJ)
+
+ent-AmmoBox357_magnumFMJ = caja de munición (.357 magnum FMJ)
+
+ent-AmmoBox357_magnumHP = caja de munición (.357 magnum punta hueca)
+
+ent-AmmoBox357_magnumIncendiary = caja de munición (.357 magnum incendiario)
+
+ent-AmmoBox357_magnumPlasteelAP = caja de munición (.357 magnum AP)
+
+ent-AmmoBox357_magnumPractice = caja de munición (.357 magnum entrenamiento)
+
+ent-AmmoBox357_magnumRIP = caja de munición (.357 magnum RIP)
+
+ent-AmmoBox357_magnumRubber = caja de munición (.357 magnum goma)
+
+ent-AmmoBox357_magnumUranium = caja de munición (.357 magnum uranio)
+
 ent-AmmoBox45_ACPBigFMJ = caja grande de munición (.45 ACP FMJ)
 
 ent-AmmoBox45_ACPEmp = caja de munición (.45 ACP EMP)
@@ -2803,26 +2993,6 @@ ent-AmmoBox45_ACPRIP = caja de munición (.45 ACP RIP)
 ent-AmmoBox45_ACPRubber = caja de munición (.45 ACP goma)
 
 ent-AmmoBox45_ACPUranium = caja de munición (.45 ACP uranio)
-
-ent-AmmoBox45_magnumAP = caja de munición (.45 magnum perforante extremo)
-
-ent-AmmoBox45_magnumBigFMJ = caja grande de munición (.45 magnum FMJ)
-
-ent-AmmoBox45_magnumFMJ = caja de munición (.45 magnum FMJ)
-
-ent-AmmoBox45_magnumHP = caja de munición (.45 magnum punta hueca)
-
-ent-AmmoBox45_magnumIncendiary = caja de munición (.45 magnum incendiario)
-
-ent-AmmoBox45_magnumPlasteelAP = caja de munición (.45 magnum AP)
-
-ent-AmmoBox45_magnumPractice = caja de munición (.45 magnum entrenamiento)
-
-ent-AmmoBox45_magnumRIP = caja de munición (.45 magnum RIP)
-
-ent-AmmoBox45_magnumRubber = caja de munición (.45 magnum goma)
-
-ent-AmmoBox45_magnumUranium = caja de munición (.45 magnum uranio)
 
 ent-AmmoBox46x30mmBigFMJ = caja grande de munición (4.6x30mm FMJ)
 
@@ -2899,6 +3069,8 @@ ent-AmmoBox68x52mmCaseless = caja de munición (6.8x52mm STANAG sin vaina)
 ent-AmmoBox68x52mmCaselessBig = caja grande de munición (6.8x52mm STANAG sin vaina)
 
 ent-AmmoBox68x52mmCaselessHP = caja de munición (6.8x52mm STANAG sin vaina HP)
+
+ent-AmmoBox68x52mmCaselessPlasma = caja de munición (6.8x52mm STANAG plasma sin vaina)
 
 ent-AmmoBox68x52mmCaselessPlasteelAP = caja de munición (6.8x52mm STANAG sin vaina AP)
 
@@ -3382,6 +3554,10 @@ ent-APCSuperCapacity = APC
     .gender = male
     .desc = Un terminal de control para los sistemas eléctricos del área.
 
+ent-APCXenoborg = APC
+    .gender = male
+    .desc = Un terminal de control para los sistemas eléctricos del área.
+
 ent-APECircuitboard = Placa de máquina A.P.E.
     .gender = female
     .desc = Una placa de circuito impreso de máquina para un A.P.E.
@@ -3410,13 +3586,13 @@ ent-ArmBlade = hoja de brazo
     .gender = female
     .desc = Una hoja grotesca hecha de hueso y carne que atraviesa a las personas como un cuchillo caliente en la mantequilla.
 
-ent-ArmorPlateBlunt_Slash = placa de armadura contundente/cortante
+ent-ArmorPlateBlunt_Slash = placa de armadura antitraumatismo
     .gender = female
-    .desc = Un módulo de armadura compuesto por planchas de plasteel protectoras adicionales y plástico amortiguador de golpes. Protege contra la fuerza contundente y los ataques de corte. Vulnerable al calor.
+    .desc = Una placa de plasteel a prueba de cortes respaldada por celdas de espuma plástica deformable. Reduce el daño contundente y cortante, pero es inútil contra el calor y la perforación.
 
 ent-ArmorPlateEconomy1 = placa de armadura básica
     .gender = female
-    .desc = Una placa de aleación de "armadura" simple y refinada, útil para cosas que necesitan estabilidad estructural.
+    .desc = Una placa de aleación de "armadura" sencilla y refinada, útil para cosas que necesitan estabilidad estructural. Puede apilarse en capas para empezar a crear una placa de armadura pesada.
 
 ent-ArmorPlateEconomy1Broken = placa de armadura básica rota
     .gender = female
@@ -3428,7 +3604,15 @@ ent-ArmorPlateEconomy2 = placa de armadura pesada
 
 ent-ArmorPlateEconomy2Broken = placa de armadura pesada rota
     .gender = female
-    .desc = Restos de una placa de armadura de aleación pesada. Un poco preocupante.
+    .desc = Restos de una placa de armadura de aleación pesada.
+
+ent-ArmorPlateEconomy2Start = placa de armadura pesada (sin terminar)
+    .gender = female
+    .desc = Un montón de metal en construcción, en proceso de refinarse para convertirse en una resistente placa protectora. Necesita atornillarse para empezar el procesamiento.
+
+ent-ArmorPlateEconomy2UnfinishedSpawner = placa de armadura pesada (sin terminar)
+    .gender = female
+    .desc = Un montón de metal en construcción, en proceso de refinarse para convertirse en una resistente placa protectora. Necesita atornillarse para empezar el procesamiento.
 
 ent-ArmorPlateEconomy3 = placa de armadura compuesta
     .gender = female
@@ -3450,17 +3634,21 @@ ent-ArmorPlateEconomy4Broken = placa de armadura EMAG rota
     .gender = female
     .desc = Restos de una placa de armadura de aleación avanzada de cerámica/carburo. Extremadamente preocupante.
 
-ent-ArmorPlateHeat = placa de armadura térmica
+ent-ArmorPlateEconomy4Start = placa de armadura EMAG (sin terminar)
     .gender = female
-    .desc = Un módulo de armadura compuesto por blindaje de iridita y sistemas de difusión del calor, capaz de difractar los ataques de láser entrantes. Vulnerable a los ataques de penetración.
+    .desc = El componente de placa cerámico-metálica de una placa de armadura EMAG, recién salida de la forja y a la espera de sus componentes electrónicos. Necesita un electroimán compuesto para iniciar la construcción, y después bastante atornillado y corte.
 
-ent-ArmorPlatePierce = placa de armadura antiperforante
+ent-ArmorPlateHeat = placa de armadura de difusión
     .gender = female
-    .desc = Un módulo de armadura compuesto por planchas robustas de plastitanio. Protege contra armas de fuego y ataques de penetración. Vulnerable al calor.
+    .desc = Una placa compuesta por un sándwich de blindaje de iridita y difusores térmicos de cobre. Absorbe las emisiones de la banda energética de las armas, pero falla ante los impactos cinéticos.
+
+ent-ArmorPlatePierce = placa de armadura balística
+    .gender = female
+    .desc = Una robusta plancha de plastitanio homogéneo de grano alto. Detiene en seco el daño perforante, pero se estropea con el calor.
 
 ent-ArmorPlateSpeed = placa de armadura de velocidad
     .gender = female
-    .desc = Un módulo de armadura compuesto por planchas de latón de sustitución para reducir peso. Aumenta tu velocidad, pero te hace vulnerable a la mayoría de los daños.
+    .desc = Una placa experimental de aleación de latón y bluespace que exhibe novedosos efectos cinestésicos. Amplifica la velocidad, pero también los impactos cinéticos y térmicos entrantes.
 
 ent-ArrivalsShuttleTimer = pantalla de llegadas
     .gender = female
@@ -3864,6 +4052,106 @@ ent-AutomationFilterStack = filtro de pila
     .gender = male
     .desc = Un filtro que se puede instalar en máquinas de fábrica. Este pesa los objetos para compararlos con el tamaño de una pila.
 
+ent-AutosurgeonAdvHeartMMC = autocirujano MMC (corazón de repuesto EVT-001)
+    .gender = male
+    .desc = Reemplaza el corazón por uno más extraño. Se desconoce cómo exactamente, pero permite al usuario canalizar una forma de energía latente en un único golpe.
+
+ent-AutosurgeonAdvHeartMMCFlatpack = paquete plano de autocirujano MMC (corazón de repuesto EVT-001)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de MMC.
+
+ent-AutosurgeonAdvHeartPDV = autocirujano PDV (corazón protésico VV/KE)
+    .gender = male
+    .desc = Reemplaza el corazón por uno más potente. Te permite procesar reactivos más rápido y aguantar más daño antes de caer, pero reduce tu resistencia y procesa los medicamentos más despacio.
+
+ent-AutosurgeonAdvHeartPDVFlatpack = paquete plano de autocirujano PDV (corazón protésico VV/KE)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de PDV.
+
+ent-AutosurgeonDermalArmorPDV = autocirujano PDV (armadura dérmica E-SAPI)
+    .gender = male
+    .desc = Implanta un conjunto de placas de armadura E-SAPI en el cuerpo. Te hace más vulnerable al calor y a las descargas, pero más resistente a las balas.
+
+ent-AutosurgeonDermalArmorPDVFlatpack = paquete plano de autocirujano PDV (armadura dérmica E-SAPI)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de PDV.
+
+ent-AutosurgeonIASPDV = autocirujano PDV (LS-210 IAS)
+    .gender = male
+    .desc = Reemplaza los pulmones por un avanzado sistema interno de aire. Capaz de filtrar la mayoría de los gases atmosféricos y de aumentar enormemente la eficiencia respiratoria.
+
+ent-AutosurgeonIASPDVFlatpack = paquete plano de autocirujano PDV (LS-210 IAS)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de PDV.
+
+ent-AutosurgeonLeftMantisBlade = autocirujano del Syndicate (hoja mantis izquierda)
+    .gender = male
+    .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
+
+ent-AutosurgeonLeftMantisBladeMieyo = autocirujano MMC (cuchilla mantis izquierda)
+    .gender = male
+    .desc = Implanta una hoja mantis desplegable encubierta en tu brazo izquierdo. Mola un montón.
+
+ent-AutosurgeonLeftMantisBladeMieyoFlatpack = paquete plano de autocirujano MMC (cuchilla mantis izquierda)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de MMC.
+
+ent-AutosurgeonLeftSpeedLeg = autocirujano (pierna izquierda S.P.E.E.D)
+    .gender = male
+    .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
+
+ent-AutosurgeonMuscleFibersMieyo = autocirujano MMC (conjunto de fibras musculares)
+    .gender = male
+    .desc = Implanta un conjunto de mejoras musculares en el cuerpo. Ahora puedes lanzarte de un lado a otro como un profesional.
+
+ent-AutosurgeonMuscleFibersMieyoFlatpack = paquete plano de autocirujano MMC (conjunto de fibras musculares)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de MMC.
+
+ent-AutosurgeonRightMantisBlade = autocirujano del Syndicate (hoja mantis derecha)
+    .gender = male
+    .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
+
+ent-AutosurgeonRightMantisBladeMieyo = autocirujano MMC (cuchilla mantis derecha)
+    .gender = male
+    .desc = Implanta una hoja mantis desplegable encubierta en tu brazo derecho. Mola un montón.
+
+ent-AutosurgeonRightMantisBladeMieyoFlatpack = paquete plano de autocirujano MMC (cuchilla mantis derecha)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de MMC.
+
+ent-AutosurgeonRightSpeedLeg = autocirujano (pierna derecha S.P.E.E.D)
+    .gender = male
+    .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
+
+ent-AutosurgeonSandevistan = autocirujano del Syndicate (sandevistan)
+    .gender = male
+    .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
+
+ent-AutosurgeonSandevistanMieyo = autocirujano MMC (sandevistan)
+    .gender = male
+    .desc = Reemplaza el corazón por un Sandevistan MMC.
+
+ent-AutosurgeonSandevistanMieyoFlatpack = paquete plano de autocirujano MMC (sandevistan)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano de MMC.
+
+ent-AutosurgeonSandevistanTSF = autocirujano TSF (sandevistan WJY-21X)
+    .gender = male
+    .desc = Reemplaza el corazón por un Sandevistan MMC obtenido por ingeniería inversa. No se enfría tan rápido como el original.
+
+ent-AutosurgeonSandevistanTSFFlatpack = paquete plano de autocirujano TSF (sandevistan WJY-21X)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano TSF.
+
+ent-AutosurgeonShuntTSF = autocirujano TSF (dispositivo de derivación KR-22)
+    .gender = male
+    .desc = Reemplaza el corazón por un dispositivo de derivación altamente experimental. Menuda tecnología tan inquietante.
+
+ent-AutosurgeonShuntTSFFlatpack = paquete plano de autocirujano TSF (dispositivo de derivación KR-22)
+    .gender = male
+    .desc = Un paquete plano para construir un autocirujano TSF.
+
 ent-AvocadoSeeds = sobre de semillas de aguacate
     .gender = male
     .desc = Estas semillas son los huesos.
@@ -3910,6 +4198,10 @@ ent-BallisticTurretHeavyAIFP = torreta centinela remota pesada de Freeport
     .gender = female
     .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
 
+ent-BallisticTurretHeavyAIMieyo = torreta centinela remota pesada de Mieyo
+    .gender = female
+    .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
+
 ent-BallisticTurretHeavyAIPDV = torreta centinela remota pesada de la PDV
     .gender = female
     .desc = Una torreta masivamente reforzada que dispara una ráfaga de proyectiles antimaterial de 7,62x51 mm capaces de destrozar tanto objetivos como mecas. Ay del necio que se ponga delante de esto.
@@ -3950,9 +4242,9 @@ ent-BalloonJuggernaut = globo juggernaut
     .gender = male
     .desc = Mirándolo de cerca, este juggernaut del Syndicate es en realidad un globo.
 
-ent-BalloonNT = globo Nanotrasen
+ent-BalloonNT = globo descarriado
     .gender = male
-    .desc = Diseñado especialmente para infligir el máximo daño psicológico a los operativos del Syndicate.
+    .desc = Diseñado especialmente para infligir el máximo daño psicológico.
 
 ent-BalloonOperative = globo operativo
     .gender = male
@@ -4288,10 +4580,6 @@ ent-BaseChemistryEmptyVial = vial
 ent-BaseComputer = ordenador
 
 ent-BaseComputerAiAccess = ordenador
-
-ent-BaseEconomyGood = artículo de economía base
-    .gender = male
-    .desc = Usado para mantener en marcha el viejo cinturón industrial.
 
 ent-BaseFlatpack = paquete plano base
     .gender = male
@@ -4985,6 +5273,14 @@ ent-BlastDoorXeno = puerta blindada xeno
     .gender = female
     .desc = ¡No pierdas un brazo!
 
+ent-BlastDoorXenoborg = puerta blindada xenoborg
+    .gender = female
+    .desc = ¡No pierdas la cabeza!
+
+ent-BlastDoorXenoborgOpen = puerta blindada xenoborg
+    .gender = female
+    .desc = ¡No pierdas la cabeza!
+
 ent-BlastDoorXenoFrame = marco de puerta blindada xeno
     .gender = male
     .desc = Esta pone 'BLAST DONGER'.
@@ -5432,6 +5728,10 @@ ent-BookTruth = explorando diferentes perspectivas filosóficas sobre la verdad 
     .gender = male
     .desc = Un libro que explora las diferentes perspectivas filosóficas sobre la verdad y la mentira tiene una cubierta desgastada, con pliegues y marcas que indican un uso frecuente y una reflexión profunda. El lomo muestra señales de desgaste por haber sido sacado del estante una y otra vez. Las propias páginas están llenas de subrayados, notas al margen y pasajes resaltados, fruto de que los lectores se debaten con los matices y complejidades del tema.
 
+ent-BookTSFSOP = PNO de TSFMC
+    .gender = male
+    .desc = Un libro que contiene los PNO de las fuerzas de la TSFMC desplegadas en el Sector Colossus.
+
 ent-BookUSSPLaw = Reglamento de Servicio de la USSP
     .gender = male
     .desc = Un manual de campo que llevan todos los militares de las Fuerzas Armadas de la USSP. Todo serzhant puede citarlo de memoria, normalmente con una intensidad poco apropiada para espacios reducidos.
@@ -5467,6 +5767,10 @@ ent-BorgChargerCircuitboard = placa de circuito de la estación de recarga para 
 ent-BorgChargerFlatpack = paquete plano del cargador de borg
     .gender = male
     .desc = Un paquete plano para construir un cargador de borg.
+
+ent-BorgChargerXenoborg = estación de recarga xenoborg
+    .gender = female
+    .desc = Un cargador estacionario para xenoborgs. Resulta claustrofóbico.
 
 ent-BorgChassisDerelict = cíborg abandonado
     .gender = male
@@ -5619,6 +5923,10 @@ ent-BorgChassisSelectablePDV = cíborg PDV
 ent-BorgChassisSelectableTSF = cíborg TSF
     .gender = male
     .desc = Un cíborg construido específicamente para la TSF.
+
+ent-BorgChassisSelectableXenoborg = Cyborg xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
 
 ent-BorgChassisService = cyborg de servicio
     .gender = male
@@ -6287,6 +6595,10 @@ ent-BoxMagazine12_gaugeSlug = caja de tambores de munición (slug calibre 12)
     .gender = female
     .desc = Una caja llena de tambores de munición (slug calibre 12).
 
+ent-BoxMagazine357_magnumFMJ = caja de cargadores rápidos .357 magnum
+    .gender = female
+    .desc = Una caja llena de cargadores rápidos .357 magnum.
+
 ent-BoxMagazine45_ACPFMJ = caja de cargadores de pistola .45 ACP
     .gender = female
     .desc = Una caja llena de cargadores de pistola .45 ACP.
@@ -6323,18 +6635,6 @@ ent-BoxMagazine45_ACPSubMachineGunRubber = caja de cargadores de SMG .45 ACP (go
     .gender = female
     .desc = Una caja llena de cargadores de SMG .45 ACP (goma).
 
-ent-BoxMagazine45_magnumFMJ = caja de cargadores rápidos .45 magnum
-    .gender = female
-    .desc = Una caja llena de cargadores rápidos .45 magnum.
-
-ent-BoxMagazine45_magnumSubMachineGunFMJ = caja de cargadores de SMG .45 magnum
-    .gender = female
-    .desc = Una caja llena de cargadores de SMG .45 magnum.
-
-ent-BoxMagazine45_magnumSubMachineGunPractice = caja de cargadores de SMG .45 magnum (práctica)
-    .gender = female
-    .desc = Una caja llena de cargadores de SMG .45 magnum (práctica).
-
 ent-BoxMagazine46x30mmSubMachineGunTopMountedFMJ = caja de cargadores WT550 46x30mm
     .gender = female
     .desc = Una caja llena de cargadores WT550 46x30mm.
@@ -6350,6 +6650,10 @@ ent-BoxMagazine556x45mmPractice = caja de cargadores 556x45mm (práctica)
 ent-BoxMagazine556x45mmRubber = caja de cargadores 556x45mm (goma)
     .gender = female
     .desc = Una caja llena de cargadores 556x45mm (goma).
+
+ent-BoxMagazine57x28mmSubMachineGunFMJ = caja de cargadores de SMG de 5.7x28mm
+    .gender = female
+    .desc = Una caja llena de cargadores de subfusil de 5.7x28mm.
 
 ent-BoxMagazine635x40mmCaselessPistol = caja de cargadores 635x40mm sin vaina
     .gender = female
@@ -6378,6 +6682,10 @@ ent-BoxMagazine762x39mmPractice = caja de cargadores 7.62x39mm (práctica)
 ent-BoxMagazine762x39mmRubber = caja de cargadores 762x39mm (goma)
     .gender = female
     .desc = Una caja llena de cargadores 762x39mm (práctica).
+
+ent-BoxMagazine762x39mmSubsonic = caja de cargadores de 7.62x39mm (subsónico)
+    .gender = female
+    .desc = Una caja llena de cargadores de 7.62x39mm (subsónicos).
 
 ent-BoxMagazine762x51mmFMJ = caja de cargadores 7.62x51mm
     .gender = female
@@ -6575,6 +6883,10 @@ ent-BoxSurvivalMonoOxygenExtended = Caja de supervivencia de emergencia
     .gender = female
     .desc = Una caja de supervivencia de dotación estándar para el sector Colossus. Contiene herramientas de utilidad para mantenerte con vida en una emergencia.
 
+ent-BoxSurvivalMonoVaporExtended = Caja de supervivencia de emergencia
+    .gender = female
+    .desc = Una caja de supervivencia de dotación estándar para el sector Colossus. Contiene herramientas de utilidad para mantenerte con vida en una emergencia.
+
 ent-BoxSurvivalNFNitrogen = caja de supervivencia
     .gender = female
     .desc = Es una caja con equipo interno básico.
@@ -6630,6 +6942,10 @@ ent-BoxT3SuperCapacitor = Kit de mejora de propulsor
 ent-BoxT4ComponentsAssorted = pack variado de componentes bluespace
     .gender = male
     .desc = Una caja con varios componentes bluespace. ¿Dónde lo encontraste?
+
+ent-BoxTapeRecorder = caja de grabadoras de cinta
+    .gender = female
+    .desc = Una caja con cintas de casete de colores y una grabadora.
 
 ent-BoxTeargasGrenades = caja de granadas lacrimógenas
     .gender = female
@@ -6836,6 +7152,42 @@ ent-Bullet145x114mm = bala (14.5x114mm)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-Bullet357_magnumAP = bala (.357 magnum perforante)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumFMJ = bala (.357 magnum)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumHP = bala (.357 magnum punta hueca)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumIncendiary = bala (.357 magnum incendiaria)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumPlasteelAP = bala (.357 magnum AP)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumPractice = bala (.357 magnum entrenamiento)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumRIP = bala (.357 magnum RIP)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumRubber = bala (.357 magnum goma)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet357_magnumUranium = bala (.357 magnum uranio)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-Bullet35mmGrenadeSAPHE = granada de fragmentación
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
@@ -6897,42 +7249,6 @@ ent-Bullet45_ACPRubber = bala (.45 ACP de goma)
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
 ent-Bullet45_ACPUranium = bala (.45 ACP de uranio)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumAP = bala (.45 magnum perforadora de armadura)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumFMJ = bala (.45 magnum)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumHP = bala (.45 magnum punta hueca)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumIncendiary = bala (.45 magnum incendiaria)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumPlasteelAP = bala (.45 magnum AP)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumPractice = bala (.45 magnum práctica)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumRIP = bala (.45 magnum RIP)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumRubber = bala (.45 magnum de goma)
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-Bullet45_magnumUranium = bala (.45 magnum de uranio)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -7061,6 +7377,10 @@ ent-Bullet68x52mmCaseless = bala (6.8x52mm sin vaina)
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
 ent-Bullet68x52mmCaselessHP = bala (6.8x52mm sin vaina HP)
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet68x52mmCaselessPlasma = bala (6.8x52mm plasma sin vaina)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -7312,7 +7632,7 @@ ent-BulletEldritchHand = mano arcana
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-BulletEnergyGun45_magnum = proyectil .45 magnum
+ent-BulletEnergyGun357_magnum = proyectil .357 magnum
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -7630,6 +7950,10 @@ ent-CameraBug = interceptor de cámara
     .gender = male
     .desc = Un dispositivo ilegal del Syndicate que permite hackear la red de cámaras de la estación.
 
+ent-CameraEconomy1 = cámara de flash fotónico
+    .gender = female
+    .desc = Un sensor óptico adaptado para emitir y recibir fotones de alta energía. Útil.
+
 ent-Candle = vela
     .gender = female
     .desc = Una mecha fina ensartada en grasa.
@@ -7773,6 +8097,18 @@ ent-CannonBallGlassshot = metralla de cristal
 
 ent-CannonBallGrapeshot = metralla
 
+ent-CapacitorEconomy1 = condensador básico industrial
+    .gender = male
+    .desc = Un condensador sencillo útil para el almacenamiento de energía a pequeña escala y circuitos simples.
+
+ent-CapacitorEconomy2 = condensador avanzado industrial
+    .gender = male
+    .desc = Un condensador mejorado capaz de soportar más voltaje y almacenar más energía gracias al poder de los semiconductores refinados.
+
+ent-CapacitorEconomy3 = supercondensador industrial
+    .gender = male
+    .desc = Un condensador de última generación capaz de almacenar cantidades increíbles de energía para su tamaño mediante el uso de tecnología SMES miniaturizada.
+
 ent-CapacitorStockPart = condensador
     .gender = male
     .desc = Un condensador básico utilizado en la construcción de una variedad de dispositivos.
@@ -7780,14 +8116,6 @@ ent-CapacitorStockPart = condensador
 ent-CappyIDCard = tarjeta de identificación de Cappy
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CapsuleEconomy = cápsula de almacenamiento
-    .gender = female
-    .desc = Sirve para almacenar productos químicos y otras sustancias necesarias para procesos industriales. Se puede abrir haciendo alt-clic.
-
-ent-CapsuleLargeEconomy = cápsula de almacenamiento grande
-    .gender = female
-    .desc = Sirve para almacenar productos químicos y otras sustancias necesarias para procesos industriales. Mucho más grande que su predecesora. Se puede abrir haciendo alt-clic.
 
 ent-CaptainIDCard = tarjeta de identificación del Capitán
     .gender = female
@@ -8319,9 +8647,49 @@ ent-Cartridge127x99mm = cartucho (12.7x99mm antimaterial)
 
 ent-Cartridge127x99mmExplosive = cartucho (12.7x99mm explosivo)
 
-ent-Cartridge145x114mm = cartucho (14.5x114mm)
+ent-Cartridge145x114mm = cartucho (14.5x114mm AP)
     .gender = male
     .desc = Proyectil antimaterial aún más grande, capaz de perforar cualquier armadura y barrera sin dificultad.
+
+ent-Cartridge145x114mmEMP = cartucho (14.5x114mm EMPHE)
+    .gender = male
+    .desc = Un proyectil antimaterial aún más grande, capaz de atravesar cualquier armadura y barrera sin dificultad. El pulso electromagnético desactiva toda la electrónica en el punto de impacto, mientras que un explosivo convencional proporciona negación de área.
+
+ent-Cartridge357_magnumAP = cartucho (.357 magnum perforante)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumFMJ = cartucho (.357 magnum)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumHP = cartucho (.357 magnum punta hueca)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumIncendiary = cartucho (.357 magnum incendiario)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumPlasteelAP = cartucho (.357 magnum AP)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumPractice = cartucho (.357 magnum entrenamiento)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumRIP = cartucho (.357 magnum RIP)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumRubber = cartucho (.357 magnum goma)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
+
+ent-Cartridge357_magnumUranium = cartucho (.357 magnum uranio)
+    .gender = male
+    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
 
 ent-Cartridge35mmGrenadeSAPHE = granada 35x53mm SAPHE
 
@@ -8360,42 +8728,6 @@ ent-Cartridge45_ACPRubber = cartucho (.45 ACP de goma)
 ent-Cartridge45_ACPUranium = cartucho (.45 ACP de uranio)
     .gender = male
     .desc = Alternativa más pesada al 9x19mm para pistolas y subfusiles.
-
-ent-Cartridge45_magnumAP = cartucho (.45 magnum perforante)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumFMJ = cartucho (.45 magnum)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumHP = cartucho (.45 magnum punta hueca)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumIncendiary = cartucho (.45 magnum incendiario)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumPlasteelAP = cartucho (.45 magnum AP)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumPractice = cartucho (.45 magnum de práctica)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumRIP = cartucho (.45 magnum RIP)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumRubber = cartucho (.45 magnum de goma)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
-
-ent-Cartridge45_magnumUranium = cartucho (.45 magnum de uranio)
-    .gender = male
-    .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
 
 ent-Cartridge46x30mmEmp = cartucho (4.6x30mm EMP)
     .gender = male
@@ -8522,6 +8854,10 @@ ent-Cartridge68x52mmCaseless = cartucho (6.8x52mm STANAG sin vaina)
     .desc = Un nuevo proyectil intermedio sin vaina desarrollado en los recientes programas de estandarización TSF, aprovechando la experiencia de la munición sin vaina de las antiguas guerras corporativas para mejorar el rendimiento de los fusiles en todos los sectores.
 
 ent-Cartridge68x52mmCaselessHP = cartucho (6.8x52mm STANAG sin vaina HP)
+    .gender = male
+    .desc = Un nuevo proyectil intermedio sin vaina desarrollado en los recientes programas de estandarización TSF, aprovechando la experiencia de la munición sin vaina de las antiguas guerras corporativas para mejorar el rendimiento de los fusiles en todos los sectores.
+
+ent-Cartridge68x52mmCaselessPlasma = cartucho (6.8x52mm STANAG plasma)
     .gender = male
     .desc = Un nuevo proyectil intermedio sin vaina desarrollado en los recientes programas de estandarización TSF, aprovechando la experiencia de la munición sin vaina de las antiguas guerras corporativas para mejorar el rendimiento de los fusiles en todos los sectores.
 
@@ -8748,321 +9084,4 @@ ent-CarvedPumpkinLarge = calabaza tallada
 ent-CarvedPumpkinSmall = calabaza tallada
     .gender = female
     .desc = Una decoración tradicional de miedo.
-
-ent-Catwalk = pasarela
-    .gender = female
-    .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
-
-ent-CatwalkMono = pasarela mono
-    .gender = female
-    .desc = Una pasarela para facilitar la maniobra en EVA y la colocación de cables.
-
-ent-Cautery = cauterio
-    .gender = male
-    .desc = Una herramienta quirúrgica utilizada para cauterizar heridas abiertas.
-
-ent-CavemanClub = garrote de cavernícola
-    .gender = male
-    .desc = Palo grande hacer mucho daño.
-
-ent-CavemanClubCursed = garrote de cavernícola
-    .gender = male
-    .desc = Palo grande hacer mucho... ¿esto no madera?
-
-ent-CBURNIDcard = tarjeta de identificación CBURN
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CBURNPDA = PDA de CBURN
-    .gender = female
-    .desc = Huele a carne podrida.
-
-ent-CCServiceWorkerIDCard = tarjeta de identificación de servicio del Sector Colossus
-    .gender = female
-    .desc = Una tarjeta de identificación perteneciente a un trabajador de servicio en el Sector Colossus.
-
-ent-CCServiceWorkerNFIDCard = tarjeta de identificación de servicio del Sector Colossus
-    .gender = female
-    .desc = Una tarjeta de identificación perteneciente a un trabajador de servicio en el Sector Colossus.
-
-ent-CCServiceWorkerPDA = PDA de servicio del Sector Colossus
-    .gender = female
-    .desc = Un asistente digital personal perteneciente a un trabajador de servicio en el Sector Colossus.
-
-ent-CDDogtags = chapas de identificación
-    .desc = Un juego de chapas de identificación, colgadas de un pequeño cordón para llevarlas puestas.
-
-ent-CEActionToggleLookUp = Mirar hacia arriba
-    .gender = male
-    .desc = Levantas la cabeza y miras al cielo.
-
-ent-CEActionZFlightDown = Descender
-    .gender = male
-    .desc = Reduce el aleteo y desciende un nivel Z.
-
-ent-CEActionZFlightToggle = Activar/desactivar vuelo
-    .gender = male
-    .desc = Alza el vuelo o vuelve a aterrizar.
-
-ent-CEActionZFlightUp = Ascender
-    .gender = male
-    .desc = Bate las alas y asciende un nivel Z.
-
-ent-CEActionZLevelDown = Bajar
-    .gender = male
-    .desc = Baja un nivel Z
-
-ent-CEActionZLevelUp = Subir
-    .gender = male
-    .desc = Sube un nivel Z
-
-ent-CEDustEffect = efecto de polvo
-
-ent-CEIDCard = tarjeta de identificación del Ingeniero Jefe
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CelloInstrument = violonchelo
-    .gender = male
-    .desc = Los frikis los llaman violonchelos.
-
-ent-CellRechargerCircuitboard = placa de máquina del recargador de celdas
-    .gender = female
-    .desc = Una placa de circuito impreso para una máquina recargadora de celdas.
-
-ent-Censer = incensario
-    .gender = male
-    .desc = Normalmente se pone incienso dentro.
-
-ent-CentcomIDCard = tarjeta de identificación de oficial de Mando
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcomIDCardDeathsquad = tarjeta de identificación del escuadrón de la muerte
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcomIDCardDiplomat = tarjeta de identificación del Diplomático de la TSF
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcomIDCardNavyCaptain = tarjeta de identificación del Alto Mando de Winter Solstice
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcomIDCardNavyOfficer = tarjeta de identificación de Oficial de Winter Solstice
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcomIDCardSpecialOperationsOfficer = tarjeta de identificación de Oficial de Operaciones Especiales de Winter Solstice
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-CentcommCommsComputerCircuitboard = placa de computadora de comunicaciones del mando central
-    .gender = female
-    .desc = Una placa de circuito impreso para una consola de comunicaciones del mando central.
-
-ent-CentcommComputerComms = computadora de comunicaciones del mando central
-    .gender = female
-    .desc = Una computadora utilizada para hacer anuncios a escala mundial mediante teclado. La prima superior de la computadora de comunicaciones habitual.
-
-ent-CentCommHypo = hipospray de CentComm
-    .gender = male
-    .desc = Reservado para los mejores médicos de la TSF. Utiliza tecnología experimental de bluespace.
-
-ent-CentCommSectoralConsole = consola sectorial de CentComm
-    .gender = female
-    .desc = Úsala para molestar a los capitanes de todas las estaciones a la vez.
-
-ent-CentcommStimpack = estimulante avanzado de CentComm
-    .gender = male
-    .desc = Según un estudio financiado por la TSF, no tiene propiedades adictivas.
-
-ent-CentcomPDA = PDA de CentComm
-    .gender = female
-    .desc = Señal verde claro de la burocracia andante.
-
-ent-CentrifugeLathe = centrífuga industrial de procesamiento de uranio
-    .gender = female
-    .desc = Una centrífuga industrial de gas de gran tamaño para procesar a granel isótopos y materiales y, en general, hacer que todo dé vueltas. Es mucho más eficiente al producir uranio fisible que las versiones en miniatura. No está equipada para reprocesar combustible nuclear.
-
-ent-CentrifugeLatheMini = centrífuga de procesamiento de uranio económica en miniatura
-    .gender = female
-    .desc = Una centrífuga de gas industrial de tamaño medio para el procesamiento «a granel» de isótopos, materiales y, en general, hacer que todo gire. No es tan rápida ni eficiente como su hermana de estación, pero es útil para operaciones más pequeñas. Demasiado pequeña para reprocesar combustible nuclear.
-
-ent-CentrifugeLatheMiniCircuitboard = placa de máquina de la centrífuga económica en miniatura
-    .gender = female
-    .desc = Una placa de circuito impreso para una centrífuga en miniatura.
-
-ent-CentrifugeMachineCircuitboard = placa de máquina de centrifugadora
-    .gender = female
-    .desc = Una placa de circuito impreso para una centrifugadora.
-
-ent-CEPDA = PDA del Ingeniero Jefe
-    .gender = female
-    .desc = Parece que apenas se ha usado.
-
-ent-CerberusSpread = dispersión Cerberus
-    .gender = female
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-CerenkiteReactorFuelRod = varilla de combustible de cerenkite
-    .gender = female
-    .desc = Una varilla de combustible para un reactor nuclear.
-
-ent-CEWater = agua
-    .gender = male
-    .desc = Seguro que vas a mojarte los pies.
-
-ent-CEWaterMoving = agua
-    .gender = male
-    .desc = Seguro que vas a mojarte los pies.
-
-ent-CEZLevelLadderDirtCliff = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderDirtCliffCorner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderDirtCliffCornerInner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderStone = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderStoneCorner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderStoneCornerInner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderWooden = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelLadderWoodenCorner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofGreen = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofGreenCorner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofGreenCornerInner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofRed = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofRedCorner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-CEZLevelsLadderRoofRedCornerInner = escaleras
-    .desc = Ten cuidado: cuanto más subas, más dolorosa será la caída.
-
-ent-Chainsaw = motosierra
-    .gender = female
-    .desc = Una motosierra enorme. Normalmente se usa para talar árboles... normalmente.
-
-ent-Chair = silla
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairBrass = silla de latón
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairCursed = silla maldita
-    .gender = female
-    .desc = Te está mirando.
-
-ent-ChairFolding = silla plegable
-    .gender = female
-    .desc = Si llevas seis de estas, te conviertes en el niño más guay de la iglesia.
-
-ent-ChairFoldingSpawnFolded = silla plegable
-    .gender = female
-    .desc = Si llevas seis de estas, te conviertes en el niño más guay de la iglesia.
-
-ent-ChairGreyscale = silla
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairMeat = silla de carne
-    .gender = female
-    .desc = Incómodamente sudorosa.
-
-ent-ChairOfficeDark = silla de oficina oscura
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairOfficeLight = silla de oficina blanca
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairPilotSeat = asiento de piloto
-    .gender = male
-    .desc = El asiento del piloto de un prestigioso navío.
-
-ent-ChairRitual = silla ritual
-    .gender = female
-    .desc = Parece incómoda.
-
-ent-ChairWeb = silla web
-    .gender = female
-    .desc = Para verdaderos desarrolladores web.
-
-ent-ChairWood = silla de madera
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChairWoodFancyBlack = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyBlue = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyCyan = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyGreen = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyOrange = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyPink = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyPurple = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyRed = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairWoodFancyWhite = silla de madera elegante
-    .gender = female
-    .desc = Una silla, pero elegante.
-
-ent-ChairXeno = silla xeno
-    .gender = female
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-ChallengeCargoTechnicianSpawner = generador de técnico de carga (desafío)
-
-ent-ChallengeVictimSpawner = generador de víctima de desastre
-
-ent-ChameleonDisguise = Urist McKleiner
-
-ent-ChameleonPDA = PDA de contratista
-    .gender = female
-    .desc = ¿Por qué no es gris?
 

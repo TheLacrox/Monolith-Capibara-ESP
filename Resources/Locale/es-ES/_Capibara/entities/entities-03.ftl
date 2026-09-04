@@ -1,3 +1,632 @@
+ent-FoodBurgerRobot = Roburger
+    .gender = male
+    .desc = La lechuga es el único componente orgánico. Bip.
+
+ent-FoodBurgerRosyMothRoach = Mothroachburger rosa
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerSoy = Hamburguesa soylent
+    .gender = female
+    .desc = Después de comerlo, tienes un irresistible impulso de comprar figuritas de superhéroes a precios desorbitados.
+
+ent-FoodBurgerSpell = Hamburguesa de hechizo
+    .gender = female
+    .desc = Esto es absolutamente Ei Nath.
+
+ent-FoodBurgerSuper = Hamburguesa superbocado
+    .gender = female
+    .desc = Esto es una montaña de hamburguesa. ¡COMIDA!
+
+ent-FoodBurgerTofu = Hamburguesa de tofu
+    .gender = female
+    .desc = ¿Qué... eso es carne?
+
+ent-FoodBurgerXeno = Xenohamburguesa
+    .gender = female
+    .desc = Huele a cáustico. Sabe a herejía.
+
+ent-FoodButter = Barra de mantequilla
+    .gender = female
+    .desc = Una barra de deliciosa, dorada y grasienta bondad.
+
+ent-FoodButterSlice = Rodaja de mantequilla
+    .gender = female
+    .desc = Una nuez de deliciosa, dorada y grasienta bondad.
+
+ent-FoodCabbage = col
+    .gender = male
+    .desc = Puaaaaaaaaj. Col.
+
+ent-FoodCakeApple = tarta de manzana
+    .gender = female
+    .desc = Una tarta rellena de manzana.
+
+ent-FoodCakeAppleSlice = porción de tarta de manzana
+    .gender = female
+    .desc = Una porción de tarta celestial.
+
+ent-FoodCakeBatter = masa para tarta
+    .gender = female
+    .desc = Cocínala para obtener una tarta.
+
+ent-FoodCakeBirthday = tarta de cumpleaños
+    .gender = female
+    .desc = Feliz cumpleaños, pequeño payaso...
+
+ent-FoodCakeBirthdaySlice = porción de tarta de cumpleaños
+    .gender = female
+    .desc = Una porción de tu cumpleaños.
+
+ent-FoodCakeBlueberry = tarta de arándanos
+    .gender = female
+    .desc = Te mancha los dientes.
+
+ent-FoodCakeBlueberrySlice = porción de arándanos
+    .gender = female
+    .desc = Te mancha los dientes.
+
+ent-FoodCakeBrain = tarta cerebro
+    .gender = female
+    .desc = Una cosa-tarta blandurria.
+
+ent-FoodCakeBrainSlice = porción de tarta cerebro
+    .gender = female
+    .desc = Déjame contarte algo sobre los priones. SON DELICIOSOS.
+
+ent-FoodCakeCarrot = tarta de zanahoria
+    .gender = female
+    .desc = El postre favorito de un cierto conejito travieso.
+
+ent-FoodCakeCarrotSlice = porción de tarta de zanahoria
+    .gender = female
+    .desc = Una zanahorosa porción de tarta de zanahoria. ¡Las zanahorias son buenas para los ojos!
+
+ent-FoodCakeCheese = tarta de queso
+    .gender = female
+    .desc = PELIGROSAMENTE quesosa.
+
+ent-FoodCakeCheeseSlice = porción de tarta de queso
+    .gender = female
+    .desc = Una porción de pura quesatisfacción.
+
+ent-FoodCakeChocolate = tarta de chocolate
+    .gender = female
+    .desc = Una tarta con chocolate añadido.
+
+ent-FoodCakeChocolateSlice = porción de tarta de chocolate
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakeChristmas = tarta de Navidad
+    .gender = female
+    .desc = Una tarta hecha de Navidad.
+
+ent-FoodCakeChristmasSlice = porción de tarta de Navidad
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakeClown = tarta payaso
+    .gender = female
+    .desc = Una graciosa tarta con cara de payaso.
+
+ent-FoodCakeClownSlice = porción de tarta payaso
+    .gender = female
+    .desc = Una porción de malos chistes y accesorios ridículos.
+
+ent-FoodCakeLemon = tarta de limón
+    .gender = female
+    .desc = Una tarta con limón añadido.
+
+ent-FoodCakeLemonSlice = porción de tarta de limón
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakeLemoon = tarta lemoon
+    .gender = female
+    .desc = Una tarta que representa la luna de la Tierra.
+
+ent-FoodCakeLemoonSlice = fragmento de tarta lemoon
+    .gender = male
+    .desc = Un fragmento de luna, con olor a leche.
+
+ent-FoodCakeLime = tarta de lima
+    .gender = female
+    .desc = Una tarta con lima añadida.
+
+ent-FoodCakeLimeSlice = porción de tarta de lima
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakeOrange = tarta de naranja
+    .gender = female
+    .desc = Una tarta con naranja añadida.
+
+ent-FoodCakeOrangeSlice = porción de tarta de naranja
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakePlain = tarta
+    .gender = female
+    .desc = Una tarta sencilla, no una mentira.
+
+ent-FoodCakePlainSlice = porción de tarta
+    .gender = female
+    .desc = Solo una porción de tarta, es suficiente para todos.
+
+ent-FoodCakePumpkin = tarta de calabaza especiada
+    .gender = female
+    .desc = Una tarta hueca con calabaza de verdad.
+
+ent-FoodCakePumpkinSlice = porción de tarta de calabaza especiada
+    .gender = female
+    .desc = Una picante porción de bondad de calabaza.
+
+ent-FoodCakeSlime = tarta de slime
+    .gender = female
+    .desc = Una tarta hecha de slimes. Probablemente no electrificada.
+
+ent-FoodCakeSlimeSlice = porción de tarta de slime
+    .gender = female
+    .desc = Una porción de tarta de slime.
+
+ent-FoodCakeSpaceman = tarta del astronauta
+    .gender = female
+    .desc = Una tarta glaseada con trompeta de astronauta.
+
+ent-FoodCakeSpacemanSlice = porción de tarta del astronauta
+    .gender = female
+    .desc = Una tarta glaseada con trompeta de astronauta.
+
+ent-FoodCakeSuppermatter = supracena
+    .gender = female
+    .desc = Alimento extremadamente denso y poderoso.
+
+ent-FoodCakeSuppermatterSlice = fragmento de supracena
+    .gender = male
+    .desc = Una porción única de poder.
+
+ent-FoodCakeVanilla = tarta de vainilla
+    .gender = female
+    .desc = Una tarta glaseada de vainilla.
+
+ent-FoodCakeVanillaSlice = porción de tarta de vainilla
+    .gender = female
+    .desc = Una porción de tarta glaseada de vainilla.
+
+ent-FoodCannabisButter = barra de mantequilla de cannabis
+    .gender = female
+    .desc = Añade esto a tus productos horneados favoritos para un buen rato.
+
+ent-FoodCarrot = zanahoria
+    .gender = female
+    .desc = ¡Es buena para los ojos!
+
+ent-FoodCartCold = carrito de comida fría
+    .gender = male
+    .desc = ¡Es el heladero! ¡Es el heladero!
+
+ent-FoodCartHot = carrito de comida caliente
+    .gender = male
+    .desc = Sal ahí fuera y vende unos perritos calientes.
+
+ent-FoodCheese = rueda de queso
+    .gender = female
+    .desc = Una gran rueda de delicioso Cheddar.
+
+ent-FoodCheeseCurds = cuajada de queso
+    .gender = female
+    .desc = No confundir con el queso de cuajada. Deliciosa frita.
+
+ent-FoodCheeseGrits = gachas de maíz con queso
+    .desc = Un espeso y sabroso cuenco de gachas de maíz con queso.
+
+ent-FoodCheeseSlice = cuña de queso
+    .gender = female
+    .desc = Una cuña de delicioso Cheddar. La rueda de queso de la que fue cortada no puede haber ido muy lejos.
+
+ent-FoodCherry = cereza
+    .gender = female
+    .desc = Cereza roja y jugosa con hueso en su interior.
+
+ent-FoodChevre = rulo de chèvre
+    .gender = male
+    .desc = Un rulo suave de cremoso Chèvre.
+
+ent-FoodChevreSlice = disco de chèvre
+    .gender = male
+    .desc = Un pequeño disco de cremoso Chèvre. Un adorno ideal para guarniciones francesas.
+
+ent-FoodChiliPepper = guindilla
+    .gender = female
+    .desc = Picante, mejor no te toques los ojos.
+
+ent-FoodChillyPepper = guindilla fría
+    .gender = female
+    .desc = Gélido y ardiente.
+
+ent-FoodCocoaBeans = granos de cacao
+    .desc = ¡Nunca puede haber demasiado chocolate!
+
+ent-FoodCocoaPod = vaina de cacao
+    .gender = female
+    .desc = ¡Nunca puede haber demasiado chocolate!
+
+ent-FoodCoffee = bayas de café
+    .desc = Bayas rojas que contienen granos de café.
+
+ent-FoodCoffeeBeansRaw = granos de café verde
+    .desc = Granos de café verde, esperando ser tostados.
+
+ent-FoodCoffeeBeansRoastedDark = granos de café tostado oscuro
+    .desc = Granos de café torrefacto al estilo vienés. Ahumados y especiados.
+
+ent-FoodCoffeeBeansRoastedLight = granos de café tostado suave
+    .desc = Granos de café tostado canela. Frescos y afrutados.
+
+ent-FoodCoffeeBeansRoastedMedium = granos de café tostado medio
+    .desc = Granos de café tostado city. Suaves y con sabor a nuez.
+
+ent-FoodCondimentBottleBBQ = botella de salsa BBQ
+    .gender = female
+    .desc = Toallitas para manos no incluidas.
+
+ent-FoodCondimentBottleColdsauce = botella de salsa fría
+    .gender = female
+    .desc = Deja la lengua entumecida a su paso.
+
+ent-FoodCondimentBottleEnzyme = enzima universal
+    .gender = female
+    .desc = Se usa en la cocina para preparar diversos platos.
+
+ent-FoodCondimentBottleHotsauce = botella de salsa picante
+    .gender = female
+    .desc = ¡Casi puedes SABOREAR las úlceras de estómago ahora!
+
+ent-FoodCondimentBottleKetchup = botella de kétchup
+    .gender = female
+    .desc = Ya te sientes más americano.
+
+ent-FoodCondimentBottleSoysauce = botella de salsa de soja
+    .gender = female
+    .desc = Se usa para sazonar platos con perfección umami. ¡Con sodio extra!
+
+ent-FoodCondimentBottleVinegar = botella de vinagre
+    .gender = female
+    .desc = Se usa en cocina para realzar el sabor.
+
+ent-FoodCondimentPacketAstrotame = Astrotame
+    .gender = male
+    .desc = La dulzura de mil azúcares pero sin ninguna de las calorías.
+
+ent-FoodCondimentPacketBbq = salsa BBQ
+    .gender = female
+    .desc = Toallitas para manos no incluidas.
+
+ent-FoodCondimentPacketColdsauce = salsa fría
+    .gender = female
+    .desc = Salsa fría. Deja la lengua entumecida a su paso.
+
+ent-FoodCondimentPacketCornoil = aceite de maíz
+    .gender = male
+    .desc = Aceite de maíz. Un delicioso aceite usado en cocina. Hecho de maíz.
+
+ent-FoodCondimentPacketHorseradish = salsa de rábano picante
+    .gender = female
+    .desc = Un sobre de apestosa salsa de rábano picante.
+
+ent-FoodCondimentPacketHotsauce = salsa picante
+    .gender = female
+    .desc = ¡Casi puedes SABOREAR las úlceras de estómago ahora!
+
+ent-FoodCondimentPacketKetchup = kétchup
+    .gender = male
+    .desc = Ya te sientes más americano.
+
+ent-FoodCondimentPacketMustard = mostaza
+    .gender = female
+    .desc = Un condimento elaborado con las semillas molidas de la planta de mostaza.
+
+ent-FoodCondimentPacketPepper = pimienta negra
+    .gender = female
+    .desc = Se usa a menudo para sazonar la comida o hacer estornudar a la gente.
+
+ent-FoodCondimentPacketSalt = sal
+    .gender = female
+    .desc = Sal. De océanos espaciales, se supone.
+
+ent-FoodCondimentPacketSoy = salsa de soja
+    .gender = female
+    .desc = Un condimento salado a base de soja.
+
+ent-FoodCondimentPacketSugar = azúcar
+    .gender = male
+    .desc = ¡Azúcar espacial delicioso!
+
+ent-FoodCondimentSqueezeBottleClear = bote exprimible
+    .gender = male
+    .desc = Cuando se trata de botes exprimibles, esta es la elección obvia.
+
+ent-FoodCondimentSqueezeBottleKetchup = bote exprimible
+    .gender = male
+    .desc = Un recipiente de plástico fino usado para guardar condimentos.
+
+ent-FoodCondimentSqueezeBottleMustard = bote exprimible
+    .gender = male
+    .desc = Un recipiente de plástico fino usado para guardar condimentos.
+
+ent-FoodContainerEgg = caja de huevos
+    .gender = female
+    .desc = ¡No los tires!
+
+ent-FoodContainerEggEmpty = caja de huevos
+    .gender = female
+    .desc = ¡No los tires!
+
+ent-FoodCookieFortune = galleta de la fortuna
+    .gender = female
+    .desc = La fortuna dice: El fin está cerca... y es culpa tuya.
+
+ent-FoodCorn = mazorca de maíz
+    .gender = female
+    .desc = ¡Le falta mantequilla! Y cocción...
+
+ent-FoodCornTrash = zuro de maíz
+    .gender = male
+    .desc = No queda ni un maldito grano.
+
+ent-FoodCroissantRaw = cruasán crudo
+    .gender = male
+    .desc = Mantecoso, hojaldrado y listo para convertirse en algo delicioso.
+
+ent-FoodCroissantRawCotton = cruasán de algodón crudo
+    .gender = male
+    .desc = Mantecoso, hojaldrado, fibroso y listo para convertirse en algo delicioso.
+
+ent-FoodCucumber = pepino
+    .gender = male
+    .desc = Como agua fresca y crujiente.
+
+ent-FoodCucumberSlice = rodaja de pepino
+    .gender = female
+    .desc = Como agua fresca y crujiente, pero más pequeña.
+
+ent-FoodCurdCheese = requesón
+    .gender = male
+    .desc = Conocido por muchos nombres en la cocina, el requesón es útil para una gran variedad de platos.
+
+ent-FoodCuredCarp = filete de pescado crudo
+    .gender = male
+    .desc = Un trozo de pescado espacial fresco, apto para comer. Huele a espacio y a pescado.
+
+ent-FoodCuredCarpBattered = filete de pescado crudo rebozado
+    .gender = male
+    .desc = Un trozo de pescado espacial fresco, rebozado en una mezcla pegajosa de harina y huevo.
+
+ent-FoodCuredCarpFried = pescado frito
+    .gender = male
+    .desc = Un delicioso trozo de pescado, crujiente y frito a la perfección.
+
+ent-FoodDonkpocket = donk-pocket
+    .gender = male
+    .desc = El alimento preferido del traidor experimentado.
+
+ent-FoodDonkpocketBerry = berry-pocket
+    .gender = male
+    .desc = Un donk-pocket incansablemente dulce. Hecho con aromas 100% artificiales.
+
+ent-FoodDonkpocketBerryWarm = berry-pocket caliente
+    .gender = male
+    .desc = Un donk-pocket incansablemente dulce, ahora caliente y delicioso.
+
+ent-FoodDonkpocketCarp = carp-pocket
+    .gender = male
+    .desc = Una edición perdida del donk pocket, hecha específicamente para los trabajadores del salvamento.
+
+ent-FoodDonkpocketCarpWarm = carp-pocket caliente
+    .gender = male
+    .desc = Una edición perdida del donk pocket, hecha específicamente para los trabajadores del salvamento.
+
+ent-FoodDonkpocketDank = dank-pocket
+    .gender = male
+    .desc = El alimento preferido del botánico experimentado.
+
+ent-FoodDonkpocketDankWarm = dank-pocket caliente
+    .gender = male
+    .desc = El alimento caliente preferido del botánico experimentado.
+
+ent-FoodDonkpocketDink = dink-pocket
+    .gender = male
+    .desc = Un donk-pocket de lagarto de marca alternativa, relleno de zanahoria encurtida y envuelto en algas. Mejor frío, o mejor aún, sin comer del todo.
+
+ent-FoodDonkpocketHonk = honk-pocket
+    .gender = male
+    .desc = El premiado donk-pocket que conquistó el corazón de payasos y humanos por igual.
+
+ent-FoodDonkpocketHonkWarm = honk-pocket caliente
+    .gender = male
+    .desc = El premiado donk-pocket, ahora caliente y tostadito.
+
+ent-FoodDonkpocketPizza = pizza-pocket
+    .gender = male
+    .desc = Delicioso, con queso y sorprendentemente saciante.
+
+ent-FoodDonkpocketPizzaWarm = pizza-pocket caliente
+    .gender = male
+    .desc = El relleno de queso sienta de maravilla cuando está caliente.
+
+ent-FoodDonkpocketSpicy = spicy-pocket
+    .gender = male
+    .desc = El clásico aperitivo, ahora con un toque picante activado por el calor.
+
+ent-FoodDonkpocketSpicyWarm = spicy-pocket caliente
+    .gender = male
+    .desc = El clásico aperitivo, ahora quizás demasiado picante.
+
+ent-FoodDonkpocketStonk = stonk-pocket
+    .gender = male
+    .desc = Sabroso, pero un triste recordatorio del gran crack del 24.
+
+ent-FoodDonkpocketStonkWarm = stonk-pocket caliente
+    .gender = male
+    .desc = Sabroso, pero un triste recordatorio del gran crack del 24.
+
+ent-FoodDonkpocketTeriyaki = teriyaki-pocket
+    .gender = male
+    .desc = Una versión del este asiático del clásico aperitivo de la estación.
+
+ent-FoodDonkpocketTeriyakiWarm = teriyaki-pocket caliente
+    .gender = male
+    .desc = Una versión del este asiático del clásico aperitivo de la estación, ahora humeante y caliente.
+
+ent-FoodDonkpocketWarm = donk-pocket caliente
+    .gender = male
+    .desc = El alimento caliente preferido del traidor experimentado.
+
+ent-FoodDonut = donut de matcha
+    .gender = male
+    .desc = La L-teanina de este donut es relajante, aunque no euforizante. Combina perfectamente con una taza de té.
+
+ent-FoodDonutApple = donut de manzana
+    .gender = male
+    .desc = Combina perfectamente con un chupito de schnapps de canela.
+
+ent-FoodDonutBluePumpkin = donut de calabaza azul
+    .gender = male
+    .desc = Combina perfectamente con una taza de reconfortante calabaza azul borracha.
+
+ent-FoodDonutBungo = donut bungo
+    .gender = male
+    .desc = Combina perfectamente con un tarro de hippie's delight.
+
+ent-FoodDonutCaramel = donut de caramelo
+    .gender = male
+    .desc = Combina perfectamente con una taza de cacao caliente.
+
+ent-FoodDonutChaos = donut del caos
+    .gender = male
+    .desc = Como la vida, nunca sabe exactamente igual.
+
+ent-FoodDonutChocolate = donut de chocolate
+    .gender = male
+    .desc = Combina perfectamente con un vaso de leche caliente.
+
+ent-FoodDonutHomer = donut
+    .gender = male
+    .desc = Combina perfectamente con un café intenso.
+
+ent-FoodDonutJelly = donut relleno de matcha
+    .gender = male
+    .desc = La L-teanina de este donut relleno es relajante, aunque no euforizante. Combina perfectamente con una taza de té.
+
+ent-FoodDonutJellyApple = donut relleno de manzana
+    .gender = male
+    .desc = Combina perfectamente con un chupito de schnapps de canela.
+
+ent-FoodDonutJellyBluePumpkin = donut relleno de calabaza azul
+    .gender = male
+    .desc = Combina perfectamente con una taza de reconfortante calabaza azul borracha.
+
+ent-FoodDonutJellyBungo = donut relleno bungo
+    .gender = male
+    .desc = Combina perfectamente con un tarro de hippie's delight.
+
+ent-FoodDonutJellyCaramel = donut relleno de caramelo
+    .gender = male
+    .desc = Combina perfectamente con una taza de cacao caliente.
+
+ent-FoodDonutJellyChocolate = donut relleno de chocolate
+    .gender = male
+    .desc = Combina perfectamente con un vaso de leche caliente.
+
+ent-FoodDonutJellyHomer = donut relleno
+    .gender = male
+    .desc = ¿Envidia?
+
+ent-FoodDonutJellyPink = donut relleno rosa
+    .gender = male
+    .desc = Combina perfectamente con un latte de soja.
+
+ent-FoodDonutJellyPlain = donut relleno simple
+    .gender = male
+    .desc = Combina perfectamente con un café intenso.
+
+ent-FoodDonutJellySlugcat = donut relleno de slugcat
+    .gender = male
+    .desc = Sin agujero, por si aparece algún poste de aspecto sospechoso.
+
+ent-FoodDonutJellySpaceman = donut relleno del astronauta
+    .gender = male
+    .desc = Combina perfectamente con un vaso de precipitados frío de malk.
+
+ent-FoodDonutJellySweetpea = donut relleno de guisante dulce
+    .gender = male
+    .desc = ¡Combina perfectamente con una botella de Bastion Burbon!
+
+ent-FoodDonutMeat = donut de carne
+    .gender = male
+    .desc = Sabe tan asqueroso como parece.
+
+ent-FoodDonutPink = donut rosa
+    .gender = male
+    .desc = Combina perfectamente con un latte de soja.
+
+ent-FoodDonutPlain = donut simple
+    .gender = male
+    .desc = Combina perfectamente con un café intenso.
+
+ent-FoodDonutPoison = donut rosa
+    .gender = male
+    .desc = Combina perfectamente con un latte de soja.
+
+ent-FoodDonutSpaceman = donut del astronauta
+    .gender = male
+    .desc = Combina perfectamente con un vaso de precipitados frío de malk.
+
+ent-FoodDonutSweetpea = donut de guisante dulce
+    .gender = male
+    .desc = ¡Combina perfectamente con una botella de Bastion Burbon!
+
+ent-FoodDonutUncooked = donut crudo
+    .gender = male
+    .desc = Necesita un momento en la freidora y ya estará listo para comer.
+
+ent-FoodDonutUncookedJelly = donut relleno crudo
+    .gender = male
+    .desc = Combina perfectamente con un café intenso.
+
+ent-FoodDough = masa
+    .gender = female
+    .desc = Un trozo de masa.
+
+ent-FoodDoughCornmeal = Masa de harina de maíz
+    .gender = female
+    .desc = Un trozo de masa de harina de maíz.
+
+ent-FoodDoughCornmealSlice = Rebanada de masa de harina de maíz
+    .gender = female
+    .desc = Una rebanada de masa de harina de maíz.
+
+ent-FoodDoughCotton = Masa de algodón
+    .gender = female
+    .desc = Un trozo de masa de tela.
+
+ent-FoodDoughCottonFlat = Masa de algodón aplastada
+    .gender = female
+    .desc = Una masa de algodón aplastada.
+
+ent-FoodDoughCottonRope = Cordel de masa
+    .gender = male
+    .desc = Un fino fideo de masa de algodón. Se puede cocinar para hacer un bagel de algodón.
+
+ent-FoodDoughCottonSlice = Rebanada de masa de algodón
+    .gender = female
+    .desc = Una rebanada de masa de algodón.
+
+ent-FoodDoughFlat = Masa aplastada
+    .gender = female
+    .desc = Una masa aplastada.
+
 ent-FoodDoughFlatButtered = Masa aplastada con mantequilla
     .gender = female
     .desc = Una masa aplastada y untada con mantequilla.
@@ -2490,7 +3119,15 @@ ent-GasPressurePumpAlt1 = bomba de gas
     .gender = female
     .desc = Una bomba que mueve el gas por presión.
 
+ent-GasPressurePumpAlt1On = bomba de gas
+    .gender = female
+    .desc = Una bomba que mueve el gas por presión.
+
 ent-GasPressurePumpAlt2 = bomba de gas
+    .gender = female
+    .desc = Una bomba que mueve el gas por presión.
+
+ent-GasPressurePumpAlt2On = bomba de gas
     .gender = female
     .desc = Una bomba que mueve el gas por presión.
 
@@ -2602,6 +3239,14 @@ ent-GasVentPump = ventilación de aire
     .gender = female
     .desc = Tiene una válvula y una bomba incorporadas.
 
+ent-GasVentPumpAlt1 = ventilación de aire
+    .gender = female
+    .desc = Tiene una válvula y una bomba incorporadas.
+
+ent-GasVentPumpAlt2 = ventilación de aire
+    .gender = female
+    .desc = Tiene una válvula y una bomba incorporadas.
+
 ent-GasVentPumpFreezer = ventilación de aire
     .gender = female
     .desc = Tiene una válvula y una bomba incorporadas.
@@ -2611,6 +3256,14 @@ ent-GasVentPumpVox = ventilación de aire
     .desc = Tiene una válvula y una bomba incorporadas.
 
 ent-GasVentScrubber = depurador de aire
+    .gender = male
+    .desc = Tiene una válvula y bomba incorporadas.
+
+ent-GasVentScrubberAlt1 = depurador de aire
+    .gender = male
+    .desc = Tiene una válvula y bomba incorporadas.
+
+ent-GasVentScrubberAlt2 = depurador de aire
     .gender = male
     .desc = Tiene una válvula y bomba incorporadas.
 
@@ -2630,7 +3283,15 @@ ent-GasVolumePumpAlt1 = bomba de gas volumétrica
     .gender = female
     .desc = Una bomba que mueve el gas por volumen.
 
+ent-GasVolumePumpAlt1On = bomba de gas volumétrica
+    .gender = female
+    .desc = Una bomba que mueve el gas por volumen.
+
 ent-GasVolumePumpAlt2 = bomba de gas volumétrica
+    .gender = female
+    .desc = Una bomba que mueve el gas por volumen.
+
+ent-GasVolumePumpAlt2On = bomba de gas volumétrica
     .gender = female
     .desc = Una bomba que mueve el gas por volumen.
 
@@ -2641,6 +3302,14 @@ ent-GasVolumePumpOn = bomba de gas volumétrica
 ent-Gateway = portal
     .gender = male
     .desc = Un misterioso portal construido por manos desconocidas que permite viajar más rápido que la luz a lugares remotos.
+
+ent-GatewayCentral = portal de tránsito central
+    .gender = male
+    .desc = Te transporta del punto A al punto B. No se garantiza la seguridad una vez que comienza el viaje.
+
+ent-GatewayNode = portal de tránsito del nodo zeta
+    .gender = male
+    .desc = Te transporta del punto A al punto B. No se garantiza la seguridad una vez iniciado el viaje.
 
 ent-GatfruitSeeds = paquete de semillas de gatfruit
     .gender = male
@@ -3472,6 +4141,10 @@ ent-HeadDiona = cabeza de diona
     .gender = female
     .desc = No tiene sentido no vivir para divertirse, tu cerebro se vuelve listo pero tu cabeza se vuelve tonta.
 
+ent-HeadFeroxi = cabeza de feroxi
+    .gender = female
+    .desc = No tiene sentido no vivir para divertirse, tu cerebro se vuelve listo pero tu cabeza se vuelve tonta.
+
 ent-HeadGingerbread = cabeza de pan de jengibre
     .gender = female
     .desc = No tiene sentido no vivir para divertirse, tu cerebro se vuelve listo pero tu cabeza se vuelve tonta.
@@ -3579,6 +4252,8 @@ ent-HeatExchangerInline = radiador en línea
 ent-HeatExchangerInlineBend = radiador en línea
     .gender = male
     .desc = Transfiere calor entre el tubo y su entorno. No necesita flujo de gas.
+
+ent-HeavyBallisticShield = escudo balístico pesado
 
 ent-HeavyMechCannon = Autocañón de ráfaga pesado 220mm "Metronome"
     .gender = male
@@ -4434,10 +5109,6 @@ ent-HospitalCurtains = cortinas
 ent-HospitalCurtainsOpen = cortinas
     .desc = Contiene menos del 1% de mercurio.
 
-ent-HotplateMachineCircuitboard = placa de máquina de placa caliente
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para una placa caliente.
-
 ent-HotPotato = patata caliente
     .gender = female
     .desc = ¡Una vez activada, no puedes soltar esta bomba de tiempo! ¡Golpea a alguien más con ella para salvarte! ¡No te quemes las manos!
@@ -4747,13 +5418,45 @@ ent-IndustrialFurnaceEconomy = horno de arco industrial
     .gender = male
     .desc = Un horno de arco avanzado capaz de fundir minerales y refinar materiales mediante calor. Esencial para crear aleaciones avanzadas.
 
-ent-IndustrialLatheEconomy = torno de acero industrial
+ent-IndustrialFurnaceEconomyCompact = horno de arco compacto
     .gender = male
-    .desc = Capaz de dar forma al metal en todo tipo de figuras. Esencial para comenzar a crear la mayoría de los objetos avanzados.
+    .desc = Una versión compacta del horno de arco avanzado, capaz de fundir minerales y refinar materiales mediante calor. Esencial para crear aleaciones avanzadas. Más lento y con menos capacidad.
 
-ent-IndustrialLatheEconomyMachineCircuitboard = placa de máquina de torno industrial
+ent-IndustrialFurnaceEconomyCompactCircuitboard = placa de máquina de horno de arco compacto
     .gender = female
-    .desc = Una placa de circuito impreso para un torno industrial de economía.
+    .desc = Una placa de circuito impreso de máquina para un horno de arco compacto.
+
+ent-IndustrialPressEconomyElectronics = prensa industrial (electrónica)
+    .gender = female
+    .desc = Capaz de dar forma al metal en todo tipo de figuras. Este está calibrado para electrónica.
+
+ent-IndustrialPressEconomyElectronicsMachineCircuitboard = placa de máquina de prensa industrial (electrónica)
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una prensa industrial, calibrada para componentes electrónicos. Usa un destornillador sobre ella para cambiar entre variantes.
+
+ent-IndustrialPressEconomyElectronicsMMC = prensa industrial (electrónica)
+    .gender = female
+    .desc = Capaz de dar forma al metal en todo tipo de figuras. Este está calibrado para electrónica. Es un patrón de mayor calidad patentado por Meiyo Manufacturing Concerns.
+
+ent-IndustrialPressEconomyElectronicsMMCMachineCircuitboard = placa de máquina de prensa industrial MMC (electrónica)
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una prensa industrial, calibrada para componentes electrónicos. Usa un destornillador sobre ella para cambiar entre variantes.
+
+ent-IndustrialPressEconomyPlates = prensa industrial (placas)
+    .gender = female
+    .desc = Capaz de dar forma al metal en todo tipo de figuras. Este está calibrado para blindaje.
+
+ent-IndustrialPressEconomyPlatesMachineCircuitboard = placa de máquina de prensa industrial (placas)
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una prensa industrial, calibrada para chapado. Usa un destornillador sobre ella para cambiar entre variantes.
+
+ent-IndustrialPressEconomyPlatesMMC = prensa industrial (placas)
+    .gender = female
+    .desc = Capaz de dar forma al metal en todo tipo de figuras. Este está calibrado para blindaje. Es un patrón de mayor calidad patentado por Meiyo Manufacturing Concerns.
+
+ent-IndustrialPressEconomyPlatesMMCMachineCircuitboard = placa de máquina de prensa industrial MMC (placas)
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una prensa industrial, calibrada para chapado. Usa un destornillador sobre ella para cambiar entre variantes.
 
 ent-InflatableDoor = puerta hinchable
     .gender = female
@@ -4820,6 +5523,18 @@ ent-Intellicard = intellicard
 ent-Interactor = interactor
     .gender = male
     .desc = Un actuador robótico especializado en interactuar con objetos usando herramientas.
+
+ent-InteractorCCTC = interactor propietario
+    .gender = male
+    .desc = Un diseño propietario y más eficiente de un actuador robótico especializado en interactuar con objetos usando otros objetos diversos.
+
+ent-InteractorCCTCCircuitboard = placa de máquina de interactor propietario
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un interactor propietario. Muy importante para la fabricación automatizada.
+
+ent-InteractorCCTCFlatpack = paquete plano de interactor propietario
+    .gender = male
+    .desc = Un paquete plano para construir un interactor propietario.
 
 ent-InteractorCircuitboard = placa de máquina de interactor
     .gender = female
@@ -4898,6 +5613,14 @@ ent-InventoryStunnableDummy = InventoryStunnableDummy
 ent-InvisibleCrate = caja
     .gender = female
     .desc = Un gran contenedor para objetos.
+
+ent-IriditeCrystal = iridita cristalina
+    .gender = female
+    .desc = Un estado natural de la iridita resultante del procesamiento no atmosférico de iridita. Necesita procesarse de nuevo en un horno de arco con varios productos químicos para obtener 1 lámina de iridita.
+
+ent-IriditePowder = polvo de iridita en bruto
+    .gender = male
+    .desc = Escoria de iridita en bruto molida en una centrífuga de procesamiento, lista para mezclarse con napalm y termita en un horno de arco para fabricar cristales de iridita.
 
 ent-IrishBoolGlass = vaso metamórfico
     .gender = male
@@ -5606,6 +6329,10 @@ ent-LargePowerCell700Thz = Caja de batería DEW-VU 700Thz (grande)
     .gender = female
     .desc = Una caja de energía grande y militarizada para armas de energía dirigida. Ajustada para disparar láseres de alta frecuencia con baja capacidad y baja velocidad de recarga. Resistente a los EMP.
 
+ent-LargePowerCellPlasma68x52mm = condensador de plasma DEW-PLC (grande)
+    .gender = male
+    .desc = Una caja de energía grande y militarizada para armas de energía, ajustada para funcionar con mecanismos de disparo balísticos. Usa la energía almacenada para sobrecalentar partículas hasta convertirlas en plasma antes de disparar. Débil frente a EMP, pero reutilizable.
+
 ent-LargeThrusterMachineCircuitboard = placa de máquina de propulsor grande
     .gender = female
     .desc = Una placa de circuito grande para un marco de máquina de 2x2.
@@ -5694,6 +6421,8 @@ ent-Left4ZedChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
 
+ent-LeftAnimalFeet = pie izquierdo de animal
+
 ent-LeftArmArachnid = brazo izquierdo arácnido
 
 ent-LeftArmAsakim = brazo izquierdo asakim
@@ -5703,6 +6432,8 @@ ent-LeftArmBorg = brazo izquierdo de cyborg
 ent-LeftArmChitinid = brazo izquierdo chitínido
 
 ent-LeftArmDiona = brazo izquierdo diona
+
+ent-LeftArmFeroxi = brazo izquierdo feroxi
 
 ent-LeftArmGingerbread = brazo izquierdo de jengibre
 
@@ -5751,6 +6482,8 @@ ent-LeftFootChitinid = pie izquierdo chitínido
 ent-LeftFootCybernetic = pie izquierdo cibernético
 
 ent-LeftFootDiona = pie izquierdo diona
+
+ent-LeftFootFeroxi = pie izquierdo feroxi
 
 ent-LeftFootGingerbread = pie izquierdo de jengibre
 
@@ -5804,6 +6537,8 @@ ent-LeftHandDwarf = mano izquierda de enano
 
 ent-LeftHandFelinid = mano izquierda félida
 
+ent-LeftHandFeroxi = mano izquierda feroxi
+
 ent-LeftHandGingerbread = mano izquierda de jengibre
 
 ent-LeftHandGoblin = mano izquierda goblin
@@ -5854,6 +6589,8 @@ ent-LeftLegChitinid = pierna izquierda chitínida
 
 ent-LeftLegDiona = pierna izquierda diona
 
+ent-LeftLegFeroxi = pierna izquierda feroxi
+
 ent-LeftLegGingerbread = pierna izquierda de jengibre
 
 ent-LeftLegGoblin = pierna izquierda goblin
@@ -5879,6 +6616,8 @@ ent-LeftLegReptilian = pierna izquierda reptiliana
 ent-LeftLegResomi = pierna izquierda resomi
 
 ent-LeftLegRodentia = pierna izquierda rodentia
+
+ent-LeftLegsAnimal = pata izquierda de animal
 
 ent-LeftLegSkeleton = pierna izquierda de esqueleto
 
@@ -6267,6 +7006,10 @@ ent-LockableButtonMedical = botón con bloqueo
     .gender = male
     .desc = Es un botón para activar algo.
 
+ent-LockableButtonMieyo = botón con bloqueo
+    .gender = male
+    .desc = Es un botón para activar algo.
+
 ent-LockableButtonPirate = botón con bloqueo
     .gender = male
     .desc = Es un botón para activar algo.
@@ -6324,6 +7067,10 @@ ent-LockerAtmosphericsFilled = taquilla del técnico de atmósferas
     .desc = Una unidad de almacenamiento estándar.
 
 ent-LockerAtmosphericsFilledHardsuit = taquilla del técnico de atmósferas
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar.
+
+ent-LockerATU = taquilla ropero ATU
     .gender = female
     .desc = Una unidad de almacenamiento estándar.
 
@@ -6707,7 +7454,7 @@ ent-LockerWallChemistryFilled = taquilla de pared de química
     .gender = female
     .desc = Una unidad de almacenamiento estándar, pero en paredes.
 
-ent-LockerWallColorAme = taquilla de pared de combustible AME
+ent-LockerWallColorAme = taquilla de pared de combustible IRE
     .gender = female
     .desc = Una unidad de almacenamiento estándar, pero en paredes.
 
@@ -7059,7 +7806,7 @@ ent-LockerWallMaterialsBasicFilled = taquilla de pared de materiales
     .gender = female
     .desc = Una unidad de almacenamiento estándar, pero en paredes.
 
-ent-LockerWallMaterialsFuelAmeJarFilled = taquilla de pared de combustible AME
+ent-LockerWallMaterialsFuelAmeJarFilled = taquilla de pared de combustible IRE
     .gender = female
     .desc = Una unidad de almacenamiento estándar, pero en paredes.
 
@@ -7276,6 +8023,10 @@ ent-MachineArtifactCrusherFlatpack = paquete plano del triturador de artefactos
     .gender = male
     .desc = Un paquete plano para construir un triturador de artefactos.
 
+ent-MachineArtifactCrusherXenoborg = triturador de cuerpos
+    .gender = male
+    .desc = Mejor no dejar que tu cabeza quede atrapada...
+
 ent-MachineCarpCaller = reclamo de carpas
     .gender = male
     .desc = Un dispositivo que parece interesar a las carpas espaciales salvajes.
@@ -7448,6 +8199,14 @@ ent-MachineShipDrill = taladro de nave
     .gender = male
     .desc = Un pequeño taladro para naves capaz de perforar asteroides.
 
+ent-MachineThermobath = termobaño
+    .gender = male
+    .desc = Un baño de aceite de control preciso capaz tanto de calentar como de enfriar vasos de precipitados.
+
+ent-MachineThermobathFlatpack = paquete plano de termobaño
+    .gender = male
+    .desc = Un paquete plano para construir un termobaño.
+
 ent-MacroBombImplant = implante de macrobomba
     .gender = male
     .desc = Este implante crea una gran explosión al morir, tras una cuenta atrás preprogramada.
@@ -7585,52 +8344,6 @@ ent-Magazine45_ACPSubMachineGunTopMountedEmpty = cargador superior (.45 ACP supe
 ent-Magazine45_ACPSubMachineGunTopMountedFMJ = cargador superior (.45 ACP superior)
 
 ent-Magazine45_ACPSubMachineGunUranium = cargador de SMG (.45 ACP uranio)
-
-ent-Magazine45_magnumPistolAP = cargador de pistola (.45 magnum perforante extremo)
-
-ent-Magazine45_magnumPistolEmpty = cargador de pistola (.45 magnum, cualquiera)
-
-ent-Magazine45_magnumPistolFMJ = cargador de pistola (.45 magnum FMJ)
-
-ent-Magazine45_magnumPistolHighCapacityEmpty = cargador de pistola ametralladora (.45 magnum, universal)
-
-ent-Magazine45_magnumPistolHighCapacityFMJ = cargador de pistola ametralladora (.45 magnum FMJ)
-
-ent-Magazine45_magnumPistolHighCapacityPractice = cargador de pistola ametralladora (.45 magnum de prácticas)
-
-ent-Magazine45_magnumPistolHighCapacityRubber = cargador de pistola ametralladora (.45 magnum de goma)
-
-ent-Magazine45_magnumPistolHP = cargador de pistola (.45 magnum punta hueca)
-
-ent-Magazine45_magnumPistolIncendiary = cargador de pistola (.45 magnum incendiario)
-
-ent-Magazine45_magnumPistolPlasteelAP = cargador de pistola (.45 magnum AP)
-
-ent-Magazine45_magnumPistolPractice = cargador de pistola (.45 magnum de prácticas)
-
-ent-Magazine45_magnumPistolRIP = cargador de pistola (.45 magnum RIP)
-
-ent-Magazine45_magnumPistolRubber = cargador de pistola (.45 magnum de goma)
-
-ent-Magazine45_magnumPistolUranium = cargador de pistola (.45 magnum de uranio)
-
-ent-Magazine45_magnumSubMachineGunEmpty = cargador de SMG (.45 magnum, universal)
-
-ent-Magazine45_magnumSubMachineGunFMJ = cargador de SMG (.45 magnum FMJ)
-
-ent-Magazine45_magnumSubMachineGunHP = cargador de SMG (.45 magnum punta hueca)
-
-ent-Magazine45_magnumSubMachineGunIncendiary = cargador de SMG (.45 magnum incendiario)
-
-ent-Magazine45_magnumSubMachineGunPlasteelAP = cargador de SMG (.45 magnum AP)
-
-ent-Magazine45_magnumSubMachineGunPractice = cargador de SMG (.45 magnum de prácticas)
-
-ent-Magazine45_magnumSubMachineGunRIP = cargador de SMG (.45 magnum RIP)
-
-ent-Magazine45_magnumSubMachineGunRubber = cargador de SMG (.45 magnum de goma)
-
-ent-Magazine45_magnumSubMachineGunUranium = cargador de SMG (.45 magnum de uranio)
 
 ent-Magazine46x30mmPistolEmpty = cargador de pistola (4.6x30mm, universal)
 
@@ -7801,6 +8514,8 @@ ent-Magazine68x52mmCaselessBig = cargador de caja (6.8x52mm STANAG sin vaina)
 ent-Magazine68x52mmCaselessEmpty = cargador (6.8x52mm STANAG sin vaina, universal)
 
 ent-Magazine68x52mmCaselessHP = cargador (6.8x52mm STANAG sin vaina HP)
+
+ent-Magazine68x52mmCaselessPlasma = cargador (6.8x52mm STANAG sin vaina de plasma)
 
 ent-Magazine68x52mmCaselessPlasteelAP = cargador (6.8x52mm STANAG sin vaina AP)
 
@@ -8197,617 +8912,4 @@ ent-MailNFSodaSpaceUp = paquete sin dirección
 ent-MailNFSword = paquete grande sin dirección
 
 ent-MailNFT2ComponentBox = paquete sin dirección
-
-ent-MailNFT3ComponentBox = paquete sin dirección
-
-ent-MailNFT4ComponentBox = paquete sin dirección
-
-ent-MailNFTacticalMaid = paquete grande sin dirección
-
-ent-MailNFThrongler = paquete grande sin dirección
-
-ent-MailNFUnicycle = paquete grande sin dirección
-
-ent-MailNFUnusualClothing = paquete sin dirección
-
-ent-MailNFUnusualFood = paquete sin dirección
-
-ent-MailNFUnusualProduce = paquete sin dirección
-
-ent-MailNFVagueThreat = paquete sin dirección
-
-ent-MailNFVulpCannon = paquete grande sin dirección
-
-ent-MailNFWeejurnum = paquete grande sin dirección
-
-ent-MailNoir = paquete sin dirección
-
-ent-MailRestraints = paquete sin dirección
-
-ent-MailSake = paquete sin dirección
-
-ent-MailSecurityDonuts = paquete sin dirección
-
-ent-MailSecurityNFHudNfsdMed = paquete sin dirección
-
-ent-MailSecurityNFMusket = paquete grande sin dirección
-
-ent-MailSecurityNFSpaceLaw = paquete sin dirección
-
-ent-MailSecurityNonlethalsKit = paquete sin dirección
-
-ent-MailSpaceVillainDIY = paquete sin dirección
-
-ent-MailStationRepNFClurger = paquete sin dirección
-
-ent-MailStationRepNFNukeDisk = paquete sin dirección
-
-ent-MailSunglasses = paquete sin dirección
-
-ent-MailTeleporter = teletransportador postal
-    .gender = male
-    .desc = Teletransporta el correo dirigido a la tripulación de esta estación.
-
-ent-MailWinterCoat = paquete sin dirección
-
-ent-MaintenanceFluffSpawner = Generador de botín de mantenimiento
-
-ent-MaintenanceInsulsSpawner = Generador de botín de mantenimiento
-
-ent-MaintenanceJack = palanca de mantenimiento
-    .gender = female
-    .desc = Una herramienta formidable para dominar los pasadizos de mantenimiento. Hace palanca en baldosas y revestimientos, martillea y puede anclar.
-
-ent-MaintenancePlantSpawner = Generador de botín de mantenimiento
-
-ent-MaintenanceToolSpawner = Generador de botín de mantenimiento
-
-ent-MaintenanceWeaponSpawner = Generador de botín de mantenimiento
-
-ent-MakeshiftDefib = desfibrilador improvisado
-    .gender = male
-    .desc = Un desfibrilador de aspecto oxidado, hecho con chatarra. ¿Estás seguro de que es buena idea?
-
-ent-MakeshiftDefibUnfinished = algo improvisado
-    .gender = male
-    .desc = Algo complejo hecho de acero. No estás muy seguro de qué es esto.
-
-ent-MakeshiftJammer = inhibidor de radio improvisado
-    .gender = male
-    .desc = Un dispositivo de aspecto barato que puede saturar las ondas de radio, bloqueando básicamente toda la señal. Sí, tampoco es que sea muy eficaz.
-
-ent-MakeshiftJammerUnfinished = algo improvisado
-    .gender = male
-    .desc = Un mando a distancia atado a una multiherramienta. Hay que ser un genio para entender para qué sirve.
-
-ent-MakeshiftShield = escudo improvisado
-    .gender = male
-    .desc = Un escudo de aspecto destartalado, no sirve para gran cosa.
-
-ent-Mannequin = maniquí
-    .gender = male
-    .desc = Puede llevar cualquier ropa con estilo.
-
-ent-MapText = texto del mapa
-
-ent-MarimbaInstrument = marimba
-
-ent-MarimbaInstrumentFlatpack = paquete plano de marimba
-    .gender = male
-    .desc = Un paquete plano que contiene una marimba.
-
-ent-MarishTranslator = Traductor Marish
-    .gender = male
-    .desc = Traduce el habla entre Marish y el Básico de Tau-Ceti. ¡Para hablar con los Shadowkin!
-
-ent-MarishTranslatorImplant = implante de traductor Marish
-    .gender = male
-    .desc = Un implante que otorga la capacidad de entender y hablar Marish.
-
-ent-MarishTranslatorImplanter = implante de traductor Marish
-    .gender = male
-    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-MarsocPDA = PDA de operativo MARSOC de la TSFMC
-    .gender = female
-    .desc = Un ordenador personal estándar de la TSFMC.
-
-ent-MassArrestObjective = Marcar a todos como buscados
-    .gender = male
-    .desc = Usa tus guantes para hackear una consola de antecedentes penales, ¡marcando a toda la estación como buscada!
-
-ent-MassMediaFlatpack = paquete plano de consola del gestor de noticias
-    .gender = male
-    .desc = Un paquete plano utilizado para construir una consola del gestor de noticias.
-
-ent-Matchbox = caja de cerillas
-    .gender = female
-    .desc = Una pequeña caja de Cerillas Premium de Plasma Casi Pero No Del Todo.
-
-ent-Matchstick = cerilla
-    .gender = female
-    .desc = Una simple cerilla, usada para encender buenos artículos de fumar.
-
-ent-MatchstickSpent = cerilla
-    .gender = female
-    .desc = Una simple cerilla, usada para encender buenos artículos de fumar.
-
-ent-MaterialBananium = bananio
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialBananium1 = bananio
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialBiomass = biomasa
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialBiomass1 = biomasa
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialBiomass50 = biomasa
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialBluespace = cristal de bluespace
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialBluespace1 = cristal de bluespace
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialBones = huesos
-    .desc = Una materia prima.
-
-ent-MaterialBones1 = huesos
-    .desc = Una materia prima.
-
-ent-MaterialBoxFlatpack = paquete plano de caja de construcción
-    .gender = male
-    .desc = Un paquete plano utilizado para construir una caja de construcción.
-
-ent-MaterialCardboard = cartón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialCardboard1 = cartón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialCardboard10 = cartón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialCloth = tela
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialCloth1 = tela
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialCloth10 = tela
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialCopper = cobre
-    .gender = male
-    .desc = El cobre se usa en muchos dispositivos electrónicos. Quizás en todos. Incluso podría ser quedarse corto decir eso.
-
-ent-MaterialCotton = algodón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialCotton1 = algodón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialDiamond = diamante refinado
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialDiamond1 = diamante refinado
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialDiamond5 = diamante refinado
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialDurathread = durahilo
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialDurathread1 = durahilo
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialGoliathHide = placas de piel de goliath
-    .desc = Piezas de la piel rocosa de un goliath; podrían hacer que tu traje sea un poco más resistente a los ataques de la fauna local.
-
-ent-MaterialGoliathHide1 = placas de piel de goliath
-    .desc = Piezas de la piel rocosa de un goliath; podrían hacer que tu traje sea un poco más resistente a los ataques de la fauna local.
-
-ent-MaterialGunpowder = pólvora
-    .gender = female
-    .desc = Un compuesto explosivo.
-
-ent-MaterialHexNut = tuerca hexagonal de acero
-
-ent-MaterialHexNutSingle = tuerca hexagonal de acero
-
-ent-MaterialHideBear = piel de oso
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialHideCorgi = piel de corgi
-    .gender = female
-    .desc = Piel de lujo usada solo en la moda más exclusiva. Dicen los rumores que se obtiene cuando un corgi es enviado a la bonita granja.
-
-ent-MaterialHideRosyMothroach = piel de mothroach de arce rosado
-    .gender = female
-    .desc = Una fina capa de piel de mothroach de arce rosado.
-
-ent-MaterialIridite = iridita
-    .gender = female
-    .desc = Una aleación compleja sintetizada a partir de gases atmosféricos, comúnmente utilizada fuera del sector en maquinaria industrial pesada, nanofibras y ordenadores de alto rendimiento.
-
-ent-MaterialLithium = litio
-    .gender = male
-    .desc = El litio es un metal blando y frágil ampliamente utilizado en una gran variedad de aplicaciones electrónicas, destacando especialmente las baterías alcalinas. ¡Además es peligrosamente reactivo!
-
-ent-MaterialPyrogel = pirogel
-    .gender = male
-    .desc = El gel químico experimental de Paycheck Bratva.
-
-ent-MaterialPyrogel1 = pirogel
-    .gender = male
-    .desc = El gel químico experimental de Paycheck Bratva.
-
-ent-MaterialPyrotton = pirotón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialPyrotton1 = pirotón
-    .gender = male
-    .desc = Una materia prima.
-
-ent-MaterialReclaimer = recuperadora de materiales
-    .gender = female
-    .desc = No puede recuperar cosas inmateriales, como la motivación.
-
-ent-MaterialReclaimerFlatpack = paquete plano de recuperadora de materiales
-    .gender = male
-    .desc = Un paquete plano utilizado para construir una recuperadora de materiales.
-
-ent-MaterialReclaimerMachineCircuitboard = placa de máquina de recuperadora de materiales
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para una recuperadora de materiales.
-
-ent-MaterialScrew = tornillo de acero
-
-ent-MaterialScrewSingle = tornillo de acero
-
-ent-MaterialSheetMeat = lámina de carne
-    .gender = female
-    .desc = Una lámina de material, utilizada frecuentemente en la estación para diversas aplicaciones.
-
-ent-MaterialSheetMeat1 = lámina de carne
-    .gender = female
-    .desc = Una lámina de material, utilizada frecuentemente en la estación para diversas aplicaciones.
-
-ent-MaterialSiloFlatpack = paquete plano de Silo de Materiales
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un Silo de Materiales.
-
-ent-MaterialSiloMachineCircuitboard = placa de máquina de silo de materiales
-
-ent-MaterialSmileExtract = extracto de sonrisa
-    .gender = male
-    .desc = Es una auténtica panacea. ¿Pero a qué precio?
-
-ent-MaterialToothSharkminnow = diente de sharkminnow
-    .gender = male
-    .desc = Parece afilado. Suficientemente afilado como para sacarle un ojo a alguien. Joder, qué grande es.
-
-ent-MaterialToothSharkminnow1 = diente de sharkminnow
-    .gender = male
-    .desc = Parece afilado. Suficientemente afilado como para sacarle un ojo a alguien. Joder, qué grande es.
-
-ent-MaterialToothSpaceCarp = diente de carpa espacial
-    .gender = male
-    .desc = Bastante pequeño pero muy desagradable. Los prefieres cuando no se están clavando en ti.
-
-ent-MaterialToothSpaceCarp1 = diente de carpa espacial
-    .gender = male
-    .desc = Bastante pequeño pero muy desagradable. Los prefieres cuando no se están clavando en ti.
-
-ent-MaterialWebSilk = seda
-    .gender = female
-    .desc = Un material parecido a una telaraña.
-
-ent-MaterialWebSilk1 = seda
-    .gender = female
-    .desc = Un material parecido a una telaraña.
-
-ent-MaterialWebSilk25 = seda
-    .gender = female
-    .desc = Un material parecido a una telaraña.
-
-ent-MaterialWoodPlank = madera
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialWoodPlank1 = madera
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MaterialWoodPlank10 = madera
-    .gender = female
-    .desc = Una materia prima.
-
-ent-MatterBinStockPart = contenedor de materia
-    .gender = male
-    .desc = Un contenedor de materia básico utilizado en la construcción de una variedad de dispositivos.
-
-ent-Mattress = colchón
-    .gender = male
-    .desc = Mejor dormir ahí que en el suelo, supongo.
-
-ent-McHoboBedsRandom = generador de petate manchado
-
-ent-MeatReactorFuelRod = varilla de combustible de carne
-    .gender = female
-    .desc = Una varilla de combustible fo- espera, ¿está viva?
-
-ent-MeatwheatBushel = haz de trigo cárnico
-    .gender = male
-    .desc = Unos tallos de trigo empapados en sangre. Puedes machacarlos hasta obtener lo que pasa por carne si te lo miras con suficiente esfuerzo.
-
-ent-MeatwheatSeeds = paquete de semillas de trigo cárnico
-    .gender = male
-    .desc = Si alguna vez quisiste llevar a un vegetariano a la locura, aquí tienes cómo.
-
-ent-Mech90mmBullet = proyectil de 90 mm
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-MechAirTank = tanque de aire de exotraje
-    .gender = male
-    .desc = Un canister especial de aire capaz de almacenar una gran cantidad de aire.
-
-ent-MechClarke = Clarke
-    .gender = male
-    .desc = Un mech de movimiento rápido para el viaje espacial. Tiene propulsores incorporados.
-
-ent-MechClarkeBattery = Clarke
-    .gender = male
-    .desc = Un mech de movimiento rápido para el viaje espacial. Tiene propulsores incorporados.
-
-ent-MechCoilgunSabot = sabot de 3 cm
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-MechDurand = Durand
-    .gender = male
-    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
-
-ent-MechDurandBattery = Durand
-    .gender = male
-    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
-
-ent-MechDurandPDV = PDV Durand
-    .gender = male
-    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
-
-ent-MechDurandTSF = TSF Durand
-    .gender = male
-    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
-
-ent-MechEquipmentGrabber = pinza hidráulica
-    .gender = female
-    .desc = Otorga al mech la capacidad de agarrar objetos y arrastrarlos.
-
-ent-MechEquipmentGrabberSmall = pinza hidráulica pequeña
-    .gender = female
-    .desc = Otorga al mech la capacidad de agarrar objetos y arrastrarlos.
-
-ent-MechEquipmentHorn = bocina de mech
-    .gender = female
-    .desc = Una bocina de bicicleta mejorada que reproduce una hilarante variedad de sonidos para disfrute de la tripulación. ¡HONK!
-
-ent-MechGygax = Gygax
-    .gender = male
-    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
-
-ent-MechGygaxBattery = Gygax
-    .gender = male
-    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
-
-ent-MechGygaxPDV = PDV Gygax
-    .gender = male
-    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
-
-ent-MechGygaxSyndie = Gygax Oscuro
-    .gender = male
-    .desc = Un Gygax modificado utilizado para propósitos siniestros.
-
-ent-MechGygaxSyndieBattery = Gygax Oscuro
-    .gender = male
-    .desc = Un Gygax modificado utilizado para propósitos siniestros.
-
-ent-MechGygaxSyndieFilled = Gygax Oscuro
-    .gender = male
-    .desc = Un Gygax modificado utilizado para propósitos siniestros.
-
-ent-MechGygaxTSF = TSF Gygax
-    .gender = male
-    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
-
-ent-MechHamtr = HAMTR
-    .gender = male
-    .desc = Un mech experimental que utiliza una interfaz cerebro-ordenador para conectarse directamente al cerebro de un hámster.
-
-ent-MechHamtrBattery = HAMTR
-    .gender = male
-    .desc = Un mech experimental que utiliza una interfaz cerebro-ordenador para conectarse directamente al cerebro de un hámster.
-
-ent-MechHonker = H.O.N.K.
-    .gender = male
-    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
-
-ent-MechHonkerBattery = H.O.N.K.
-    .gender = male
-    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
-
-ent-MechHonkerFilled = H.O.N.K.
-    .gender = male
-    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
-
-ent-MechIFFPDV = PDV Mech IFF
-    .gender = male
-    .desc = Aplica antes de la soldadura final de un mech estándar para darle IFF amarillo en el radar y una capa de pintura beige.
-
-ent-MechIFFTSF = TSF Mech IFF
-    .gender = male
-    .desc = Aplica antes de la soldadura final de un mech estándar para darle IFF azul en el radar y una capa de pintura azul.
-
-ent-MechMarauder = Marauder
-    .gender = male
-    .desc = Parece que estamos todos a salvo.
-
-ent-MechMarauderBattery = Marauder
-    .gender = male
-    .desc = Parece que estamos todos a salvo.
-
-ent-MechMarauderFilled = Marauder
-    .gender = male
-    .desc = Parece que estamos todos a salvo.
-
-ent-MechMaulerSyndie = Mauler
-    .gender = male
-    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
-
-ent-MechMaulerSyndieBattery = Mauler
-    .gender = male
-    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
-
-ent-MechMaulerSyndieFilled = Mauler
-    .gender = male
-    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
-
-ent-MechMediumPlasmaProjectile = proyectil de plasma
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-MechPelletShotgun = perdigón (calibre 0,5)
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-MechPelletShotgunSpread = perdigón (calibre 0,5)
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-MechRipley = Ripley APLU
-    .gender = male
-    .desc = Versátil y con blindaje ligero, el Ripley es útil en casi cualquier escenario de trabajo pesado. Las siglas "APLU" corresponden a Unidad Autónoma de Carga de Potencia.
-
-ent-MechRipley2 = Ripley APLU MK-II
-    .gender = male
-    .desc = El "MK-II" tiene una cabina presurizada para operaciones espaciales, pero el peso adicional lo ha ralentizado.
-
-ent-MechRipley2Battery = Ripley APLU MK-II
-    .gender = male
-    .desc = El "MK-II" tiene una cabina presurizada para operaciones espaciales, pero el peso adicional lo ha ralentizado.
-
-ent-MechRipleyBattery = Ripley APLU
-    .gender = male
-    .desc = Versátil y con blindaje ligero, el Ripley es útil en casi cualquier escenario de trabajo pesado. Las siglas "APLU" corresponden a Unidad Autónoma de Carga de Potencia.
-
-ent-MechSeraph = Seraph
-    .gender = male
-    .desc = Eso es lo último que verás.
-
-ent-MechSeraphBattery = Seraph
-    .gender = male
-    .desc = Eso es lo último que verás.
-
-ent-MechSeraphFilled = Seraph
-    .gender = male
-    .desc = Eso es lo último que verás.
-
-ent-MechThruster = propulsor de exotraje
-    .gender = male
-    .desc = Un propulsor con el que el exotraje puede moverse con seguridad en ausencia de gravedad.
-
-ent-MechVim = Vim
-    .gender = male
-    .desc = Un exotraje en miniatura de Nanotrasen, desarrollado para permitir que las irremplazables mascotas de la estación vivan un poco más.
-
-ent-MechVimBattery = Vim
-    .gender = male
-    .desc = Un exotraje en miniatura de Nanotrasen, desarrollado para permitir que las irremplazables mascotas de la estación vivan un poco más.
-
-ent-MedalCase = estuche de medallas
-    .gender = male
-    .desc = Estuche con medallas.
-
-ent-MedalCaseNfsd = estuche de medallas TSFMC
-    .gender = male
-    .desc = Este pulido estuche de roble alberga medallas que serán otorgadas por servicios distinguidos.
-
-ent-MedicalAppraisalTool = escáner de recompensas médicas
-    .gender = male
-    .desc = Escanea cuerpos en busca de recompensas médicas activas.
-
-ent-MedicalAssembler = ensamblador médico
-    .gender = male
-    .desc = Muy útil para la medicina, al parecer. Tú no sabes cómo funciona.
-
-ent-MedicalAssemblerFlatpack = paquete plano de ensamblador médico
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un ensamblador médico.
-
-ent-MedicalAssemblerMachineCircuitboard = placa de máquina de ensamblador médico
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un ensamblador médico.
-
-ent-MedicalAssemblerPOI = ensamblador médico
-    .gender = male
-    .desc = Muy útil para la medicina, al parecer. Tú no sabes cómo funciona.
-
-ent-MedicalBag = bolsa médica
-    .gender = female
-    .desc = Una bolsa médica diseñada para guardar tópicos y pequeños recipientes de reactivos. Para el médico siempre en movimiento.
-
-ent-MedicalBed = cama médica
-    .gender = female
-    .desc = Una cama de hospital para que los pacientes se recuperen. Descansar aquí ofrece una curación bastante lenta.
-
-ent-MedicalBiofabMachineBoard = placa de máquina de biofabricador médico
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un biofabricador médico.
-
-ent-MedicalBiofabricator = biofabricador médico
-    .gender = male
-    .desc = Produce órganos y otra materia orgánica que puede injertarse quirúrgicamente en pacientes mediante biomasa.
-
-ent-MedicalCyberneticEyes = ojos cibernéticos de diagnóstico
-    .desc = Un par de ojos cibernéticos que mejoran tu visión, con un MedHUD integrado.
-
-ent-MedicalIDCard = tarjeta de identificación médica
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MedicalInternIDCard = tarjeta de identificación de interno médico
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MedicalInternPDA = PDA de interno médico
-    .gender = female
-    .desc = ¿Por qué no es blanco?
 

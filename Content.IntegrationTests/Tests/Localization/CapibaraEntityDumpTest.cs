@@ -47,8 +47,11 @@ public sealed class CapibaraEntityDumpTest
             }
         });
 
-        // Repo root = current working directory during integration tests.
-        var outDir = Path.Combine(Directory.GetCurrentDirectory(), "_Capibara", "entities");
+        // Repo root = two levels above the test assembly (bin/Content.IntegrationTests/../../),
+        // same convention as GameDataScrounger. Do NOT use the cwd: under `dotnet test` it is the
+        // bin dir, which silently produced a dump nobody read while the repo copy went stale.
+        var repoRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", ".."));
+        var outDir = Path.Combine(repoRoot, "_Capibara", "entities");
         Directory.CreateDirectory(outDir);
         var outPath = Path.Combine(outDir, "entity-source.json");
         var json = JsonSerializer.Serialize(rows, new JsonSerializerOptions { WriteIndented = false });

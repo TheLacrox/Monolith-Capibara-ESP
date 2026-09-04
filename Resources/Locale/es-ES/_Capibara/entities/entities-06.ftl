@@ -1,3 +1,1145 @@
+ent-StationAiBrain = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiBrainPDV = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiBrainRedacted = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiBrainTSFMC = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiBrainVessel = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiBrainXenoborg = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-StationAiHolo = ojo de la IA
+    .gender = male
+    .desc = El visor de la IA.
+
+ent-StationAiHoloLocal = holograma de la IA
+    .gender = male
+    .desc = Una representación holográfica de una IA.
+
+ent-StationAiUploadCircuitboard = placa de consola de carga de la IA
+    .gender = female
+    .desc = Una placa de circuito impreso para una consola de carga de la IA.
+
+ent-StationAiUploadCircuitboardUnlocked = placa de consola de carga de la IA
+    .gender = female
+    .desc = Una placa de circuito impreso para una consola de carga de la IA.
+
+ent-StationAiUploadComputer = consola de carga de la IA
+    .gender = female
+    .desc = Se usa para actualizar las leyes de la IA de la nave.
+
+ent-StationAiUploadComputerUnlocked = consola de carga de la IA
+    .gender = female
+    .desc = Se usa para actualizar las leyes de la IA de la nave.
+
+ent-StationAnchor = ancla de estación
+    .gender = male
+    .desc = Evita que las estaciones se muevan.
+
+ent-StationAnchorCircuitboard = placa de máquina de ancla de estación
+    .gender = female
+    .desc = Una placa de circuito impreso para un ancla de estación.
+
+ent-StationAnchorIndestructible = ancla de estación
+    .gender = male
+    .desc = Evita que las estaciones se muevan.
+
+ent-StationAnchorOff = ancla de estación
+    .gender = male
+    .desc = Evita que las estaciones se muevan.
+
+ent-StationBeaconPart = paquete plano de baliza de estación
+    .gender = male
+    .desc = Un paquete plano para construir una baliza de estación.
+
+ent-StationLaserDrill = taladradora láser automatizada avanzada
+    .gender = female
+    .desc = Una gran perforadora automatizada de bluespace que extrae materiales aleatorios cuando recibe 150 kW de HV. ¡Ahora funciona en el espacio! En un lateral apenas se distingue un logotipo raspado que comienza con una 'N' en relieve.
+
+ent-StationMap = mapa de la estación
+    .gender = male
+    .desc = Un mapa virtual de la estación circundante.
+
+ent-StationMapAssembly = ensamblaje del mapa de estación
+    .gender = male
+    .desc = Un ensamblaje del mapa de estación.
+
+ent-StationMapBroken = mapa de la estación
+    .gender = male
+    .desc = Un mapa virtual de la estación circundante.
+
+ent-StationMapCircuitboard = electrónica del mapa de estación
+    .gender = female
+    .desc = Una placa electrónica utilizada en los mapas de estación.
+
+ent-StationRadarCircuitboard = placa de ordenador de radar de vigilancia
+    .gender = female
+    .desc = Una placa de circuito impreso para un ordenador de radar de estación.
+
+ent-StationRecordsComputerCircuitboard = placa de ordenador de registros de estación
+    .gender = female
+    .desc = Una placa de circuito impreso para un ordenador de registros de estación.
+
+ent-StatueBananiumClown = estatua del salvador de bananio
+    .gender = female
+    .desc = Una estatua de bananio. Representa el regreso del salvador que se alzará para guiar a los payasos hacia el gran honk.
+
+ent-StatueVenusBlue = estatua de una doncella pura
+    .gender = female
+    .desc = Una antigua estatua de mármol. La figura está representada con una trenza que llega al suelo y empuña una caja de herramientas azul.
+
+ent-StatueVenusRed = estatua de una doncella pura
+    .gender = female
+    .desc = Una antigua estatua de mármol. La figura está representada con una trenza que llega al suelo y empuña una caja de herramientas roja.
+
+ent-StcIDCard = tarjeta de identificación del controlador de tráfico de estación
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-StcPDA = PDA del controlador de tráfico de estación
+    .gender = female
+    .desc = ¡Declara emergencias con estilo!
+
+ent-StealthBox = caja de cartón
+    .gender = female
+    .desc = Te hice esperar, ¿eh?
+
+ent-SteelBench = banco de acero
+    .gender = male
+    .desc = Una silla larga hecha para el metro. Un diseño de lo más estándar.
+
+ent-SteelcapSeeds = paquete de esporas de gorro de acero
+
+ent-SteelLog = tronco de gorro de acero
+    .gender = male
+    .desc = ¡El acero no crece en los árboles! Crece en los hongos, claro está.
+
+ent-SteelOre = mineral de hierro
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-SteelOre1 = mineral de hierro
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-SteelOre15 = mineral de hierro
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-SteelOre5 = mineral de hierro
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-SteelReactorControlRod = varilla de control de acero
+    .gender = female
+    .desc = Un conjunto de varillas de control para un reactor nuclear.
+
+ent-SteelReactorGasChannel = varilla de canal de gas de acero
+    .gender = female
+    .desc = Un canal de gas para un reactor nuclear.
+
+ent-SteelReactorHeatExchanger = varilla intercambiadora de calor de acero
+    .gender = female
+    .desc = Un intercambiador de calor para un reactor nuclear.
+
+ent-StickyGrenade = bomba adherente
+    .gender = female
+    .desc = Una bomba adherente antitanque basada en diseños antiguos, aún efectiva incluso en el espacio. Tiene mucha potencia, pero un largo retardo.
+
+ent-StickyGrenadeLaunched = bomba adherente
+    .gender = female
+    .desc = Una bomba adherente antitanque basada en diseños antiguos, aún efectiva incluso en el espacio. Tiene mucha potencia, pero un largo retardo.
+
+ent-StimkitFilled = botiquín de primeros auxilios
+    .gender = male
+    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
+
+ent-Stimpack = inyector de hiperzina
+    .gender = male
+    .desc = Contiene suficiente hiperzina para disfrutar del efecto del químico durante 30 segundos. Úsalo cuando estés seguro de estar listo para el combate.
+
+ent-StimpackMini = microinyector de hiperzina
+    .gender = male
+    .desc = Un microinyector de hiperzina que te proporciona unos 15 segundos de los efectos del químico.
+
+ent-StimulantAutoInjector = autoinyector de estimulantes
+    .gender = male
+    .desc = Una dosis rápida de potentes estimulantes y agentes reguladores. Contiene desoxiefedrina y dylovene. Úsalo con extrema precaución.
+
+ent-Stool = taburete
+    .gender = male
+    .desc = Aplica trasero.
+
+ent-StoolBar = taburete de bar
+    .gender = male
+    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
+
+ent-StorageBin = contenedor de almacenamiento
+    .gender = male
+    .desc = Un contenedor de almacenamiento controlado electrónicamente diseñado para su uso con brazos robóticos.
+
+ent-StorageBinCircuitboard = placa de máquina del contenedor de almacenamiento
+    .gender = female
+    .desc = Una placa de circuito impreso para un contenedor de almacenamiento.
+
+ent-StorageCanister = cánister de almacenamiento
+    .gender = male
+    .desc = Una bombona que puede contener cualquier tipo de gas. Se puede conectar a puertos de conexión con una llave inglesa.
+
+ent-StorageCanisterBroken = cilindro de gas roto
+    .gender = male
+    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
+
+ent-StorageImplant = implante de almacenamiento
+    .gender = male
+    .desc = Este implante proporciona almacenamiento oculto dentro del cuerpo de una persona mediante tecnología de bluespace.
+
+ent-StorageImplanter = implantador del Syndicate
+    .gender = male
+    .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-StrangePill = pastilla extraña
+    .gender = female
+    .desc = Esta pastilla inusual no tiene ninguna marca. No hay forma de saber qué contiene.
+
+ent-StrapDummy = StrapDummy
+
+ent-StressTest = prueba de estrés
+
+ent-StrippingHiddenEntity = entidad oculta
+    .gender = female
+    .desc = Hay algo en este bolsillo.
+
+ent-StructureGunRack = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackBanditFilled = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackMercenary = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackMla34Filled = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackNfsd = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackSalvage = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackWallmounted = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackWallmountedMercenary = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackWallmountedNfsd = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureGunRackWallmountedSalvage = estante de armas
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRack = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackBloodCult = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackBloodCultFilled = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackMercenary = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackNfsd = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackSalvage = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackWallmounted = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackWallmountedMercenary = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackWallmountedNfsd = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackWallmountedSalvage = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructureMeleeWeaponRackWallmountedSalvageFilled = estante de armas cuerpo a cuerpo
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRack = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackLockSheriff = estante de armas de defensa personal
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackLockSheriffWallmounted = estante de armas de defensa personal
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackLockSR = estante de armas de defensa personal
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackLockSRWallmounted = estante de armas de defensa personal
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackMercenary = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackNfsd = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackPirates = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackPiratesFilled = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackSalvage = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackWallmounted = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackWallmountedMercenary = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackWallmountedMercenaryFilled = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackWallmountedNfsd = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-StructurePistolRackWallmountedSalvage = estante de armas secundarias
+    .gender = male
+    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
+
+ent-Stunbaton = porra paralizante
+    .gender = female
+    .desc = Una porra paralizante para incapacitar personas. Usar esto para causar daño activo se considera de mal gusto.
+
+ent-Stunprod = picana paralizante
+    .gender = female
+    .desc = Una picana paralizante para incapacitaciones de legalidad cuestionable.
+
+ent-StunRune = runa paralizante
+
+ent-SubstationBasic = subestación
+    .gender = female
+    .desc = Reduce el voltaje de la electricidad que recibe.
+
+ent-SubstationBasicEmpty = subestación
+    .gender = female
+    .desc = Reduce el voltaje de la electricidad que recibe.
+
+ent-SubstationMachineCircuitboard = placa de máquina de subestación
+    .gender = female
+    .desc = Una placa de circuito impreso para una subestación.
+
+ent-SubstationWallBasic = subestación de montaje en pared
+    .gender = female
+    .desc = Una subestación diseñada para transbordadores y espacios compactos.
+
+ent-Sugarcane = caña de azúcar
+    .gender = female
+    .desc = Empalagosamente dulce.
+
+ent-SugarcaneSeeds = paquete de semillas de caña de azúcar
+
+ent-SuitStorageAtmos = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageBase = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageBasic = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageCaptain = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageCE = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageClown = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageCMO = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageCommissar = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEngi = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVA = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAAlternate = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAAtmosTech = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVABoxerBlue = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVABoxerGreen = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVABoxerRandom = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVABoxerRed = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVABoxerYellow = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVACaptain = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVACargo = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAChaplain = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAContractor = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAEmergency = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAEngineer = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAGoblin = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAHydro = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAJanitor = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAMail = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAMedical = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAMercenary = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVANfsd = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAPilot = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAPirate = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAPrisoner = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAPrivateSec = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVASalvage = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAScientist = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVAServiceWorker = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVASr = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageEVASyndicate = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageHOS = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageM82b = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageM82c = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageM86 = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageMercenary = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageMieyoCombat = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageMieyoMining = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageMining = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageNTSRA = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageParamedic = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStoragePilot = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStoragePirateCap = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStoragePrivateSecurity = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageQuartermaster = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageRD = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSalv = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageScaf = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSec = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSheriff = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSyndie = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSyndieCommander = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageSyndieMedic = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageTrauma = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageTraumaLeader = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageUssp = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageUsspL10 = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageViperJackal = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageViperWL = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageWallmount = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountAtmos = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountBasic = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountCaptain = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountCE = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountClown = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountCMO = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEngi = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVA = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAAlternate = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAAtmosTech = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVABoxerBlue = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVABoxerGreen = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVABoxerRandom = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVABoxerRed = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVABoxerYellow = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVACaptain = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVACargo = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAChaplain = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAContractor = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAEmergency = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAEngineer = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAGoblin = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAHydro = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAJanitor = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAMail = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAMedical = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAMercenary = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVANfsd = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAPilot = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAPirate = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAPrisoner = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAPrivateSec = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVASalvage = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAScientist = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVAServiceWorker = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVASr = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountEVASyndicate = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountHOS = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountM82b = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountM82c = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountM86 = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountMercenary = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountMining = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountNTSRA = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountParamedic = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountPilot = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountPirateCap = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountPrivateSecurity = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountQuartermaster = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountRD = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountSalv = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountScaf = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountSec = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountSyndie = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountUssp = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountUsspL10 = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountViperJackal = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountViperWL = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountWarden = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWallmountWizard = unidad de almacenamiento mural de trajes
+    .gender = female
+    .desc = Una unidad de almacenamiento estándar, pero en paredes.
+
+ent-SuitStorageWarden = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SuitStorageWizard = unidad de almacenamiento de trajes
+    .gender = female
+    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
+
+ent-SunnyCartridge = bengala envasada
+    .gender = female
+    .desc = Una bengala individual activada electrónicamente para el sistema de contramedidas GS-002.
+
+ent-SunnyMagazine = autocargador de bengalas Sunny
+
+ent-SuperCapacitorStockPart = supercondensador
+    .gender = male
+    .desc = Un supercondensador utilizado en la construcción de varios dispositivos.
+
+ent-SuperchargedLightning = rayo sobrecargado
+
+ent-SuperCloakingDevice = dispositivo de supercamuflaje
+    .gender = male
+    .desc = Un dispositivo que permite a los Xenoborgs volverse verdaderamente invisibles.
+
+ent-SuperMatterBinStockPart = compartimento de supermateria
+    .gender = male
+    .desc = Un compartimento de supermateria utilizado en la construcción de varios dispositivos.
+
+ent-SuperSynthesizerInstrument = supersintetizador
+    .gender = male
+    .desc = Retumbando el gueto con MIDIs de Touhou desde 2020.
+
+ent-SuperSynthesizerNoLimitInstrument = supersintetizador
+    .gender = male
+    .desc = Retumbando el gueto con MIDIs de Touhou desde 2020.
+
+ent-SurgeryAttachHands = Colocar manos
+
+ent-SurgeryAttachHead = Colocar cabeza
+
+ent-SurgeryAttachLeftArm = Colocar brazo izquierdo
+
+ent-SurgeryAttachLeftFoot = Colocar pie izquierdo
+
+ent-SurgeryAttachLeftHand = Colocar mano izquierda
+
+ent-SurgeryAttachLeftLeg = Colocar pierna izquierda
+
+ent-SurgeryAttachRightArm = Colocar brazo derecho
+
+ent-SurgeryAttachRightFoot = Colocar pie derecho
+
+ent-SurgeryAttachRightHand = Colocar mano derecha
+
+ent-SurgeryAttachRightLeg = Colocar pierna derecha
+
+ent-SurgeryCloseIncision = Cerrar incisión
+
+ent-SurgeryCorticalBorerRemoval = Extraer Taladradora Cortical
+    .gender = male
+    .desc = Extrae la infestación de Taladradora Cortical del cuerpo.
+
+ent-SurgeryInsertBorgBrain = Insertar Cerebro Positrónico
+
+ent-SurgeryInsertBrain = Insertar Cerebro
+
+ent-SurgeryInsertEyes = Insertar Ojos
+
+ent-SurgeryInsertHeart = Insertar Corazón
+
+ent-SurgeryInsertItem = Implante en Cavidad
+
+ent-SurgeryInsertLiver = Insertar Hígado
+
+ent-SurgeryInsertLungs = Insertar Pulmones
+
+ent-SurgeryInsertPump = Insertar bomba
+
+ent-SurgeryInsertStomach = Insertar Estómago
+
+ent-SurgeryOpenIncision = Abrir Incisión
+
+ent-SurgeryOpenRibcage = Abrir Caja Torácica
+
+ent-SurgeryRemoveBorgBrain = Extraer Cerebro Positrónico
+
+ent-SurgeryRemoveBrain = Extraer Cerebro
+
+ent-SurgeryRemoveEyes = Extraer Ojos
+
+ent-SurgeryRemoveHeart = Extraer Corazón
+
+ent-SurgeryRemoveLiver = Extraer Hígado
+
+ent-SurgeryRemoveLungs = Extraer Pulmones
+
+ent-SurgeryRemovePart = Extraer Parte
+
+ent-SurgeryRemoveStomach = Extraer Estómago
+
+ent-SurgeryStepCarefulIncisionScalpel = Hacer una incisión cuidadosa
+
+ent-SurgeryStepClampBleeders = Pinzar los vasos sangrantes
+
+ent-SurgeryStepClampInternalBleeders = Pinzar los vasos sangrantes internos
+
+ent-SurgeryStepCloseBones = Cerrar huesos
+
+ent-SurgeryStepCloseIncision = Cerrar incisión
+
+ent-SurgeryStepInsertEyes = Añadir ojos
+
+ent-SurgeryStepInsertFeature = Insertar parte
+
+ent-SurgeryStepInsertHeart = Añadir corazón
+
+ent-SurgeryStepInsertItem = Insertar objeto en cavidad
+
+ent-SurgeryStepInsertLiver = Añadir hígado
+
+ent-SurgeryStepInsertLungs = Añadir pulmones
+
+ent-SurgeryStepInsertOrgan = Añadir órgano
+
+ent-SurgeryStepInsertPump = Añadir servobomba
+
+ent-SurgeryStepInsertStomach = Añadir estómago
+
+ent-SurgeryStepMendRibcage = Reparar caja torácica
+
+ent-SurgeryStepOpenIncisionScalpel = Cortar con bisturí
+
+ent-SurgeryStepOpenOrganSlot = Excavar una cavidad
+
+ent-SurgeryStepPriseOpenBones = Abrir los huesos con palanca
+
+ent-SurgeryStepRemoveCorticalBorer = Extraer la Taladradora Cortical
+
+ent-SurgeryStepRemoveFeature = Amputar parte
+
+ent-SurgeryStepRemoveItem = Extraer objeto de la cavidad
+
+ent-SurgeryStepRemoveOrgan = Extraer órgano
+
+ent-SurgeryStepRepairBruteTissue = Reparar tejido dañado
+
+ent-SurgeryStepRepairBurnTissue = Reparar tejido quemado
+
+ent-SurgeryStepRetractSkin = Retraer la piel
+
+ent-SurgeryStepSawBones = Serrar los huesos
+
+ent-SurgeryStepSawFeature = Serrar los huesos
+
+ent-SurgeryStepSealOrganWound = Sellar heridas
+
+ent-SurgeryStepSealTendWound = Sellar la herida
+
+ent-SurgeryStepSealWounds = Sellar heridas
+
+ent-SurgeryTendWoundsBrute = Tratar Heridas por Contusión
+
+ent-SurgeryTendWoundsBurn = Tratar Heridas por Quemadura
+
+ent-SurveillanceCameraAssembly = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. No parece estar vigilando a nadie por ahora. Probablemente.
+
+ent-SurveillanceCameraCommand = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraConstructed = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraEngineering = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraGeneral = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraMedical = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraMonitorCircuitboard = placa de monitor de cámara de vigilancia
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para un monitor de cámara de vigilancia.
+
+ent-SurveillanceCameraRogue = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-SurveillanceCameraRouterCircuitboard = placa de enrutador de cámara de vigilancia
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un enrutador de cámara de vigilancia.
+
+ent-SurveillanceCameraRouterCommand = enrutador de cámara de mando
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterConstructed = enrutador de cámara
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterEngineering = enrutador de cámara de ingeniería
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterGeneral = enrutador de cámara general
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterMedical = enrutador de cámara médica
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterRogue = enrutador de cámara pirata
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterScience = enrutador de cámara de ciencia
+    .gender = male
+    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
 ent-SurveillanceCameraRouterSecurity = enrutador de cámara de seguridad
     .gender = male
     .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
@@ -17,6 +1159,18 @@ ent-SurveillanceCameraRouterTSF = enrutador de cámara tsfmc
 ent-SurveillanceCameraRouterUSSP = enrutador de cámara USSP
     .gender = male
     .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterWirelessMMC = enrutador de cámara inalámbrico
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterWirelessPDV = enrutador de cámara inalámbrico
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraRouterWirelessTSF = enrutador de cámara inalámbrico
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
 
 ent-SurveillanceCameraScience = cámara
     .gender = female
@@ -53,6 +1207,14 @@ ent-SurveillanceCameraWirelessRouterConstructed = enrutador de cámara inalámbr
 ent-SurveillanceCameraWirelessRouterEntertainment = enrutador de cámara de entretenimiento
     .gender = male
     .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraWirelessRouterXenoborg = enrutador inalámbrico de cámaras xenoborg
+    .gender = male
+    .desc = Un enrutador inalámbrico de cámara de vigilancia. Enruta. Quizás.
+
+ent-SurveillanceCameraWirelessRouterXenoborgCircuitboard = enrutador inalámbrico de cámaras xenoborg
+    .gender = male
+    .desc = Una placa de circuito impreso de máquina para un router inalámbrico de cámaras de xenoborg.
 
 ent-SurveillanceWirelessCameraAnchoredCircuitboard = placa de cámara inalámbrica
     .gender = female
@@ -173,7 +1335,7 @@ ent-SyndieFlag = bandera del Syndicate
 
 ent-SyndieHandyFlag = bandera de mano del Syndicate
     .gender = female
-    .desc = Para patriotas verdaderamente rebeldes. ¡Muerte a NT!
+    .desc = Para patriotas verdaderamente rebeldes.
 
 ent-SyndieMiniBomb = minibomba del Syndicate
     .gender = female
@@ -419,6 +1581,14 @@ ent-TajaranCube = cubo tajaran
     .gender = male
     .desc = ¡Solo añade agua!
 
+ent-TapeRecorder = grabadora de cinta
+    .gender = female
+    .desc = Cualquier cosa dicha a este dispositivo puede y será usada en tu contra en un tribunal de ley espacial.
+
+ent-TapeRecorderFilled = grabadora de cinta
+    .gender = female
+    .desc = Cualquier cosa dicha a este dispositivo puede y será usada en tu contra en un tribunal de ley espacial.
+
 ent-TapeRecorderTranscript = transcripción de registro
     .gender = female
     .desc = Un trozo de papel blanco.
@@ -637,9 +1807,9 @@ ent-TechDiskTSFDrozd = Disco tecnológico de facción TSF Drozd
     .gender = male
     .desc = Un disco capaz de añadir el CS/LR-8 Drozd y su munición a las recetas de un servidor para los techfabs de facción.
 
-ent-TechDiskTSFICWS = disco tecnológico de facción Taotie de la TSF
+ent-TechDiskTSFICWS = Disco tecnológico de facción TSF ICWS
     .gender = male
-    .desc = Un disco capaz de añadir el QBZX-281 Taotie y su munición a las recetas de un servidor para los techfabs de facción.
+    .desc = Un disco capaz de añadir el QBZX-281 ICWS y su munición a las recetas de un servidor, para techfabs de facción.
 
 ent-TechDiskTSFLecter = Disco tecnológico de facción TSF Lecter
     .gender = male
@@ -710,6 +1880,10 @@ ent-TelecomServerFilledFreelance = Servidor de telecomunicaciones
     .desc = Cuando está encendido y lleno de claves de cifrado, permite la comunicación por auricular de radio.
 
 ent-TelecomServerFilledMedical = Servidor de telecomunicaciones
+    .gender = male
+    .desc = Cuando está encendido y lleno de claves de cifrado, permite la comunicación por auricular de radio.
+
+ent-TelecomServerFilledMMC = Servidor de telecomunicaciones
     .gender = male
     .desc = Cuando está encendido y lleno de claves de cifrado, permite la comunicación por auricular de radio.
 
@@ -839,6 +2013,10 @@ ent-TestRestockWrong = TestRestockWrong
     .gender = male
     .desc = Una caja para reabastecer las máquinas expendedoras con artículos corporativos.
 
+ent-ThermobathMachineCircuitboard = placa de máquina de termobaño
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un termobaño.
+
 ent-ThermomachineFreezerMachineCircuitBoard = Placa de máquina de termomáquina congeladora
     .gender = female
     .desc = Parece que podrías usar un destornillador para cambiar el tipo de placa.
@@ -926,7 +2104,7 @@ ent-ThrusterRogue = propulsor
     .gender = male
     .desc = Un propulsor que permite mover un transbordador.
 
-ent-ThrusterRogueMachineCircuitboard = placa de máquina de propulsor Rogue
+ent-ThrusterRogueMachineCircuitboard = placa de máquina de propulsor PDV
 
 ent-ThrusterRogueStealth = propulsor furtivo
     .gender = male
@@ -947,6 +2125,10 @@ ent-ThrusterUSSP = propulsor
     .desc = Un propulsor que permite mover un transbordador.
 
 ent-ThrusterUSSPMachineCircuitboard = placa de máquina de propulsor USSP
+
+ent-ThrusterXenoborg = propulsor
+    .gender = male
+    .desc = Un propulsor que permite mover un transbordador.
 
 ent-TideFlipperZero = volteador de accesos
     .gender = male
@@ -983,7 +2165,11 @@ ent-TimpaniInstrumentFlatpack = paquete plano de timbales
 
 ent-TintedWindow = ventana tintada
     .gender = female
-    .desc = No manches el cristal ahí abajo.
+    .desc = Ventana tintada inteligente con opción de cambio de estado.
+
+ent-TintedWindowTransparent = ventana tintada
+    .gender = female
+    .desc = Ventana tintada inteligente con opción de cambio de estado.
 
 ent-TobaccoPouchBlueFilled = bolsa «Stonecut Leaf»
     .gender = female
@@ -1129,6 +2315,8 @@ ent-TorsoCarp = torso de carpa
 ent-TorsoChitinid = torso de chitínido
 
 ent-TorsoDiona = torso de diona
+
+ent-TorsoFeroxi = torso de feroxi
 
 ent-TorsoGingerbread = torso de pan de jengibre
 
@@ -1778,6 +2966,10 @@ ent-TsfEngiPDA = PDA de ingeniero TSFMC
     .gender = female
     .desc = Un ordenador personal estándar de la TSFMC.
 
+ent-TSFHandheldOverwatchConsole = consola de supervisión portátil de TSFMC
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
 ent-TsfMarsocIDCard = tarjeta de identificación de operativo MARSOC TSFMC
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
@@ -1786,9 +2978,17 @@ ent-TSFMCCircuitBoard = placa de leyes (TSFMC)
     .gender = female
     .desc = Una placa electrónica que contiene el conjunto de leyes TSFMC.
 
+ent-TSFNaniteCanister = cartucho de nanitos de la federación
+    .gender = male
+    .desc = Un cilindro reforzado de vidrio plateado fabricado especialmente para contener nanitos recombinantes programables inertes, usados para la fabricación avanzada a microescala fuera del sector. A las fábricas de la Dinastía les encantaría hacerse con esto.
+
 ent-TSFNChengduComputer = consola del hangar interno del Chengdu de la TSFN
     .gender = female
     .desc = Astillero ligero que utiliza los hangares internos del Chengdu y no tiene acceso al catálogo completo de naves de la TSFMC.
+
+ent-TSFOverwatchComputer = consola de supervisión de TSFMC
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
 
 ent-TubaInstrument = tuba
     .gender = female
@@ -2160,6 +3360,10 @@ ent-USSPCommissarPDA = PDA de comisario USSP
     .gender = female
     .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la USSP.
 
+ent-USSPHandheldOverwatchConsole = consola de supervisión portátil de USSP
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
 ent-USSPLathe = ensamblador de campo USSP
     .gender = male
     .desc = Capaz de fabricar equipamiento según las especificaciones de diseño de la USSP. A menudo distribuido por las Fuerzas Armadas para apoyar las tendencias industriales inherentes a sus miembros.
@@ -2171,6 +3375,10 @@ ent-USSPLatheFlatpack = paquete plano de ensamblador de campo USSP
 ent-USSPLatheImmmovable = ensamblador de campo USSP
     .gender = male
     .desc = Capaz de fabricar equipamiento según las especificaciones de diseño de la USSP. A menudo distribuido por las Fuerzas Armadas para apoyar las tendencias industriales inherentes a sus miembros.
+
+ent-USSPOverwatchComputer = consola de supervisión de USSP
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
 
 ent-USSPRiflemanIDCard = tarjeta de identificación de fusilero USSP
     .gender = female
@@ -2642,6 +3850,14 @@ ent-VendingMachineMediDrobePOI = MediDrobe
     .gender = male
     .desc = Una máquina expendedora de la que se rumorea que es capaz de dispensar ropa para el personal médico.
 
+ent-VendingMachineMieyoAutomated = máquina expendedora automatizada MMC
+    .gender = female
+    .desc = Vende diversos productos MMC y envía el 80% de los beneficios de vuelta a Hokkaido.
+
+ent-VendingMachineMieyoAutomatedFlatpack = paquete plano de máquina expendedora automatizada MMC
+    .gender = male
+    .desc = Un paquete plano para construir una máquina expendedora automatizada de MMC.
+
 ent-VendingMachineNfsdDrobe = TSFMCDrobe
     .gender = male
     .desc = ¡Una máquina expendedora de ropa de TSFMC!
@@ -3034,6 +4250,10 @@ ent-VGCommanderPDA = PDA de comandante VG
     .gender = female
     .desc = Un ordenador personal básico para la restricción de acceso y organización, adaptado con piezas antiguas de PDA Gorlex.
 
+ent-VGHandheldOverwatchConsole = consola de supervisión portátil de VG
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
 ent-VGInfanteerIDCard = tarjeta de identificación de infante VG
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
@@ -3049,6 +4269,10 @@ ent-VGLieutenantIDCard = tarjeta de identificación de teniente VG
 ent-VGLieutenantPDA = PDA de teniente VG
     .gender = female
     .desc = Un ordenador personal básico para la restricción de acceso y organización, adaptado con piezas antiguas de PDA Gorlex.
+
+ent-VGOverwatchComputer = consola de supervisión de VG
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
 
 ent-VGTechfabMachineCircuitboard = placa de máquina de torno de precisión del Viper Group
     .gender = female
@@ -3285,7 +4509,7 @@ ent-WallChromiteCobblebrick = muro de ladrillos de cromita
     .gender = male
     .desc = Piedra a piedra, encajadas a la perfección para formar un muro.
 
-ent-WallClock = muro reloj
+ent-WallClock = muro de latón
     .gender = male
     .desc = Mantiene el aire dentro y a la quimera fuera.
 
@@ -3306,10 +4530,6 @@ ent-WallCultIndestructible = muro del culto
     .desc = Mantiene el aire dentro y a la greytide fuera.
 
 ent-WallDebug = muro de depuración
-    .gender = male
-    .desc = Mantiene el aire dentro y a la quimera fuera.
-
-ent-WallDiamond = muro de diamante
     .gender = male
     .desc = Mantiene el aire dentro y a la quimera fuera.
 
@@ -4403,10 +5623,6 @@ ent-WallShuttleDiagonal = pared de transbordador
     .gender = female
     .desc = Mantiene el aire dentro y a la greytide fuera.
 
-ent-WallShuttleInterior = pared de transbordador
-    .gender = female
-    .desc = Mantiene el aire dentro y a la quimera fuera.
-
 ent-WallSilver = muro de plata
     .gender = male
     .desc = Mantiene el aire dentro y a la quimera fuera.
@@ -4470,6 +5686,14 @@ ent-WallWood = muro de madera
 ent-WallWoodDiagonal = muro de madera
     .gender = male
     .desc = La defensa tradicional de los greytide.
+
+ent-WallXenoborg = pared xenoborg
+    .gender = female
+    .desc = Mantiene el aire dentro y a la quimera fuera.
+
+ent-WallXenoborgDiagonal = pared xenoborg
+    .gender = female
+    .desc = Mantiene el aire dentro y a la quimera fuera.
 
 ent-WantedListCartridge = cartucho de lista de buscados
     .gender = male
@@ -4748,6 +5972,14 @@ ent-WaterVaporCanister = bombona de vapor de agua
 ent-WaterVaporCanisterBroken = bombona de vapor de agua rota
     .gender = female
     .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
+
+ent-WaterVaporTank = tanque de vapor de agua
+    .gender = male
+    .desc = Un tanque de gas cilíndrico estándar para vapor de agua. Puede almacenar 5 L de gas.
+
+ent-WaterVaporTankFilled = tanque de vapor de agua
+    .gender = male
+    .desc = Un tanque de gas cilíndrico estándar para vapor de agua. Puede almacenar 5 L de gas.
 
 ent-WeakKudzu = kudzu
     .gender = male
@@ -5225,10 +6457,6 @@ ent-WeaponCaseShortCobra = caja de armas
     .gender = female
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
-ent-WeaponCaseShortDeckardExpedition = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
-
 ent-WeaponCaseShortDocuments = maletín de documentos
     .gender = male
     .desc = Una carcasa reforzada para guardar documentos importantes.
@@ -5273,17 +6501,9 @@ ent-WeaponCaseShortExplosives = caja de explosivos
     .gender = female
     .desc = Una carcasa reforzada para guardar explosivos.
 
-ent-WeaponCaseShortFaithExpedition = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
-
 ent-WeaponCaseShortFireBomb = caja de explosivos
     .gender = female
     .desc = Una carcasa reforzada para guardar explosivos.
-
-ent-WeaponCaseShortFitzExpedition = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
 ent-WeaponCaseShortHandmadeExpedition = caja de armas
     .gender = female
@@ -5293,19 +6513,11 @@ ent-WeaponCaseShortLaserGunExpedition = caja de armas
     .gender = female
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
-ent-WeaponCaseShortLuckyExpedition = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
-
 ent-WeaponCaseShortMateba = caja de armas
     .gender = female
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
 ent-WeaponCaseShortMk58Expedition = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
-
-ent-WeaponCaseShortN1984Expedition = caja de armas
     .gender = female
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
@@ -5318,10 +6530,6 @@ ent-WeaponCaseShortPollockExpedition = caja de armas
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
 ent-WeaponCaseShortPython = caja de armas
-    .gender = female
-    .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
-
-ent-WeaponCaseShortRevolverPirate = caja de armas
     .gender = female
     .desc = Una carcasa reforzada para guardar armas cortas y accesorios de armas.
 
@@ -5465,6 +6673,10 @@ ent-WeaponEnergyTurretFreeportControlPanel = panel de control de torreta centine
     .gender = male
     .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
 
+ent-WeaponEnergyTurretMieyoControlPanel = panel de control de torreta centinela de Mieyo
+    .gender = male
+    .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
+
 ent-WeaponEnergyTurretPDVControlPanel = panel de control de torreta centinela de la PDV
     .gender = male
     .desc = Una interfaz de pared que permite a una inteligencia artificial local ajustar los parámetros operativos de las torretas centinela vinculadas.
@@ -5511,9 +6723,13 @@ ent-WeaponGauntletGorilla = Guantelete G.O.R.I.L.L.A.
 
 ent-WeaponGrapplingGun = Pistola de gancho
 
-ent-WeaponHeavyPulseCannon = Cañón de pulso pesado NT-WS
+ent-WeaponHeavyMiningLaser = láser minero pesado industrial
     .gender = male
-    .desc = Un arma rara de la era de las guerras corporativas de origen Nanotrasen. Un enorme cañón de pulso portado en el hombro, con suficiente potencia para abrir agujeros en seres orgánicos o, ajustado a alta potencia, perforar limpiamente los cascos de los transbordadores.
+    .desc = Un láser de mano gigante y pesado. Capaz de excavar toneladas métricas de roca y de recargarse solo tras una larga espera.
+
+ent-WeaponHeavyPulseCannon = cañón de pulso pesado NT-WS descarriado
+    .gender = male
+    .desc = Un cañón de pulsos anómalo y enorme montado al hombro, con potencia suficiente en sus disparos para abrir agujeros en seres orgánicos o, ajustado a alta potencia, abrir agujeros limpios en los cascos de los transbordadores.
 
 ent-WeaponHFKatana = Hoja de alta frecuencia
     .gender = female
@@ -5540,6 +6756,10 @@ ent-WeaponLaserCannonExpedition = Cañón láser
     .desc = Un arma láser de uso intensivo y alta potencia. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
 
 ent-WeaponLaserCannonPMC = Cañón láser
+    .gender = male
+    .desc = Un arma láser de uso intensivo y alta potencia. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
+
+ent-WeaponLaserCannonXenoborg = cañón láser xenoborg
     .gender = male
     .desc = Un arma láser de uso intensivo y alta potencia. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
 
@@ -5577,6 +6797,10 @@ ent-WeaponLaserGun = Bláster láser retro
 ent-WeaponLaserGunExpedition = Pistola láser
     .gender = female
     .desc = Un modelo antiguo de pistola láser de grado civil.
+
+ent-WeaponLaserGunXenoborg = pistola láser xenoborg
+    .gender = female
+    .desc = Una pistola láser de alta energía de grado civil experimental con batería nuclear de autocarga.
 
 ent-WeaponLaserLMG = EL-20 HAMRR
     .gender = male
@@ -5629,14 +6853,14 @@ ent-WeaponLauncherChinaLakeEmp = PA china lake
     .gender = female
     .desc = PLOOP.
 
-ent-WeaponLauncherMk348 = NT-WS Mk.348 "Hailstorm" arma de pulso cinético dirigido
-    .desc = Un arma voluminosa de múltiples cañones que dispara 9x19mm. La munición se introduce mediante cajas, que se desplazan dentro del arma hacia cada cañón correspondiente. Alégrate de no ser tú quien tenga que mantener este nefasto mecanismo.
+ent-WeaponLauncherMk348 = NT-WS Mk.348 "Hailstorm" DKPW descarriado
+    .desc = Un arma voluminosa de varios cañones que dispara 9x19mm. La munición se alimenta mediante cajas y se desplaza dentro del arma hasta cada cañón correspondiente. Pese a su tosquedad, fue un prototipo exitoso desarrollado antes de la gran Expansión Confederada... ¿cómo sabes esto?
 
-ent-WeaponLauncherMPSSM = NT-WS SM-27 MPSSM lanzamisiles
-    .desc = Un lanzador multipropósito portátil, capaz de disparar tanto cabezas de guerra antinave guiadas como ojivas HEAT sin guía.
+ent-WeaponLauncherMPSSM = lanzamisiles NT-WS SM-27 MPSSM descarriado
+    .desc = Un lanzador portátil multiusos, capaz de disparar tanto ojivas antinave guiadas como ojivas HEAT no guiadas. Aunque ya no está en su mejor momento, sigue siendo devastador, incluso contra la tecnología moderna.
 
-ent-WeaponLauncherMPSSMASM = NT-WS SM-27 MPSSM lanzamisiles
-    .desc = Un lanzador multipropósito portátil, capaz de disparar tanto cabezas de guerra antinave guiadas como ojivas HEAT sin guía.
+ent-WeaponLauncherMPSSMASM = lanzamisiles NT-WS SM-27 MPSSM descarriado
+    .desc = Un lanzador portátil multiusos, capaz de disparar tanto ojivas antinave guiadas como ojivas HEAT no guiadas. Aunque ya no está en su mejor momento, sigue siendo devastador, incluso contra la tecnología moderna.
 
 ent-WeaponLauncherMultipleRocket = lanzacohetes múltiple
     .desc = Un antiguo lanzagranadas propulsado por cohete, modificado.
@@ -5675,7 +6899,7 @@ ent-WeaponLauncherTSFOsiris = QLU-909 Osiris MGL
 
 ent-WeaponLightMachineGunL6 = PA L6B SAW (7.62x39mm)
     .gender = female
-    .desc = Una ametralladora ligera de fabricación bastante tradicional con una agradable empuñadura de pistola de madera lacada. Usa munición 7.62x39mm. Ya no se produce; es un vestigio de la codicia y ambición de la humanidad durante La Fractura.
+    .desc = Una LMG de fabricación bastante tradicional con una empuñadura de pistola de madera agradablemente lacada. Usa munición 7.62x39mm. Sirve como vestigio de la codicia y la ambición de la humanidad durante la Fractura.
 
 ent-WeaponLightMachineGunL6C = PA L6C ROW (7.62x39mm)
     .gender = female
@@ -5697,8 +6921,8 @@ ent-WeaponLMGRatel = VFD PSW "Ratel" (7.62x51mm)
     .gender = male
     .desc = El arma de apoyo de precisión con recámara para 7.62x51mm que se adapta a cajas de munición simples y todo tipo de cargadores. Basada en la Vulcan y fabricada con materiales de mayor calidad. Una etiqueta en el lateral que parece haber sido manipulada reza "SOLO PARA USO MILI-CENARIO". Hay un carril Erebus en el receptor para ópticas.
 
-ent-WeaponLRC21PPL = NT-WS LRC-21 PPL
-    .desc = Un rifle de lanza de plasma pulsante pesado. Eviscera objetivos con facilidad.
+ent-WeaponLRC21PPL = NT-WS LRC-21 PPL descarriado
+    .desc = Un rifle pesado de lanza de plasma pulsado. Eviscera a los objetivos de un solo disparo limpio. Una marca altamente experimental, desarrollada y obtenida por ingeniería inversa justo antes de la Expansión Confederada... ¿cómo sabes esto?
 
 ent-WeaponMailLake = RPDS de correo
     .desc = Sistema Rá(b?)ido de Entrega de Paquetes
@@ -5849,6 +7073,10 @@ ent-WeaponPistolAnacondaRegistered = LWC Anaconda
     .gender = male
     .desc = Una pistola pesada capaz de suministrarse munición sobre la marcha mediante un fabricador integrado. La tecnología que perteneció a Cybersun ahora abastece a las fuerzas imperiales de la Dinastía Phaethon.
 
+ent-WeaponPistolCCTCGalactica = CAW-32 "Galactica" (9x19mm)
+    .gender = male
+    .desc = Sospechosamente similar a la Mk.32, este diseño original de Centennial Arms funciona como un arma compacta pero potente. La rosca para silenciadores y un soporte para pistola bajo el cañón permiten una personalización excepcional sobre el terreno, mientras que un receptor mejorado le confiere una potente capacidad de fuego en ráfaga.
+
 ent-WeaponPistolCHIMP = cañón de mano C.H.I.M.P.
     .gender = male
     .desc = Que sea un pequeño C.H.I.M.P. no significa que no pueda golpear como un A.P.E.
@@ -5882,7 +7110,11 @@ ent-WeaponPistolFlintlock = pistola de chispa
 
 ent-WeaponPistolHawk4 = LWC HAWK-4 I.S
     .gender = male
-    .desc = Una Anaconda pesada y modificada con el propósito de asesinar objetivos de alto valor. Este raro prototipo es capaz de fabricar balas perforantes de armadura. Una mira láser y holográfica junto a un chasis negro mate con un silenciador integrado fabricado a medida conforman un arma de sigilo sumamente letal, digna únicamente de un verdadero Comandante de la Vanguardia Imperial de la Dinastía Phaethon.
+    .desc = Una Anaconda pesada y modificada con el propósito de asesinar objetivos de alto valor. Este raro prototipo es capaz de imprimir balas perforantes. Un láser y una mira holográfica, junto con un chasis negro mate con un silenciador integrado hecho a medida, la convierten en un arma sigilosa extremadamente letal.
+
+ent-WeaponPistolKuosame = MMC VMK "Kuosame" (5.7x28mm)
+    .gender = male
+    .desc = Una pistola básica y sencilla para empleados de MMC. Solo se entrega en zonas de alto riesgo.
 
 ent-WeaponPistolMercenaryEchis = LWC PT-45C echis mercenaria (9x19mm)
     .gender = male
@@ -5903,13 +7135,6 @@ ent-WeaponPistolMk58Expedition = MA Mk-58 (.45 ACP)
 ent-WeaponPistolMk58Nonlethal = MA Mk-58 (.45 ACP)
     .gender = female
     .desc = La pistola ofensiva Mark 58, el arma secundaria más abundante de toda la galaxia. Comúnmente llamada un fragmento de la Guerra Corporativa, fue usada hasta el último momento. Usa munición .45 ACP. Equipada con cañón roscado y soporte para dispositivos tácticos.
-
-ent-WeaponPistolN1984 = NT N1984 (.45 magnum)
-    .gender = male
-    .desc = El arma secundaria de cualquier oficial que se respete. Disponible en .45 magnum, el calibre del señor. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
-
-ent-WeaponPistolN1984Nonlethal = N1984 (.45 magnum)
-    .desc = El arma secundaria de cualquier oficial que se respete. Disponible en .45 magnum, el calibre del señor. En el mango hay una etiqueta que dice 'solo para uso autorizado'.
 
 ent-WeaponPistolPollock = LWC C17 Pollock (9x19mm)
     .gender = male
@@ -5943,17 +7168,17 @@ ent-WeaponProtoKineticAcceleratorSawn = acelerador protocinético recortado
     .gender = male
     .desc = Un acelerador protocinético reducido a sus piezas operativas mínimas. Fácil de manejar con una mano, pero brutal para la muñeca.
 
-ent-WeaponPulseCarbine = carabina de pulso LWC
+ent-WeaponPulseCarbine = Carabina de pulso VCD QBH-12
     .gender = female
-    .desc = Una vista habitual en manos de los TSF de mayor rango, la carabina de pulso es un arma láser contundente rescatada de los restos de Nanotrasen.
+    .desc = La carabina de pulso es una versión ligeramente más compacta del rifle de pulso de la TSF que combina la tecnología de autorrecarga con una cadencia de fuego aún mayor, pensada para aterrorizar a los enemigos en el campo de batalla. Aunque se sabe que se sobrecalienta ocasionalmente en combates prolongados, eso no detiene a las fuerzas especiales de los Marines que la prefieren.
 
-ent-WeaponPulsePistol = pistola de pulso LWC
+ent-WeaponPulsePistol = Pistola de pulso VCD QSH-13
     .gender = female
-    .desc = Una pistola de energía de última generación utilizada como arma secundaria por el TSFN y el TSFMC.
+    .desc = La pistola de pulso es una versión compacta del rifle de pulso de la TSF. Aunque usa la misma tecnología de autorrecarga, tiene una batería más pequeña que la hace poco práctica para un uso sostenido en el campo de batalla. No obstante, ha encontrado su hueco en manos de los oficiales de la TSFN y la TSFMC como arma secundaria defensiva.
 
-ent-WeaponPulseRifle = rifle de pulso NT
+ent-WeaponPulseRifle = Rifle de pulso VCD QBH-11
     .gender = male
-    .desc = Un arma que solían usar las unidades de operaciones especiales de NT, pero que ahora se ve con frecuencia en manos del TSF.
+    .desc = El primer modelo de pulso reproducido desde que la tecnología cayó en manos de la TSF tras el final de la Guerra Corporativa, este rifle define la tecnología de vanguardia en manos de las tropas militares de élite de la TSF y de los oficiales que las mandan.
 
 ent-WeaponRadAx = axium
     .gender = male
@@ -5971,85 +7196,37 @@ ent-WeaponRevolverArgentiNonlethal = Argenti (5.56x45mm)
     .gender = male
     .desc = El revólver Argenti Tipo 20 de grado civil. Fabricado por Silver Industries. Aunque el diseño con cilindro expandido es bastante antiguo, el pistolero adecuado sabrá aprovecharlo bien. Usa munición 5.56x45mm.
 
-ent-WeaponRevolverDeckard = NT Deckard (.45 magnum)
-    .gender = male
-    .desc = Un raro revólver de fabricación artesanal y grado civil. Úsalo cuando no haya tiempo para la prueba Voight-Kampff. Usa munición .45 magnum.
-
-ent-WeaponRevolverDeckardExpedition = NT Deckard (.45 magnum)
-    .gender = male
-    .desc = Un raro revólver de fabricación artesanal y grado civil. Úsalo cuando no haya tiempo para la prueba Voight-Kampff. Usa munición .45 magnum.
-
-ent-WeaponRevolverDeckardExpeditionGrifty = Revólver de Atención al Cliente
-    .gender = male
-    .desc = Un raro revólver de fabricación artesanal y grado civil. Úsalo cuando no haya tiempo para la prueba Voight-Kampff. Usa munición .45 magnum.
-
-ent-WeaponRevolverDeckardNonlethal = NT Deckard (.45 magnum)
-    .gender = male
-    .desc = Un raro revólver de fabricación artesanal y grado civil. Úsalo cuando no haya tiempo para la prueba Voight-Kampff. Usa munición .45 magnum.
-
 ent-WeaponRevolverDragoon = revólver de oficial TPC Dragoon
     .gender = male
     .desc = Un revólver pesado, recamarado en calibre .500 magnum de reposición. El Dragoon es un revólver hecho a medida para el Gran Visir del PDV, pensado para imponer presencia en manos de un alguacil experimentado.
 
-ent-WeaponRevolverFaith = Fe (.45 magnum)
+ent-WeaponRevolverInspector = Garter (.357 magnum)
     .gender = male
-    .desc = Reparte bendiciones en forma de balas. Usa munición .45 magnum.
+    .desc = Un revólver robusto y sencillo, todavía eficaz incluso en el espacio. Usa munición .357 magnum.
 
-ent-WeaponRevolverFaithExpedition = Fe (.45 magnum)
-    .gender = male
-    .desc = Reparte bendiciones en forma de balas. Usa munición .45 magnum.
+ent-WeaponRevolverMateba = Mateba (.357 magnum)
+    .gender = female
+    .desc = Un revólver legendario de una era ya lejana. Usado originalmente por los equipos de asesinos corporativos, su diseño se ha extendido por todas partes. Usa munición .357 magnum. De disparo lento, pero gracias a sus componentes mejorados pega como un supercarguero. Excelente para resolver problemas.
 
-ent-WeaponRevolverFitz = Fitz Special (.45 magnum)
-    .gender = male
-    .desc = Un revólver snub compacto y fácil de ocultar para autodefensa. Usa munición .45 magnum.
+ent-WeaponRevolverMatebaAP = Mateba (.357 magnum)
+    .gender = female
+    .desc = Un revólver legendario de una era ya lejana. Usado originalmente por los equipos de asesinos corporativos, su diseño se ha extendido por todas partes. Usa munición .357 magnum. De disparo lento, pero gracias a sus componentes mejorados pega como un supercarguero. Excelente para resolver problemas.
 
-ent-WeaponRevolverFitzExpedition = Fitz Special (.45 magnum)
-    .gender = male
-    .desc = Un revólver snub compacto y fácil de ocultar para autodefensa. Usa munición .45 magnum.
+ent-WeaponRevolverMatebaExpedition = Mateba (.357 magnum)
+    .gender = female
+    .desc = Un revólver legendario de una era ya lejana. Usado originalmente por los equipos de asesinos corporativos, su diseño se ha extendido por todas partes. Usa munición .357 magnum. De disparo lento, pero gracias a sus componentes mejorados pega como un supercarguero. Excelente para resolver problemas.
 
-ent-WeaponRevolverInspector = Inspector (.45 magnum)
+ent-WeaponRevolverPython = LWC Python (.357 magnum)
     .gender = male
-    .desc = El mejor amigo de un detective. Usa munición .45 magnum. En la empuñadura hay una etiqueta que dice 'solo para uso autorizado'.
+    .desc = Un diseño de revólver .357 magnum robusto y avanzado que ha superado la prueba del tiempo. Ha recibido una mejora que permite un patrón de disparo en ráfaga de doble tiro.
 
-ent-WeaponRevolverLucky = Lucky 37 (.45 magnum)
+ent-WeaponRevolverPythonAP = LWC Python (.357 magnum)
     .gender = male
-    .desc = La suerte siempre supera a la habilidad, comadreja. Usa munición .45 magnum.
+    .desc = Un diseño de revólver .357 magnum robusto y avanzado que ha superado la prueba del tiempo. Ha recibido una mejora que permite un patrón de disparo en ráfaga de doble tiro.
 
-ent-WeaponRevolverLuckyExpedition = Lucky 37 (.45 magnum)
+ent-WeaponRevolverPythonGatfruit = LWC Python (.357 magnum)
     .gender = male
-    .desc = La suerte siempre supera a la habilidad, comadreja. Usa munición .45 magnum.
-
-ent-WeaponRevolverMateba = NT Mateba (.45 magnum)
-    .gender = male
-    .desc = Una pistola legendaria de la Era Corporativa, usada antaño por equipos de élite corporativos, ahora pertenece a los Oficiales de la TSF en toda la galaxia. Usa munición .45 magnum. En la empuñadura hay una etiqueta que dice 'solo para uso autorizado'.
-
-ent-WeaponRevolverMatebaAP = NT Mateba (.45 magnum)
-    .gender = male
-    .desc = Una pistola legendaria de la Era Corporativa, usada antaño por equipos de élite corporativos, ahora pertenece a los Oficiales de la TSF en toda la galaxia. Usa munición .45 magnum. En la empuñadura hay una etiqueta que dice 'solo para uso autorizado'.
-
-ent-WeaponRevolverMatebaExpedition = NT Mateba (.45 magnum)
-    .gender = male
-    .desc = Una pistola legendaria de la Era Corporativa, usada antaño por equipos de élite corporativos, ahora pertenece a los Oficiales de la TSF en toda la galaxia. Usa munición .45 magnum. En la empuñadura hay una etiqueta que dice 'solo para uso autorizado'.
-
-ent-WeaponRevolverPirate = revólver pirata (.45 magnum)
-    .gender = male
-    .desc = Un revólver extraño, ilegal y de aspecto antiguo, favorito de las tripulaciones piratas. Usa munición .45 magnum.
-
-ent-WeaponRevolverPirateExpedition = revólver pirata (.45 magnum)
-    .gender = male
-    .desc = Un revólver extraño, ilegal y de aspecto antiguo, favorito de las tripulaciones piratas. Usa munición .45 magnum.
-
-ent-WeaponRevolverPython = LWC Python (.45 magnum)
-    .gender = male
-    .desc = Un revólver de uso común en el espacio de la Dinastía Phaethon, típicamente usado por imperiales de alto rango. Usa munición .45 magnum.
-
-ent-WeaponRevolverPythonAP = LWC Python (.45 magnum)
-    .gender = male
-    .desc = Un revólver de uso común en el espacio de la Dinastía Phaethon, típicamente usado por imperiales de alto rango. Usa munición .45 magnum.
-
-ent-WeaponRevolverPythonGatfruit = LWC Python (.45 magnum)
-    .gender = male
-    .desc = Un revólver de uso común en el espacio de la Dinastía Phaethon, típicamente usado por imperiales de alto rango. Usa munición .45 magnum. Parece estar fabricado con material vegetal frágil y no es tan valioso para el reciclaje de contrabando.
+    .desc = Un revólver que se encuentra habitualmente por el espacio de la Dinastía Phaethon; suelen usarlo los imperiales de alto rango. Usa munición .357 magnum. Parece estar hecho de frágil materia vegetal, y no resulta tan valioso para el reciclaje de contrabando.
 
 ent-WeaponRifleAk = LWC AKM (7.62x39mm)
     .gender = male
@@ -6069,11 +7246,11 @@ ent-WeaponRifleAK502Registered = NCI AK-502 (7.62x39mm)
 
 ent-WeaponRifleAnnie = TCA QBZ-430 Annie (7,62x39 mm)
     .gender = female
-    .desc = Una bestia diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
+    .desc = Una bestia de CQB diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
 
 ent-WeaponRifleAnnieRegistered = TCA QBZ-430 Annie (7,62x39 mm)
     .gender = female
-    .desc = Una bestia diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
+    .desc = Una bestia de CQB diseñada para cargar con el peso de misiones imposibles. Usa munición 7.62x39mm. El cañón está roscado para silenciadores, y hay un montaje de raíl Erebus en el receptor y el guardamanos para ópticas y empuñaduras.
 
 ent-WeaponRifleAsakimAutopulser = autopulsor de plasma patrón kunisa
     .gender = male
@@ -6122,20 +7299,24 @@ ent-WeaponRifleIroh = HWL FG.J "Iroh" (5.56x45mm)
     .gender = male
     .desc = Un rifle de primera, finamente ajustado. Preciso, de disparo rápido y caro como pocos. Equipado con raíles Erebus en el guardamanos y el asa de transporte, y un cañón roscado para accesorios.
 
+ent-WeaponRifleIzumo = MMC V/79P "Izumo" (5.56x45mm)
+    .gender = male
+    .desc = Un rifle aún más preciso y mucho menos barato producido por MMC, seleccionado entre los rifles V/78 de mayor rendimiento y convertido al rol de DMR. Cuenta con un railmount Erebus en el cajón de mecanismos para ópticas.
+
 ent-WeaponRifleJackdaw = CS CAWS-25 Jackdaw (6,35x40 mm)
     .desc = El principio del fin lo anuncia el canto de una grajilla. Usa munición sin casquillo de 6.35x40mm.
 
 ent-WeaponRifleLecter = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
-    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
+    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Muy preciso y fácil de usar, pero con poca capacidad de daño. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
 ent-WeaponRifleLecterPMC = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
-    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
+    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Muy preciso y fácil de usar, pero con poca capacidad de daño. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
 ent-WeaponRifleLecterRubber = TCA QBZ-410 Lecter (6,8x52 mm sin vaina)
     .gender = female
-    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Preciso, fácil de usar y que dispara el cartucho STANAG de 6.8x52mm. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
+    .desc = El resultado de un proyecto para crear un nuevo rifle estándar para las ramas del ejército de la TSF. Muy preciso y fácil de usar, pero con poca capacidad de daño. También acepta cargadores de 5.56x45mm para facilitar la estandarización. El cañón está roscado para silenciadores y hay un montaje de raíl Erebus en la parte inferior para empuñaduras.
 
 ent-WeaponRifleLeeEnfield = MI Lee Enfield Mk 98 (7.62x51mm)
     .gender = male
@@ -6177,9 +7358,13 @@ ent-WeaponRifleNovaliteC1Rubber = LWC Novalite C1 (5.56x45mm)
     .gender = male
     .desc = Una modificación del Lecter de LWC, un rifle semiautomático de grado civil con cargador interno. Usa munición 5,56x45mm.
 
-ent-WeaponRifleNtsfLtr = NTSF-LTR-556 (5.56x45mm,6.8x52mm Caseless)
+ent-WeaponRifleNtsfLtr = NTSF-LTR-556 descarriado (5.56x45mm,6.8x52mm Caseless)
     .gender = male
-    .desc = Un rifle de la era de las guerras corporativas. El Rifle Táctico Ligero de las Nano Trasen Security Forces y Special Forces, calibrado en 5,56x45mm, también acepta 6,8x52mm por ser un calibre completamente nuevo en su época y tratarse de un prototipo. Este rifle es de alta calidad, con componentes internos de plastitanio y guarniciones de plastacero.
+    .desc = Un rifle anómalo. Un Rifle Táctico Ligero listo para su uso por operativos de fuerzas especiales, recamarado en 5.56x45mm. También acepta 6.8x52mm por ser un prototipo. Pero... ¿cómo sabes todo esto?
+
+ent-WeaponRifleOsaka = MMC V/78 "Osaka" (5.56x45mm)
+    .gender = male
+    .desc = Un rifle preciso y barato producido por MMC. Dispara 5.56x45mm.
 
 ent-WeaponRiflePrometheus = HWM FCL "Prometheus" (5.56x45mm)
     .gender = male
@@ -6218,16 +7403,16 @@ ent-WeaponRifleVympel = PD-VI M-32 Vympel (5,56x45 mm)
     .desc = Un diseño bullpup compacto. Utiliza munición de fusil de 5,56x45 mm. El cañón tiene rosca para supresores y el guardamanos cuenta con un raíl Erebus para empuñaduras.
 
 ent-WeaponRifleWSPR = CS KMP-WSPR (7.62x39mm)
-    .desc = Un rifle de ráfaga Dynasty de última generación, versátil y fiable. Usa munición 7,62x39mm. Hay un riel Erebus en la parte superior del receptor para miras.
+    .desc = Un rifle de la Dinastía de última generación con silenciador integrado, versátil y fiable, y capaz de disparar una hiperráfaga de cadencia rápida. Usa munición 7.62x39mm. Hay un montaje de raíl Erebus en la parte superior del receptor para ópticas.
 
 ent-WeaponRifleWSPRRegistered = CS KMP-WSPR (7.62x39mm)
-    .desc = Un rifle de ráfaga Dynasty de última generación, versátil y fiable. Usa munición 7,62x39mm. Hay un riel Erebus en la parte superior del receptor para miras.
+    .desc = Un rifle de la Dinastía de última generación con silenciador integrado, versátil y fiable, y capaz de disparar una hiperráfaga de cadencia rápida. Usa munición 7.62x39mm. Hay un montaje de raíl Erebus en la parte superior del receptor para ópticas.
 
 ent-WeaponRifleWSPRTarkhan = PD-VI LA/22 "Kord" (7,62x51 mm)
     .gender = male
     .desc = Un WSPR adaptado como GPMG de 7,62x51 mm para los Tarkhans, que de algún modo conserva el supresor integrado. Cuenta con un raíl Erebus en la parte superior del cajón de mecanismos para montar ópticas.
 
-ent-WeaponRifleXlr556 = VFD QBZX-281 Taotie ICWS (5,56x45 mm)
+ent-WeaponRifleXlr556 = VFD QBZX-281 ICWS (5.56x45mm)
     .gender = male
     .desc = Un "rifle" de próxima generación propuesto para la infantería estándar de las TSF. Calibrado en 5,56x45mm, su RPM es increíble, pero a gran cadencia de fuego le corresponde un gran control del fuego...
 
@@ -6317,7 +7502,7 @@ ent-WeaponShotgunImprovisedLoaded = escopeta improvisada (calibre 12)
 
 ent-WeaponShotgunJack = GS-004-A Jack (calibre 4)
     .gender = female
-    .desc = Una escopeta de ráfaga 23x75mm increíblemente pesada que se carga desde una bandolera y una mochila especializada.
+    .desc = Una escopeta 23x75mm de fuego automático increíblemente pesada que se alimenta desde una cinta y una mochila especializada.
 
 ent-WeaponShotgunKammerer = Kammerer (calibre 12)
     .gender = male
@@ -6370,7 +7555,7 @@ ent-WeaponSniperCeremonialExpedition = rifle ceremonial (7.62x51mm)
     .desc = Una variante ceremonial del Rifle Mark 1, en elegante azul y blanco. Usa munición de 7.62x51mm.
 
 ent-WeaponSniperHristov = SKR-WS M96 Hristov (14.5x114mm)
-    .desc = Un rifle antimaterial portátil. Dispara proyectiles de 14.5mm a alta velocidad. Usa munición de 145x114mm.
+    .desc = Un rifle antimaterial portátil de 3 cartuchos. Dispara proyectiles de 14.5mm a alta velocidad. Usa munición 14.5x114mm.
 
 ent-WeaponSniperMosin = NCI Kardashev-Mosin (7.62x54mmR)
     .gender = male
@@ -6384,11 +7569,11 @@ ent-WeaponSniperMosinNonlethal = NCI Kardashev-Mosin (7.62x54mmR)
     .gender = male
     .desc = Un arma para la caza, o para la interminable guerra de trincheras. Usa munición de 762x54mmR. Equipada con bayoneta.
 
-ent-WeaponSniperRepeater = N2524 Pattern Repeater (.45 magnum)
-    .desc = Un arma de palanca de grado civil, favorita de los vaqueros espaciales de toda la Frontera por su fiabilidad y poder de detención. Usa munición de .45 magnum.
+ent-WeaponSniperRepeater = N2524 Pattern Repeater (.357 magnum)
+    .desc = Un arma de palanca de grado civil, favorita de los vaqueros espaciales de toda la Frontera por su fiabilidad y poder de detención. Usa munición de .357 magnum.
 
-ent-WeaponSniperRepeaterExpedition = N2524 Pattern Repeater (.45 magnum)
-    .desc = Un arma de palanca de grado civil, favorita de los vaqueros espaciales de toda la Frontera por su fiabilidad y poder de detención. Usa munición de .45 magnum.
+ent-WeaponSniperRepeaterExpedition = N2524 Pattern Repeater (.357 magnum)
+    .desc = Un arma de palanca de grado civil, favorita de los vaqueros espaciales de toda la Frontera por su fiabilidad y poder de detención. Usa munición de .357 magnum.
 
 ent-WeaponSprayNozzle = boquilla de pulverización
     .gender = female
@@ -6459,11 +7644,19 @@ ent-WeaponSubMachineGunMalandroPMC = RS-2 Malandro (9x19 mm)
 ent-WeaponSubMachineGunMalandroRegistered = RS-2 Malandro (9x19 mm)
     .desc = Un subfusil robusto y deteriorado, recamarado para 9x19 mm y diseñado para tiroteos a corta distancia; ofrece una ráfaga de 10 disparos a costa de la precisión.
 
+ent-WeaponSubMachineGunMasamune = MMC VK-550 Masamune (5.7x28mm)
+    .gender = male
+    .desc = Un PDW básico para la seguridad corporativa. Sin modularidad alguna.
+
 ent-WeaponSubMachineGunMla73 = SKR-WS MLA-73 (6,35x40 mm sin vaina)
-    .desc = Un diseño de PDW fiable, habitualmente distribuido a pilotos y tripulantes de AFV. Este ha sido modificado con un silenciador integrado. Las leyendas sobre esta arma dicen que es un esquema de la Era Corporativa construido por la Dinastía Phaethon. Puede usar cargadores de subfusil 9x19mm en caso de necesidad. Un carril Erebus está presente en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
+    .desc = Un diseño de PDW fiable y preciso, habitualmente entregado a pilotos y tripulaciones de vehículos blindados. Este ha sido modificado con un supresor integral. Las leyendas en torno a esta arma dicen que es un esquema de la Era Corporativa fabricado por la Dinastía Phaethon. En caso de apuro puede usar cargadores de subfusil 9x19mm. Cuenta con un railmount Erebus en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
 
 ent-WeaponSubMachineGunMla73Registered = SKR-WS MLA-73 (6,35x40 mm sin vaina)
-    .desc = Un diseño de PDW fiable, habitualmente distribuido a pilotos y tripulantes de AFV. Este ha sido modificado con un silenciador integrado. Las leyendas sobre esta arma dicen que es un esquema de la Era Corporativa construido por la Dinastía Phaethon. Puede usar cargadores de subfusil 9x19mm en caso de necesidad. Un carril Erebus está presente en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
+    .desc = Un diseño de PDW fiable y preciso, habitualmente entregado a pilotos y tripulaciones de vehículos blindados. Este ha sido modificado con un supresor integral. Las leyendas en torno a esta arma dicen que es un esquema de la Era Corporativa fabricado por la Dinastía Phaethon. En caso de apuro puede usar cargadores de subfusil 9x19mm. Cuenta con un railmount Erebus en la parte superior e inferior del guardamanos para ópticas y empuñaduras.
+
+ent-WeaponSubMachineGunSakura = MMC Sakura Smart-SMG (.160 smart)
+    .gender = male
+    .desc = Una variante de producción completa del arma inteligente Abielle, desarrollada íntegramente por MMC.
 
 ent-WeaponSubMachineGunTypewriter = PA Typewriter (.45 ACP)
     .gender = female
@@ -6493,9 +7686,9 @@ ent-WeaponSubMachineGunVector9x19mmRegistered = LWC Vector (9x19mm)
     .gender = male
     .desc = Un excelente subfusil totalmente automático. Usa munición 9x19mm. Un carril Erebus está presente en la parte superior del receptor y en la parte inferior del guardamanos para ópticas y empuñaduras.
 
-ent-WeaponSubMachineGunVectorNtsfHclm = NTSF-HCLM-45 (.45 magnum)
+ent-WeaponSubMachineGunVectorNtsfHclm = HCLM-357 descarriado (.357 magnum)
     .gender = male
-    .desc = La Ametralladora Ligera de Gran Calibre NTSF. Un subfusil pesado de muy alta calidad con recámara para .45 magnum, para uso de la Fuerza de Seguridad Nano Trasen y operaciones especiales de NT, procedente de la guerra corporativa.
+    .desc = Una Ametralladora Ligera de Calibre Pesado anómala. Un subfusil pesado de altísima calidad recamarado en .357 magnum. Aunque es incómoda de usar y se queda sin munición rápido, puede ser muy devastadora.
 
 ent-WeaponSubMachineGunWt550 = UI WT550 (4.6x30mm)
     .gender = male
@@ -6509,12 +7702,12 @@ ent-WeaponSubMachineGunWt550PMC = UI WT550 (4.6x30mm)
     .gender = male
     .desc = Un excelente subfusil, producido por una empresa de armas del mercado negro conocida como Ullman Industries. Usa munición 4.6x30mm. En el receptor hay una etiqueta que dice 'solo para uso autorizado'.
 
-ent-WeaponSubMachineSmart = PA Abielle Smart-SMG (.160 smart)
-    .gender = female
+ent-WeaponSubMachineSmart = MMC Abielle Smart-SMG (.160 smart)
+    .gender = male
     .desc = Un experimento en tecnología de armas inteligentes que guía las balas hacia el objetivo al que apuntaba el arma al disparar. Aunque las funciones de seguimiento funcionan correctamente, el arma es propensa a una dispersión increíblemente amplia gracias a su cañón prácticamente inexistente.
 
-ent-WeaponSubMachineSmartRegistered = PA Abielle Smart-SMG (.160 smart)
-    .gender = female
+ent-WeaponSubMachineSmartRegistered = MMC Abielle Smart-SMG (.160 smart)
+    .gender = male
     .desc = Un experimento en tecnología de armas inteligentes que guía las balas hacia el objetivo al que apuntaba el arma al disparar. Aunque las funciones de seguimiento funcionan correctamente, el arma es propensa a una dispersión increíblemente amplia gracias a su cañón prácticamente inexistente.
 
 ent-WeaponTaser = táser
@@ -6818,9 +8011,12 @@ ent-WeaponTurretPinholeFlatpack = Paquete plano Pinhole
 ent-WeaponTurretR300 = Obús R-300 430mm
     .desc = Un obús enorme y absurdo. Una velocidad absurdamente baja, una recarga absurdamente larga, y una explosión absurdamente poderosa si logras acertar. Sin perforación de blindaje alguna.
 
+ent-WeaponTurretR300Infinite = Obús R-300 430mm
+    .desc = Un obús enorme y absurdo. Una velocidad absurdamente baja, una recarga absurdamente larga, y una explosión absurdamente poderosa si logras acertar. Sin perforación de blindaje alguna.
+
 ent-WeaponTurretRAC30 = Autocañón RAC-30 Draupnir
     .gender = male
-    .desc = Un autocañón de 30mm de fuego rápido y uso intensivo, montado originalmente como arma de combate aéreo en aeronaves atmosféricas.
+    .desc = Un autocañón de 30mm de tiro rápido y uso intensivo, montado originalmente como arma de combate aéreo en aeronaves atmosféricas. Poco alcance, pero daño devastador.
 
 ent-WeaponTurretReaper = Lanza de taquiones Curio-1089 "Reaper"
     .gender = female
@@ -6829,6 +8025,10 @@ ent-WeaponTurretReaper = Lanza de taquiones Curio-1089 "Reaper"
 ent-WeaponTurretRepairableBroken = torreta RIP balística pesada (averiada)
     .gender = female
     .desc = Los Chimera la prefieren así. Parece que se podría volver a poner en funcionamiento con un poco de soldadura o nanitos.
+
+ent-WeaponTurretSandbox = lanzador SS-N-40 "Sandbox"
+    .gender = male
+    .desc = Un lanzador de misiles de crucero estratégicos, capaz de disparar municiones SARH extremadamente rápidas, de largo alcance y con capacidad nuclear. Nacido de un miedo casi genético de tiempos remotos, este sistema de armas ha traído la paz durante mucho tiempo... hasta ahora.
 
 ent-WeaponTurretScylla = Impulsor de plasma TPC Scylla
     .gender = male
@@ -6931,6 +8131,10 @@ ent-WeaponTurretViper = torreta balística
 ent-WeaponTurretXeno = torreta xeno
     .gender = female
     .desc = Dispara proyectiles ácidos de 9 mm.
+
+ent-WeaponTurretXenoborg = torreta balística
+    .gender = female
+    .desc = Una torreta automática de ametralladora balística.
 
 ent-WeaponVizierShamshir = shamshir de oficial
     .gender = male
@@ -7324,6 +8528,10 @@ ent-WindoorSecureMercenaryLockedDungeon = ventapuerta segura
     .gender = female
     .desc = Una ventapuerta con cristal opaco; es difícil ver qué hay al otro lado.
 
+ent-WindoorSecureMieyoLocked = ventapuerta segura
+    .gender = female
+    .desc = ¡Es una ventana resistente y una puerta corredera! ¡Asombroso!
+
 ent-WindoorSecureNukeopLocked = ventapuerta segura
     .gender = female
     .desc = ¡Es una ventana resistente y una puerta corredera! ¡Asombroso!
@@ -7387,10 +8595,6 @@ ent-WindoorUranium = ventanapuerta de uranio
 ent-Window = ventana
     .gender = female
     .desc = No manches el cristal ahí abajo.
-
-ent-WindowClockworkDirectional = ventana de relojería direccional
-    .gender = female
-    .desc = No manches el latón ahí abajo.
 
 ent-WindowCultIndestructibleInvisible = ventana de culto
 
@@ -7623,6 +8827,98 @@ ent-XenoAITimedSpawner = Generador temporizado de IA Xeno
 ent-XenoBasherGlass = vaso metamórfico
     .gender = male
     .desc = Un vaso metamórfico que automágicamente se convierte en el vaso adecuado para la bebida que contiene. Hay un número de patente lijado en la parte inferior.
+
+ent-XenoborgAdvancedModuleTool = módulo de herramientas avanzadas para xenoborg
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgCameraMonitorCircuitboard = placa de monitor de cámaras xenoborg
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para un monitor de cámaras de xenoborg.
+
+ent-XenoborgChassisEngineer = Cyborg ingeniero xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-XenoborgChassisHeavy = Cyborg pesado xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-XenoborgChassisScout = Cyborg explorador xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-XenoborgChassisStealth = Cyborg sigiloso xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-XenoborgCircuitBoard = placa de leyes (Xenoborg)
+    .gender = female
+    .desc = Una placa electrónica que contiene el conjunto de leyes Xenoborg.
+
+ent-XenoborgIDCard = tarjeta de identificación xenoborg
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-XenoborgModuleAccessBreaker = módulo rompeaccesos para xenoborg
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleBasic = módulo básico de xenoborg
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleChameleonProjector = módulo de xenoborg de proyector camaleón
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleCloakDevice = módulo de xenoborg de dispositivo de camuflaje
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleDefense = módulo de xenoborg de defensa
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleDoorControl = módulo de xenoborg de control de puertas
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleHeavyLaser = módulo de xenoborg de cañón láser
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleHypo = módulo de xenoborg de hipo de nocturina
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleJammer = módulo de xenoborg inhibidor
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleSuperCloakDevice = módulo de xenoborg de dispositivo de invisibilidad
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleSurgery = módulo de cirugía xenoborg para cyborg
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgModuleTool = módulo de herramientas para xenoborg
+    .gender = male
+    .desc = Un componente tecnológico que otorga nuevas habilidades a los cyborgs.
+
+ent-XenoborgRadioJammer = inhibidor de radio xenoborg
+    .gender = male
+    .desc = Este dispositivo interrumpe cualquier comunicación de radio saliente cercana, así como los sensores de traje, cuando está activado.
+
+ent-Xenoborgs = cámara
+    .gender = female
+    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
+
+ent-XenoborgWindow = ventana xenoborg
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
 
 ent-XenoResinWindow = ventana de resina
     .gender = female

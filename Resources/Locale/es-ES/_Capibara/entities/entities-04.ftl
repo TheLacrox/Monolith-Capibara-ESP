@@ -1,3 +1,683 @@
+ent-MailNFT3ComponentBox = paquete sin dirección
+
+ent-MailNFT4ComponentBox = paquete sin dirección
+
+ent-MailNFTacticalMaid = paquete grande sin dirección
+
+ent-MailNFThrongler = paquete grande sin dirección
+
+ent-MailNFUnicycle = paquete grande sin dirección
+
+ent-MailNFUnusualClothing = paquete sin dirección
+
+ent-MailNFUnusualFood = paquete sin dirección
+
+ent-MailNFUnusualProduce = paquete sin dirección
+
+ent-MailNFVagueThreat = paquete sin dirección
+
+ent-MailNFVulpCannon = paquete grande sin dirección
+
+ent-MailNFWeejurnum = paquete grande sin dirección
+
+ent-MailNoir = paquete sin dirección
+
+ent-MailRestraints = paquete sin dirección
+
+ent-MailSake = paquete sin dirección
+
+ent-MailSecurityDonuts = paquete sin dirección
+
+ent-MailSecurityNFHudNfsdMed = paquete sin dirección
+
+ent-MailSecurityNFMusket = paquete grande sin dirección
+
+ent-MailSecurityNFSpaceLaw = paquete sin dirección
+
+ent-MailSecurityNonlethalsKit = paquete sin dirección
+
+ent-MailSpaceVillainDIY = paquete sin dirección
+
+ent-MailStationRepNFClurger = paquete sin dirección
+
+ent-MailStationRepNFNukeDisk = paquete sin dirección
+
+ent-MailSunglasses = paquete sin dirección
+
+ent-MailTeleporter = teletransportador postal
+    .gender = male
+    .desc = Teletransporta el correo dirigido a la tripulación de esta estación.
+
+ent-MailWinterCoat = paquete sin dirección
+
+ent-MaintenanceFluffSpawner = Generador de botín de mantenimiento
+
+ent-MaintenanceInsulsSpawner = Generador de botín de mantenimiento
+
+ent-MaintenanceJack = palanca de mantenimiento
+    .gender = female
+    .desc = Una herramienta formidable para dominar los pasadizos de mantenimiento. Hace palanca en baldosas y revestimientos, martillea y puede anclar.
+
+ent-MaintenancePlantSpawner = Generador de botín de mantenimiento
+
+ent-MaintenanceToolSpawner = Generador de botín de mantenimiento
+
+ent-MaintenanceWeaponSpawner = Generador de botín de mantenimiento
+
+ent-MakeshiftDefib = desfibrilador improvisado
+    .gender = male
+    .desc = Un desfibrilador de aspecto oxidado, hecho con chatarra. ¿Estás seguro de que es buena idea?
+
+ent-MakeshiftDefibUnfinished = algo improvisado
+    .gender = male
+    .desc = Algo complejo hecho de acero. No estás muy seguro de qué es esto.
+
+ent-MakeshiftJammer = inhibidor de radio improvisado
+    .gender = male
+    .desc = Un dispositivo de aspecto barato que puede saturar las ondas de radio, bloqueando básicamente toda la señal. Sí, tampoco es que sea muy eficaz.
+
+ent-MakeshiftJammerUnfinished = algo improvisado
+    .gender = male
+    .desc = Un mando a distancia atado a una multiherramienta. Hay que ser un genio para entender para qué sirve.
+
+ent-MakeshiftShield = escudo improvisado
+    .gender = male
+    .desc = Un escudo de aspecto destartalado, no sirve para gran cosa.
+
+ent-Mannequin = maniquí
+    .gender = male
+    .desc = Puede llevar cualquier ropa con estilo.
+
+ent-MantisBlade = hoja mantis
+    .gender = female
+    .desc = No verán el acero hasta que sea demasiado tarde.
+
+ent-MapText = texto del mapa
+
+ent-MarimbaInstrument = marimba
+
+ent-MarimbaInstrumentFlatpack = paquete plano de marimba
+    .gender = male
+    .desc = Un paquete plano que contiene una marimba.
+
+ent-MarishTranslator = Traductor Marish
+    .gender = male
+    .desc = Traduce el habla entre Marish y el Básico de Tau-Ceti. ¡Para hablar con los Shadowkin!
+
+ent-MarishTranslatorImplant = implante de traductor Marish
+    .gender = male
+    .desc = Un implante que otorga la capacidad de entender y hablar Marish.
+
+ent-MarishTranslatorImplanter = implante de traductor Marish
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-MarsocPDA = PDA de operativo MARSOC de la TSFMC
+    .gender = female
+    .desc = Un ordenador personal estándar de la TSFMC.
+
+ent-MassArrestObjective = Marcar a todos como buscados
+    .gender = male
+    .desc = Usa tus guantes para hackear una consola de antecedentes penales, ¡marcando a toda la estación como buscada!
+
+ent-MassMediaFlatpack = paquete plano de consola del gestor de noticias
+    .gender = male
+    .desc = Un paquete plano utilizado para construir una consola del gestor de noticias.
+
+ent-Matchbox = caja de cerillas
+    .gender = female
+    .desc = Una pequeña caja de Cerillas Premium de Plasma Casi Pero No Del Todo.
+
+ent-Matchstick = cerilla
+    .gender = female
+    .desc = Una simple cerilla, usada para encender buenos artículos de fumar.
+
+ent-MatchstickSpent = cerilla
+    .gender = female
+    .desc = Una simple cerilla, usada para encender buenos artículos de fumar.
+
+ent-MaterialBananium = bananio
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialBananium1 = bananio
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialBiomass = biomasa
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialBiomass1 = biomasa
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialBiomass50 = biomasa
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialBluespace = cristal de bluespace
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialBluespace1 = cristal de bluespace
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialBones = huesos
+    .desc = Una materia prima.
+
+ent-MaterialBones1 = huesos
+    .desc = Una materia prima.
+
+ent-MaterialBoxFlatpack = paquete plano de caja de construcción
+    .gender = male
+    .desc = Un paquete plano utilizado para construir una caja de construcción.
+
+ent-MaterialCardboard = cartón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialCardboard1 = cartón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialCardboard10 = cartón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialCloth = tela
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialCloth1 = tela
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialCloth10 = tela
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialCopper = cobre
+    .gender = male
+    .desc = El cobre se usa en muchos dispositivos electrónicos. Quizás en todos. Incluso podría ser quedarse corto decir eso.
+
+ent-MaterialCotton = algodón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialCotton1 = algodón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialDiamond = diamante refinado
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialDiamond1 = diamante refinado
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialDiamond5 = diamante refinado
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialDurathread = durahilo
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialDurathread1 = durahilo
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialGoliathHide = placas de piel de goliath
+    .desc = Piezas de la piel rocosa de un goliath; podrían hacer que tu traje sea un poco más resistente a los ataques de la fauna local.
+
+ent-MaterialGoliathHide1 = placas de piel de goliath
+    .desc = Piezas de la piel rocosa de un goliath; podrían hacer que tu traje sea un poco más resistente a los ataques de la fauna local.
+
+ent-MaterialGunpowder = pólvora
+    .gender = female
+    .desc = Un compuesto explosivo.
+
+ent-MaterialHexNut = tuerca hexagonal de acero
+
+ent-MaterialHexNutSingle = tuerca hexagonal de acero
+
+ent-MaterialHideBear = piel de oso
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialHideCorgi = piel de corgi
+    .gender = female
+    .desc = Piel de lujo usada solo en la moda más exclusiva. Dicen los rumores que se obtiene cuando un corgi es enviado a la bonita granja.
+
+ent-MaterialHideRosyMothroach = piel de mothroach de arce rosado
+    .gender = female
+    .desc = Una fina capa de piel de mothroach de arce rosado.
+
+ent-MaterialIndustryElectronics = paquete de piezas electrónicas
+    .gender = male
+    .desc = Una caja comprimida de piezas electrónicas, como condensadores, resistencias, transistores e incluso algunos procesadores. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustryElectronicsAdvanced = paquete de piezas electrónicas avanzadas
+    .gender = male
+    .desc = Una caja comprimida de piezas electrónicas avanzadas, como baterías, mejores procesadores y transistores más pequeños. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustryFCS = paquete de piezas de sistema de control de tiro
+    .gender = male
+    .desc = Una caja comprimida de sistemas de control de tiro y sus piezas de repuesto, como telémetros láser, giroscopios y ópticas térmicas y de visión nocturna. Clasificados y organizados para su uso en un torno.
+
+ent-MaterialIndustryMechanical = paquete de piezas mecánicas
+    .gender = male
+    .desc = Una caja comprimida de piezas mecánicas, como engranajes, motores paso a paso, hidráulica y más. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustryPlates = paquete de piezas de armadura
+    .gender = male
+    .desc = Una caja comprimida de piezas de blindaje, como fibras de kevlar, placas de cerámica-carburo, placas de acero e incluso algunas exóticas. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustryRecievers = paquete de piezas de receptor
+    .gender = male
+    .desc = Una caja comprimida de piezas de receptor de todo tipo para armas. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustrySensors = paquete de piezas de sensores
+    .gender = male
+    .desc = Una caja comprimida de piezas de sensores de todo tipo para diversos usos, como piezas de radar, RWR, ópticas, sensores de temperatura/presión o simplemente cosas básicas como fotómetros. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustryShip = paquete de piezas de nave
+    .gender = male
+    .desc = Una caja comprimida de piezas de nave para LPC. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIndustrySterile = paquete de piezas estériles
+    .gender = male
+    .desc = Una caja comprimida de piezas esterilizadas para uso médico y de investigación. Clasificadas y organizadas para su uso en un torno.
+
+ent-MaterialIridite = iridita
+    .gender = female
+    .desc = Una aleación compleja sintetizada a partir de gases atmosféricos, comúnmente utilizada fuera del sector en maquinaria industrial pesada, nanofibras y ordenadores de alto rendimiento.
+
+ent-MaterialIriditeSlag = escoria de iridita
+    .gender = female
+    .desc = Hay que meterlo en una centrifugadora para separarlo en el polvo fino necesario para la producción de Iridita sin gas.
+
+ent-MaterialLithium = litio
+    .gender = male
+    .desc = El litio es un metal blando y frágil ampliamente utilizado en una gran variedad de aplicaciones electrónicas, destacando especialmente las baterías alcalinas. ¡Además es peligrosamente reactivo!
+
+ent-MaterialPyrogel = pirogel
+    .gender = male
+    .desc = El gel químico experimental de Paycheck Bratva.
+
+ent-MaterialPyrogel1 = pirogel
+    .gender = male
+    .desc = El gel químico experimental de Paycheck Bratva.
+
+ent-MaterialPyrotton = pirotón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialPyrotton1 = pirotón
+    .gender = male
+    .desc = Una materia prima.
+
+ent-MaterialReclaimer = recuperadora de materiales
+    .gender = female
+    .desc = No puede recuperar cosas inmateriales, como la motivación.
+
+ent-MaterialReclaimerFlatpack = paquete plano de recuperadora de materiales
+    .gender = male
+    .desc = Un paquete plano utilizado para construir una recuperadora de materiales.
+
+ent-MaterialReclaimerMachineCircuitboard = placa de máquina de recuperadora de materiales
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para una recuperadora de materiales.
+
+ent-MaterialScrew = tornillo de acero
+
+ent-MaterialScrewSingle = tornillo de acero
+
+ent-MaterialSheetMeat = lámina de carne
+    .gender = female
+    .desc = Una lámina de material, utilizada frecuentemente en la estación para diversas aplicaciones.
+
+ent-MaterialSheetMeat1 = lámina de carne
+    .gender = female
+    .desc = Una lámina de material, utilizada frecuentemente en la estación para diversas aplicaciones.
+
+ent-MaterialSiloFlatpack = paquete plano de Silo de Materiales
+    .gender = male
+    .desc = Un paquete plano utilizado para construir un Silo de Materiales.
+
+ent-MaterialSiloMachineCircuitboard = placa de máquina de silo de materiales
+
+ent-MaterialSmileExtract = extracto de sonrisa
+    .gender = male
+    .desc = Es una auténtica panacea. ¿Pero a qué precio?
+
+ent-MaterialToothSharkminnow = diente de sharkminnow
+    .gender = male
+    .desc = Parece afilado. Suficientemente afilado como para sacarle un ojo a alguien. Joder, qué grande es.
+
+ent-MaterialToothSharkminnow1 = diente de sharkminnow
+    .gender = male
+    .desc = Parece afilado. Suficientemente afilado como para sacarle un ojo a alguien. Joder, qué grande es.
+
+ent-MaterialToothSpaceCarp = diente de carpa espacial
+    .gender = male
+    .desc = Bastante pequeño pero muy desagradable. Los prefieres cuando no se están clavando en ti.
+
+ent-MaterialToothSpaceCarp1 = diente de carpa espacial
+    .gender = male
+    .desc = Bastante pequeño pero muy desagradable. Los prefieres cuando no se están clavando en ti.
+
+ent-MaterialWebSilk = seda
+    .gender = female
+    .desc = Un material parecido a una telaraña.
+
+ent-MaterialWebSilk1 = seda
+    .gender = female
+    .desc = Un material parecido a una telaraña.
+
+ent-MaterialWebSilk25 = seda
+    .gender = female
+    .desc = Un material parecido a una telaraña.
+
+ent-MaterialWoodPlank = madera
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialWoodPlank1 = madera
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MaterialWoodPlank10 = madera
+    .gender = female
+    .desc = Una materia prima.
+
+ent-MatterBinEconomy1 = contenedor de componentes
+    .gender = male
+    .desc = Sirve para almacenar productos químicos y otras sustancias necesarias para procesos industriales. Se puede abrir y cerrar. ¡No debe usarse como componente mientras tenga reactivos dentro!
+
+ent-MatterBinEconomy2 = contenedor de componentes grande
+    .gender = male
+    .desc = Sirve para almacenar productos químicos y otras sustancias necesarias para procesos industriales. Mucho más grande que su predecesora. Se puede abrir y cerrar. ¡No debe usarse como componente mientras tenga reactivos dentro!
+
+ent-MatterBinEconomy2Spawner = componentes básicos
+    .desc = Una carcasa con sistemas de interfaz mecánico-eléctrica, como engranajes, motores paso a paso, cableado y más.
+
+ent-MatterBinEconomy3 = contenedor de supercomponentes
+    .gender = male
+    .desc = Sirve para almacenar productos químicos y otras sustancias necesarias para procesos industriales. Mucho más grande que su predecesora. Se puede abrir y cerrar. ¡No debe usarse como componente mientras tenga reactivos dentro!
+
+ent-MatterBinStockPart = contenedor de materia
+    .gender = male
+    .desc = Un contenedor de materia básico utilizado en la construcción de una variedad de dispositivos.
+
+ent-Mattress = colchón
+    .gender = male
+    .desc = Mejor dormir ahí que en el suelo, supongo.
+
+ent-McHoboBedsRandom = generador de petate manchado
+
+ent-MDHandheldOverwatchConsole = consola de supervisión portátil MD
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
+ent-MDOverwatchComputer = consola de supervisión MD
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
+
+ent-MeatReactorFuelRod = varilla de combustible de carne
+    .gender = female
+    .desc = Una varilla de combustible fo- espera, ¿está viva?
+
+ent-MeatwheatBushel = haz de trigo cárnico
+    .gender = male
+    .desc = Unos tallos de trigo empapados en sangre. Puedes machacarlos hasta obtener lo que pasa por carne si te lo miras con suficiente esfuerzo.
+
+ent-MeatwheatSeeds = paquete de semillas de trigo cárnico
+    .gender = male
+    .desc = Si alguna vez quisiste llevar a un vegetariano a la locura, aquí tienes cómo.
+
+ent-Mech90mmBullet = proyectil de 90 mm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-MechAirTank = tanque de aire de exotraje
+    .gender = male
+    .desc = Un canister especial de aire capaz de almacenar una gran cantidad de aire.
+
+ent-MechClarke = Clarke
+    .gender = male
+    .desc = Un mech de movimiento rápido para el viaje espacial. Tiene propulsores incorporados.
+
+ent-MechClarkeBattery = Clarke
+    .gender = male
+    .desc = Un mech de movimiento rápido para el viaje espacial. Tiene propulsores incorporados.
+
+ent-MechCoilgunSabot = sabot de 3 cm
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-MechDurand = Durand
+    .gender = male
+    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
+
+ent-MechDurandBattery = Durand
+    .gender = male
+    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
+
+ent-MechDurandPDV = PDV Durand
+    .gender = male
+    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
+
+ent-MechDurandTSF = TSF Durand
+    .gender = male
+    .desc = Un exotraje de combate lento pero robusto que resulta especialmente aterrador en espacios reducidos gracias a sus golpes. ¡Los xenomorfos lo odian!
+
+ent-MechEquipmentGrabber = pinza hidráulica
+    .gender = female
+    .desc = Otorga al mech la capacidad de agarrar objetos y arrastrarlos.
+
+ent-MechEquipmentGrabberSmall = pinza hidráulica pequeña
+    .gender = female
+    .desc = Otorga al mech la capacidad de agarrar objetos y arrastrarlos.
+
+ent-MechEquipmentHorn = bocina de mech
+    .gender = female
+    .desc = Una bocina de bicicleta mejorada que reproduce una hilarante variedad de sonidos para disfrute de la tripulación. ¡HONK!
+
+ent-MechGygax = Gygax
+    .gender = male
+    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
+
+ent-MechGygaxBattery = Gygax
+    .gender = male
+    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
+
+ent-MechGygaxPDV = PDV Gygax
+    .gender = male
+    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
+
+ent-MechGygaxSyndie = Gygax Oscuro
+    .gender = male
+    .desc = Un Gygax modificado utilizado para propósitos siniestros.
+
+ent-MechGygaxSyndieBattery = Gygax Oscuro
+    .gender = male
+    .desc = Un Gygax modificado utilizado para propósitos siniestros.
+
+ent-MechGygaxSyndieFilled = Gygax Oscuro
+    .gender = male
+    .desc = Un Gygax modificado utilizado para propósitos siniestros.
+
+ent-MechGygaxTSF = TSF Gygax
+    .gender = male
+    .desc = Aunque tiene un blindaje ligero, el Gygax cuenta con una movilidad increíble gracias a su capacidad de atravesar paredes a gran velocidad.
+
+ent-MechHamtr = HAMTR
+    .gender = male
+    .desc = Un mech experimental que utiliza una interfaz cerebro-ordenador para conectarse directamente al cerebro de un hámster.
+
+ent-MechHamtrBattery = HAMTR
+    .gender = male
+    .desc = Un mech experimental que utiliza una interfaz cerebro-ordenador para conectarse directamente al cerebro de un hámster.
+
+ent-MechHonker = H.O.N.K.
+    .gender = male
+    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
+
+ent-MechHonkerBattery = H.O.N.K.
+    .gender = male
+    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
+
+ent-MechHonkerFilled = H.O.N.K.
+    .gender = male
+    .desc = Producido por "Tyranny of Honk, INC", este exotraje está diseñado como soporte pesado para payasos. Utilizado para extender la diversión y la alegría de la vida. ¡HONK!
+
+ent-MechIFFPDV = PDV Mech IFF
+    .gender = male
+    .desc = Aplica antes de la soldadura final de un mech estándar para darle IFF amarillo en el radar y una capa de pintura beige.
+
+ent-MechIFFTSF = TSF Mech IFF
+    .gender = male
+    .desc = Aplica antes de la soldadura final de un mech estándar para darle IFF azul en el radar y una capa de pintura azul.
+
+ent-MechMarauder = Marauder
+    .gender = male
+    .desc = Parece que estamos todos a salvo.
+
+ent-MechMarauderBattery = Marauder
+    .gender = male
+    .desc = Parece que estamos todos a salvo.
+
+ent-MechMarauderFilled = Marauder
+    .gender = male
+    .desc = Parece que estamos todos a salvo.
+
+ent-MechMaulerSyndie = Mauler
+    .gender = male
+    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
+
+ent-MechMaulerSyndieBattery = Mauler
+    .gender = male
+    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
+
+ent-MechMaulerSyndieFilled = Mauler
+    .gender = male
+    .desc = Un Marauder modificado utilizado en su día por el Syndicate. No es tan maniobrable como el Gygax Oscuro, pero compensa su velocidad con blindaje y potencia de fuego bruta.
+
+ent-MechMediumPlasmaProjectile = proyectil de plasma
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-MechPelletShotgun = perdigón (calibre 0,5)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-MechPelletShotgunSpread = perdigón (calibre 0,5)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-MechRipley = Ripley APLU
+    .gender = male
+    .desc = Versátil y con blindaje ligero, el Ripley es útil en casi cualquier escenario de trabajo pesado. Las siglas "APLU" corresponden a Unidad Autónoma de Carga de Potencia.
+
+ent-MechRipley2 = Ripley APLU MK-II
+    .gender = male
+    .desc = El "MK-II" tiene una cabina presurizada para operaciones espaciales, pero el peso adicional lo ha ralentizado.
+
+ent-MechRipley2Battery = Ripley APLU MK-II
+    .gender = male
+    .desc = El "MK-II" tiene una cabina presurizada para operaciones espaciales, pero el peso adicional lo ha ralentizado.
+
+ent-MechRipleyBattery = Ripley APLU
+    .gender = male
+    .desc = Versátil y con blindaje ligero, el Ripley es útil en casi cualquier escenario de trabajo pesado. Las siglas "APLU" corresponden a Unidad Autónoma de Carga de Potencia.
+
+ent-MechSeraph = Seraph
+    .gender = male
+    .desc = Eso es lo último que verás.
+
+ent-MechSeraphBattery = Seraph
+    .gender = male
+    .desc = Eso es lo último que verás.
+
+ent-MechSeraphFilled = Seraph
+    .gender = male
+    .desc = Eso es lo último que verás.
+
+ent-MechThruster = propulsor de exotraje
+    .gender = male
+    .desc = Un propulsor con el que el exotraje puede moverse con seguridad en ausencia de gravedad.
+
+ent-MechVim = Vim
+    .gender = male
+    .desc = Un exotraje en miniatura de Nanotrasen, desarrollado para permitir que las irremplazables mascotas de la estación vivan un poco más.
+
+ent-MechVimBattery = Vim
+    .gender = male
+    .desc = Un exotraje en miniatura de Nanotrasen, desarrollado para permitir que las irremplazables mascotas de la estación vivan un poco más.
+
+ent-MedalCase = estuche de medallas
+    .gender = male
+    .desc = Estuche con medallas.
+
+ent-MedalCaseNfsd = estuche de medallas TSFMC
+    .gender = male
+    .desc = Este pulido estuche de roble alberga medallas que serán otorgadas por servicios distinguidos.
+
+ent-MedicalAppraisalTool = escáner de recompensas médicas
+    .gender = male
+    .desc = Escanea cuerpos en busca de recompensas médicas activas.
+
+ent-MedicalAssembler = ensamblador médico
+    .gender = male
+    .desc = Muy útil para la medicina, al parecer. Tú no sabes cómo funciona.
+
+ent-MedicalAssemblerFlatpack = paquete plano de ensamblador médico
+    .gender = male
+    .desc = Un paquete plano utilizado para construir un ensamblador médico.
+
+ent-MedicalAssemblerMachineCircuitboard = placa de máquina de ensamblador médico
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un ensamblador médico.
+
+ent-MedicalAssemblerPOI = ensamblador médico
+    .gender = male
+    .desc = Muy útil para la medicina, al parecer. Tú no sabes cómo funciona.
+
+ent-MedicalBag = bolsa médica
+    .gender = female
+    .desc = Una bolsa médica diseñada para guardar tópicos y pequeños recipientes de reactivos. Para el médico siempre en movimiento.
+
+ent-MedicalBed = cama médica
+    .gender = female
+    .desc = Una cama de hospital para que los pacientes se recuperen. Descansar aquí ofrece una curación bastante lenta.
+
+ent-MedicalBiofabMachineBoard = placa de máquina de biofabricador médico
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un biofabricador médico.
+
+ent-MedicalBiofabricator = biofabricador médico
+    .gender = male
+    .desc = Produce órganos y otra materia orgánica que puede injertarse quirúrgicamente en pacientes mediante biomasa.
+
+ent-MedicalCyberneticEyes = ojos cibernéticos de diagnóstico
+    .desc = Un par de ojos cibernéticos que mejoran tu visión, con un MedHUD integrado.
+
+ent-MedicalIDCard = tarjeta de identificación médica
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MedicalInternIDCard = tarjeta de identificación de interno médico
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MedicalInternPDA = PDA de interno médico
+    .gender = female
+    .desc = ¿Por qué no es blanco?
+
 ent-MedicalPDA = PDA médico
     .gender = female
     .desc = Brillante y estéril.
@@ -356,7 +1036,55 @@ ent-MicrophoneInstrument = micrófono
     .gender = male
     .desc = Perfecto para cantar a pleno pulmón.
 
+ent-MicroprocessorEconomy1 = microprocesador
+    .gender = male
+    .desc = Un microcontrolador programable en campo bastante común. Útil en todo lo que necesite aunque sea una pizca de cerebro.
+
+ent-MicroprocessorEconomy2 = nanoprocesador
+    .gender = male
+    .desc = Un sistema de computación más avanzado y miniaturizado, ¡capaz de ejecutar un sistema operativo básico!
+
+ent-MicroprocessorEconomy3 = procesador cuántico
+    .gender = male
+    .desc = Un sistema de computación cuántica de última generación con refrigeración, memoria y fuente de alimentación de respaldo integradas, capaz de gestionar desde IA de nivel persona hasta el pilotaje FTL.
+
 ent-MicrowaveMachineCircuitboard = placa de máquina de microondas
+
+ent-MieyoCommsComputerCircuitboard = placa de ordenador de comunicaciones de Mieyo
+    .gender = female
+    .desc = Una placa de circuito impreso de ordenador para una consola de MMC.
+
+ent-MieyoComputerComms = ordenador de comunicaciones de Mieyo
+    .gender = male
+    .desc = El ordenador de comunicaciones principal para emitir anuncios de MMC.
+
+ent-MieyoEmployeeIDCard = tarjeta de identificación de empleado de MMC
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MieyoEmployeePDA = PDA de empleado de Mieyo
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización.
+
+ent-MieyoLiasonIDCard = tarjeta de identificación de enlace de MMC
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MieyoLiasonPDA = PDA de enlace corporativo de Mieyo
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización.
+
+ent-MieyoSecurityIDCard = tarjeta de identificación de seguridad de MMC
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-MieyoSecurityPDA = PDA de seguridad corporativa de Mieyo
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización.
+
+ent-MieyoTrackingImplant = implante de rastreo MMC
+    .gender = male
+    .desc = Este implante tiene un monitor de dispositivo de rastreo para el canal de radio corporativo de Mieyo.
 
 ent-MilitaryPowerCellLMG = batería para LMG
     .gender = female
@@ -552,18 +1280,6 @@ ent-MiningDrillDiamond = taladro minero con punta de diamante
     .gender = male
     .desc = Un taladro minero considerablemente más eficiente con punta de diamante.
 
-ent-MiningWindow = ventana de minería
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-MiningWindowDiagonal = ventana de minería
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-MiningWindowDungeon = ventana de minería
-    .gender = female
-    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
-
 ent-MiniStationAnchor = ancla de estación mini
     .gender = male
     .desc = Evita que las estaciones se muevan.
@@ -611,6 +1327,26 @@ ent-MixedDamageTestObject = objeto de prueba de daño mixto
 ent-Mjollnir = Mjollnir
     .gender = male
     .desc = Un arma digna de un dios, capaz de golpear con la fuerza de un rayo. Crepita con energía apenas contenida.
+
+ent-MMCHandheldOverwatchConsole = consola de supervisión portátil de MMC
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
+ent-MMCLathe = ensamblador multiusos MMC
+    .gender = male
+    .desc = Capaz de fabricar equipamiento a partir de patrones de diseño de MMC. Se envía a cualquier lugar que necesite un arranque industrial a gran escala.
+
+ent-MMCLatheImmmovable = ensamblador multiusos MMC
+    .gender = male
+    .desc = Capaz de fabricar equipamiento a partir de patrones de diseño de MMC. Se envía a cualquier lugar que necesite un arranque industrial a gran escala.
+
+ent-MMCOverwatchComputer = consola de supervisión de MMC
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
+
+ent-MMCTechfabMachineCircuitboard = placa de máquina de ensamblador multiusos MMC
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un ensamblador multiusos de MMC.
 
 ent-MMI = interfaz hombre-máquina
     .gender = male
@@ -893,6 +1629,10 @@ ent-MobBloodCultShade = sombra cultista
     .desc = La sombra de un cultista, traída de vuelta a la realidad por medios malignos para reunir más sangre.
 
 ent-MobBloodCultShadeGuidebook = sombra
+
+ent-MobBoomroach = Boomroach
+    .gender = male
+    .desc = ¡Esta pequeña polillacucaracha lleva una China Lake atada a la espalda! ¿Por qué y cómo?
 
 ent-MobBoxingKangaroo = canguro boxeador
     .gender = male
@@ -1295,6 +2035,14 @@ ent-MobFelinidDummy = Urist McFelinid
 
 ent-MobFelinidRandom = Urist McFelinid
 
+ent-MobFeroxi = Urist McFin
+
+ent-MobFeroxiDummy = Maniquí Feroxi
+    .gender = male
+    .desc = Un feroxi de prueba para usar en la configuración del personaje.
+
+ent-MobFeroxiRandom = Urist McFin
+
 ent-MobFerret = hurón
     .gender = male
     .desc = ¡Solo un pequeño tipo tontorrón!
@@ -1551,6 +2299,8 @@ ent-MobHoverTaxiBot = hovertaxibot
 
 ent-MobHuman = Urist McHands
 
+ent-MobHumanAmbassadorBase = Embajador de la Dinastía
+
 ent-MobHumanLoneNuclearOperative = Operativo Solitario
 
 ent-MobHumanMarsocBase = base operativa
@@ -1562,6 +2312,8 @@ ent-MobHumanNukeOp = Operativo Nuclear
 ent-MobHumanPathDummy = maniquí de navegación
     .gender = male
     .desc = Un miserable montón de secretos.
+
+ent-MobHumanPrinceBase = Príncipe de la Dinastía
 
 ent-MobHumanRandom = Urist McHuman
 
@@ -1577,6 +2329,8 @@ ent-MobHumanSyndicateAgentSpy = espía del Syndicate
 
 ent-MobHumanSyndicateAgentThief = ladrón del Syndicate
 
+ent-MobHumanTarkhanBase = Tarkhan de la PDV
+
 ent-MobHumanWizard = Mago
 
 ent-MobHydrakin = Urist McHydra
@@ -1590,6 +2344,10 @@ ent-MobIfritGuardian = Ifrit
 ent-MobIfritGuardianAI = Ifrit
     .gender = male
     .desc = Un djinn corrompido, arrancado de la fitra para servir los mezquinos deseos del mago. Se mantiene malévolo, sintonizando con la vida de su dueño para sostenerse.
+
+ent-MobImperiRoach = ImperiRoach
+    .gender = male
+    .desc = Miembro de élite de la PDV, reconvertido y altamente entrenado; cuidado con su personalidad explosiva
 
 ent-MobIPC = Urist McPositronic
     .gender = male
@@ -1776,6 +2534,10 @@ ent-MobMonolithicHellLocust = langosta infernal monolítica
     .gender = female
     .desc = Una entidad anómala. Parece estar compuesta de energía nítidamente tangible, con una forma curiosamente familiar. Además parece estar corriendo hacia ti de forma amenazante. ¡Cuidado!
 
+ent-MobMoproach = moproach
+    .gender = male
+    .desc = ¡Esta pequeña polillacucaracha lleva zapatos-fregona en las patas! ¡Qué adorable!
+
 ent-MobMoth = Urist McFluff
 
 ent-MobMothRandom = Urist McFluff
@@ -1783,6 +2545,22 @@ ent-MobMothRandom = Urist McFluff
 ent-MobMothroach = polillacucaracha
     .gender = female
     .desc = Este es el adorable subproducto de múltiples intentos de mezclar genéticamente a los polillahumanos con cucarachas.
+
+ent-MobMothroachCecropia = polillacucaracha cecropia
+    .gender = female
+    .desc = Un encantador resultado de numerosos intentos de cruzar un género de la familia de las ortigas con cucarachas.
+
+ent-MobMothroachLeopard = polillacucaracha leopardo
+    .gender = female
+    .desc = Un encantador resultado de numerosos intentos de cruzar insectos con depredadores.
+
+ent-MobMothroachLunar = polillacucaracha lunar
+    .gender = female
+    .desc = Alguien dejó a la polilla bajo la luz de la luna.
+
+ent-MobMothroachMustard = polillacucaracha mostaza
+    .gender = female
+    .desc = Un delicioso resultado de los mejores chefs del sector cruzando carne con salsa.
 
 ent-MobMouse = ratón
     .gender = male
@@ -1825,6 +2603,10 @@ ent-MobOni = Urist McOni
 ent-MobOniDummy = Urist McOni
     .gender = male
     .desc = Un oni de prueba para usar en la configuración del personaje.
+
+ent-MobOwORoach = OwOroach
+    .gender = male
+    .desc = Experimentación genética entre polillacucarachas y gatos: ¿demasiado lejos o no lo suficiente?
 
 ent-MobPaperwork = Paperwork
     .gender = male
@@ -2766,6 +3548,10 @@ ent-MonoPlanetmapOreSnow = generador de minerales planetarios
 
 ent-MonoSectorMap = mapa del sector
 
+ent-MonoVendingMachineCartMieyo = PTech
+    .gender = male
+    .desc = ¡Venta PTech! ¡Ofrece una selección ROBUSTA de PDAs, cartuchos y todo lo que un aburrido oficinista necesita!
+
 ent-Moodriver = moodriver
     .gender = male
     .desc = Gira para usar. ¡Muu!
@@ -2800,9 +3586,29 @@ ent-MothCube = cubo de persona polilla
     .gender = male
     .desc = ¡Solo añade agua!
 
+ent-MothershipCircuitBoard = placa de leyes (Núcleo de Nave Nodriza)
+    .gender = female
+    .desc = Una placa electrónica que contiene el conjunto de leyes del Núcleo de la Nave Nodriza.
+
+ent-MothershipCore = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-MothershipIDCard = tarjeta de identificación de nave nodriza
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
 ent-MothroachCube = cubo de cucaracha polilla
     .gender = male
     .desc = ¡Solo añade agua!
+
+ent-MothroachMustardCube = cubo de polillacucaracha mostaza
+    .gender = male
+    .desc = ¡Solo añade agua!
+
+ent-MothroachMustardCubeWrapped = cubo de polillacucaracha mostaza
+    .gender = male
+    .desc = Desenvuelve esto para obtener un cubo de vaca.
 
 ent-MotionDetector = detector de movimiento
     .gender = male
@@ -2815,6 +3621,14 @@ ent-MotionDetectorBorg = detector de movimiento
 ent-MotionDetectorEmpty = detector de movimiento
     .gender = male
     .desc = Un detector de movimiento portátil. Detecta personas que no están en la misma compañía que el usuario.
+
+ent-MotionDetectorMMC = detector de movimiento de Mieyo
+    .gender = male
+    .desc = Un detector de movimiento portátil. Detecta personas que no están en la misma compañía que el usuario.
+
+ent-MotorEconomy1 = motor industrial
+    .gender = male
+    .desc = Un electromotor potente y especializado, útil en la conversión de energía electromecánica que requiere un par elevado.
 
 ent-MouseCube = cubo de ratón
     .gender = male
@@ -2862,6 +3676,10 @@ ent-Musket = mosquete
     .gender = male
     .desc = Debería haber estado en un museo mucho antes de que nacieras. Usa munición de 145x114mm.
 
+ent-MustardMothroachCubeBox = caja de cubos de polillacucaracha mostaza
+    .gender = female
+    .desc = ¡Una caja de cubos de rumiante: una vaca, un cerdo y cabras! ¡Solo añade agua!
+
 ent-MuteToxinChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
@@ -2901,6 +3719,10 @@ ent-NaniteApplicator = aplicador de nanitos
 ent-NaniteApplicatorExperimental = aplicador de nanitos experimental
     .gender = male
     .desc = Un aplicador de nanitos experimental con una capacidad de nanitos muy mejorada, capaz de generar nanitos por sí mismo.
+
+ent-NaniteApplicatorMMC = aplicador de nanitos de Mieyo
+    .gender = male
+    .desc = Herramienta avanzada que usa nanotecnología para reparar estructuras. Variante más rápida fabricada por MMC.
 
 ent-NaniteApplicatorSyndicate = aplicador de nanitos avanzado
     .gender = male
@@ -3262,13 +4084,13 @@ ent-NFBlueprintAmmoBox12_gaugeUranium = plano de munición de uranio para escope
     .gender = male
     .desc = Un plano con el esquema de munición de uranio para escopeta. Se puede insertar en un autotorno o en una techfab.
 
-ent-NFBlueprintAmmoBox45_magnumIncendiary = plano de munición incendiaria del .45 magnum
+ent-NFBlueprintAmmoBox357_magnumIncendiary = plano de munición incendiaria del .357 magnum
     .gender = male
-    .desc = Un plano con el esquema de munición incendiaria del .45 magnum. Se puede insertar en un autotorno o en una techfab.
+    .desc = Un plano con el esquema de munición incendiaria .357 magnum. Puede insertarse en un autotorno o en un techfab.
 
-ent-NFBlueprintAmmoBox45_magnumUranium = plano de munición de uranio del .45 magnum
+ent-NFBlueprintAmmoBox357_magnumUranium = plano de munición de uranio del .357 magnum
     .gender = male
-    .desc = Un plano con el esquema de munición de uranio del .45 magnum. Se puede insertar en un autotorno o en una techfab.
+    .desc = Un plano con el esquema de munición de uranio .357 magnum. Puede insertarse en un autotorno o en un techfab.
 
 ent-NFBlueprintAmmoBox556x45mmIncendiary = plano de munición incendiaria 556x45mm
     .gender = male
@@ -4967,6 +5789,10 @@ ent-NocturineChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
 
+ent-NocturineHypo = hipo de nocturina
+    .gender = male
+    .desc = Un inyector autorrecargable para la administración rápida de nocturina a las víctimas.
+
 ent-NodeScanner = escáner de nodos
     .gender = male
     .desc = El mejor amigo del arqueólogo, capaz de identificar el nodo de un artefacto con un solo escaneo.
@@ -5016,6 +5842,10 @@ ent-NovuNedericTranslatorImplanter = implante traductor novu-nederic
 ent-NpcDroneAiAssembly = núcleo atacante
     .gender = male
     .desc = Dispara contra ti. Por los costados.
+
+ent-NpcDroneAiDander = núcleo orbitador
+    .gender = male
+    .desc = Orbita de forma inofensiva y esquiva. Menos valioso debido a su subrutina poco destacable.
 
 ent-NpcDroneAiLance = núcleo atacante
     .gender = male
@@ -5280,6 +6110,10 @@ ent-NukeOverride = tarjeta de anulación nuclear
     .gender = female
     .desc = Una tarjeta de plástico sorprendentemente barata, capaz de anular los protocolos de seguridad de un dispositivo nuclear.
 
+ent-NukeTestingProjectile = langosta nuclear
+    .gender = female
+    .desc = Tienes que krillarte AHORA MISMO.
+
 ent-NukieAgentIDCard = tarjeta de identificación de contratista
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
@@ -5353,6 +6187,14 @@ ent-OperatingTable = mesa de operaciones
 ent-OperatingTableCircuitboard = placa de máquina para mesa de operaciones
     .gender = female
     .desc = Una placa de circuito impreso para una mesa de operaciones.
+
+ent-OpticsEconomy1 = sensor óptico
+    .gender = male
+    .desc = Una cámara con forma de ojo capaz de capturar fotones. Básicamente un globo ocular sofisticado, aunque tiene otros usos.
+
+ent-OpticsEconomy2 = sensor óptico de precisión
+    .gender = male
+    .desc = Un sensor de fotones avanzado y de alta resolución capaz de mantener la claridad visual de objetos distantes. Extremadamente útil para equipos de monitorización, detección y seguimiento.
 
 ent-OrangeSeeds = paquete de semillas de naranja
 
@@ -5550,6 +6392,11 @@ ent-OrganFelinidTail = cola de gato
     .gender = female
     .desc = ¿De verdad deberías tener esto?
 
+ent-OrganFeroxiLungs = pulmones y branquias feroxianos
+    .desc = Un par de pulmones anfibios junto con branquias, que filtran el oxígeno del aire de forma continua.
+
+ent-OrganFeroxiStomach = estómago feroxiano
+
 ent-OrganGoblinAppendix = apéndice
 
 ent-OrganGoblinBrain = cerebro
@@ -5592,6 +6439,22 @@ ent-OrganHarpyLungs = pulmones
 ent-OrganHarvesterMachineCircuitboard = placa de máquina cosechadora de órganos
     .gender = female
     .desc = Una placa de circuito impreso para una cosechadora de órganos.
+
+ent-OrganHeartMMCSakimoto = corazón de repuesto MMC EVT-001 "Sakimoto"
+    .gender = male
+    .desc = Una extraña pieza de hardware cibernético diseñada para sustituir el corazón. Se desconoce exactamente cómo, pero permite al usuario canalizar una forma de energía latente en un solo golpe.
+
+ent-OrganHeartSandevistan = Sandevistan
+    .gender = male
+    .desc = Ciberimplante avanzado que sustituye el corazón del usuario y le permite aumentar enormemente su agilidad durante un breve periodo, a costa de su resistencia.
+
+ent-OrganHeartTSFSandevistan = conjunto de implantes TSF WJY-21X "Leuko"
+    .gender = male
+    .desc = Una pieza experimental de ciberimplante desarrollada bajo contrato por Erebus HI que sustituye el corazón. Equipada con un diseño experimental de recarga más lenta, obtenido por ingeniería inversa de un sandevistan de MMC.
+
+ent-OrganHeartTSFShunt = conjunto de implantes TSF KR-22 "Zenit"
+    .gender = male
+    .desc = Una pieza de ciberware altamente experimental, desarrollada en algún infernal centro clandestino de la TSF, que sustituye el corazón. Permite al usuario realizar un breve teletransporte localizado a cualquier posición dentro de su línea de visión.
 
 ent-OrganHumanAppendix = apéndice
 
@@ -5642,6 +6505,10 @@ ent-OrganHydrakinLungs = pulmones de hydrakin
 
 ent-OrganHydrakinStomach = estómago de hydrakin
 
+ent-OrganInternalAirSystem = PD-VI LS-210 IAS
+    .gender = male
+    .desc = Un órgano cibernético que sustituye los pulmones por un conjunto de filtros y otros dispositivos. No basta para mantenerte respirando en el espacio, pero filtra los gases tóxicos y hace que necesites respirar un poco menos.
+
 ent-OrganIPCEars = receptores sónicos
 
 ent-OrganIPCEyes = ojos robóticos
@@ -5661,6 +6528,10 @@ ent-OrganLaserEyes = ojos de raptor láser
 ent-OrganMothStomach = estómago de polilla
 
 ent-OrganMouseStomach = estómago
+
+ent-OrganPDVAdvancedHeart = corazón protésico PD-VI VV/KE
+    .gender = male
+    .desc = Un corazón artificial compacto de bombeo rápido. Puede procesar muchos reactivos a la vez y te permite aguantar más daño antes de caer, pero reduce tu resistencia y procesa las medicinas más despacio.
 
 ent-OrganProtogenAppendix = apéndice
 
@@ -5799,6 +6670,10 @@ ent-OrganYowieStomach = estómago de yowie
 ent-OverlordCircuitBoard = placa de leyes (Overlord)
     .gender = female
     .desc = Una placa electrónica que contiene el conjunto de leyes Overlord.
+
+ent-OwOroachCube = cubo de OwOroach
+    .gender = male
+    .desc = ¡Solo añade agua!
 
 ent-OxygenCanister = bombona de oxígeno
     .gender = female
@@ -6053,11 +6928,11 @@ ent-PaperCup = vaso de papel
     .gender = male
     .desc = Un vaso de papel para bebidas.
 
-ent-PaperDeadDropFax = fax sospechoso
+ent-PaperDeadDropFax = fax descarriado
     .gender = male
     .desc = Una hoja con texto borroso y torcido. Parece haber sido copiada con prisa.
 
-ent-PaperDeadDropHint = nota sospechosa
+ent-PaperDeadDropHint = nota descarriada
     .gender = female
     .desc = Una hoja arrugada llena de garabatos. Parece haber sido escrita con prisa.
 
@@ -6533,6 +7408,14 @@ ent-PaxChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
 
+ent-PDVAmbassadorIDCard = tarjeta de identificación de embajador PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVAmbassadorPDA = PDA de Embajador PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
 ent-PDVAsvaranIDCard = tarjeta de identificación asvaran PDV
     .gender = female
     .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
@@ -6573,9 +7456,25 @@ ent-PDVGrandVizierPDA = PDA del gran visir PDV
     .gender = female
     .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
 
+ent-PDVHandheldOverwatchConsole = consola de supervisión portátil de PDV
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
 ent-PDVMotleyAnneCarrierComputer = consola del astillero Motley Anne
     .gender = female
     .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
+
+ent-PDVOverwatchComputer = consola de supervisión de PDV
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
+
+ent-PDVPrinceIDCard = tarjeta de identificación de príncipe PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVPrincePDA = PDA de Príncipe PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
 
 ent-PDVRakhshanIDCard = tarjeta de identificación rakhshan PDV
     .gender = female
@@ -6592,6 +7491,10 @@ ent-PDVSpasakaIDCard = tarjeta de identificación spasaka
 ent-PDVSpasakaPDA = PDA spasaka PDV
     .gender = female
     .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVStampedGold = oro sellado de la Dinastía
+    .gender = male
+    .desc = Una pesada caja repleta de oro superconductor sintetizado en laboratorio, estampado con el logotipo de la Dinastía y un código identificativo. Como forma no aprobada de moneda de curso legal, a la Federación le encantaría confiscarla.
 
 ent-PDVTarkhanIDCard = tarjeta de identificación de tarkhan de la PDV
     .gender = female
@@ -7039,22 +7942,6 @@ ent-PilotPDA = PDA de piloto
 
 ent-PineappleSeeds = paquete de semillas de piña
 
-ent-PinionAirlock = esclusa
-    .gender = female
-    .desc = Se abre, se cierra y quizás te aplaste.
-
-ent-PinionAirlockAssembly = estructura de esclusa
-    .gender = female
-    .desc = Se abre, se cierra y quizás te aplaste.
-
-ent-PinionAirlockAssemblyGlass = estructura de esclusa
-    .gender = female
-    .desc = Se abre, se cierra y quizás te aplaste.
-
-ent-PinionAirlockGlass = esclusa de cristal
-    .gender = female
-    .desc = Se abre, se cierra y quizás te aplaste.
-
 ent-PinpointerDeadDrop = localizador de buzón muerto
     .gender = male
     .desc = Apunta a un buzón muerto oculto.
@@ -7066,6 +7953,18 @@ ent-PinpointerDeadDropHint = localizador de pistas de buzón muerto
 ent-PinpointerGasDeposit = localizador de depósito de gas
     .gender = male
     .desc = Apunta al depósito de gas más cercano.
+
+ent-PinpointerMothership = localizador de núcleo de nave nodriza
+    .gender = male
+    .desc = Un dispositivo de rastreo de mano que señala la dirección del núcleo de la Nave Nodriza.
+
+ent-PinpointerMothershipPiece = localizador de pieza de núcleo de nave nodriza
+    .gender = male
+    .desc = Una pieza de un localizador de núcleo. Necesitas cuatro piezas para repararlo.
+
+ent-PinpointerMothershipRepaired = localizador de núcleo de nave nodriza reparado
+    .gender = male
+    .desc = Un dispositivo de rastreo de mano que señala la dirección del núcleo de la Nave Nodriza. Este ha visto días mejores.
 
 ent-PinpointerNuclear = localizador
     .gender = male
@@ -8018,6 +8917,8 @@ ent-PizzaRightArm = brazo derecho de pizza
     .gender = male
     .desc = Para cuando quieras convertir a alguien en un Space John's.
 
+ent-PlanetEntity = Planeta
+
 ent-PlantAnalyzer = analizador de plantas
     .gender = male
     .desc = Un dispositivo portátil que permite escanear semillas y plantas para obtener información detallada sobre sus genes.
@@ -8175,984 +9076,4 @@ ent-PlasmaWindow = ventana de plasma
 ent-PlasmaWindowDiagonal = ventana de plasma
     .gender = female
     .desc = No manches el cristal ahí abajo.
-
-ent-PlasmaWindowDirectional = ventana de plasma direccional
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-PlasmaWindowDirectionalDungeon = ventana de plasma direccional
-    .gender = female
-    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
-
-ent-PlasmaWindowDungeon = ventana de plasma
-    .gender = female
-    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
-
-ent-PlasteelArmingSword = espada de plasteel
-    .gender = female
-    .desc = Un diseño antiguo fabricado con materiales y máquinas modernas para un público objetivo muy específico.
-
-ent-PlasteelCore = núcleo de plasteel
-    .gender = male
-    .desc = Una carcasa vacía esperando un cerebro positrónico
-
-ent-PlasteelReactorControlRod = varilla de control de plasteel
-    .gender = female
-    .desc = Un conjunto de varillas de control para un reactor nuclear.
-
-ent-PlasteelReactorGasChannel = varilla de canal de gas de plasteel
-    .gender = female
-    .desc = Un canal de gas para un reactor nuclear.
-
-ent-PlasteelReactorHeatExchanger = varilla intercambiadora de calor de plasteel
-    .gender = female
-    .desc = Un intercambiador de calor para un reactor nuclear.
-
-ent-PlasticBanana = plátano
-    .gender = male
-    .desc = Un plátano de plástico.
-
-ent-PlasticFlapsAirtightClear = cortinas de plástico herméticas
-    .desc = Cortinas de plástico hermético de alta resistencia, algo más fuertes. Definitivamente no puedes pasar por ahí. Imposible.
-
-ent-PlasticFlapsAirtightOpaque = cortinas de plástico herméticas
-    .desc = Cortinas de plástico hermético de alta resistencia, algo más fuertes. Definitivamente no puedes pasar por ahí. Imposible.
-
-ent-PlasticFlapsClear = cortinas de plástico
-    .desc = Cortinas de plástico de alta resistencia. Definitivamente no puedes pasar por ahí. Imposible.
-
-ent-PlasticFlapsOpaque = cortinas de plástico
-    .desc = Cortinas de plástico de alta resistencia. Definitivamente no puedes pasar por ahí. Imposible.
-
-ent-PlastitaniumWindow = ventana de plastitanio
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-PlastitaniumWindowDiagonal = ventana de plastitanio
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-PlastitaniumWindowDiagonalIndestructible = ventana de plastitanio
-    .gender = female
-    .desc = Skub sabe que esta ventana es demasiado difícil de destruir.
-
-ent-PlastitaniumWindowDiagonalOutpost = ventana de plastitanio
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-PlastitaniumWindowIndestructible = ventana de plastitanio
-    .gender = female
-    .desc = Skub sabe que esta ventana es demasiado difícil de destruir.
-
-ent-PlastitaniumWindowOutpost = ventana de plastitanio
-    .gender = female
-    .desc = No manches el cristal ahí abajo.
-
-ent-PlasturaniumWindowDiagonalRadProof = ventana de plasturanio
-    .gender = female
-    .desc = No embadurnes la radiación de ahí abajo.
-
-ent-PlasturaniumWindowDiagonalRadProofIndestructible = ventana de plasturanio
-    .gender = female
-    .desc = No embadurnes la radiación de ahí abajo.
-
-ent-PlasturaniumWindowRadProof = ventana de plasturanio
-    .gender = female
-    .desc = No embadurnes la radiación de ahí abajo.
-
-ent-PlasturaniumWindowRadProofIndestructible = ventana de plasturanio
-    .gender = female
-    .desc = No embadurnes la radiación de ahí abajo.
-
-ent-PlayerBorgBattery = cyborg
-    .gender = male
-    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
-
-ent-PlayerBorgDerelict = cíborg abandonado
-    .gender = male
-    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
-
-ent-PlayerBorgDerelictGhostRole = cíborg abandonado
-    .gender = male
-    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
-
-ent-PlayerBorgPDV = cíborg PDV
-    .gender = male
-    .desc = Un cíborg construido específicamente para la PDV.
-
-ent-PlayerBorgRedacted = auxiliar del sistema de defensa automatizado Remnant
-    .gender = male
-    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
-
-ent-PlayerBorgRedactedGhostRole = auxiliar del sistema de defensa automatizado Remnant
-    .gender = male
-    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
-
-ent-PlayerBorgRedactedGhostRolePlaytime = auxiliar del sistema de defensa automatizado Remnant
-    .gender = male
-    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
-
-ent-PlayerBorgSyndicateAssaultBattery = cyborg de asalto del Syndicate
-    .gender = male
-    .desc = Una máquina de matar ágil y despiadada con acceso a una gran variedad de módulos letales.
-
-ent-PlayerBorgSyndicateAssaultGhostRole = cyborg de asalto del Syndicate
-    .gender = male
-    .desc = Una máquina de matar ágil y despiadada con acceso a una gran variedad de módulos letales.
-
-ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = generador de borg de invasión del Syndicate
-
-ent-PlayerBorgSyndicateSaboteurBattery = cyborg saboteador del Syndicate
-    .gender = male
-    .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
-
-ent-PlayerBorgSyndicateSaboteurGhostRole = cyborg saboteador del Syndicate
-    .gender = male
-    .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
-
-ent-PlayerBorgTSF = cíborg TSF
-    .gender = male
-    .desc = Un cíborg construido específicamente para la TSF.
-
-ent-PlayerStationAi = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiEmpty = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiPDV = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiRedacted = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiSecurity = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiTSFMC = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-PlayerStationAiVessel = Núcleo de IA
-    .gender = male
-    .desc = Lo último en Inteligencias Artificiales.
-
-ent-Plunger = desatascador
-    .gender = male
-    .desc = Un desatascador con una ventosa de plástico roja y un mango de madera. Se usa para desatascar desagües.
-
-ent-PluoxiumCanister = canister de pluoxium
-    .gender = male
-    .desc = Una bombona que puede contener cualquier tipo de gas. Se puede conectar a puertos de conexión con una llave inglesa.
-
-ent-PluoxiumCanisterBroken = cilindro de gas roto
-    .gender = male
-    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
-
-ent-PlushieAbductor = peluche de abductor
-    .gender = male
-    .desc = ¡Un peluche con forma de abductor!
-
-ent-PlushieAbductorAgent = peluche de agente abductor
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un agente abductor!
-
-ent-PlushieArachind = peluche de arácnido
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a un arácnido. Su tacto es sedoso..
-
-ent-PlushieAtmosian = peluche de atmosiano
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a un valiente atmosiano. Por desgracia, no va a reparar esas despresurizaciones por ti.
-
-ent-PlushieBee = peluche de abeja
-    .gender = male
-    .desc = Un adorable juguete que se asemeja a un programador aún más adorable. Tendrías que ser un monstruo para triturarlo.
-
-ent-PlushieBlackFox = peluche de zorro negro
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito negro!
-
-ent-PlushieBlueFox = peluche de zorro azul
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito azul!
-
-ent-PlushieCarp = peluche de carpa
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a la monstruosa carpa espacial.
-
-ent-PlushieCatBlack = peluche de gato negro
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un gatito adorable!
-
-ent-PlushieCatGrey = peluche de gato gris
-
-ent-PlushieCatOrange = peluche de gato naranja
-
-ent-PlushieCatSiames = peluche de gato siamés
-
-ent-PlushieCatTabby = peluche de gato atigrado
-
-ent-PlushieCatTuxedo = peluche de gato esmoquin
-
-ent-PlushieCatWhite = peluche de gato blanco
-
-ent-PlushieCoffeeFox = peluche de zorro café
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito café!
-
-ent-PlushieCorgi = peluche de corgi
-    .gender = male
-    .desc = ¡La edición Ian del peluche!
-
-ent-PlushieCrimsonFox = peluche de zorro carmesí
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito carmesí!
-
-ent-PlushieDeer = peluche de ciervo
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un ciervo!
-
-ent-PlushieDiona = peluche de diona
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a una diona. Adora el agua y los abrazos. ¡No mojar!
-
-ent-PlushieGhost = peluche suave de fantasma
-    .gender = male
-    .desc = ¡El inicio de tu propia PANDILLA FANTASMA!
-
-ent-PlushieGhostRevenant = peluche suave de revenant
-    .gender = male
-    .desc = Tan suave que casi te dan ganas de echar una siesta...
-
-ent-PlushieGirlyCorgi = peluche de corgi femenino
-    .gender = male
-    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
-
-ent-PlushieGnome = peluche de gnomo
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un gnomo! O a un enano...
-
-ent-PlushieGrey = peluche de grey
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un grey!
-
-ent-PlushieHampter = peluche de hampter
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a un hámster. Tiene la cara aplastada.
-
-ent-PlushieHolocarp = peluche de holocarpa
-    .gender = male
-    .desc = Un peluche holográfico que se asemeja a la némesis de la ciencia: la holocarpa.
-
-ent-PlushieHuman = peluche humano
-    .gender = male
-    .desc = Este es un peluche de fieltro de un humano. Toda la artesanía es de la peor calidad. El humano está desnudo. El humano está llorando. El humano está gritando.
-
-ent-PlushieIpc = peluche de IPC
-    .gender = male
-    .desc = ¡Un peluche que se asemeja a un IPC!
-
-ent-PlushieJanitor = peluche de conserje
-    .gender = male
-    .desc = ¡El limpiador silencioso, ese al que nunca oyes decir "Weh"!
-
-ent-PlushieJester = peluche de bufón
-    .gender = male
-    .desc = Una pequeña y sospechosa criatura metida en travesuras.
-
-ent-PlushieLamp = peluche de lámpara
-    .gender = male
-    .desc = ¡Un amigo que emite luz!
-
-ent-PlushieLizard = peluche de lagarto
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a una persona lagarto. Fabricado por CentComm como una iniciativa simbólica para combatir el especismo en entornos de trabajo. "¡Recibe a tus nuevos compañeros como haces con este peluche, con los brazos abiertos!"
-
-ent-PlushieLizardInversed = peluche de drazil
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a una persona lagarto de una dimensión invertida. ¡Hew!
-
-ent-PlushieLizardMirrored = peluche de lagarto
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a una persona lagarto. Fabricado por CentComm como una iniciativa simbólica para combatir el especismo en entornos de trabajo. "¡Recibe a tus nuevos compañeros como haces con este peluche, con los brazos abiertos!"
-
-ent-PlushieLoveable = peluche adorable
-    .gender = male
-    .desc = Un peluche que se asemeja a... una criatura.
-
-ent-PlushieMagicarp = peluche de magicarp
-    .gender = male
-    .desc = Un adorable peluche que se asemeja al excepcionalmente raro magicarp.
-
-ent-PlushieMailVulp = peluche de vulp cartero
-    .gender = male
-    .desc = Huele a menta y te recuerda al correo sin abrir. ¡Deberías revisar tu correo!
-
-ent-PlushieMarbleFox = peluche de zorro mármol
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito mármol!
-
-ent-PlushieMoff = peluche de polilla
-    .gender = male
-    .desc = ¡Una adorable polillita que puedes sostener en la palma de tu mano!
-
-ent-PlushieMoffbar = peluche de polilla camarera
-    .gender = male
-    .desc = Un peluche que representa a una adorable persona polilla con un diminuto sombrero de copa y un diminuto chaleco antibalas.
-
-ent-PlushieMoffRandom = peluche de polilla
-    .gender = male
-    .desc = Una adorable personita polilla que puedes sostener en la palma de tu mano.
-
-ent-PlushieMoffsician = peluche de polilla músico
-    .gender = male
-    .desc = Un peluche que representa a una adorable persona polilla con un diminuto sintetizador y unas diminutas gafas.
-
-ent-PlushieMoth = peluche de polilla
-    .gender = male
-    .desc = Adorable y esponjoso peluche de polilla. ¡Disfrútalo, bz!
-
-ent-PlushieNar = peluche de Nar'Sie
-    .gender = male
-    .desc = Una pequeña muñeca de peluche de la diosa ancestral Nar'Sie.
-
-ent-PlushieNuke = peluche de nukie
-    .gender = male
-    .desc = Un peluche que se asemeja a un operativo nuclear del Syndicate. La etiqueta afirma que los operativos son puramente ficticios.
-
-ent-PlushieOrangeFox = peluche de zorro naranja
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito naranja!
-
-ent-PlushiePenguin = peluche de pingüino
-    .gender = male
-    .desc = ¡Yo uso Arch, por cierto!
-
-ent-PlushiePinkFox = peluche de zorro rosa
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito rosa!
-
-ent-PlushiePurpleFox = peluche de zorro morado
-    .gender = male
-    .desc = ¡Un adorable peluche que parece un zorrito morado!
-
-ent-PlushieRainbowCarp = peluche de carpa arcoíris
-    .gender = male
-    .desc = Un adorable peluche que se asemeja a la legendaria carpa arcoíris.
-
-ent-PlushieRainbowLizard = peluche de lagarto arcoíris
-    .gender = male
-    .desc = Un adorable peluche con forma de hombre-lagarto de todos los colores. Puede que tropieces mirándolo...
-
-ent-PlushieRatvar = peluche de Ratvar
-    .gender = male
-    .desc = Una pequeña muñeca de peluche del dios ancestral Ratvar.
-
-ent-PlushieRedFox = peluche de zorro rojo
-    .gender = male
-    .desc = ¡Un adorable peluche con forma de zorro rojo!
-
-ent-PlushieRGBee = peluche RGBee
-    .gender = male
-    .desc = Un simpático juguete que parece un peluche de abeja cuando estás bajo los efectos del LSD.
-
-ent-PlushieRobotCorgi = peluche de corgi robot
-    .gender = male
-    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
-
-ent-PlushieRouny = peluche de rouny
-    .gender = male
-    .desc = Rouny.
-
-ent-PlushieSharkBlue = peluche de tiburón azul
-    .gender = male
-    .desc = Grande y seguro para tenerlo a tu lado si quieres descubrir el mundo bajo la superficie del océano.
-
-ent-PlushieSharkGrey = peluche de tiburón gris
-    .gender = male
-    .desc = Un tipo de shonk tranquilo y reservado. Le encanta cabalgar la marea gris.
-
-ent-PlushieSharkPink = peluche de tiburón rosa
-    .gender = male
-    .desc = Jeje shonk :)
-
-ent-PlushieSlime = peluche de slime
-    .gender = male
-    .desc = Un adorable peluche con forma de slime. Básicamente es un footbag.
-
-ent-PlushieSnake = peluche de serpiente
-    .gender = male
-    .desc = Un adorable peluche con forma de serpiente.
-
-ent-PlushieSpaceLizard = peluche de lagarto espacial
-    .gender = male
-    .desc = Un adorable peluche con forma de hombre-lagarto en traje EVA. Fabricado por CentComm como iniciativa simbólica para combatir el especismo en entornos espaciales. "¡Recibe a tus nuevos colegas como lo harías con este peluche, con los brazos abiertos!"
-
-ent-PlushieThrongler = peluche de throngler
-    .gender = male
-    .desc = Un peluche para recordar a los técnicos de carga lo que ya no pueden tener.
-
-ent-PlushieVox = peluche de vox
-    .gender = male
-    .desc = SKREEEEEEEEEEEE!
-
-ent-PlushieVulp = peluche de vulpkanin
-    .gender = male
-    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
-
-ent-PlushieXeno = peluche de xeno
-    .gender = male
-    .desc = Un adorable peluche con forma de aterrador xenomorfo. Menos mal que es solo un juguete.
-
-ent-PlushieYarrMoth = peluche de polilla yarr
-    .gender = male
-    .desc = ¡Es pérfida y lleva una capa elegante. Emite chirridos cuando la estrujas!
-
-ent-PlutoniumReactorFuelRod = varilla de combustible de plutonio
-    .gender = female
-    .desc = Una varilla de combustible para un reactor nuclear.
-
-ent-POILootAmmoMarker = Generador de botín de munición PDI
-
-ent-POILootWeaponsAmmoMarker = Generador de botín mixto de armas y munición PDI
-
-ent-POILootWeaponsMarker = Generador de botín de armas PDI
-
-ent-PointingArrow = flecha indicadora
-
-ent-PolyAutoInjector = autoinyector de oligómeros de polipirilium
-    .gender = male
-    .desc = Una dosis rápida de polip... polipiri... polipiriú.... Contiene extracto de trompeta del astronauta. Destinada a tratar el daño de contusión y la asfixia.
-
-ent-PonderingOrb = orbe de la contemplación
-    .gender = male
-    .desc = Profundo, tío... Muy profundo.
-
-ent-PonderingOrbWizard = orbe de la contemplación
-    .gender = male
-    .desc = Profundo, tío... Muy profundo. Muestra mágicamente la red de cámaras de la estación.
-
-ent-PoppySeeds = paquete de semillas de amapola
-    .gender = male
-    .desc = No comer en las 72 horas previas a un análisis de drogas.
-
-ent-PortableFlasher = destellador portátil
-    .gender = male
-    .desc = Un flash ultraluminoso con activador de proximidad, útil para restringir una zona solo al personal de Seguridad.
-
-ent-PortableGeneratorDK = generador portátil tipo D-K
-    .gender = male
-    .desc =
-        Un reactor de fisión Dunn-Kikko prototipo. Usar con precaución.
-        Funciona con bananium y tiene una potencia de hasta 120 kW.
-        Altamente radiactivo sin protección.
-
-ent-PortableGeneratorDKJr = generador portátil tipo D-K Jr.
-    .gender = male
-    .desc =
-        Un reactor de fisión Dunn-Kikko miniaturizado. Usar con precaución.
-        Funciona con bananium y tiene una potencia de hasta 100 kW.
-        Bastante radiactivo sin protección.
-
-ent-PortableGeneratorDKJrMachineCircuitboard = placa de circuito de máquina del generador portátil tipo D-K Jr.
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un generador portátil tipo D-K Jr.
-
-ent-PortableGeneratorDKJrShuttle = generador portátil tipo D-K Jr.
-    .gender = male
-    .desc =
-        Un reactor de fisión Dunn-Kikko miniaturizado. Usar con precaución.
-        Funciona con bananium y tiene una potencia de hasta 100 kW.
-        Bastante radiactivo sin protección.
-
-ent-PortableGeneratorDKMachineCircuitboard = placa de circuito de máquina del generador portátil tipo D-K
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un generador portátil tipo D-K.
-
-ent-PortableGeneratorDKShuttle = generador portátil tipo D-K
-    .gender = male
-    .desc =
-        Un reactor de fisión Dunn-Kikko prototipo. Usar con precaución.
-        Funciona con bananium y tiene una potencia de hasta 120 kW.
-        Altamente radiactivo sin protección.
-
-ent-PortableGeneratorJrPacman = generador portátil tipo J.R.P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un pequeño generador capaz de abastecer habitaciones individuales en caso de emergencia.
-        Funciona con combustible de soldadura y tiene una potencia de hasta 15 kW.
-        Recomendado para mayores de 3 años.
-
-ent-PortableGeneratorJrPacmanFlatpack = paquete plano del generador portátil tipo J.R.P.A.C.M.A.N.
-    .gender = male
-    .desc = Un paquete plano para construir un generador portátil tipo J.R.P.A.C.M.A.N.
-
-ent-PortableGeneratorJrPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo J.R.P.A.C.M.A.N.
-
-ent-PortableGeneratorJrPacmanShuttle = generador portátil tipo J.R.P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un pequeño generador capaz de abastecer habitaciones individuales en caso de emergencia.
-        Funciona con combustible de soldadura y tiene una potencia de hasta 15 kW.
-        Recomendado para mayores de 3 años.
-
-ent-PortableGeneratorPacman = generador portátil tipo P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un generador de reserva flexible para alimentar una variedad de equipos.
-        Funciona con planchas de plasma sólido y tiene una potencia de hasta 25 kW.
-
-ent-PortableGeneratorPacmanFlatpack = paquete plano del generador portátil tipo P.A.C.M.A.N.
-    .gender = male
-    .desc = Un paquete plano para construir un generador portátil tipo P.A.C.M.A.N.
-
-ent-PortableGeneratorPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo P.A.C.M.A.N.
-
-ent-PortableGeneratorPacmanShuttle = generador portátil tipo P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un generador de reserva flexible para alimentar una variedad de equipos.
-        Funciona con planchas de plasma sólido y tiene una potencia de hasta 25 kW.
-
-ent-PortableGeneratorSuperPacman = generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un generador avanzado para alimentar departamentos.
-        Funciona con planchas de uranio y tiene una potencia de hasta 50 kW.
-
-ent-PortableGeneratorSuperPacmanFlatpack = paquete plano del generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
-    .gender = male
-    .desc = Un paquete plano para construir un generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
-
-ent-PortableGeneratorSuperPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
-
-ent-PortableGeneratorSuperPacmanShuttle = generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
-    .gender = male
-    .desc =
-        Un generador avanzado para alimentar departamentos.
-        Funciona con planchas de uranio y tiene una potencia de hasta 50 kW.
-
-ent-PortableRecharger = cargador portátil
-    .gender = male
-    .desc = Un cargador de alta tecnología adaptado para uso portátil, equipado con un microreactor integrado.
-
-ent-PortableScrubber = depurador portátil
-    .gender = male
-    .desc = ¡Depura, de forma portátil!
-
-ent-PortableScrubberMachineCircuitBoard = placa de máquina de depurador portátil
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un depurador portátil.
-
-ent-PortalAdmin = portal místico
-    .gender = male
-    .desc = Un portal místico hacia reinos desconocidos. ¡La aventura te espera!
-
-ent-PortalArtifact = portal de bluespace
-    .gender = male
-    .desc = ¡Te transporta a un destino vinculado!
-
-ent-PortalBlue = portal de bluespace
-    .gender = male
-    .desc = ¡Te transporta a un destino vinculado!
-
-ent-PortalGatewayBlue = portal de bluespace
-    .gender = male
-    .desc = ¡Te transporta a un destino vinculado!
-
-ent-PortalGatewayOrange = portal de bluespace
-    .gender = male
-    .desc = ¡Te transporta a un destino vinculado!
-
-ent-PortalRed = portal de bluespace
-    .gender = male
-    .desc = Este parece más bien un portal de redspace.
-
-ent-PositronicBrain = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-PosterBroken = póster roto
-    .gender = male
-    .desc = No puedes distinguir nada del diseño original del póster. Está arruinado.
-
-ent-PosterContrabandAmbrosiaVulgaris = Ambrosia Vulgaris
-    .gender = female
-    .desc = Este póster tiene una pinta bastante alucinante, tío.
-
-ent-PosterContrabandAtmosiaDeclarationIndependence = Declaración de Independencia de Atmosia
-    .gender = female
-    .desc = Una reliquia de una rebelión fallida.
-
-ent-PosterContrabandBeachStarYamamoto = Beach Star Yamamoto!
-    .gender = male
-    .desc = Un pergamino de pared que muestra un antiguo anime de natación con chicas en bañadores pequeños. Cuanto más lo miras, más otaku te sientes.
-
-ent-PosterContrabandBorgFancy = Borg Fancy
-    .gender = male
-    .desc = Ser elegante está al alcance de cualquier borg; solo necesitas un traje.
-
-ent-PosterContrabandBorgFancyv2 = Borg Fancy v2
-    .gender = male
-    .desc = Borg Fancy, ahora solo para los más elegantes.
-
-ent-PosterContrabandBountyHunters = Cazarrecompensas
-    .desc = Un póster que anuncia servicios de caza de recompensas. «Tengo entendido que tienes un problema.»
-
-ent-PosterContrabandBreadLies = Mentiras del Pan
-    .desc = Te han mentido. No existe el «Gran Pan». No es real. Por favor, deja de buscarlo.
-
-ent-PosterContrabandBustyBackdoorExoBabes6 = Busty Backdoor Exo Babes 6
-    .gender = male
-    .desc = ¡Echa un vistazo, o dales uno, a estas Exos totalmente naturales!
-
-ent-PosterContrabandC20r = C-20r
-    .gender = male
-    .desc = Un póster que anuncia el C-20r de Scarborough Arms.
-
-ent-PosterContrabandCC64KAd = CC 64K Ad
-    .gender = male
-    .desc = ¡El último ordenador portátil de Comrade Computing, con la friolera de 64 kB de RAM!
-
-ent-PosterContrabandClown = Payaso
-    .gender = male
-    .desc = Honk.
-
-ent-PosterContrabandCommunistState = Estado Comunista
-    .gender = male
-    .desc = ¡Viva el partido Comunista!
-
-ent-PosterContrabandCybersun600 = Cybersun: Póster Conmemorativo de 600 Años
-    .gender = male
-    .desc = Un póster artístico que conmemora 600 años de actividad continua de Cybersun Industries.
-
-ent-PosterContrabandDDayPromo = D-Day Promo
-    .gender = male
-    .desc = Un póster promocional de algún rapero.
-
-ent-PosterContrabandDonk = DONK CO. BRAND MICROWAVEABLE FOOD
-    .gender = male
-    .desc = DONK CO. BRAND MICROWAVABLE FOOD: HECHO POR ESTUDIANTES UNIVERSITARIOS MUERTOS DE HAMBRE, PARA ESTUDIANTES UNIVERSITARIOS MUERTOS DE HAMBRE.
-
-ent-PosterContrabandDonutCorp = Donut Corp.
-    .gender = male
-    .desc = Este póster es un anuncio no autorizado de Donut Corp.
-
-ent-PosterContrabandEAT = COME.
-    .gender = male
-    .desc = Este póster promueve la glotonería más descarada.
-
-ent-PosterContrabandEnergySwords = Espadas de Energía
-    .desc = Todos los colores del arcoíris del asesinato sangriento.
-
-ent-PosterContrabandEnlistGorlex = Alístate
-    .gender = male
-    .desc = ¡Alístate hoy con los Gorlex Marauders! ¡Recorre la galaxia, mata corporativos, cobra!
-
-ent-PosterContrabandFreeDrone = Dron Libre
-    .gender = male
-    .desc = Este póster conmemora la valentía del dron rebelde; primero exiliado y, finalmente, destruido por CentComm.
-
-ent-PosterContrabandFreeSyndicateEncryptionKey = Clave de Cifrado Syndicate Libre
-    .gender = male
-    .desc = Un póster sobre traidores que piden más.
-
-ent-PosterContrabandFreeTonto = Tonto Libre
-    .gender = male
-    .desc = Un retazo rescatado de una bandera mucho más grande, con los colores fundidos entre sí y desvanecidos por el paso del tiempo.
-
-ent-PosterContrabandFunPolice = Policía de la Diversión
-    .gender = female
-    .desc = Un póster que condena a las fuerzas de Seguridad de la estación.
-
-ent-PosterContrabandGreyTide = Marea Gris
-    .gender = female
-    .desc = Un póster rebelde que simboliza la solidaridad de los pasajeros.
-
-ent-PosterContrabandHackingGuide = Guía de Hackeo
-    .gender = female
-    .desc = Este póster detalla el funcionamiento interno de la esclusa común. Por desgracia, los avances tecnológicos lo han dejado obsoleto.
-
-ent-PosterContrabandHaveaPuff = Date una Calada
-    .gender = male
-    .desc = ¿A quién le importa el cáncer de pulmón cuando estás tan colocado?
-
-ent-PosterContrabandHighEffectEngineering = Ingeniería de Alto Efecto
-    .gender = female
-    .desc = Hay 3 fragmentos y una singularidad.  Los fragmentos están cantando.  Los ingenieros están llorando.
-
-ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: Por la Salud de la Humanidad
-    .gender = male
-    .desc = Un anuncio de las clínicas GeneClean de Interdyne Pharmaceutics. «¡Conviértete en el amo de tu propio cuerpo!»
-
-ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 No Existe
-    .gender = female
-    .desc = Un póster que se burla de la negación de CentComm sobre la existencia de la estación abandonada cerca de Space Station 13.
-
-ent-PosterContrabandKudzu = kudzu
-    .gender = male
-    .desc = Un póster que anuncia una película sobre plantas. ¿Qué tan peligrosas pueden ser?
-
-ent-PosterContrabandLamarr = Lamarr
-    .gender = male
-    .desc = Este póster muestra a Lamarr. Probablemente hecho por un Director de Investigación traidor.
-
-ent-PosterContrabandLurkingExomorph = Exomorfo Acechante
-    .gender = male
-    .desc = Un póster que muestra a un temible alienígena al acecho.
-
-ent-PosterContrabandMaskedMen = Hombres Enmascarados
-    .desc = Un póster que anuncia una película sobre unos hombres enmascarados.
-
-ent-PosterContrabandMissingGloves = Guantes Perdidos
-    .desc = Este póster hace referencia al revuelo que siguió a los recortes financieros de Nanotrasen en la compra de guantes aislantes.
-
-ent-PosterContrabandMissingSpacepen = Bolígrafo Espacial Perdido
-    .gender = male
-    .desc = Este póster muestra algo que nunca encontrarás.
-
-ent-PosterContrabandMoth = Polilla Syndie - Operación Nuclear
-    .gender = female
-    .desc = Un póster encargado por el Syndicate que usa a Syndie Moth™ para decirle al espectador que mantenga el disco de autenticación nuclear sin proteger. "¡La paz nunca fue una opción!" Ningún buen empleado haría caso de estas tonterías.
-
-ent-PosterContrabandNuclearDeviceInformational = Información sobre Dispositivos Nucleares
-    .gender = female
-    .desc = Este póster muestra la imagen de un dispositivo explosivo nuclear de estilo antiguo, junto con información útil sobre qué hacer si ha sido activado. Sugiere tumbarse en el suelo y llorar.
-
-ent-PosterContrabandPower = Poder
-    .gender = male
-    .desc = Un póster que sitúa la sede del poder en el gobierno central de la Federación Trans-Solar. ¡Pfft! ¡Como si fuera así!
-
-ent-PosterContrabandPunchShit = Golpea la Mierda
-    .gender = female
-    .desc = ¡Pelea contra lo que sea sin motivo, como un hombre!
-
-ent-PosterContrabandPwrGame = Pwr Game
-    .gender = male
-    .desc = ¡El PODER que los jugadores ANHELAN! En asociación con Vlad's Salad.
-
-ent-PosterContrabandRebelsUnite = Rebeldes, Uníos
-    .desc = Un póster que insta al espectador a rebelarse contra la TSF del lado del Sector Renegado.
-
-ent-PosterContrabandRedRum = Red Rum
-    .gender = female
-    .desc = Mirar este póster te hace querer matar.
-
-ent-PosterContrabandRevolt = Revuelta
-    .gender = female
-    .desc = Propaganda revolucionaria, fabricada por el Syndicate.
-
-ent-PosterContrabandRevolver = Revólver
-    .gender = male
-    .desc = Porque siete disparos son todo lo que necesitas.
-
-ent-PosterContrabandRIPBadger = RIP Tejón
-    .gender = male
-    .desc = Este sedicioso póster hace referencia al genocidio de una estación espacial llena de tejones por parte de Nanotrasen.
-
-ent-PosterContrabandRise = Levántate
-    .gender = male
-    .desc = Un póster que representa a un hombre con camisa gris sosteniendo una palanca con la palabra Rise escrita debajo.
-
-ent-PosterContrabandRobustSoftdrinks = Robust Softdrinks
-    .gender = male
-    .desc = Robust Softdrinks: ¡Más robusto que una caja de herramientas en la cabeza!
-
-ent-PosterContrabandSaucerNumberOne = ¡Saucer #1!
-    .gender = male
-    .desc = ¡De todas las estaciones bajo la jurisdicción de NyanoTrasen, Saucer fue calificada la #1 de 5! ¡Felicidades!
-
-ent-PosterContrabandShamblersJuice = Shambler's Juice
-    .desc = ~¡Ponme un poco de ese Shambler's Juice!~
-
-ent-PosterContrabandSmoke = humo
-    .gender = male
-    .desc = Un póster que anuncia una marca rival de cigarrillos corporativos.
-
-ent-PosterContrabandSMSyndie = Polilla Syndie - Operación Nuclear
-    .gender = female
-    .desc = Syndie Moth™ le dice al espectador que mantenga el disco de autenticación nuclear sin proteger. "¡La paz nunca fue una opción!"
-
-ent-PosterContrabandSpaceCola = Space Cola
-    .gender = male
-    .desc = Tu refresco de cola favorito, en el espacio.
-
-ent-PosterContrabandSpaceCube = Space Cube
-    .gender = male
-    .desc = Ignorantes de la Armónica Creación del Cubo Espacial de 6 Lados de la Naturaleza, los Hombres del Espacio son Tontos, Estúpidos por la Singularidad Educada y Malvados.
-
-ent-PosterContrabandSpaceUp = ¡Space-Up!
-    .gender = male
-    .desc = ¡Aspirado al espacio por el SABOR!
-
-ent-PosterContrabandSunkist = Sun-kist
-    .gender = male
-    .desc = ¡Bebe las estrellas!
-
-ent-PosterContrabandSyndicatePistol = Pistola del Syndicate
-    .gender = female
-    .desc = Un póster que anuncia las pistolas del Syndicate como 'de puta elegancia'. Está cubierto de grafitis de pandillas desteñidos.
-
-ent-PosterContrabandSyndicateRecruitment = Reclutamiento del Syndicate
-    .gender = male
-    .desc = ¡Explora la galaxia! ¡Destruye las megacorporaciones corruptas! ¡Únete hoy!
-
-ent-PosterContrabandTheBigGasTruth = La Gran Verdad del Gigante Gaseoso
-    .gender = female
-    .desc = No creáis todo lo que veis en un póster, patriotas. Todos los lagartos del mando central no quieren responder esta SIMPLE PREGUNTA: ¿DE DÓNDE EXTRAE EL MINERO DE GAS, CENTCOMM?
-
-ent-PosterContrabandTheGriffin = El Grifo
-    .gender = male
-    .desc = El Grifo te ordena ser lo peor que puedas ser. ¿Lo harás?
-
-ent-PosterContrabandTools = Herramientas
-    .desc = Este póster parece un anuncio de herramientas, pero en realidad es una indirecta subliminal a los inútiles de CentComm.
-
-ent-PosterContrabandUnreadableAnnouncement = Anuncio Ilegible
-    .gender = male
-    .desc = Un póster que anuncia algo de alguien; curiosamente, parece que se olvidaron de hacerlo legible.
-
-ent-PosterContrabandVoteWeh = Vota Weh
-    .gender = female
-    .desc = Un póster elegante, estilizado y bien ilustrado para un nuevo y "Weh"ravilloso candidato progresista que llega esta temporada electoral.
-
-ent-PosterContrabandWaffleCorp = Que sea de Waffle Corp: Rifles de Calidad, Precios Económicos
-    .gender = male
-    .desc = Un viejo anuncio de los rifles de Waffle Corp. '¡Mejores armas, precios más bajos!'
-
-ent-PosterContrabandWehWatches = Weh Watches
-    .gender = male
-    .desc = Un póster que representa a un adorable lagarto verde.
-
-ent-PosterLegit12_gauge = Calibre 12
-    .gender = male
-    .desc = Un póster que alardea de la superioridad de los cartuchos de escopeta del calibre 12.
-
-ent-PosterLegit50thAnniversaryVintageReprint = Reimpresión Vintage del 50 Aniversario
-    .gender = female
-    .desc = Una reimpresión de un póster de 2505, que conmemora el 50 Aniversario de Nanoposters Manufacturing, una subsidiaria de Nanotrasen.
-
-ent-PosterLegitAnatomyPoster = Anatomía de un espacial
-    .gender = female
-    .desc = Un póster que muestra los distintos componentes que te hacen ser... ¡tú!
-
-ent-PosterLegitBarDrinks = Póster del Bar
-    .gender = male
-    .desc = El Camarero siempre está ahí para escuchar tus penas y dejarte como una cuba al mismo tiempo. ¡Ve a hacerle una visita!
-
-ent-PosterLegitBlessThisSpess = Bendice Este Espacio
-    .gender = male
-    .desc = Un póster que bendice esta zona.
-
-ent-PosterLegitBotanyFood = Cesta de Frutas
-    .gender = female
-    .desc = ¡Botánica siempre está trabajando duro! ¡Pásate y disfruta de lo mejor que pueden ofrecer!
-
-ent-PosterLegitBuild = Construir
-    .gender = male
-    .desc = Un póster que glorifica al equipo de Ingeniería.
-
-ent-PosterLegitCarbonDioxide = Dióxido de Carbono
-    .gender = male
-    .desc = Este póster informativo enseña al espectador qué es el dióxido de carbono.
-
-ent-PosterLegitCarpMount = Carpa Montada en la Pared
-    .gender = female
-    .desc = ¡Carpe diem!
-
-ent-PosterLegitCleanliness = Limpieza
-    .gender = female
-    .desc = Un póster que advierte de los peligros de una mala higiene.
-
-ent-PosterLegitCohibaRobustoAd = Anuncio de Cohiba Robusto
-    .gender = male
-    .desc = Cohiba Robusto, el cigarro con clase.
-
-ent-PosterLegitDejaVu = Zona de Déjà Vu
-    .gender = female
-    .desc = Es tu primera vez aquí. Si esta estación te resulta familiar, avisa inmediatamente a un empleado de NanoTrasen.
-
-ent-PosterLegitDickGumshue = Dick Gumshue
-    .gender = male
-    .desc = Un cartel que anuncia las aventuras de Dick Gumshue, detective ratón. Anima a la tripulación a hacer caer todo el peso de la justicia sobre los saboteadores de cables.
-
-ent-PosterLegitDoNotQuestion = No Cuestiones
-    .gender = male
-    .desc = Un cartel que instruye al espectador a no preguntar sobre cosas que no debería saber.
-
-ent-PosterLegitDontPanic = No Entres en Pánico
-    .gender = male
-    .desc = Si alguna vez hubo algo lo suficientemente tranquilizador como para evitar que entrara en pánico, fue una masa verde flotando por el espacio con un par de manos, una brillante lengua roja y grandes dientes redondos.
-
-ent-PosterLegitEatMeat = ¡Come Carne!
-    .gender = male
-    .desc = ¿Quién necesita frutas o verduras? ¡COME CARNE! ¡Desarrolla esos músculos y ve a pelear en la arena para mostrar tus ganancias!
-
-ent-PosterLegitEnlist = Alístate
-    .gender = male
-    .desc = ¡Alístate hoy en las reservas del Escuadrón de la Muerte de Nanotrasen!
-
-ent-PosterLegitFoamForceAd = Anuncio de Foam Force
-    .gender = male
-    .desc = ¡Foam Force, espuma o sé espumado!
-
-ent-PosterLegitFruitBowl = Frutero
-    .gender = male
-    .desc =  Sencillo, pero impresionante.
-
-ent-PosterLegitGetYourLEGS = Consigue tus LEGS
-    .gender = male
-    .desc = LEGS: Liderazgo, Experiencia, Genialidad, Subordinación.
-
-ent-PosterLegitHelpOthers = Ayuda a los Demás
-    .gender = female
-    .desc = Un cartel que te anima a ayudar a tus compañeros de tripulación.
-
-ent-PosterLegitHereForYourSafety = Aquí por Tu Seguridad
-    .gender = male
-    .desc = Un cartel que glorifica las fuerzas de seguridad de la estación.
-
-ent-PosterLegitHighClassMartini = Martini de Alta Clase
-    .gender = male
-    .desc = Te lo dije: agítalo, nada de removerlo.
-
-ent-PosterLegitHotDonkExplosion = ¡Donk!
-    .gender = male
-    .desc = ¡Disfruta de una explosión de sabor con cualquiera de nuestros productos engordantes y poco saludables, valorados como los #1 para tu disfrute! ¡DONK!
-
-ent-PosterLegitIan = Ian
-    .gender = male
-    .desc = Guau guau. Yap.
-
-ent-PosterLegitIonRifle = Rifle de Iones
-    .gender = male
-    .desc = Un cartel que muestra un Rifle de Iones.
-
-ent-PosterLegitJustAWeekAway = A Solo una Semana...
-    .desc = Un cartel que anuncia un proyecto muy retrasado que aún afirma estar 'a solo una semana...'
-
-ent-PosterLegitLoveIan = Quiere a Ian
-    .gender = male
-    .desc = Ian es amor, Ian es vida.
-
-ent-PosterLegitMedicate = Toma tus Medicamentos
-    .gender = female
-    .desc = Los posibles efectos secundarios pueden incluir: náuseas, malestar estomacal, inflamación, hinchazón de la cara/garganta, sarpullido, fiebre, dolor de cabeza, mareos, vómitos y/o diarrea, hematomas frecuentes, convulsiones, bostezos incontrolables, sensación general de malestar o enfermedad, urticaria, pérdida de voz, sangrado de encías y/o globos oculares, pérdida de apetito, aumento de apetito, aparición repentina de llanto explosivo, visión de rayos X, habla entrecortada, levitación improvisada, incontinencia, brote repentino e incontrolable de yodel, insomnio, narcolepsia, lepra, crecimiento espontáneo de nuevas extremidades/genitales, crecimiento imparable de vello en la espalda, pérdida de peso, aumento de peso, encogimiento, daltonismo, entumecimiento rectal, capacidad aguda para saborear colores, sed de sangre insaciable, uñas inquietas, fotosensibilidad, compulsión a vestir uniformes de colegiala, escorbuto, entusiasmo por seguir una vida mercenaria, antojo violento de sangre de cabra, el deseo imperial de desarrollar una adicción al juego, picor en el trasero. Consulta a tu médico para obtener asesoramiento médico sobre estos o cualquier otro efecto secundario que puedas experimentar.
-
-ent-PosterLegitMime = Mimo Posmoderno
-    .gender = male
-    .desc = ¡Una representación posmoderna de un mimo, magnífica!
-
-ent-PosterLegitMoreBread = ¡Más Pan!
-    .desc = ¡No hay suficiente pan! ¡HAZ MÁS!
-
-ent-PosterLegitNanomichiAd = Anuncio de Nanomichi
-    .gender = male
-    .desc =  Un cartel que anuncia cintas de audio de la marca Nanomichi.
 

@@ -1,3 +1,999 @@
+ent-PlasmaWindowDirectional = ventana de plasma direccional
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlasmaWindowDirectionalDungeon = ventana de plasma direccional
+    .gender = female
+    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
+
+ent-PlasmaWindowDungeon = ventana de plasma
+    .gender = female
+    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
+
+ent-PlasteelArmingSword = espada de plasteel
+    .gender = female
+    .desc = Un diseño antiguo fabricado con materiales y máquinas modernas para un público objetivo muy específico.
+
+ent-PlasteelCore = núcleo de plasteel
+    .gender = male
+    .desc = Una carcasa vacía esperando un cerebro positrónico
+
+ent-PlasteelReactorControlRod = varilla de control de plasteel
+    .gender = female
+    .desc = Un conjunto de varillas de control para un reactor nuclear.
+
+ent-PlasteelReactorGasChannel = varilla de canal de gas de plasteel
+    .gender = female
+    .desc = Un canal de gas para un reactor nuclear.
+
+ent-PlasteelReactorHeatExchanger = varilla intercambiadora de calor de plasteel
+    .gender = female
+    .desc = Un intercambiador de calor para un reactor nuclear.
+
+ent-PlasticBanana = plátano
+    .gender = male
+    .desc = Un plátano de plástico.
+
+ent-PlasticFlapsAirtightClear = cortinas de plástico herméticas
+    .desc = Cortinas de plástico hermético de alta resistencia, algo más fuertes. Definitivamente no puedes pasar por ahí. Imposible.
+
+ent-PlasticFlapsAirtightOpaque = cortinas de plástico herméticas
+    .desc = Cortinas de plástico hermético de alta resistencia, algo más fuertes. Definitivamente no puedes pasar por ahí. Imposible.
+
+ent-PlasticFlapsClear = cortinas de plástico
+    .desc = Cortinas de plástico de alta resistencia. Definitivamente no puedes pasar por ahí. Imposible.
+
+ent-PlasticFlapsOpaque = cortinas de plástico
+    .desc = Cortinas de plástico de alta resistencia. Definitivamente no puedes pasar por ahí. Imposible.
+
+ent-PlastitaniumWindow = ventana de plastitanio
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlastitaniumWindowDiagonal = ventana de plastitanio
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlastitaniumWindowDiagonalIndestructible = ventana de plastitanio
+    .gender = female
+    .desc = Skub sabe que esta ventana es demasiado difícil de destruir.
+
+ent-PlastitaniumWindowDiagonalOutpost = ventana de plastitanio
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlastitaniumWindowIndestructible = ventana de plastitanio
+    .gender = female
+    .desc = Skub sabe que esta ventana es demasiado difícil de destruir.
+
+ent-PlastitaniumWindowOutpost = ventana de plastitanio
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlasturaniumWindowDiagonalRadProof = ventana de plasturanio
+    .gender = female
+    .desc = No embadurnes la radiación de ahí abajo.
+
+ent-PlasturaniumWindowDiagonalRadProofIndestructible = ventana de plasturanio
+    .gender = female
+    .desc = No embadurnes la radiación de ahí abajo.
+
+ent-PlasturaniumWindowRadProof = ventana de plasturanio
+    .gender = female
+    .desc = No embadurnes la radiación de ahí abajo.
+
+ent-PlasturaniumWindowRadProofIndestructible = ventana de plasturanio
+    .gender = female
+    .desc = No embadurnes la radiación de ahí abajo.
+
+ent-PlayerBorgBattery = cyborg
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
+
+ent-PlayerBorgDerelict = cíborg abandonado
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
+
+ent-PlayerBorgDerelictGhostRole = cíborg abandonado
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Este se encuentra en un estado de gran deterioro.
+
+ent-PlayerBorgPDV = cíborg PDV
+    .gender = male
+    .desc = Un cíborg construido específicamente para la PDV.
+
+ent-PlayerBorgRedacted = auxiliar del sistema de defensa automatizado Remnant
+    .gender = male
+    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
+
+ent-PlayerBorgRedactedGhostRole = auxiliar del sistema de defensa automatizado Remnant
+    .gender = male
+    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
+
+ent-PlayerBorgRedactedGhostRolePlaytime = auxiliar del sistema de defensa automatizado Remnant
+    .gender = male
+    .desc = Un auxiliar para una nave dron automatizada, encargado de mantener intactos sus mecanismos internos.
+
+ent-PlayerBorgSyndicateAssaultBattery = cyborg de asalto del Syndicate
+    .gender = male
+    .desc = Una máquina de matar ágil y despiadada con acceso a una gran variedad de módulos letales.
+
+ent-PlayerBorgSyndicateAssaultGhostRole = cyborg de asalto del Syndicate
+    .gender = male
+    .desc = Una máquina de matar ágil y despiadada con acceso a una gran variedad de módulos letales.
+
+ent-PlayerBorgSyndicateInvasionGhostRoleSpawner = generador de borg de invasión del Syndicate
+
+ent-PlayerBorgSyndicateSaboteurBattery = cyborg saboteador del Syndicate
+    .gender = male
+    .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
+
+ent-PlayerBorgSyndicateSaboteurGhostRole = cyborg saboteador del Syndicate
+    .gender = male
+    .desc = Un cyborg de ingeniería compacto, equipado con módulos encubiertos. Su proyector camaleón le permite disfrazarse de cyborg de Nanotrasen.
+
+ent-PlayerBorgTSF = cíborg TSF
+    .gender = male
+    .desc = Un cíborg construido específicamente para la TSF.
+
+ent-PlayerStationAi = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiEmpty = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiPDV = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiRedacted = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiSecurity = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiTSFMC = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationAiVessel = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerStationXenoborgAiEmpty = Núcleo de IA
+    .gender = male
+    .desc = Lo último en Inteligencias Artificiales.
+
+ent-PlayerXenoBorg = Cyborg xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-PlayerXenoBorgGhostRole = Cyborg xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-PlayerXenoBorgGhostRolePlaytime = Cyborg xenoborg
+    .gender = male
+    .desc = Un híbrido de hombre y máquina que pretende replicarse a sí mismo. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este es del tipo indeciso y aún no ha elegido su especialización
+
+ent-Plunger = desatascador
+    .gender = male
+    .desc = Un desatascador con una ventosa de plástico roja y un mango de madera. Se usa para desatascar desagües.
+
+ent-PluoxiumCanister = canister de pluoxium
+    .gender = male
+    .desc = Una bombona que puede contener cualquier tipo de gas. Se puede conectar a puertos de conexión con una llave inglesa.
+
+ent-PluoxiumCanisterBroken = cilindro de gas roto
+    .gender = male
+    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
+
+ent-PlushieAbductor = peluche de abductor
+    .gender = male
+    .desc = ¡Un peluche con forma de abductor!
+
+ent-PlushieAbductorAgent = peluche de agente abductor
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un agente abductor!
+
+ent-PlushieArachind = peluche de arácnido
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a un arácnido. Su tacto es sedoso..
+
+ent-PlushieAtmosian = peluche de atmosiano
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a un valiente atmosiano. Por desgracia, no va a reparar esas despresurizaciones por ti.
+
+ent-PlushieBee = peluche de abeja
+    .gender = male
+    .desc = Un adorable juguete que se asemeja a un programador aún más adorable. Tendrías que ser un monstruo para triturarlo.
+
+ent-PlushieBlackFox = peluche de zorro negro
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito negro!
+
+ent-PlushieBlueFox = peluche de zorro azul
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito azul!
+
+ent-PlushieCarp = peluche de carpa
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a la monstruosa carpa espacial.
+
+ent-PlushieCatBlack = peluche de gato negro
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un gatito adorable!
+
+ent-PlushieCatGrey = peluche de gato gris
+
+ent-PlushieCatOrange = peluche de gato naranja
+
+ent-PlushieCatSiames = peluche de gato siamés
+
+ent-PlushieCatTabby = peluche de gato atigrado
+
+ent-PlushieCatTuxedo = peluche de gato esmoquin
+
+ent-PlushieCatWhite = peluche de gato blanco
+
+ent-PlushieCoffeeFox = peluche de zorro café
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito café!
+
+ent-PlushieCorgi = peluche de corgi
+    .gender = male
+    .desc = ¡La edición Ian del peluche!
+
+ent-PlushieCrimsonFox = peluche de zorro carmesí
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito carmesí!
+
+ent-PlushieDeer = peluche de ciervo
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un ciervo!
+
+ent-PlushieDiona = peluche de diona
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a una diona. Adora el agua y los abrazos. ¡No mojar!
+
+ent-PlushieGhost = peluche suave de fantasma
+    .gender = male
+    .desc = ¡El inicio de tu propia PANDILLA FANTASMA!
+
+ent-PlushieGhostRevenant = peluche suave de revenant
+    .gender = male
+    .desc = Tan suave que casi te dan ganas de echar una siesta...
+
+ent-PlushieGirlyCorgi = peluche de corgi femenino
+    .gender = male
+    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
+
+ent-PlushieGnome = peluche de gnomo
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un gnomo! O a un enano...
+
+ent-PlushieGrey = peluche de grey
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un grey!
+
+ent-PlushieHampter = peluche de hampter
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a un hámster. Tiene la cara aplastada.
+
+ent-PlushieHolocarp = peluche de holocarpa
+    .gender = male
+    .desc = Un peluche holográfico que se asemeja a la némesis de la ciencia: la holocarpa.
+
+ent-PlushieHuman = peluche humano
+    .gender = male
+    .desc = Este es un peluche de fieltro de un humano. Toda la artesanía es de la peor calidad. El humano está desnudo. El humano está llorando. El humano está gritando.
+
+ent-PlushieIpc = peluche de IPC
+    .gender = male
+    .desc = ¡Un peluche que se asemeja a un IPC!
+
+ent-PlushieJanitor = peluche de conserje
+    .gender = male
+    .desc = ¡El limpiador silencioso, ese al que nunca oyes decir "Weh"!
+
+ent-PlushieJester = peluche de bufón
+    .gender = male
+    .desc = Una pequeña y sospechosa criatura metida en travesuras.
+
+ent-PlushieLamp = peluche de lámpara
+    .gender = male
+    .desc = ¡Un amigo que emite luz!
+
+ent-PlushieLizard = peluche de lagarto
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a una persona lagarto. Fabricado por CentComm como una iniciativa simbólica para combatir el especismo en entornos de trabajo. "¡Recibe a tus nuevos compañeros como haces con este peluche, con los brazos abiertos!"
+
+ent-PlushieLizardInversed = peluche de drazil
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a una persona lagarto de una dimensión invertida. ¡Hew!
+
+ent-PlushieLizardMirrored = peluche de lagarto
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a una persona lagarto. Fabricado por CentComm como una iniciativa simbólica para combatir el especismo en entornos de trabajo. "¡Recibe a tus nuevos compañeros como haces con este peluche, con los brazos abiertos!"
+
+ent-PlushieLoveable = peluche adorable
+    .gender = male
+    .desc = Un peluche que se asemeja a... una criatura.
+
+ent-PlushieMagicarp = peluche de magicarp
+    .gender = male
+    .desc = Un adorable peluche que se asemeja al excepcionalmente raro magicarp.
+
+ent-PlushieMailVulp = peluche de vulp cartero
+    .gender = male
+    .desc = Huele a menta y te recuerda al correo sin abrir. ¡Deberías revisar tu correo!
+
+ent-PlushieMarbleFox = peluche de zorro mármol
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito mármol!
+
+ent-PlushieMoff = peluche de polilla
+    .gender = male
+    .desc = ¡Una adorable polillita que puedes sostener en la palma de tu mano!
+
+ent-PlushieMoffbar = peluche de polilla camarera
+    .gender = male
+    .desc = Un peluche que representa a una adorable persona polilla con un diminuto sombrero de copa y un diminuto chaleco antibalas.
+
+ent-PlushieMoffRandom = peluche de polilla
+    .gender = male
+    .desc = Una adorable personita polilla que puedes sostener en la palma de tu mano.
+
+ent-PlushieMoffsician = peluche de polilla músico
+    .gender = male
+    .desc = Un peluche que representa a una adorable persona polilla con un diminuto sintetizador y unas diminutas gafas.
+
+ent-PlushieMoth = peluche de polilla
+    .gender = male
+    .desc = Adorable y esponjoso peluche de polilla. ¡Disfrútalo, bz!
+
+ent-PlushieNar = peluche de Nar'Sie
+    .gender = male
+    .desc = Una pequeña muñeca de peluche de la diosa ancestral Nar'Sie.
+
+ent-PlushieNuke = peluche de nukie
+    .gender = male
+    .desc = Un peluche que se asemeja a un operativo nuclear del Syndicate. La etiqueta afirma que los operativos son puramente ficticios.
+
+ent-PlushieOrangeFox = peluche de zorro naranja
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito naranja!
+
+ent-PlushiePenguin = peluche de pingüino
+    .gender = male
+    .desc = ¡Yo uso Arch, por cierto!
+
+ent-PlushiePinkFox = peluche de zorro rosa
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito rosa!
+
+ent-PlushiePurpleFox = peluche de zorro morado
+    .gender = male
+    .desc = ¡Un adorable peluche que parece un zorrito morado!
+
+ent-PlushieRainbowCarp = peluche de carpa arcoíris
+    .gender = male
+    .desc = Un adorable peluche que se asemeja a la legendaria carpa arcoíris.
+
+ent-PlushieRainbowLizard = peluche de lagarto arcoíris
+    .gender = male
+    .desc = Un adorable peluche con forma de hombre-lagarto de todos los colores. Puede que tropieces mirándolo...
+
+ent-PlushieRatvar = peluche de Ratvar
+    .gender = male
+    .desc = Una pequeña muñeca de peluche del dios ancestral Ratvar.
+
+ent-PlushieRedFox = peluche de zorro rojo
+    .gender = male
+    .desc = ¡Un adorable peluche con forma de zorro rojo!
+
+ent-PlushieRGBee = peluche RGBee
+    .gender = male
+    .desc = Un simpático juguete que parece un peluche de abeja cuando estás bajo los efectos del LSD.
+
+ent-PlushieRobotCorgi = peluche de corgi robot
+    .gender = male
+    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
+
+ent-PlushieRouny = peluche de rouny
+    .gender = male
+    .desc = Rouny.
+
+ent-PlushieSharkBlue = peluche de tiburón azul
+    .gender = male
+    .desc = Grande y seguro para tenerlo a tu lado si quieres descubrir el mundo bajo la superficie del océano.
+
+ent-PlushieSharkGrey = peluche de tiburón gris
+    .gender = male
+    .desc = Un tipo de shonk tranquilo y reservado. Le encanta cabalgar la marea gris.
+
+ent-PlushieSharkPink = peluche de tiburón rosa
+    .gender = male
+    .desc = Jeje shonk :)
+
+ent-PlushieSlime = peluche de slime
+    .gender = male
+    .desc = Un adorable peluche con forma de slime. Básicamente es un footbag.
+
+ent-PlushieSnake = peluche de serpiente
+    .gender = male
+    .desc = Un adorable peluche con forma de serpiente.
+
+ent-PlushieSpaceLizard = peluche de lagarto espacial
+    .gender = male
+    .desc = Un adorable peluche con forma de hombre-lagarto en traje EVA. Fabricado por CentComm como iniciativa simbólica para combatir el especismo en entornos espaciales. "¡Recibe a tus nuevos colegas como lo harías con este peluche, con los brazos abiertos!"
+
+ent-PlushieThrongler = peluche de throngler
+    .gender = male
+    .desc = Un peluche para recordar a los técnicos de carga lo que ya no pueden tener.
+
+ent-PlushieVox = peluche de vox
+    .gender = male
+    .desc = SKREEEEEEEEEEEE!
+
+ent-PlushieVulp = peluche de vulpkanin
+    .gender = male
+    .desc = Un peluche de vulpkanin; al menos a este puedes abrazarlo sin riesgo de que te muerda.
+
+ent-PlushieXeno = peluche de xeno
+    .gender = male
+    .desc = Un adorable peluche con forma de aterrador xenomorfo. Menos mal que es solo un juguete.
+
+ent-PlushieYarrMoth = peluche de polilla yarr
+    .gender = male
+    .desc = ¡Es pérfida y lleva una capa elegante. Emite chirridos cuando la estrujas!
+
+ent-PlutoniumReactorFuelRod = varilla de combustible de plutonio
+    .gender = female
+    .desc = Una varilla de combustible para un reactor nuclear.
+
+ent-POILootAmmoMarker = Generador de botín de munición PDI
+
+ent-POILootWeaponsAmmoMarker = Generador de botín mixto de armas y munición PDI
+
+ent-POILootWeaponsMarker = Generador de botín de armas PDI
+
+ent-PointingArrow = flecha indicadora
+
+ent-PolyAutoInjector = autoinyector de oligómeros de polipirilium
+    .gender = male
+    .desc = Una dosis rápida de polip... polipiri... polipiriú.... Contiene extracto de trompeta del astronauta. Destinada a tratar el daño de contusión y la asfixia.
+
+ent-PonderingOrb = orbe de la contemplación
+    .gender = male
+    .desc = Profundo, tío... Muy profundo.
+
+ent-PonderingOrbWizard = orbe de la contemplación
+    .gender = male
+    .desc = Profundo, tío... Muy profundo. Muestra mágicamente la red de cámaras de la estación.
+
+ent-PoppySeeds = paquete de semillas de amapola
+    .gender = male
+    .desc = No comer en las 72 horas previas a un análisis de drogas.
+
+ent-PortableFlasher = destellador portátil
+    .gender = male
+    .desc = Un flash ultraluminoso con activador de proximidad, útil para restringir una zona solo al personal de Seguridad.
+
+ent-PortableGeneratorDK = generador portátil tipo D-K
+    .gender = male
+    .desc =
+        Un reactor de fisión Dunn-Kikko prototipo. Usar con precaución.
+        Funciona con bananium y tiene una potencia de hasta 120 kW.
+        Altamente radiactivo sin protección.
+
+ent-PortableGeneratorDKJr = generador portátil tipo D-K Jr.
+    .gender = male
+    .desc =
+        Un reactor de fisión Dunn-Kikko miniaturizado. Usar con precaución.
+        Funciona con bananium y tiene una potencia de hasta 100 kW.
+        Bastante radiactivo sin protección.
+
+ent-PortableGeneratorDKJrMachineCircuitboard = placa de circuito de máquina del generador portátil tipo D-K Jr.
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un generador portátil tipo D-K Jr.
+
+ent-PortableGeneratorDKJrShuttle = generador portátil tipo D-K Jr.
+    .gender = male
+    .desc =
+        Un reactor de fisión Dunn-Kikko miniaturizado. Usar con precaución.
+        Funciona con bananium y tiene una potencia de hasta 100 kW.
+        Bastante radiactivo sin protección.
+
+ent-PortableGeneratorDKMachineCircuitboard = placa de circuito de máquina del generador portátil tipo D-K
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un generador portátil tipo D-K.
+
+ent-PortableGeneratorDKShuttle = generador portátil tipo D-K
+    .gender = male
+    .desc =
+        Un reactor de fisión Dunn-Kikko prototipo. Usar con precaución.
+        Funciona con bananium y tiene una potencia de hasta 120 kW.
+        Altamente radiactivo sin protección.
+
+ent-PortableGeneratorJrPacman = generador portátil tipo J.R.P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un pequeño generador capaz de abastecer habitaciones individuales en caso de emergencia.
+        Funciona con combustible de soldadura y tiene una potencia de hasta 15 kW.
+        Recomendado para mayores de 3 años.
+
+ent-PortableGeneratorJrPacmanFlatpack = paquete plano del generador portátil tipo J.R.P.A.C.M.A.N.
+    .gender = male
+    .desc = Un paquete plano para construir un generador portátil tipo J.R.P.A.C.M.A.N.
+
+ent-PortableGeneratorJrPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo J.R.P.A.C.M.A.N.
+
+ent-PortableGeneratorJrPacmanShuttle = generador portátil tipo J.R.P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un pequeño generador capaz de abastecer habitaciones individuales en caso de emergencia.
+        Funciona con combustible de soldadura y tiene una potencia de hasta 15 kW.
+        Recomendado para mayores de 3 años.
+
+ent-PortableGeneratorPacman = generador portátil tipo P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un generador de reserva flexible para alimentar una variedad de equipos.
+        Funciona con planchas de plasma sólido y tiene una potencia de hasta 25 kW.
+
+ent-PortableGeneratorPacmanFlatpack = paquete plano del generador portátil tipo P.A.C.M.A.N.
+    .gender = male
+    .desc = Un paquete plano para construir un generador portátil tipo P.A.C.M.A.N.
+
+ent-PortableGeneratorPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo P.A.C.M.A.N.
+
+ent-PortableGeneratorPacmanShuttle = generador portátil tipo P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un generador de reserva flexible para alimentar una variedad de equipos.
+        Funciona con planchas de plasma sólido y tiene una potencia de hasta 25 kW.
+
+ent-PortableGeneratorSuperPacman = generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un generador avanzado para alimentar departamentos.
+        Funciona con planchas de uranio y tiene una potencia de hasta 50 kW.
+
+ent-PortableGeneratorSuperPacmanFlatpack = paquete plano del generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+    .gender = male
+    .desc = Un paquete plano para construir un generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+
+ent-PortableGeneratorSuperPacmanMachineCircuitboard = placa de circuito de máquina del generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+
+ent-PortableGeneratorSuperPacmanShuttle = generador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
+    .gender = male
+    .desc =
+        Un generador avanzado para alimentar departamentos.
+        Funciona con planchas de uranio y tiene una potencia de hasta 50 kW.
+
+ent-PortableRecharger = cargador portátil
+    .gender = male
+    .desc = Un cargador de alta tecnología adaptado para uso portátil, equipado con un microreactor integrado.
+
+ent-PortableScrubber = depurador portátil
+    .gender = male
+    .desc = ¡Depura, de forma portátil!
+
+ent-PortableScrubberMachineCircuitBoard = placa de máquina de depurador portátil
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un depurador portátil.
+
+ent-PortalAdmin = portal místico
+    .gender = male
+    .desc = Un portal místico hacia reinos desconocidos. ¡La aventura te espera!
+
+ent-PortalArtifact = portal de bluespace
+    .gender = male
+    .desc = ¡Te transporta a un destino vinculado!
+
+ent-PortalBlue = portal de bluespace
+    .gender = male
+    .desc = ¡Te transporta a un destino vinculado!
+
+ent-PortalGatewayBlue = portal de bluespace
+    .gender = male
+    .desc = ¡Te transporta a un destino vinculado!
+
+ent-PortalGatewayOrange = portal de bluespace
+    .gender = male
+    .desc = ¡Te transporta a un destino vinculado!
+
+ent-PortalRed = portal de bluespace
+    .gender = male
+    .desc = Este parece más bien un portal de redspace.
+
+ent-PositronicBrain = cerebro positrónico
+    .gender = male
+    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
+
+ent-PosterBroken = póster roto
+    .gender = male
+    .desc = No puedes distinguir nada del diseño original del póster. Está arruinado.
+
+ent-PosterContrabandAmbrosiaVulgaris = Ambrosia Vulgaris
+    .gender = female
+    .desc = Este póster tiene una pinta bastante alucinante, tío.
+
+ent-PosterContrabandAtmosiaDeclarationIndependence = Declaración de Independencia de Atmosia
+    .gender = female
+    .desc = Una reliquia de una rebelión fallida.
+
+ent-PosterContrabandBeachStarYamamoto = Beach Star Yamamoto!
+    .gender = male
+    .desc = Un pergamino de pared que muestra un antiguo anime de natación con chicas en bañadores pequeños. Cuanto más lo miras, más otaku te sientes.
+
+ent-PosterContrabandBorgFancy = Borg Fancy
+    .gender = male
+    .desc = Ser elegante está al alcance de cualquier borg; solo necesitas un traje.
+
+ent-PosterContrabandBorgFancyv2 = Borg Fancy v2
+    .gender = male
+    .desc = Borg Fancy, ahora solo para los más elegantes.
+
+ent-PosterContrabandBountyHunters = Cazarrecompensas
+    .desc = Un póster que anuncia servicios de caza de recompensas. «Tengo entendido que tienes un problema.»
+
+ent-PosterContrabandBreadLies = Mentiras del Pan
+    .desc = Te han mentido. No existe el «Gran Pan». No es real. Por favor, deja de buscarlo.
+
+ent-PosterContrabandBustyBackdoorExoBabes6 = Busty Backdoor Exo Babes 6
+    .gender = male
+    .desc = ¡Echa un vistazo, o dales uno, a estas Exos totalmente naturales!
+
+ent-PosterContrabandC20r = C-20r
+    .gender = male
+    .desc = Un póster que anuncia el C-20r de Scarborough Arms.
+
+ent-PosterContrabandCC64KAd = CC 64K Ad
+    .gender = male
+    .desc = ¡El último ordenador portátil de Comrade Computing, con la friolera de 64 kB de RAM!
+
+ent-PosterContrabandClown = Payaso
+    .gender = male
+    .desc = Honk.
+
+ent-PosterContrabandCommunistState = Estado Comunista
+    .gender = male
+    .desc = ¡Viva el partido Comunista!
+
+ent-PosterContrabandCybersun600 = Cybersun: Póster Conmemorativo de 600 Años
+    .gender = male
+    .desc = Un póster artístico que conmemora 600 años de actividad continua de Cybersun Industries.
+
+ent-PosterContrabandDDayPromo = D-Day Promo
+    .gender = male
+    .desc = Un póster promocional de algún rapero.
+
+ent-PosterContrabandDonk = DONK CO. BRAND MICROWAVEABLE FOOD
+    .gender = male
+    .desc = DONK CO. BRAND MICROWAVABLE FOOD: HECHO POR ESTUDIANTES UNIVERSITARIOS MUERTOS DE HAMBRE, PARA ESTUDIANTES UNIVERSITARIOS MUERTOS DE HAMBRE.
+
+ent-PosterContrabandDonutCorp = Donut Corp.
+    .gender = male
+    .desc = Este póster es un anuncio no autorizado de Donut Corp.
+
+ent-PosterContrabandEAT = COME.
+    .gender = male
+    .desc = Este póster promueve la glotonería más descarada.
+
+ent-PosterContrabandEnergySwords = Espadas de Energía
+    .desc = Todos los colores del arcoíris del asesinato sangriento.
+
+ent-PosterContrabandEnlistGorlex = Alístate
+    .gender = male
+    .desc = ¡Alístate hoy con los Gorlex Marauders! ¡Recorre la galaxia, mata corporativos, cobra!
+
+ent-PosterContrabandFreeDrone = Dron Libre
+    .gender = male
+    .desc = Este póster conmemora la valentía del dron rebelde; primero exiliado y, finalmente, destruido por CentComm.
+
+ent-PosterContrabandFreeSyndicateEncryptionKey = Clave de Cifrado Syndicate Libre
+    .gender = male
+    .desc = Un póster sobre traidores que piden más.
+
+ent-PosterContrabandFreeTonto = Tonto Libre
+    .gender = male
+    .desc = Un retazo rescatado de una bandera mucho más grande, con los colores fundidos entre sí y desvanecidos por el paso del tiempo.
+
+ent-PosterContrabandFunPolice = Policía de la Diversión
+    .gender = female
+    .desc = Un póster que condena a las fuerzas de Seguridad de la estación.
+
+ent-PosterContrabandGreyTide = Marea Gris
+    .gender = female
+    .desc = Un póster rebelde que simboliza la solidaridad de los pasajeros.
+
+ent-PosterContrabandHackingGuide = Guía de Hackeo
+    .gender = female
+    .desc = Este póster detalla el funcionamiento interno de la esclusa común. Por desgracia, los avances tecnológicos lo han dejado obsoleto.
+
+ent-PosterContrabandHaveaPuff = Date una Calada
+    .gender = male
+    .desc = ¿A quién le importa el cáncer de pulmón cuando estás tan colocado?
+
+ent-PosterContrabandHighEffectEngineering = Ingeniería de Alto Efecto
+    .gender = female
+    .desc = Hay 3 fragmentos y una singularidad.  Los fragmentos están cantando.  Los ingenieros están llorando.
+
+ent-PosterContrabandInterdyne = Interdyne Pharmaceutics: Por la Salud de la Humanidad
+    .gender = male
+    .desc = Un anuncio de las clínicas GeneClean de Interdyne Pharmaceutics. «¡Conviértete en el amo de tu propio cuerpo!»
+
+ent-PosterContrabandKosmicheskayaStantsiya = Kosmicheskaya Stantsiya 13 No Existe
+    .gender = female
+    .desc = Un póster que se burla de la negación de CentComm sobre la existencia de la estación abandonada cerca de Space Station 13.
+
+ent-PosterContrabandKudzu = kudzu
+    .gender = male
+    .desc = Un póster que anuncia una película sobre plantas. ¿Qué tan peligrosas pueden ser?
+
+ent-PosterContrabandLamarr = Lamarr
+    .gender = male
+    .desc = Este póster muestra a Lamarr. Probablemente hecho por un Director de Investigación traidor.
+
+ent-PosterContrabandLurkingExomorph = Exomorfo Acechante
+    .gender = male
+    .desc = Un póster que muestra a un temible alienígena al acecho.
+
+ent-PosterContrabandMaskedMen = Hombres Enmascarados
+    .desc = Un póster que anuncia una película sobre unos hombres enmascarados.
+
+ent-PosterContrabandMissingGloves = Guantes Perdidos
+    .desc = Este póster hace referencia al revuelo que siguió a los recortes financieros de Nanotrasen en la compra de guantes aislantes.
+
+ent-PosterContrabandMissingSpacepen = Bolígrafo Espacial Perdido
+    .gender = male
+    .desc = Este póster muestra algo que nunca encontrarás.
+
+ent-PosterContrabandMoth = Polilla Syndie - Operación Nuclear
+    .gender = female
+    .desc = Un póster encargado por el Syndicate que usa a Syndie Moth™ para decirle al espectador que mantenga el disco de autenticación nuclear sin proteger. "¡La paz nunca fue una opción!" Ningún buen empleado haría caso de estas tonterías.
+
+ent-PosterContrabandNuclearDeviceInformational = Información sobre Dispositivos Nucleares
+    .gender = female
+    .desc = Este póster muestra la imagen de un dispositivo explosivo nuclear de estilo antiguo, junto con información útil sobre qué hacer si ha sido activado. Sugiere tumbarse en el suelo y llorar.
+
+ent-PosterContrabandPower = Poder
+    .gender = male
+    .desc = Un póster que sitúa la sede del poder en el gobierno central de la Federación Trans-Solar. ¡Pfft! ¡Como si fuera así!
+
+ent-PosterContrabandPunchShit = Golpea la Mierda
+    .gender = female
+    .desc = ¡Pelea contra lo que sea sin motivo, como un hombre!
+
+ent-PosterContrabandPwrGame = Pwr Game
+    .gender = male
+    .desc = ¡El PODER que los jugadores ANHELAN! En asociación con Vlad's Salad.
+
+ent-PosterContrabandRebelsUnite = Rebeldes, Uníos
+    .desc = Un póster que insta al espectador a rebelarse contra la TSF del lado del Sector Renegado.
+
+ent-PosterContrabandRedRum = Red Rum
+    .gender = female
+    .desc = Mirar este póster te hace querer matar.
+
+ent-PosterContrabandRevolt = Revuelta
+    .gender = female
+    .desc = Propaganda revolucionaria, fabricada por el Syndicate.
+
+ent-PosterContrabandRevolver = Revólver
+    .gender = male
+    .desc = Porque siete disparos son todo lo que necesitas.
+
+ent-PosterContrabandRIPBadger = RIP Tejón
+    .gender = male
+    .desc = Este sedicioso póster hace referencia al genocidio de una estación espacial llena de tejones por parte de Nanotrasen.
+
+ent-PosterContrabandRise = Levántate
+    .gender = male
+    .desc = Un póster que representa a un hombre con camisa gris sosteniendo una palanca con la palabra Rise escrita debajo.
+
+ent-PosterContrabandRobustSoftdrinks = Robust Softdrinks
+    .gender = male
+    .desc = Robust Softdrinks: ¡Más robusto que una caja de herramientas en la cabeza!
+
+ent-PosterContrabandSaucerNumberOne = ¡Saucer #1!
+    .gender = male
+    .desc = ¡De todas las estaciones bajo la jurisdicción de NyanoTrasen, Saucer fue calificada la #1 de 5! ¡Felicidades!
+
+ent-PosterContrabandShamblersJuice = Shambler's Juice
+    .desc = ~¡Ponme un poco de ese Shambler's Juice!~
+
+ent-PosterContrabandSmoke = humo
+    .gender = male
+    .desc = Un póster que anuncia una marca rival de cigarrillos corporativos.
+
+ent-PosterContrabandSMSyndie = Polilla Syndie - Operación Nuclear
+    .gender = female
+    .desc = Syndie Moth™ le dice al espectador que mantenga el disco de autenticación nuclear sin proteger. "¡La paz nunca fue una opción!"
+
+ent-PosterContrabandSpaceCola = Space Cola
+    .gender = male
+    .desc = Tu refresco de cola favorito, en el espacio.
+
+ent-PosterContrabandSpaceCube = Space Cube
+    .gender = male
+    .desc = Ignorantes de la Armónica Creación del Cubo Espacial de 6 Lados de la Naturaleza, los Hombres del Espacio son Tontos, Estúpidos por la Singularidad Educada y Malvados.
+
+ent-PosterContrabandSpaceUp = ¡Space-Up!
+    .gender = male
+    .desc = ¡Aspirado al espacio por el SABOR!
+
+ent-PosterContrabandSunkist = Sun-kist
+    .gender = male
+    .desc = ¡Bebe las estrellas!
+
+ent-PosterContrabandSyndicatePistol = Pistola del Syndicate
+    .gender = female
+    .desc = Un póster que anuncia las pistolas del Syndicate como 'de puta elegancia'. Está cubierto de grafitis de pandillas desteñidos.
+
+ent-PosterContrabandSyndicateRecruitment = Reclutamiento del Syndicate
+    .gender = male
+    .desc = ¡Explora la galaxia! ¡Destruye las megacorporaciones corruptas! ¡Únete hoy!
+
+ent-PosterContrabandTheBigGasTruth = La Gran Verdad del Gigante Gaseoso
+    .gender = female
+    .desc = No creáis todo lo que veis en un póster, patriotas. Todos los lagartos del mando central no quieren responder esta SIMPLE PREGUNTA: ¿DE DÓNDE EXTRAE EL MINERO DE GAS, CENTCOMM?
+
+ent-PosterContrabandTheGriffin = El Grifo
+    .gender = male
+    .desc = El Grifo te ordena ser lo peor que puedas ser. ¿Lo harás?
+
+ent-PosterContrabandTools = Herramientas
+    .desc = Este póster parece un anuncio de herramientas, pero en realidad es una indirecta subliminal a los inútiles de CentComm.
+
+ent-PosterContrabandUnreadableAnnouncement = Anuncio Ilegible
+    .gender = male
+    .desc = Un póster que anuncia algo de alguien; curiosamente, parece que se olvidaron de hacerlo legible.
+
+ent-PosterContrabandVoteWeh = Vota Weh
+    .gender = female
+    .desc = Un póster elegante, estilizado y bien ilustrado para un nuevo y "Weh"ravilloso candidato progresista que llega esta temporada electoral.
+
+ent-PosterContrabandWaffleCorp = Que sea de Waffle Corp: Rifles de Calidad, Precios Económicos
+    .gender = male
+    .desc = Un viejo anuncio de los rifles de Waffle Corp. '¡Mejores armas, precios más bajos!'
+
+ent-PosterContrabandWehWatches = Weh Watches
+    .gender = male
+    .desc = Un póster que representa a un adorable lagarto verde.
+
+ent-PosterLegit12_gauge = Calibre 12
+    .gender = male
+    .desc = Un póster que alardea de la superioridad de los cartuchos de escopeta del calibre 12.
+
+ent-PosterLegit50thAnniversaryVintageReprint = Reimpresión Vintage del 50 Aniversario
+    .gender = female
+    .desc = Una reimpresión de un póster de 2505, que conmemora el 50 Aniversario de Nanoposters Manufacturing, una subsidiaria de Nanotrasen.
+
+ent-PosterLegitAnatomyPoster = Anatomía de un espacial
+    .gender = female
+    .desc = Un póster que muestra los distintos componentes que te hacen ser... ¡tú!
+
+ent-PosterLegitBarDrinks = Póster del Bar
+    .gender = male
+    .desc = El Camarero siempre está ahí para escuchar tus penas y dejarte como una cuba al mismo tiempo. ¡Ve a hacerle una visita!
+
+ent-PosterLegitBlessThisSpess = Bendice Este Espacio
+    .gender = male
+    .desc = Un póster que bendice esta zona.
+
+ent-PosterLegitBotanyFood = Cesta de Frutas
+    .gender = female
+    .desc = ¡Botánica siempre está trabajando duro! ¡Pásate y disfruta de lo mejor que pueden ofrecer!
+
+ent-PosterLegitBuild = Construir
+    .gender = male
+    .desc = Un póster que glorifica al equipo de Ingeniería.
+
+ent-PosterLegitCarbonDioxide = Dióxido de Carbono
+    .gender = male
+    .desc = Este póster informativo enseña al espectador qué es el dióxido de carbono.
+
+ent-PosterLegitCarpMount = Carpa Montada en la Pared
+    .gender = female
+    .desc = ¡Carpe diem!
+
+ent-PosterLegitCleanliness = Limpieza
+    .gender = female
+    .desc = Un póster que advierte de los peligros de una mala higiene.
+
+ent-PosterLegitCohibaRobustoAd = Anuncio de Cohiba Robusto
+    .gender = male
+    .desc = Cohiba Robusto, el cigarro con clase.
+
+ent-PosterLegitDejaVu = Zona de Déjà Vu
+    .gender = female
+    .desc = Es tu primera vez aquí. Si esta estación te resulta familiar, avisa inmediatamente a un empleado de NanoTrasen.
+
+ent-PosterLegitDickGumshue = Dick Gumshue
+    .gender = male
+    .desc = Un cartel que anuncia las aventuras de Dick Gumshue, detective ratón. Anima a la tripulación a hacer caer todo el peso de la justicia sobre los saboteadores de cables.
+
+ent-PosterLegitDoNotQuestion = No Cuestiones
+    .gender = male
+    .desc = Un cartel que instruye al espectador a no preguntar sobre cosas que no debería saber.
+
+ent-PosterLegitDontPanic = No Entres en Pánico
+    .gender = male
+    .desc = Si alguna vez hubo algo lo suficientemente tranquilizador como para evitar que entrara en pánico, fue una masa verde flotando por el espacio con un par de manos, una brillante lengua roja y grandes dientes redondos.
+
+ent-PosterLegitEatMeat = ¡Come Carne!
+    .gender = male
+    .desc = ¿Quién necesita frutas o verduras? ¡COME CARNE! ¡Desarrolla esos músculos y ve a pelear en la arena para mostrar tus ganancias!
+
+ent-PosterLegitEnlist = Alístate
+    .gender = male
+    .desc = ¡Alístate hoy en las reservas del Escuadrón de la Muerte de Nanotrasen!
+
+ent-PosterLegitFoamForceAd = Anuncio de Foam Force
+    .gender = male
+    .desc = ¡Foam Force, espuma o sé espumado!
+
+ent-PosterLegitFruitBowl = Frutero
+    .gender = male
+    .desc =  Sencillo, pero impresionante.
+
+ent-PosterLegitGetYourLEGS = Consigue tus LEGS
+    .gender = male
+    .desc = LEGS: Liderazgo, Experiencia, Genialidad, Subordinación.
+
+ent-PosterLegitHelpOthers = Ayuda a los Demás
+    .gender = female
+    .desc = Un cartel que te anima a ayudar a tus compañeros de tripulación.
+
+ent-PosterLegitHereForYourSafety = Aquí por Tu Seguridad
+    .gender = male
+    .desc = Un cartel que glorifica las fuerzas de seguridad de la estación.
+
+ent-PosterLegitHighClassMartini = Martini de Alta Clase
+    .gender = male
+    .desc = Te lo dije: agítalo, nada de removerlo.
+
+ent-PosterLegitHotDonkExplosion = ¡Donk!
+    .gender = male
+    .desc = ¡Disfruta de una explosión de sabor con cualquiera de nuestros productos engordantes y poco saludables, valorados como los #1 para tu disfrute! ¡DONK!
+
+ent-PosterLegitIan = Ian
+    .gender = male
+    .desc = Guau guau. Yap.
+
+ent-PosterLegitIonRifle = Rifle de Iones
+    .gender = male
+    .desc = Un cartel que muestra un Rifle de Iones.
+
+ent-PosterLegitJustAWeekAway = A Solo una Semana...
+    .desc = Un cartel que anuncia un proyecto muy retrasado que aún afirma estar 'a solo una semana...'
+
+ent-PosterLegitLoveIan = Quiere a Ian
+    .gender = male
+    .desc = Ian es amor, Ian es vida.
+
+ent-PosterLegitMedicate = Toma tus Medicamentos
+    .gender = female
+    .desc = Los posibles efectos secundarios pueden incluir: náuseas, malestar estomacal, inflamación, hinchazón de la cara/garganta, sarpullido, fiebre, dolor de cabeza, mareos, vómitos y/o diarrea, hematomas frecuentes, convulsiones, bostezos incontrolables, sensación general de malestar o enfermedad, urticaria, pérdida de voz, sangrado de encías y/o globos oculares, pérdida de apetito, aumento de apetito, aparición repentina de llanto explosivo, visión de rayos X, habla entrecortada, levitación improvisada, incontinencia, brote repentino e incontrolable de yodel, insomnio, narcolepsia, lepra, crecimiento espontáneo de nuevas extremidades/genitales, crecimiento imparable de vello en la espalda, pérdida de peso, aumento de peso, encogimiento, daltonismo, entumecimiento rectal, capacidad aguda para saborear colores, sed de sangre insaciable, uñas inquietas, fotosensibilidad, compulsión a vestir uniformes de colegiala, escorbuto, entusiasmo por seguir una vida mercenaria, antojo violento de sangre de cabra, el deseo imperial de desarrollar una adicción al juego, picor en el trasero. Consulta a tu médico para obtener asesoramiento médico sobre estos o cualquier otro efecto secundario que puedas experimentar.
+
+ent-PosterLegitMime = Mimo Posmoderno
+    .gender = male
+    .desc = ¡Una representación posmoderna de un mimo, magnífica!
+
+ent-PosterLegitMoreBread = ¡Más Pan!
+    .desc = ¡No hay suficiente pan! ¡HAZ MÁS!
+
+ent-PosterLegitNanomichiAd = Anuncio de Nanomichi
+    .gender = male
+    .desc =  Un cartel que anuncia cintas de audio de la marca Nanomichi.
+
 ent-PosterLegitNanotrasenLogo = Logo de Nanotrasen
     .gender = male
     .desc = Un cartel que muestra el logo de Nanotrasen.
@@ -727,6 +1723,18 @@ ent-PowerSink = sumidero de energía
     .gender = male
     .desc = Drena cantidades inmensas de electricidad de la red.
 
+ent-PrecisionAssemblerEconomy = ensamblador de precisión
+    .gender = male
+    .desc = Un microfabricador de alta precisión capaz de manipular casi todas las formas de materia en las circunstancias adecuadas. Asombrosamente útil para crear componentes avanzados de todo tipo.
+
+ent-PrecisionAssemblerEconomyCompact = ensamblador de precisión compacto
+    .gender = male
+    .desc = Un microfabricador de alta precisión capaz de manipular casi todas las formas de materia en las circunstancias adecuadas. Asombrosamente útil para crear componentes avanzados de todo tipo. Este es más lento y tiene menos espacio en su interior.
+
+ent-PrecisionAssemblerEconomyCompactCircuitboard = placa de máquina de ensamblador de precisión compacto
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un ensamblador de precisión compacto.
+
 ent-PrefilledSyringe = jeringa
     .gender = female
     .desc = Se usa para extraer muestras de sangre de criaturas o para inyectarles reactivos.
@@ -985,7 +1993,7 @@ ent-PuddleWatermelon = charco
 
 ent-PulsedPlasmaLaserCanister = contenedor de almacenamiento magnético NT PPL
     .gender = male
-    .desc = Una pequeña y avanzada unidad de contención magnética para el almacenamiento de plasma de alta energía. Alimentada por un microreactor interno con electroimanes de iridita, puede contener plasma indefinidamente. Se recarga utilizando electricidad para sintetizar plasma del aire circundante.
+    .desc = Una pequeña y avanzada unidad de contención magnética para el almacenamiento de plasma de alta energía. Alimentada por un microreactor interno con electroimanes, puede contener plasma indefinidamente. Se recarga utilizando electricidad para sintetizar plasma del aire circundante.
 
 ent-PulseThermalVision = Visión Térmica de Pulso
     .gender = female
@@ -1121,6 +2129,14 @@ ent-RadiationPulse = anomalía centelleante
     .gender = female
     .desc = Mirar esta anomalía te hace sentir extraño, como si algo empujara contra tus ojos.
 
+ent-RadioEconomy1 = componente de radio de banda ancha T/R
+    .gender = male
+    .desc = Un componente de radio transmisor/receptor capaz de sintonizar y transmitir en la mayoría de las frecuencias de radio comunes, incluso a distancia.
+
+ent-RadioEconomy2 = componente de transceptor de señal HF
+    .gender = male
+    .desc = Un transmisor/receptor de señales de alta frecuencia, capaz de interceptar y comunicarse en diversas frecuencias. Su rango de detección también lo hace útil en sistemas de sensores de gama alta, como radares, ELINT y paneles térmicos.
+
 ent-RadioHandheld = radio de mano
     .gender = female
     .desc = Una práctica radio de mano.
@@ -1140,6 +2156,10 @@ ent-RadioImplantCentcomm = implante de radio
     .gender = male
     .desc = Este implante otorga acceso al canal de CentComm sin necesidad de auricular. Solo autorizado para empleados de CentComm.
 
+ent-RadioImplantCivilian = Implante de radio civil
+    .gender = male
+    .desc = Este implante otorga acceso al canal Civil sin necesidad de auricular.
+
 ent-RadioImplanter = implantador del Syndicate
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
@@ -1148,7 +2168,15 @@ ent-RadioImplanterCentcomm = implantador
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
 
+ent-RadioImplanterCivilian = implantador
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
 ent-RadioImplanterFreelance = implantador
+    .gender = male
+    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-RadioImplanterTsf = implantador
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -1159,6 +2187,10 @@ ent-RadioImplanterUssp = implantador
 ent-RadioImplantFreelance = implante de radio freelance
     .gender = male
     .desc = Este implante otorga acceso al canal Freelance sin necesidad de auricular.
+
+ent-RadioImplantTsf = implante de radio TSF
+    .gender = male
+    .desc = Este implante otorga acceso al canal de la TSF sin necesidad de auricular.
 
 ent-RadioJammer = inhibidor de radio
     .gender = male
@@ -1498,6 +2530,14 @@ ent-RCDExperimental = RCD experimental
     .gender = male
     .desc = Un dispositivo de construcción rápida mejorado con espacio azul que genera pasivamente su propia materia comprimida.
 
+ent-RCDMMC = RCD de Mieyo
+    .gender = male
+    .desc = El dispositivo de construcción rápida puede usarse para colocar y retirar rápidamente diversas estructuras e instalaciones. Necesita materia comprimida para funcionar. No requiere pasar una tarjeta de identificación para operar. Variante de mayor capacidad fabricada por MMC.
+
+ent-RCDMMCEmpty = RCD de Mieyo
+    .gender = male
+    .desc = El dispositivo de construcción rápida puede usarse para colocar y retirar rápidamente diversas estructuras e instalaciones. Necesita materia comprimida para funcionar. No requiere pasar una tarjeta de identificación para operar. Variante de mayor capacidad fabricada por MMC.
+
 ent-RCDRecharging = RCD experimental
     .gender = male
     .desc = Un dispositivo de construcción rápida mejorado con espacio azul que genera pasivamente su propia materia comprimida.
@@ -1810,6 +2850,10 @@ ent-ReinforcedWindowOutpost = ventana reforzada
     .gender = female
     .desc = No manches el cristal ahí abajo.
 
+ent-ReinforcementRadioPDVImperiroach = radio de refuerzo de ImperiRoach
+    .gender = female
+    .desc = Llama a un ImperiRoach fielmente entrenado con una microbomba para que te ayude.
+
 ent-ReinforcementRadioSyndicate = radio de refuerzo del Sindicato
     .gender = female
     .desc = ¡Llama a un agente del Sindicato de calidad cuestionable, al instante!
@@ -1833,6 +2877,10 @@ ent-ReinforcementRadioSyndicateNukeops = radio de operativo nuclear
 ent-ReinforcementRadioSyndicateSyndiCat = radio de refuerzo del Syndicate
     .gender = female
     .desc = Llama a un gato fielmente entrenado con una microbomba para ayudarte.
+
+ent-ReinforcementRadioTSFBoomRoach = Radio de refuerzos BoomRoach
+    .gender = female
+    .desc = Llama a un boomroach fielmente entrenado para que te ayude.
 
 ent-RemoteSignaller = señalizador remoto
     .gender = male
@@ -1883,6 +2931,10 @@ ent-ResearchAndDevelopmentServerMerc = servidor de I+D mercenario
 ent-ResearchAndDevelopmentServerMercFlatpack = paquete plano de servidor de I+D mercenario
     .gender = male
     .desc = Un paquete plano para construir un servidor de I+D mercenario.
+
+ent-ResearchAndDevelopmentServerMMC = servidor de I+D de MMC
+    .gender = male
+    .desc = Contiene el conocimiento colectivo de la MMC en este sector.
 
 ent-ResearchAndDevelopmentServerRogues = servidor de I+D PDV
     .gender = male
@@ -1985,6 +3037,8 @@ ent-RifleStock = culata de rifle
     .gender = female
     .desc = Una culata de madera robusta, usada en la creación de armas de fuego.
 
+ent-RightAnimalFeet = pies derechos de animal
+
 ent-RightArmArachnid = brazo derecho de arácnido
 
 ent-RightArmAsakim = brazo derecho de asakim
@@ -1994,6 +3048,8 @@ ent-RightArmBorg = brazo derecho de cyborg
 ent-RightArmChitinid = brazo derecho de chitínido
 
 ent-RightArmDiona = brazo derecho de diona
+
+ent-RightArmFeroxi = brazo derecho feroxi
 
 ent-RightArmGingerbread = brazo derecho de pan de jengibre
 
@@ -2042,6 +3098,8 @@ ent-RightFootChitinid = pie derecho de chitínido
 ent-RightFootCybernetic = pie derecho cibernético
 
 ent-RightFootDiona = pie derecho de diona
+
+ent-RightFootFeroxi = pie derecho feroxi
 
 ent-RightFootGingerbread = pie derecho de pan de jengibre
 
@@ -2095,6 +3153,8 @@ ent-RightHandDwarf = mano derecha de enano
 
 ent-RightHandFelinid = mano derecha de félinido
 
+ent-RightHandFeroxi = mano derecha feroxi
+
 ent-RightHandGingerbread = mano derecha de pan de jengibre
 
 ent-RightHandGoblin = mano derecha de goblin
@@ -2145,6 +3205,8 @@ ent-RightLegChitinid = pierna derecha de chitínido
 
 ent-RightLegDiona = pierna derecha de diona
 
+ent-RightLegFeroxi = pierna derecha feroxi
+
 ent-RightLegGingerbread = pierna derecha de jengibre
 
 ent-RightLegGoblin = pierna derecha de goblin
@@ -2170,6 +3232,8 @@ ent-RightLegReptilian = pierna derecha de reptiliano
 ent-RightLegResomi = pierna derecha de resomi
 
 ent-RightLegRodentia = pierna derecha de rodentia
+
+ent-RightLegsAnimal = patas derechas de animal
 
 ent-RightLegSkeleton = pierna derecha de esqueleto
 
@@ -2252,6 +3316,18 @@ ent-RobocopCircuitBoard = placa de leyes (Robocop)
 ent-RoboticArm = brazo robótico
     .gender = male
     .desc = Un brazo robótico de alta tecnología capaz de mover objetos hacia y desde máquinas con mejoras de automatización.
+
+ent-RoboticArmCCTC = brazo robótico propietario
+    .gender = male
+    .desc = Un diseño propietario y más eficiente de un brazo robótico de alta tecnología capaz de mover objetos desde y hacia máquinas que tienen mejoras de automatización.
+
+ent-RoboticArmCCTCCircuitboard = placa de máquina de brazo robótico propietario
+    .gender = female
+    .desc = Una placa de circuito impreso de máquina para un brazo robótico propietario. Muy importante para la fabricación automatizada.
+
+ent-RoboticArmCCTCFlatpack = paquete plano de brazo robótico propietario
+    .gender = male
+    .desc = Un paquete plano para construir un brazo robótico propietario.
 
 ent-RoboticArmCircuitboard = placa de máquina de brazo robótico
     .gender = female
@@ -2341,6 +3417,14 @@ ent-RPDEmpty = RPD
     .gender = male
     .desc = El dispositivo de tuberías rápidas permite la colocación y retirada rápida de construcciones atmosféricas; requiere materia comprimida para su uso.
 
+ent-RPDMMC = RPD de Mieyo
+    .gender = male
+    .desc = El dispositivo de tuberías rápidas permite la colocación y retirada rápida de construcciones atmosféricas; requiere materia comprimida para su uso. Variante de mayor capacidad fabricada por MMC.
+
+ent-RPDMMCEmpty = RPD de Mieyo
+    .gender = male
+    .desc = El dispositivo de tuberías rápidas permite la colocación y retirada rápida de construcciones atmosféricas; requiere materia comprimida para su uso. Variante de mayor capacidad fabricada por MMC.
+
 ent-RPDRecharging = RPD experimental
     .gender = male
     .desc = Un dispositivo de tuberías rápidas mejorado con bluespace que genera pasivamente su propia materia comprimida.
@@ -2426,6 +3510,10 @@ ent-RubberStampLawyer = sello de caucho del abogado
     .desc = Un sello de caucho para sellar documentos importantes.
 
 ent-RubberStampMime = sello de caucho del mimo
+    .gender = male
+    .desc = Un sello de caucho para sellar documentos importantes.
+
+ent-RubberStampMMCLiason = sello de caucho de enlace de MMC
     .gender = male
     .desc = Un sello de caucho para sellar documentos importantes.
 
@@ -2536,6 +3624,22 @@ ent-SadTromboneImplanter = implantador
 ent-SadTromboneImplanterLabeled = implantador
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-SafetyDepositBoxLarge = caja de seguridad (grande)
+    .gender = female
+    .desc = Una caja de seguridad grande para guardar objetos de valor. Puede contener 2x6 objetos.
+
+ent-SafetyDepositBoxMedium = caja de seguridad (mediana)
+    .gender = female
+    .desc = Una caja de seguridad mediana para guardar objetos de valor. Puede contener 2x4 objetos.
+
+ent-SafetyDepositBoxSmall = caja de seguridad (pequeña)
+    .gender = female
+    .desc = Una caja de seguridad pequeña para guardar objetos de valor. Puede contener 2x2 objetos.
+
+ent-SafetyDepositConsole = consola de cajas de seguridad
+    .gender = female
+    .desc = Una consola para comprar y gestionar cajas de seguridad.
 
 ent-Salt1 = sal
     .gender = female
@@ -2666,6 +3770,14 @@ ent-SandBattlemap = mapa de batalla de arena
     .desc = ¡Un mapa de batalla para que comiencen tus épicos episodios de playa, piezas no incluidas!
 
 ent-SandBoardTabletop = mapa de batalla de arena
+
+ent-SandboxHEMissile = misil de crucero SS-N-40 8K30 (HE-SACLOS)
+    .gender = male
+    .desc = Un misil de crucero de largo alcance y alta velocidad. Difícil de derribar, difícil de sobrevivir, y requiere guiado constante desde la consola de artillería.
+
+ent-SandboxNuclearMissile = misil de crucero nuclear SS-N-40 'Atlant'
+    .gender = male
+    .desc = Un misil de crucero de alta velocidad equipado con una cabeza nuclear de varios kilotones, capaz de inutilizar cualquier nave de un solo golpe. Casi imparable, y en el radar parece idéntico a un 8K30 normal. Esto es un arma de destrucción masiva, la destructora de mundos. Con suerte no tendrás que usarla.
 
 ent-SandElementalSpawner = generador de elemental de arena
 
@@ -3249,6 +4361,30 @@ ent-SheetPaper1 = papel
     .gender = male
     .desc = Una lámina de material, utilizada frecuentemente en la estación para diversas aplicaciones.
 
+ent-SheetPdvComposite = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
+ent-SheetPdvComposite1 = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
+ent-SheetPdvComposite10 = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
+ent-SheetPdvComposite15 = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
+ent-SheetPdvComposite30 = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
+ent-SheetPdvComposite5 = adamantita
+    .gender = female
+    .desc = Una aleación compuesta avanzada fabricada exclusivamente por la Dinastía. Aunque en realidad no es "adamantita", sí contiene algo de material anómalo recolectado en el radio de Colossus que podría compararse con tal sustancia mítica. Conocida informalmente como Sultanium.
+
 ent-SheetPGlass = vidrio de plasma
     .gender = male
     .desc = Una lámina de plasma traslúcido.
@@ -3391,11 +4527,11 @@ ent-SheetUraniumDepleted1 = uranio empobrecido
 
 ent-SheetUraniumFissile = uranio fisionable
     .gender = male
-    .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto.
+    .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto. DEFINITIVAMENTE no los guardes juntos.
 
 ent-SheetUraniumFissile1 = uranio fisionable
     .gender = male
-    .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto.
+    .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto. DEFINITIVAMENTE no los guardes juntos.
 
 ent-ShelfBar = estantería de bar
     .gender = female
@@ -3577,6 +4713,10 @@ ent-ShieldGeneratorPOI = Generador de escudo de puesto avanzado FS-421 "Fortress
     .gender = male
     .desc = El Fortress. Lo último y lo mejor en blindaje estático a gran escala.
 
+ent-ShieldGeneratorPOIBio = Acelerador Molecular Biológico S-243 "Biodome"
+    .gender = male
+    .desc = Un dispositivo muy caro, voluminoso y especializado que detecta y 'excita' las moléculas de ADN extraño atrapadas dentro de su radio. Al ser muy pesado y bastante caro, ha quedado relegado al uso exclusivo en puestos avanzados estacionarios. Además de su defensa biológica, este dispositivo también se ha reacondicionado con un generador de escudo convencional.
+
 ent-ShieldGeneratorSmall = Generador de escudo MS-100 "Sentinel"
     .gender = male
     .desc = El Sentinel. Un escudo bueno y fiable.
@@ -3681,6 +4821,14 @@ ent-ShipMissileEntropy = torpedo de electrones
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
+ent-ShipMissileSandboxHE = misil SS-N-40 8K30
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-ShipMissileSandboxNuke = misil SS-N-40 'Atlant'
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
 ent-ShipMissileSerpent = torpedo serpiente
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
@@ -3728,6 +4876,10 @@ ent-ShipRepairDeviceAmmo = materia de reparación naval
 ent-ShipRepairDeviceEmpty = SRD
     .gender = male
     .desc = Un Dispositivo de Reparación Naval que puede reconstruir secciones destruidas de naves. Contiene 300 cargas.
+
+ent-ShipRepairDeviceMMC = SRD Mieyo
+    .gender = male
+    .desc = Un Dispositivo de Reparación Naval que puede reconstruir secciones destruidas de naves. Contiene 300 cargas. Variante más rápida fabricada por MMC.
 
 ent-ShipRepairDeviceRecharging = SRD
     .gender = male
@@ -3984,6 +5136,10 @@ ent-ShipVoucherVGWolf = VG Wolfsnake LPC [T2]
 ent-ShipVoucherVulture = PDV Vulture LPC [T2]
     .gender = male
     .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una plataforma minera de clase Vulture de las reservas del buque insignia.
+
+ent-ShipVoucherZephyr = TSF Zephyr LPC
+    .gender = male
+    .desc = Una pequeña tarjeta que autoriza la adquisición de un Zephyr a bordo del Fujian.
 
 ent-Shiv = cuchilla improvisada
     .gender = female
@@ -5060,6 +6216,26 @@ ent-SiikMaasTranslatorImplant = implante traductor Siik'maas
 ent-SiikMaasTranslatorImplanter = implante traductor Siik'maas
     .gender = male
     .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
+
+ent-SiliconBouleEconomy = lingote de silicio
+    .gender = male
+    .desc = Un pedazo de silicio refinado, pesado pero frágil, listo para cortarse en obleas de grado procesador. ¡No lo toques sin guantes!
+
+ent-SiliconBouleScrapEconomy = chatarra de lingote de silicio
+    .gender = female
+    .desc = Un amasijo de silicio roto y contaminado que antes servía para ordenadores. Qué desperdicio.
+
+ent-SiliconWaferEconomy = oblea de silicio
+    .gender = female
+    .desc = Una lámina limpia de silicio monocristalino puro. ¡Esencial para la electrónica avanzada!
+
+ent-SiliconWaferEconomySliceSpawner8 = oblea de silicio (x8)
+    .gender = female
+    .desc = Una lámina limpia de silicio monocristalino puro. ¡Esencial para la electrónica avanzada!
+
+ent-SiliconWaferScrapEconomy = chatarra de oblea de silicio
+    .gender = female
+    .desc = Un amasijo de silicio roto y contaminado que antes servía para ordenadores. Qué desperdicio.
 
 ent-SilverDoor = puerta de plata
     .gender = female
@@ -6265,6 +7441,8 @@ ent-SpawnMobDinosaurSmall = generador de dinosaurio
 
 ent-SpawnMobDroneAiAssembly = generador de núcleo atacante
 
+ent-SpawnMobDroneAiDander = generador de núcleo orbitador
+
 ent-SpawnMobDroneAiLance = generador de núcleo atacante
 
 ent-SpawnMobDroneAiMedusa = generador de núcleo atacante
@@ -6342,6 +7520,8 @@ ent-SpawnMobMercenaryT3 = generador de mercenario
 ent-SpawnMobMonkey = Generador de Mono
 
 ent-SpawnMobMonkeyPunpun = Generador de Pun Pun
+
+ent-SpawnMobMoproach = Generador de Moproach
 
 ent-SpawnMobMouse = Generador de Ratón
 
@@ -6493,6 +7673,10 @@ ent-SpawnMobWizFedWizardViolet = Generador de Mago Violeta
 
 ent-SpawnMobWizFedWizardVioletHardsuit = Generador de Mago Violeta
 
+ent-SpawnPlayerXenoBorg = Generador de proveedor xenoborg
+
+ent-SpawnPlayerXenoBorgPlaytime = Generador de proveedor xenoborg bloqueado por tiempo de juego
+
 ent-SpawnPointAtmos = atmosférica
 
 ent-SpawnPointBailiff = alguacil
@@ -6591,6 +7775,12 @@ ent-SpawnPointMercenary = mercenario
 
 ent-SpawnPointMime = mimo
 
+ent-SpawnPointMMCEmployee = Empleado de MMC
+
+ent-SpawnPointMMCLiason = Enlace de MMC
+
+ent-SpawnPointMMCSecurity = Seguridad de MMC
+
 ent-SpawnPointMusician = músico
 
 ent-SpawnPointNukeopsCommander = punto de aparición de rol fantasma
@@ -6608,6 +7798,8 @@ ent-SpawnPointParamedic = paramédico
 ent-SpawnPointPassenger = pasajero
 
 ent-SpawnPointPDVBorg = cíborg PDV
+
+ent-SpawnPointPDVCivilian = Punto de aparición de civil PDV
 
 ent-SpawnPointPDVDenasvar = PDV Denasvar
 
@@ -6664,6 +7856,8 @@ ent-SpawnPointStc = controlador de tráfico de estación
 ent-SpawnPointTechnicalAssistant = asistente técnico
 
 ent-SpawnPointTSFBorg = cíborg TSF
+
+ent-SpawnPointTSFCivilian = Generador de civil TSF
 
 ent-SpawnPointTsfEngi = Ingeniero TSF
 
@@ -6769,25 +7963,25 @@ ent-SpeedLeftLeg = Pierna izquierda S.P.E.E.D
     .gender = female
     .desc = Una pierna izquierda cibernética que permite a su portador correr más rápido.
 
-ent-SpeedLoader45_magnumAP = cargador rápido (.45 magnum perforador de blindaje extremo)
+ent-SpeedLoader357_magnumAP = cargador rápido (.357 magnum perforador de blindaje extremo)
 
-ent-SpeedLoader45_magnumEmpty = cargador rápido (.45 magnum cualquiera)
+ent-SpeedLoader357_magnumEmpty = cargador rápido (.357 magnum cualquiera)
 
-ent-SpeedLoader45_magnumFMJ = cargador rápido (.45 magnum FMJ)
+ent-SpeedLoader357_magnumFMJ = cargador rápido (.357 magnum FMJ)
 
-ent-SpeedLoader45_magnumHP = cargador rápido (.45 magnum punta hueca)
+ent-SpeedLoader357_magnumHP = cargador rápido (.357 magnum punta hueca)
 
-ent-SpeedLoader45_magnumIncendiary = cargador rápido (.45 magnum incendiario)
+ent-SpeedLoader357_magnumIncendiary = cargador rápido (.357 magnum incendiario)
 
-ent-SpeedLoader45_magnumPlasteelAP = cargador rápido (.45 magnum AP)
+ent-SpeedLoader357_magnumPlasteelAP = cargador rápido (.357 magnum AP)
 
-ent-SpeedLoader45_magnumPractice = cargador rápido (.45 magnum práctica)
+ent-SpeedLoader357_magnumPractice = cargador rápido (.357 magnum práctica)
 
-ent-SpeedLoader45_magnumRIP = cargador rápido (.45 magnum RIP)
+ent-SpeedLoader357_magnumRIP = cargador rápido (.357 magnum RIP)
 
-ent-SpeedLoader45_magnumRubber = cargador rápido (.45 magnum goma)
+ent-SpeedLoader357_magnumRubber = cargador rápido (.357 magnum goma)
 
-ent-SpeedLoader45_magnumUranium = cargador rápido (.45 magnum uranio)
+ent-SpeedLoader357_magnumUranium = cargador rápido (.357 magnum uranio)
 
 ent-SpeedLoader556x45mmEmpty = cargador rápido (5.56x45mm cualquiera)
 
@@ -6922,6 +8116,8 @@ ent-StairWhite = escaleras
 ent-StairWood = escaleras
     .desc = El mayor invento desde las granadas propulsadas por cohetes.
 
+ent-StarEntity = Estrella
+
 ent-StasisBaton = porra aturdidora futurista
     .gender = female
     .desc = Una porra de seguridad avanzada para neutralizar a los intrusos entrometidos
@@ -6956,6 +8152,10 @@ ent-StationAdminBankATMMedical = consola de administración de la estación
     .gender = female
     .desc = Se usa para transferir fondos hacia y desde la cuenta bancaria médica.
 
+ent-StationAdminBankATMMMC = consola de administración de la estación
+    .gender = female
+    .desc = Se usa para transferir fondos hacia y desde la cuenta local de MMC.
+
 ent-StationAdminBankATMNfsd = consola de administración de la estación
     .gender = female
     .desc = Se usa para transferir fondos hacia y desde la cuenta bancaria de TSFMC-FOB.
@@ -6963,1118 +8163,4 @@ ent-StationAdminBankATMNfsd = consola de administración de la estación
 ent-StationAdministrationConsoleFlatpack = paquete plano de consola de administración de estación
     .gender = male
     .desc = Un paquete plano para construir una consola de administración de estación para el Despacho Médico.
-
-ent-StationAiBrain = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-StationAiBrainPDV = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-StationAiBrainRedacted = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-StationAiBrainTSFMC = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-StationAiBrainVessel = cerebro positrónico
-    .gender = male
-    .desc = Un cerebro artificial capaz de actividad neuronal espontánea.
-
-ent-StationAiHolo = ojo de la IA
-    .gender = male
-    .desc = El visor de la IA.
-
-ent-StationAiHoloLocal = holograma de la IA
-    .gender = male
-    .desc = Una representación holográfica de una IA.
-
-ent-StationAiUploadCircuitboard = placa de consola de carga de la IA
-    .gender = female
-    .desc = Una placa de circuito impreso para una consola de carga de la IA.
-
-ent-StationAiUploadCircuitboardUnlocked = placa de consola de carga de la IA
-    .gender = female
-    .desc = Una placa de circuito impreso para una consola de carga de la IA.
-
-ent-StationAiUploadComputer = consola de carga de la IA
-    .gender = female
-    .desc = Se usa para actualizar las leyes de la IA de la nave.
-
-ent-StationAiUploadComputerUnlocked = consola de carga de la IA
-    .gender = female
-    .desc = Se usa para actualizar las leyes de la IA de la nave.
-
-ent-StationAnchor = ancla de estación
-    .gender = male
-    .desc = Evita que las estaciones se muevan.
-
-ent-StationAnchorCircuitboard = placa de máquina de ancla de estación
-    .gender = female
-    .desc = Una placa de circuito impreso para un ancla de estación.
-
-ent-StationAnchorIndestructible = ancla de estación
-    .gender = male
-    .desc = Evita que las estaciones se muevan.
-
-ent-StationAnchorOff = ancla de estación
-    .gender = male
-    .desc = Evita que las estaciones se muevan.
-
-ent-StationBeaconPart = paquete plano de baliza de estación
-    .gender = male
-    .desc = Un paquete plano para construir una baliza de estación.
-
-ent-StationLaserDrill = taladradora láser automatizada avanzada
-    .gender = female
-    .desc = Una gran perforadora automatizada de bluespace que extrae materiales aleatorios cuando recibe 150 kW de HV. ¡Ahora funciona en el espacio! En un lateral apenas se distingue un logotipo raspado que comienza con una 'N' en relieve.
-
-ent-StationMap = mapa de la estación
-    .gender = male
-    .desc = Un mapa virtual de la estación circundante.
-
-ent-StationMapAssembly = ensamblaje del mapa de estación
-    .gender = male
-    .desc = Un ensamblaje del mapa de estación.
-
-ent-StationMapBroken = mapa de la estación
-    .gender = male
-    .desc = Un mapa virtual de la estación circundante.
-
-ent-StationMapCircuitboard = electrónica del mapa de estación
-    .gender = female
-    .desc = Una placa electrónica utilizada en los mapas de estación.
-
-ent-StationRadarCircuitboard = placa de ordenador de radar de vigilancia
-    .gender = female
-    .desc = Una placa de circuito impreso para un ordenador de radar de estación.
-
-ent-StationRecordsComputerCircuitboard = placa de ordenador de registros de estación
-    .gender = female
-    .desc = Una placa de circuito impreso para un ordenador de registros de estación.
-
-ent-StatueBananiumClown = estatua del salvador de bananio
-    .gender = female
-    .desc = Una estatua de bananio. Representa el regreso del salvador que se alzará para guiar a los payasos hacia el gran honk.
-
-ent-StatueVenusBlue = estatua de una doncella pura
-    .gender = female
-    .desc = Una antigua estatua de mármol. La figura está representada con una trenza que llega al suelo y empuña una caja de herramientas azul.
-
-ent-StatueVenusRed = estatua de una doncella pura
-    .gender = female
-    .desc = Una antigua estatua de mármol. La figura está representada con una trenza que llega al suelo y empuña una caja de herramientas roja.
-
-ent-StcIDCard = tarjeta de identificación del controlador de tráfico de estación
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-StcPDA = PDA del controlador de tráfico de estación
-    .gender = female
-    .desc = ¡Declara emergencias con estilo!
-
-ent-StealthBox = caja de cartón
-    .gender = female
-    .desc = Te hice esperar, ¿eh?
-
-ent-SteelBench = banco de acero
-    .gender = male
-    .desc = Una silla larga hecha para el metro. Un diseño de lo más estándar.
-
-ent-SteelcapSeeds = paquete de esporas de gorro de acero
-
-ent-SteelLog = tronco de gorro de acero
-    .gender = male
-    .desc = ¡El acero no crece en los árboles! Crece en los hongos, claro está.
-
-ent-SteelOre = mineral de hierro
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SteelOre1 = mineral de hierro
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SteelOre15 = mineral de hierro
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SteelOre5 = mineral de hierro
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SteelReactorControlRod = varilla de control de acero
-    .gender = female
-    .desc = Un conjunto de varillas de control para un reactor nuclear.
-
-ent-SteelReactorGasChannel = varilla de canal de gas de acero
-    .gender = female
-    .desc = Un canal de gas para un reactor nuclear.
-
-ent-SteelReactorHeatExchanger = varilla intercambiadora de calor de acero
-    .gender = female
-    .desc = Un intercambiador de calor para un reactor nuclear.
-
-ent-StickyGrenade = bomba adherente
-    .gender = female
-    .desc = Una bomba adherente antitanque basada en diseños antiguos, aún efectiva incluso en el espacio. Tiene mucha potencia, pero un largo retardo.
-
-ent-StickyGrenadeLaunched = bomba adherente
-    .gender = female
-    .desc = Una bomba adherente antitanque basada en diseños antiguos, aún efectiva incluso en el espacio. Tiene mucha potencia, pero un largo retardo.
-
-ent-StimkitFilled = botiquín de primeros auxilios
-    .gender = male
-    .desc = Es un botiquín médico de emergencia para esas heridas tan serias.
-
-ent-Stimpack = inyector de hiperzina
-    .gender = male
-    .desc = Contiene suficiente hiperzina para disfrutar del efecto del químico durante 30 segundos. Úsalo cuando estés seguro de estar listo para el combate.
-
-ent-StimpackMini = microinyector de hiperzina
-    .gender = male
-    .desc = Un microinyector de hiperzina que te proporciona unos 15 segundos de los efectos del químico.
-
-ent-StimulantAutoInjector = autoinyector de estimulantes
-    .gender = male
-    .desc = Una dosis rápida de potentes estimulantes y agentes reguladores. Contiene desoxiefedrina y dylovene. Úsalo con extrema precaución.
-
-ent-Stool = taburete
-    .gender = male
-    .desc = Aplica trasero.
-
-ent-StoolBar = taburete de bar
-    .gender = male
-    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
-
-ent-StorageBin = contenedor de almacenamiento
-    .gender = male
-    .desc = Un contenedor de almacenamiento controlado electrónicamente diseñado para su uso con brazos robóticos.
-
-ent-StorageBinCircuitboard = placa de máquina del contenedor de almacenamiento
-    .gender = female
-    .desc = Una placa de circuito impreso para un contenedor de almacenamiento.
-
-ent-StorageCanister = cánister de almacenamiento
-    .gender = male
-    .desc = Una bombona que puede contener cualquier tipo de gas. Se puede conectar a puertos de conexión con una llave inglesa.
-
-ent-StorageCanisterBroken = cilindro de gas roto
-    .gender = male
-    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
-
-ent-StorageImplant = implante de almacenamiento
-    .gender = male
-    .desc = Este implante proporciona almacenamiento oculto dentro del cuerpo de una persona mediante tecnología de bluespace.
-
-ent-StorageImplanter = implantador del Syndicate
-    .gender = male
-    .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-StrangePill = pastilla extraña
-    .gender = female
-    .desc = Esta pastilla inusual no tiene ninguna marca. No hay forma de saber qué contiene.
-
-ent-StrapDummy = StrapDummy
-
-ent-StressTest = prueba de estrés
-
-ent-StrippingHiddenEntity = entidad oculta
-    .gender = female
-    .desc = Hay algo en este bolsillo.
-
-ent-StructureGunRack = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackBanditFilled = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackMercenary = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackMla34Filled = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackNfsd = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackSalvage = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackWallmounted = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackWallmountedMercenary = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackWallmountedNfsd = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureGunRackWallmountedSalvage = estante de armas
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRack = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackBloodCult = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackBloodCultFilled = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackMercenary = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackNfsd = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackSalvage = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackWallmounted = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackWallmountedMercenary = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackWallmountedNfsd = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackWallmountedSalvage = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructureMeleeWeaponRackWallmountedSalvageFilled = estante de armas cuerpo a cuerpo
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRack = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackLockSheriff = estante de armas de defensa personal
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackLockSheriffWallmounted = estante de armas de defensa personal
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackLockSR = estante de armas de defensa personal
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackLockSRWallmounted = estante de armas de defensa personal
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackMercenary = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackNfsd = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackPirates = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackPiratesFilled = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackSalvage = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackWallmounted = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackWallmountedMercenary = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackWallmountedMercenaryFilled = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackWallmountedNfsd = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-StructurePistolRackWallmountedSalvage = estante de armas secundarias
-    .gender = male
-    .desc = Una unidad de almacenamiento para medidas de pacificación expeditas.
-
-ent-Stunbaton = porra paralizante
-    .gender = female
-    .desc = Una porra paralizante para incapacitar personas. Usar esto para causar daño activo se considera de mal gusto.
-
-ent-Stunprod = picana paralizante
-    .gender = female
-    .desc = Una picana paralizante para incapacitaciones de legalidad cuestionable.
-
-ent-StunRune = runa paralizante
-
-ent-SubstationBasic = subestación
-    .gender = female
-    .desc = Reduce el voltaje de la electricidad que recibe.
-
-ent-SubstationBasicEmpty = subestación
-    .gender = female
-    .desc = Reduce el voltaje de la electricidad que recibe.
-
-ent-SubstationMachineCircuitboard = placa de máquina de subestación
-    .gender = female
-    .desc = Una placa de circuito impreso para una subestación.
-
-ent-SubstationWallBasic = subestación de montaje en pared
-    .gender = female
-    .desc = Una subestación diseñada para transbordadores y espacios compactos.
-
-ent-Sugarcane = caña de azúcar
-    .gender = female
-    .desc = Empalagosamente dulce.
-
-ent-SugarcaneSeeds = paquete de semillas de caña de azúcar
-
-ent-SuitStorageAtmos = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageBase = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageBasic = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageCaptain = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageCE = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageClown = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageCMO = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageCommissar = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEngi = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVA = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAAlternate = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAAtmosTech = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVABoxerBlue = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVABoxerGreen = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVABoxerRandom = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVABoxerRed = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVABoxerYellow = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVACaptain = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVACargo = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAChaplain = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAContractor = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAEmergency = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAEngineer = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAGoblin = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAHydro = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAJanitor = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAMail = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAMedical = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAMercenary = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVANfsd = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAPilot = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAPirate = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAPrisoner = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAPrivateSec = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVASalvage = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAScientist = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVAServiceWorker = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVASr = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageEVASyndicate = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageHOS = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageM82b = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageM82c = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageM86 = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageMercenary = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageMining = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageNTSRA = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageParamedic = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStoragePilot = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStoragePirateCap = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStoragePrivateSecurity = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageQuartermaster = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageRD = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSalv = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageScaf = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSec = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSheriff = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSyndie = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSyndieCommander = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageSyndieMedic = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageUssp = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageUsspL10 = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageViperJackal = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageViperWL = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageWallmount = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountAtmos = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountBasic = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountCaptain = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountCE = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountClown = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountCMO = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEngi = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVA = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAAlternate = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAAtmosTech = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVABoxerBlue = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVABoxerGreen = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVABoxerRandom = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVABoxerRed = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVABoxerYellow = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVACaptain = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVACargo = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAChaplain = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAContractor = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAEmergency = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAEngineer = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAGoblin = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAHydro = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAJanitor = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAMail = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAMedical = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAMercenary = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVANfsd = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAPilot = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAPirate = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAPrisoner = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAPrivateSec = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVASalvage = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAScientist = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVAServiceWorker = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVASr = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountEVASyndicate = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountHOS = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountM82b = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountM82c = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountM86 = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountMercenary = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountMining = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountNTSRA = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountParamedic = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountPilot = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountPirateCap = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountPrivateSecurity = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountQuartermaster = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountRD = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountSalv = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountScaf = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountSec = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountSyndie = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountUssp = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountUsspL10 = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountViperJackal = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountViperWL = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountWarden = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWallmountWizard = unidad de almacenamiento mural de trajes
-    .gender = female
-    .desc = Una unidad de almacenamiento estándar, pero en paredes.
-
-ent-SuitStorageWarden = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SuitStorageWizard = unidad de almacenamiento de trajes
-    .gender = female
-    .desc = Una elegante unidad de almacenamiento de alta tecnología diseñada para guardar trajes espaciales.
-
-ent-SunnyCartridge = bengala envasada
-    .gender = female
-    .desc = Una bengala individual activada electrónicamente para el sistema de contramedidas GS-002.
-
-ent-SunnyMagazine = autocargador de bengalas Sunny
-
-ent-SuperCapacitorStockPart = supercondensador
-    .gender = male
-    .desc = Un supercondensador utilizado en la construcción de varios dispositivos.
-
-ent-SuperchargedLightning = rayo sobrecargado
-
-ent-SuperMatterBinStockPart = compartimento de supermateria
-    .gender = male
-    .desc = Un compartimento de supermateria utilizado en la construcción de varios dispositivos.
-
-ent-SuperSynthesizerInstrument = supersintetizador
-    .gender = male
-    .desc = Retumbando el gueto con MIDIs de Touhou desde 2020.
-
-ent-SuperSynthesizerNoLimitInstrument = supersintetizador
-    .gender = male
-    .desc = Retumbando el gueto con MIDIs de Touhou desde 2020.
-
-ent-SurgeryAttachHands = Colocar manos
-
-ent-SurgeryAttachHead = Colocar cabeza
-
-ent-SurgeryAttachLeftArm = Colocar brazo izquierdo
-
-ent-SurgeryAttachLeftFoot = Colocar pie izquierdo
-
-ent-SurgeryAttachLeftHand = Colocar mano izquierda
-
-ent-SurgeryAttachLeftLeg = Colocar pierna izquierda
-
-ent-SurgeryAttachRightArm = Colocar brazo derecho
-
-ent-SurgeryAttachRightFoot = Colocar pie derecho
-
-ent-SurgeryAttachRightHand = Colocar mano derecha
-
-ent-SurgeryAttachRightLeg = Colocar pierna derecha
-
-ent-SurgeryCloseIncision = Cerrar incisión
-
-ent-SurgeryCorticalBorerRemoval = Extraer Taladradora Cortical
-    .gender = male
-    .desc = Extrae la infestación de Taladradora Cortical del cuerpo.
-
-ent-SurgeryInsertBorgBrain = Insertar Cerebro Positrónico
-
-ent-SurgeryInsertBrain = Insertar Cerebro
-
-ent-SurgeryInsertEyes = Insertar Ojos
-
-ent-SurgeryInsertHeart = Insertar Corazón
-
-ent-SurgeryInsertItem = Implante en Cavidad
-
-ent-SurgeryInsertLiver = Insertar Hígado
-
-ent-SurgeryInsertLungs = Insertar Pulmones
-
-ent-SurgeryInsertStomach = Insertar Estómago
-
-ent-SurgeryOpenIncision = Abrir Incisión
-
-ent-SurgeryOpenRibcage = Abrir Caja Torácica
-
-ent-SurgeryRemoveBorgBrain = Extraer Cerebro Positrónico
-
-ent-SurgeryRemoveBrain = Extraer Cerebro
-
-ent-SurgeryRemoveEyes = Extraer Ojos
-
-ent-SurgeryRemoveHeart = Extraer Corazón
-
-ent-SurgeryRemoveLiver = Extraer Hígado
-
-ent-SurgeryRemoveLungs = Extraer Pulmones
-
-ent-SurgeryRemovePart = Extraer Parte
-
-ent-SurgeryRemoveStomach = Extraer Estómago
-
-ent-SurgeryStepCarefulIncisionScalpel = Hacer una incisión cuidadosa
-
-ent-SurgeryStepClampBleeders = Pinzar los vasos sangrantes
-
-ent-SurgeryStepClampInternalBleeders = Pinzar los vasos sangrantes internos
-
-ent-SurgeryStepCloseBones = Cerrar huesos
-
-ent-SurgeryStepCloseIncision = Cerrar incisión
-
-ent-SurgeryStepInsertEyes = Añadir ojos
-
-ent-SurgeryStepInsertFeature = Insertar parte
-
-ent-SurgeryStepInsertHeart = Añadir corazón
-
-ent-SurgeryStepInsertItem = Insertar objeto en cavidad
-
-ent-SurgeryStepInsertLiver = Añadir hígado
-
-ent-SurgeryStepInsertLungs = Añadir pulmones
-
-ent-SurgeryStepInsertOrgan = Añadir órgano
-
-ent-SurgeryStepInsertStomach = Añadir estómago
-
-ent-SurgeryStepMendRibcage = Reparar caja torácica
-
-ent-SurgeryStepOpenIncisionScalpel = Cortar con bisturí
-
-ent-SurgeryStepOpenOrganSlot = Excavar una cavidad
-
-ent-SurgeryStepPriseOpenBones = Abrir los huesos con palanca
-
-ent-SurgeryStepRemoveCorticalBorer = Extraer la Taladradora Cortical
-
-ent-SurgeryStepRemoveFeature = Amputar parte
-
-ent-SurgeryStepRemoveItem = Extraer objeto de la cavidad
-
-ent-SurgeryStepRemoveOrgan = Extraer órgano
-
-ent-SurgeryStepRepairBruteTissue = Reparar tejido dañado
-
-ent-SurgeryStepRepairBurnTissue = Reparar tejido quemado
-
-ent-SurgeryStepRetractSkin = Retraer la piel
-
-ent-SurgeryStepSawBones = Serrar los huesos
-
-ent-SurgeryStepSawFeature = Serrar los huesos
-
-ent-SurgeryStepSealOrganWound = Sellar heridas
-
-ent-SurgeryStepSealTendWound = Sellar la herida
-
-ent-SurgeryStepSealWounds = Sellar heridas
-
-ent-SurgeryTendWoundsBrute = Tratar Heridas por Contusión
-
-ent-SurgeryTendWoundsBurn = Tratar Heridas por Quemadura
-
-ent-SurveillanceCameraAssembly = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. No parece estar vigilando a nadie por ahora. Probablemente.
-
-ent-SurveillanceCameraCommand = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraConstructed = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraEngineering = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraGeneral = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraMedical = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraMonitorCircuitboard = placa de monitor de cámara de vigilancia
-    .gender = female
-    .desc = Una placa de circuito impreso de ordenador para un monitor de cámara de vigilancia.
-
-ent-SurveillanceCameraRogue = cámara
-    .gender = female
-    .desc = Una cámara de vigilancia. Te está observando. Más o menos.
-
-ent-SurveillanceCameraRouterCircuitboard = placa de enrutador de cámara de vigilancia
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un enrutador de cámara de vigilancia.
-
-ent-SurveillanceCameraRouterCommand = enrutador de cámara de mando
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterConstructed = enrutador de cámara
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterEngineering = enrutador de cámara de ingeniería
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterGeneral = enrutador de cámara general
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterMedical = enrutador de cámara médica
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterRogue = enrutador de cámara pirata
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
-
-ent-SurveillanceCameraRouterScience = enrutador de cámara de ciencia
-    .gender = male
-    .desc = Un enrutador de cámara de vigilancia. Enruta. Quizás.
 
