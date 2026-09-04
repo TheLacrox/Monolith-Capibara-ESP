@@ -35,6 +35,14 @@
 - type: Tag
   id: 120mmCartridge
 
+# 140mm
+
+- type: Tag
+  id: Magazine140mm
+
+- type: Tag
+  id: 140mmCartridge
+
 # 220mm
 
 - type: Tag
@@ -82,6 +90,9 @@
 
 - type: Tag
   id: Asm220Torpedo
+
+- type: Tag
+  id: SandboxCruiseMissiles
 
 - type: Tag
   id: LightFighterOrdinance

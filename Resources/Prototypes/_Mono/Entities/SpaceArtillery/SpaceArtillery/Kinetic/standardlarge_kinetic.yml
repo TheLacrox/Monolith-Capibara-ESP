@@ -35,7 +35,8 @@
         layer:
         - MachineLayer
   - type: Gun
-    projectileSpeed: 275
+    damageModifier: 2
+    projectileSpeed: 380
     minAngle: 0
     maxAngle: 1
     fireRate: 0.2
@@ -47,7 +48,9 @@
     availableModes: Burst
     shootThermalSignature: 48000000 # ~7km after firing
     soundGunshot:
-      path: /Audio/_Mono/Weapons/Guns/Gunshots/cannon.ogg
+      path: /Audio/_Mono/Weapons/Guns/Gunshots/heph.ogg
+      params:
+        volume: 1.1
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
   - type: SpaceArtillery
@@ -82,6 +85,38 @@
     repairTime: 30
     repairCost: 150
 
+- type: entity
+  id: WeaponTurretCyrexaHomingCluster
+  name: CYREXA 220mm cannon
+  parent: WeaponTurretCyrexa
+  suffix: Large, T4, Infinite HMNG-CLST
+  components:
+  - type: BallisticAmmoProvider
+    infiniteUnspawned: true
+    whitelist:
+      tags:
+      - 220mmCartridge
+    capacity: 24
+    proto: 220mmCartridgeSmartCluster
+    soundInsert:
+      path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+
+- type: entity
+  id: WeaponTurretCyrexaHECluster
+  name: CYREXA 220mm cannon
+  parent: WeaponTurretCyrexa
+  suffix: Large, T4, Infinite HE-CLST
+  components:
+  - type: BallisticAmmoProvider
+    infiniteUnspawned: true
+    whitelist:
+      tags:
+      - 220mmCartridge
+    capacity: 24
+    proto: 220mmCartridgeHECluster
+    soundInsert:
+      path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+
 # AK820 120mm
 
 - type: entity
@@ -101,7 +136,7 @@
     - state: space_artillery
     - state: fcs-unshaded
       shader: unshaded
-    scale: 2, 2
+    scale: 1, 1
   - type: Appearance
   - type: FireControlRotate
   - type: AmmoCounter
@@ -123,7 +158,7 @@
     projectileSpeed: 360
     minAngle: 0
     maxAngle: 0.5
-    fireRate: 2.5
+    fireRate: 3.5
     recoil: 10
     selectedMode: FullAuto
     availableModes: FullAuto
@@ -161,13 +196,6 @@
     repairTime: 30
     repairCost: 150
 
-- type: soundCollection
-  id: 120mmAutocannonAK820
-  files:
-  - /Audio/_Mono/Weapons/Guns/Gunshots/autocannon_1.ogg
-  - /Audio/_Mono/Weapons/Guns/Gunshots/autocannon_2.ogg
-  - /Audio/_Mono/Weapons/Guns/Gunshots/autocannon_3.ogg
-
 # Bofors 255mm
 
 - type: entity
@@ -204,7 +232,7 @@
         layer:
         - MachineLayer
   - type: Gun
-    projectileSpeed: 350
+    projectileSpeed: 550
     minAngle: 0
     maxAngle: 1
     fireRate: 0.1
@@ -285,7 +313,7 @@
         layer:
         - MachineLayer
   - type: Gun
-    projectileSpeed: 350
+    projectileSpeed: 550
     minAngle: 0
     maxAngle: 0
     fireRate: 0.2
@@ -298,6 +326,8 @@
     shootThermalSignature: 160000000 # now all of china knows you're here (12.6km)
     soundGunshot:
       path: /Audio/_Mono/Weapons/Guns/Gunshots/cannon.ogg
+      params:
+        volume: 1.2
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
   - type: BatterySelfRecharger
@@ -332,13 +362,12 @@
 # R-300 430mm
 
 - type: entity
-  id: WeaponTurretR300
+  id: WeaponTurretR300Base
+  parent: BallisticArtilleryTier5HP
   name: R-300 430mm howitzer
-  parent:
-  - BallisticArtilleryUnanchorableCartridge
-  - BallisticArtilleryTier5HP
   suffix: Capital/Station, T4
   description: A giant, stupid howitzer. A stupid low velocity, a stupid long reload, and a stupidly powerful explosion if you can get it to hit. No AP whatsover.
+  abstract: true
   components:
   - type: StaticPrice
     price: 15000
@@ -348,7 +377,7 @@
     - state: space_artillery
     - state: fcs-unshaded
       shader: unshaded
-    scale: 2, 2
+    scale: 1,1
   - type: Appearance
   - type: FireControlRotate
   - type: AmmoCounter
@@ -375,17 +404,12 @@
     availableModes: SemiAuto
     shootThermalSignature: 160000000
     soundGunshot:
-      path: /Audio/_Mono/Weapons/Guns/Gunshots/cannon.ogg
+      collection: ShipGunMjolnir
+      params:
+        pitch: 0.6
+        volume: 2
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
-  - type: BallisticAmmoProvider
-    whitelist:
-      tags:
-      - R300Shell
-    capacity: 1
-    proto: R300ShellHE
-    soundInsert:
-      path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
   - type: SpaceArtillery
   - type: Actions
   - type: RadarBlip
@@ -406,19 +430,53 @@
     repairTime: 45
     repairCost: 200
 
+- type: entity
+  id: WeaponTurretR300
+  parent:
+  - WeaponTurretR300Base
+  - BallisticArtilleryUnanchorableCartridge
+  suffix: Capital, T4
+  components:
+  - type: BallisticAmmoProvider
+    whitelist:
+      tags:
+      - R300Shell
+    capacity: 1
+    proto: R300ShellHE
+    soundInsert:
+      path: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
+
+- type: entity
+  id: WeaponTurretR300Infinite
+  parent:
+  - WeaponTurretR300Base
+  - BallisticArtilleryUnanchorable
+  suffix: Station, Recharging Ammo
+  components:
+  - type: Battery
+    maxCharge: 40000
+    startingCharge: 40000
+  - type: ExaminableBattery
+  - type: BatterySelfRecharger
+    autoRecharge: true
+    autoRechargeRate: 350
+  - type: ProjectileBatteryAmmoProvider
+    proto: R300BulletHE
+    fireCost: 1500
+
 # Longbow
 
 - type: entity
   id: WeaponTurretLongbow
-  name: L65-"Longbow" 90mm autocannon
+  name: L/65 "Longbow" 140mm autocannon
   parent:
-  - BallisticArtilleryMagazine
-  - BallisticArtilleryTier4HP
-  suffix: Large, T4
-  description: Fires 90mm shells in a 20 round burst from an internal autoloader.
+  - BallisticArtilleryUnanchorableMagazine
+  - BallisticArtilleryTier5HP
+  suffix: Capital/Station, T4
+  description: Fires 140mm shells in a 15 round burst from an internal autoloader.
   components:
   - type: StaticPrice
-    price: 15000
+    price: 30000
   - type: Sprite
     sprite: _Mono/Objects/ShuttleWeapons/longbow.rsi
     layers:
@@ -444,16 +502,18 @@
     projectileSpeed: 290
     minAngle: 0
     maxAngle: 7
-    fireRate: 11
-    recoil: 10 # 2/5x
-    burstCooldown: 8
-    burstFireRate: 11
+    fireRate: 6
+    recoil: 15
+    burstCooldown: 4
+    burstFireRate: 6
     shotsPerBurst: 15
     selectedMode: Burst
     availableModes: Burst
     shootThermalSignature: 48000000 # ~7km after firing
     soundGunshot:
-      path: /Audio/_Mono/Weapons/Guns/Gunshots/120mm_mortar.ogg
+      path: /Audio/_Mono/Weapons/Guns/Gunshots/needler.ogg
+      params:
+        volume: 1.1
     soundEmpty:
       path: /Audio/Weapons/Guns/Empty/lmg_empty.ogg
   - type: SpaceArtillery
@@ -475,18 +535,18 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: 90mmMagazineHE
+        startingItem: Magazine140mm
         insertSound: /Audio/Weapons/Guns/MagIn/hpistol_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/sfrifle_magout.ogg
         priority: 2
         whitelist:
           tags:
-          - Magazine90mm
+          - Magazine140mm
         whitelistFailPopup: gun-magazine-whitelist-fail
   - type: ShipGunType
     shipType: Ballistic
   - type: ShipGunClass
-    shipClass: Heavy
+    shipClass: Superheavy
   - type: ShipRepairable
-    repairTime: 30
-    repairCost: 150
+    repairTime: 45
+    repairCost: 300

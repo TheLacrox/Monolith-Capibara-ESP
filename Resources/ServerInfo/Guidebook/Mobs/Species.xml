@@ -1,7 +1,7 @@
 <Document>
-  # Especies
+  # Species
 
-  Nanotrasen emplea una variedad de especies sapientes.
+  Nanotrasen employs a variety of sapient species.
 
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
@@ -18,25 +18,26 @@
     <GuideEntityEmbed Entity="MobIPCDummy" Caption="I.P.C."/>
   </Box>
 
-  # Especies específicas de Frontier
+  # Frontier specific species
   <Box>
     <GuideEntityEmbed Entity="MobGoblin" Caption="Goblin"/>
   </Box>
-  # Especies específicas de Delta-V
+  # Delta-V specific species
   <Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>
     <GuideEntityEmbed Entity="MobFelinid" Caption="Felinid"/>
     <GuideEntityEmbed Entity="MobHarpy" Caption="Harpy"/>
     <GuideEntityEmbed Entity="MobOni" Caption="Oni"/>
     <GuideEntityEmbed Entity="MobChitinid" Caption="Chitinid"/>
+    <GuideEntityEmbed Entity="MobFeroxi" Caption="Feroxi"/>
   </Box>
 
-  # Especies específicas de Monolith
+  # Monolith specific species
   <Box>
     <GuideEntityEmbed Entity="MobProtogen" Caption="Protogen"/>
   </Box>
 
-  # Especies específicas de Goobstation
+  # Goobstation specific species
   <Box>
     <GuideEntityEmbed Entity="MobTajaran" Caption="Tajaran"/>
     <GuideEntityEmbed Entity="MobYowie" Caption="Yowie"/>

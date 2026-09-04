@@ -1,7 +1,7 @@
 job-description-bailiff = Ensure order at the FOB, watch over your Lieutenant(s), and make sure that all PD imperials are executed for their crimes against the TSF.
 job-description-brigmedic-nf = Fight in the rear of the Colonel's service, for the lives of your comrades! You are the first and last hope of your squad. Hippocrates bless you.
 job-description-cadet-nf = Hunt down PD imperials and protect the FOB. Listen to your supervisors and feel free to ask them for any help.
-job-description-contractor = Fulfill your own goals out in Colossus space.
+job-description-contractor = Fulfill your own goals out in Colossus space by yourself. It's you against the world, baby!
 job-description-deputy = Hunt down PD Imperials and enemies of the TSF, enforce the Colonel's law, and bring order to chaos in the sector.
 job-description-nf-detective = Investigate crime scenes using forensic tools, ensure that the guilty party is found, and have a couple smokes.
 job-description-ertmailcarrier = Nothing stops the mail.
@@ -13,6 +13,8 @@ job-description-pirate = You are a member of an imperial battalion against the T
 job-description-pirate-captain = You are the leader of an imperial battalion against the TSF expansion into the Colossus sector.
 job-description-pirate-first-mate = Handle special orders from the Grand Vizier and watch over those under you.
 job-description-pdv-denasvar = You are a more experienced member of the Vanguard. Lead your peers to victory.
+job-description-pdv-tarkhan = An elite member of the PDV. Rarely deployed to Colossus.
+job-description-tsf-marsoc = An elite member of the TSF's MARSOC. Rarely deployed to Colossus.
 job-description-public-affairs-liaison = Interface with the public, hand out and fill out forms and assist the TSFMC chain of command with administrative tasks.
 job-description-security-guard = "I am the law." Carry out the Overseer's bidding, bring order to chaos, and put down threats to the safety and security of the Sector.
 job-description-senior-officer = Teach new privates the basics of combat, and lead your TSFMC squads to victory against the Dynasty.

@@ -1,11 +1,29 @@
 <Document>
 
-  # Recetas de Economía
+  # Economy Recipes
 
-  Estas combinaciones de materiales, cuando se introducen en sus respectivas máquinas, pueden crear recursos importantes.
+  These combinations of materials, when in their respective machines, can create important resources.
 
-  Recordatorio: los productos químicos pueden estar presentes en cualquier contenedor insertado en la máquina, además de otros recursos.
+  Reminder: Chemicals can be present in any container inserted into the machine in addition to other resources.
 
-  Muchos materiales comunes también pueden contener productos químicos. Estos pueden extraerse mediante una trituradora de reactivos.
+  Many common materials can also contain chemicals. These can be extracted via a reagent grinder.
+
+  [color=yellow]"Unfinished" components universally say what components they need to start construction![/color]
+
+  # Industrial Planner
+
+  An industrial planner can be built at any autolathe or bought at cargo pads. It has a display of the chains for all hand-crafting, such as heavy armor plates.
+
+  <Box>
+    <GuideEntityEmbed Entity="EconomyPlanner" Caption="industrial planner"/>
+  </Box>
+
+  # Arc Furnace
+
+  <GuideMicrowaveGroupEmbed Group="ArcFurnace"/>
+
+  # Precision Assembler
+
+  <GuideMicrowaveGroupEmbed Group="PrecisionAssembler"/>
 
 </Document>

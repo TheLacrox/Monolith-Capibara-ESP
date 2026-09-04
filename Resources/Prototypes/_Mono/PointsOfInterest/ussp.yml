@@ -20,6 +20,13 @@
   addComponents:
   - type: IFF
     color: "#ccaa55"
+  - type: WorldGenDistanceCarver
+    distanceThresholds:
+    # Dead zone
+    - maxDistance: 800
+      prob: 0.0
+    - maxDistance: 1500
+      prob: 0.3
 
 - type: gameMap
   id: USSPCamelot
@@ -53,7 +60,7 @@
             VGLieutenant: [2, 2]
             VGInfanteer: [-1, -1]
             Contractor: [-1, -1]
-            Pilot: [0, -1]
+            #Pilot: [0, -1]
             Mercenary: [0, -1]
           tags:
           - USSPCommand

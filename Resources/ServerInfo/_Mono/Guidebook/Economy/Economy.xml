@@ -1,6 +1,12 @@
 <Document>
 
-  # Economía
+  # Economy
 
-  Todo lo relacionado con la economía.
+  Stuff relating to the economy.
+
+  ## Guidebook Links
+
+  - [textlink="Introduction" link="Basics"]
+
+  - [textlink="Recipes" link="EconomyRecipes"]
 </Document>

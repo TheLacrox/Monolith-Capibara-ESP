@@ -20,6 +20,7 @@
     range: 500
   - type: GunSignalControl
   - type: Gun
+    damageModifier: 0.5
     selectedMode: Burst
     availableModes: Burst
     burstCooldown: 15
@@ -31,7 +32,7 @@
     maxAngle: 6
     shootThermalSignature: 8000000
     soundGunshot:
-      path: /Audio/Weapons/Guns/Gunshots/rocket_launcher.ogg
+      collection: ShipGunGenericMissile
     soundEmpty:
       path: /Audio/Weapons/Guns/EmptyAlarm/smg_empty_alarm.ogg
   - type: Actions
@@ -74,3 +75,22 @@
         - MachineMask
         layer:
         - MachineLayer
+
+- type: entity
+  id: WeaponTurretVanquisherInfinite
+  parent: WeaponTurretVanquisher
+  suffix: Large, T4, Infinite
+  components:
+  - type: ItemSlots
+    slots:
+      gun_magazine:
+        disableEject: true
+        name: Magazine
+        startingItem: VanquisherMagazineInfinite
+        insertSound: /Audio/Weapons/Guns/MagIn/hpistol_magin.ogg
+        ejectSound: /Audio/Weapons/Guns/MagOut/sfrifle_magout.ogg
+        priority: 2
+        whitelist:
+          tags:
+          - VanquisherMagazine
+        whitelistFailPopup: gun-magazine-whitelist-fail
