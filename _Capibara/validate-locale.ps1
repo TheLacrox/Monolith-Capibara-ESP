@@ -15,7 +15,12 @@ function Get-Messages([string]$path) {
         if ($line -match '^([A-Za-z][A-Za-z0-9_-]*)\s*=(.*)$') {
             $current = $Matches[1]; $map[$current] = $Matches[2]
             $depth = $o - $c
-        } elseif ($null -ne $current -and ($line -match '^\s' -or $depth -gt 0) -and $line -notmatch '^\s*$') {
+        } elseif ($null -ne $current -and ($line -match '^[\s{}]' -or $depth -gt 0) -and $line -notmatch '^\s*$') {
+            # Fluent reads an indented line that starts with '[' or '*' as a variant key, not text.
+            # Outside a select expression the engine rejects the whole file at load.
+            if ($depth -eq 0 -and $line -match '^\s+([\[\*])') {
+                $script:errors.Add("$path : '$current' continuation line starts with '$($Matches[1])' (Fluent parse error; put text before it or prefix { `"`" })")
+            }
             $map[$current] += ' ' + $line; $depth += $o - $c
         } elseif ($line -match '^\s*$') {
             $current = $null; $depth = 0
