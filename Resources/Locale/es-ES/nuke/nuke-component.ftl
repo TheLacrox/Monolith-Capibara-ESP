@@ -1,9 +1,9 @@
 nuke-component-cant-anchor-floor = ¡Los pernos de anclaje no logran fijarse al suelo!
 nuke-component-cant-anchor-toggle = ¡Se requiere el disco de autenticación nuclear para activar o desactivar los pernos del suelo!
 nuke-component-announcement-sender = Explosivo de Fisión Nuclear
-nuke-component-announcement-armed = ¡Atención! El mecanismo de autodestrucción de la estación ha sido activado {$location}. {$time} segundos hasta la detonación. Si fue un error, el mecanismo puede ser desactivado aún.
-nuke-component-announcement-unarmed = ¡La autodestrucción de la estación fue desactivada! ¡Que tengas un buen día!
-nuke-component-announcement-send-codes = ¡Atención! Los códigos de autodestrucción han sido enviados a los faxes designados.
+nuke-component-announcement-armed = ¡Atención! Se ha activado un dispositivo de fisión nuclear en ({$x}, {$y}). {$time} segundos hasta la detonación. Si ha sido un error, el mecanismo aún puede desarmarse.
+nuke-component-announcement-unarmed = ¡El dispositivo de fisión nuclear activado ha sido desactivado! ¡Que tengas un buen día!
+nuke-component-announcement-send-codes = ¡Atención! Los códigos del dispositivo de fisión nuclear han sido enviados a los faxes designados.
 nuke-component-doafter-warning = Empiezas a manipular cables y mandos para desarmar la bomba nuclear.. Puede que tarde un poco.
 
 # Interfaz de la bomba nuclear
@@ -30,6 +30,7 @@ nuke-user-interface-second-status-cooldown-time = ESPERA: {$time}
 
 ## Etiquetas de la bomba nuclear
 nuke-label-nanotrasen = NT-{$serial}
+nuke-label-neutral = NFE-{$serial}
 
 # ¿Realmente necesitas esto? Es más gracioso decir que
 # el Syndicate robó una bomba NT

@@ -88,3 +88,6 @@ trait-nanite-repair-drones-desc = Tu chasis cuenta con nanodrones de reparación
 
 trait-hardened-lymphocytes-name = Linfocitos endurecidos
 trait-hardened-lymphocytes-desc = Tu médula ha sido tratada con células madre endurecidas con melanocitos que reducen el daño por exposición a la radiación. Efectivo hasta 1 rad; adecuado para operaciones ligeras de salvamento y minería.
+
+trait-helmsmanship-name = Pericia al timón
+trait-helmsmanship-desc = Los motores y los estabilizadores rugen en armonía bajo tu mando. Las naves bajo tu control giran y aceleran un 10% más rápido.

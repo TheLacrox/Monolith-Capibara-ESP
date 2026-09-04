@@ -18,6 +18,8 @@ command-description-jobs-set =
     Establece el número de plazas para el trabajo indicado.
 command-description-jobs-amount =
     Devuelve el número de plazas para el trabajo indicado.
+command-description-jobs-unlimited =
+    Hace que el trabajo indicado tenga plazas ilimitadas.
 command-description-laws-list =
     Devuelve una lista de todas las entidades vinculadas a leyes.
 command-description-laws-get =

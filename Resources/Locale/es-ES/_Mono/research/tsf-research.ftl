@@ -26,5 +26,8 @@ research-technology-tsfmc-tier-two-vouchers = Producción de Astillero Grado 2
 # T3 TSFMC
 research-technology-tsfmc-tier-three-vouchers = Producción de Astillero Grado 3
 research-technology-tsfmc-super-weapons = Fabricación de Armas de Última Generación
+research-technology-tsfmc-super-ballistics = Modernización de Armas
 research-technology-tsfmc-synthalloy = Ciencia de Materiales Experimental
 research-technology-tsfmc-advanced-module = Desarrollo de Módulos de Cyborg Avanzados TSFMC
+research-technology-tsfmc-sandevistan = Ingeniería Inversa del Sandevistan TSFMC
+research-technology-tsfmc-shunt = Cibernética Clandestina TSFMC

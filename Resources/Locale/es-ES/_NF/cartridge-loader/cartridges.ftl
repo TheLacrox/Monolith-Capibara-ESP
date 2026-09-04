@@ -17,6 +17,7 @@ ledger-tab-Frontier = Puesto colonial
 ledger-tab-Nfsd = TSFMC
 ledger-tab-Medical = Despacho médico
 ledger-tab-BlackMarket = Mercado negro
+ledger-tab-Mieyo = MMC
 # Alternativa; si aparece esto, algo está mal.
 ledger-tab-Unknown = Desconocido
 

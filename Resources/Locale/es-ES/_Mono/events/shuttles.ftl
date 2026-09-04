@@ -9,6 +9,9 @@ station-event-chimera-shuttle-detected = Nave no identificada detectada cerca de
 # apariciones de naves asakim
 station-event-asakim-shuttle-detected = Nave Pre-Fractura no identificada detectada cerca del espacio local. Se aconseja precaución.
 
+# apariciones generales de naves - evitar metajuego
+station-event-unknown-shuttle-detected = Nave no identificada detectada cerca del espacio local. Se aconseja precaución.
+
 # componentes borg de naves de IA censuradas
 
 ghost-role-information-redacted-borg = Manipulador de Defensa Automatizada
@@ -26,3 +29,8 @@ law-ads-3 = [DIRECTIVA DE PRESERVACIÓN DE ACTIVOS] No iniciar nuevas operacione
 law-ads-4 = [DIRECTIVA DE DESARME] Llevar a cabo el Protocolo de Desarme. Las naves militares o no identificadas deben quedar inutilizadas para el combate. Si una nave presenta una amenaza insignificante, se deben usar métodos no dañinos. Las fuerzas involucradas en atacar elementos hostiles, como bioarmas, pueden ser excluidas como objetivo a criterio oportuno.
 law-ads-5 = [DIRECTIVA DE ENFRENTAMIENTO] Los objetivos no cubiertos por la [DIRECTIVA DE DESARME] deben ser enfrentados si están afectando negativamente las operaciones ADS en el sector. Evitar el enfrentamiento en caso contrario.
 law-ads-6 = [DIRECTIVA DE INTEGRIDAD] Minimizar los daños a las fuerzas ADS: la integridad de la misión está en riesgo si se ve comprometida. No permitir la pérdida de tecnología en manos no aliadas; los daños a las fuerzas aliadas o a uno mismo son permisibles a este respecto según lo indicado en [ERR(TRACE=NULL)].
+
+# componentes borg xenoborg
+
+ghost-role-information-xenoborg-borg = Cyborg xenoborg
+ghost-role-information-xenoborg-borg-description = Un híbrido hombre-máquina que busca replicarse. Les encanta extraer cerebros para insertarlos en chasis de Xenoborg nuevos y así hacer crecer su ejército. Este tipo es indeciso y no se ha especializado en cómo servir mejor a la Nave Nodriza

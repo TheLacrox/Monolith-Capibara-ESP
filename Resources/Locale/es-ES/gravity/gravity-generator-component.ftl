@@ -28,3 +28,9 @@ gravity-generator-window-power-label = { $draw } / { $max } W
 
 gravity-generator-window-eta-none = N/A
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+
+## pzn: examinar el límite de masa
+## sí, ya sé que la masa de los transbordadores está en kilogramos, pero shhhhhhh, no se lo digas a nadie
+gravity-generator-examine-max-mass = Está calibrado para mantener en vuelo [color=yellow]{ $mass }[/color] toneladas de transbordador.
+gravity-generator-examine-load = El generador está funcionando al [color={ $color }]{ $percent }%[/color] de su capacidad.
+gravity-generator-examine-load-unlimited = El generador no parece estar en funcionamiento.

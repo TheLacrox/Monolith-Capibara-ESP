@@ -23,6 +23,8 @@ shuttle-console-signature-unknown =
        *[other] Desconocido
     }
 
+shuttle-console-company-unknown = SIN AFILIACIÓN
+
 # Network Port Buttons
 shuttle-console-network-ports = Puertos de Red
 shuttle-console-network-connect-tooltip = ¡Los botones de la consola del transbordador envían una señal al pulsarlos, usa una multiherramienta en la consola y conéctala a un dispositivo!

@@ -15,7 +15,7 @@ assembler-bound-user-interface-cook-time-label = TIEMPO RESTANTE: {$time}
 
 microwave-menu-range-title = Cocina Eléctrica
 
-microwave-menu-range-footer-flavor-left = NT no se hace responsable de los daños causados por incendios en la cocina.
+microwave-menu-range-footer-flavor-left = CC no se hace responsable de los daños causados por incendios en la cocina.
 
 assembler-menu-title = Food-O-Mat
 assembler-menu-medical-title = Ensamblador Médico

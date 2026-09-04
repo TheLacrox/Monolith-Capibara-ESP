@@ -1,7 +1,9 @@
 chat-emote-name-spin = Giro
 chat-emote-name-jump = Salto
+chat-emote-name-flip = Voltereta
 chat-emote-msg-spin = ¡gira!
 chat-emote-msg-jump = ¡salta!
+chat-emote-msg-flip = ¡hace una voltereta!
 
 # Nombres
 chat-emote-name-trill = Trino

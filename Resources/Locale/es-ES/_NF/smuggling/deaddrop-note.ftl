@@ -1,11 +1,16 @@
-dead-drop-hint-note = No hay mucho tiempo.
-    Spinward Syndicate necesita ayuda.
-    Caídas conocidas:
+dead-drop-hint-note =
+    YO...ALGO
+    NECESITO...
+    RECOGER PARA #&^@...
+    INTERCEPTAR PRONTO...
+    HAY...POCAS OPORTUNIDADES...
+    VE... RÁPIDO...
+    ES...VALIOSO
 
     {$drops}
 
-    Comprueba estas para echar una mano.
-    Por un mañana mejor.
+    BUENO... PARA TI
+    ¿VIENES A JUGAR..?
 
 dead-drop-time-known = próxima caída alrededor de {$time}
 dead-drop-time-unknown = próxima caída colocada cuando podamos

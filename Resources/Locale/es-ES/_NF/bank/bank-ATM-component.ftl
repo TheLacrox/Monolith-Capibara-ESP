@@ -12,6 +12,7 @@ bank-atm-menu-deposit-button = Depositar
 bank-atm-reason-label = Para:{" "}
 bank-atm-description-label = Descripción:{" "}
 bank-atm-menu-withdraw-amount = Cantidad a retirar
+bank-atm-menu-untaxed = ¡Sin impuestos!
 
 vending-machine-menu-cash-slot-label = Ranura de efectivo:{" "}
 

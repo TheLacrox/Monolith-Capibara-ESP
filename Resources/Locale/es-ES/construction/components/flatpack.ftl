@@ -1,5 +1,5 @@
 flatpack-unpack-no-room = ¡No hay espacio para desempaquetar!
-flatpack-examine = Usa una [color=yellow]multiherramienta[/color] para desempaquetar esto.
+flatpack-examine = Usa una herramienta capaz de [color=yellow]{$required-quality}[/color] para desempaquetar esto.
 flatpack-entity-name = paquete plano de {$name}
 flatpack-entity-description = Un paquete plano usado para construir {INDEFINITE($name)} {$name}.
 

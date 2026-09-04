@@ -295,6 +295,7 @@ cmd-options-help = Uso: options [tab]
 ui-options-enable-color-name = Añadir colores a los nombres de personajes
 ui-options-colorblind-friendly = Modo para daltónicos
 ui-options-reduced-motion = Reducir movimiento de efectos visuales
+ui-options-disable-nv-noise = Desactivar el efecto de ruido en la superposición de visión nocturna
 ui-options-screen-shake-intensity = Intensidad del temblor de pantalla
 ui-options-chat-window-opacity = Opacidad de la ventana de chat
 ui-options-speech-bubble-text-opacity = Opacidad del texto en burbujas de diálogo

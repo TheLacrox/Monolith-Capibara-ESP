@@ -34,20 +34,20 @@ uplink-security-eg4-desc = Un arma de energía auto-recargable, capaz de dispara
 uplink-security-annie-name = Annie
 uplink-security-annie-desc = Un arma subsónica de 7,62x39 mm, hecha para soportar el peso de operaciones imposibles.
 
-uplink-security-mr8c-name = MR-8C BR
+uplink-security-mr8c-name = QBU-243 Xian BR
 uplink-security-mr8c-desc = Un rifle semiautomático que dispara munición SKR de 8x65 mm, fabricado especialmente para uso MARSOC. Eres un marine con suerte.
 
-uplink-security-mr8b-name = MR-8B LWMMG
-uplink-security-mr8b-desc = Una ametralladora de propósito general (relativamente) ligera y costosa derivada del MR-8C. Compatible con cargadores y cajas de 8x65 mm.
+uplink-security-mr8b-name = QJY-244 LWMMG
+uplink-security-mr8b-desc = Una ametralladora de propósito general ligera y (relativamente) cara derivada del QBU-243. Compatible tanto con cargadores como con cajas de 8x65 mm.
 
 uplink-security-8x65mm-magazine-name = Cargador SKR de 8x65 mm
-uplink-security-8x65mm-magazine-desc = Compatible con el MR-8B y el MR-8C. Contiene 25 proyectiles.
+uplink-security-8x65mm-magazine-desc = Compatible con el QBU-243 y el QJY-244. Contiene 25 proyectiles.
 
 uplink-security-8x65mm-boxmag-name = Cargador de caja SKR de 8x65 mm
-uplink-security-8x65mm-boxmag-desc = Compatible únicamente con el MR-8B. Contiene 75 proyectiles.
+uplink-security-8x65mm-boxmag-desc = Compatible únicamente con el QJY-244. Contiene 75 proyectiles.
 
 uplink-security-8x65mm-box-name = Caja SKR de 8x65 mm
-uplink-security-8x65mm-box-desc = Usada para recargar cargadores/cajas del MR-8C y el MR-8B. Contiene 100 proyectiles.
+uplink-security-8x65mm-box-desc = Usada para recargar cargadores/cajas del QBU-243 y el QJY-244. Contiene 100 proyectiles.
 
 uplink-security-68x52mm-magazine-name = Cargador sin casquillo de 6,8x52 mm
 uplink-security-68x52mm-magazine-desc = Compatible con el Lecter. Contiene 30 proyectiles.
@@ -79,8 +79,8 @@ uplink-exosuit-aurora-desc = Un exotraje prototipo para el futuro de la guerra. 
 uplink-security-ashstorm-name = EM72 Ashstorm
 uplink-security-ashstorm-desc = La TSF-EM72 Ashstorm es una ametralladora ligera de energía dirigida desarrollada por Aetherion Dynamics bajo el contrato de armas TSF 934A.
 
-uplink-security-smilodon-name = DEW-50-C 'Smilodon'
-uplink-security-smilodon-desc = La DEW-50-C Smilodon es una ametralladora ligera de energía dirigida utilizada por el TSF. Devastadora.
+uplink-security-smilodon-name = QBH-50-C Smilodon
+uplink-security-smilodon-desc = La QBH-50-C Smilodon es una ametralladora ligera de energía dirigida utilizada por el TSF. Devastadora.
 
 uplink-security-t0-voucher-name = Bono de nave TSFMC Nivel 0
 uplink-security-t0-voucher-desc = Un bono de un solo uso para cualquier nave pequeña.
@@ -115,11 +115,14 @@ uplink-security-t3-altair-voucher-desc = Una pequeña tarjeta que contiene los d
 uplink-security-t3-polaris-voucher-name = TSFMC Polaris LPC [T3]
 uplink-security-t3-polaris-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata de clase Polaris Type-56D de las reservas del buque insignia.
 
+uplink-security-t3-fujian-voucher-name = TSFMC Fujian LPC [T3]
+uplink-security-t3-fujian-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de un portaaviones de escolta de clase Fujian Type-53C de las reservas del buque insignia.
+
 uplink-security-flyssa-voucher-name = TSFMC Flyssa LPC [T4]
 uplink-security-flyssa-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor de clase Flyssa de las reservas del buque insignia.
 
 uplink-security-sentry-mk290-name = Sistema de torreta desplegable MK-290
-uplink-security-sentry-mk290-desc = Una torreta portátil multiusos, capaz de alimentarse con cargadores de 5,56x45 mm, 6,8x52 mm y 7,62x39 mm. Requiere un destornillador para desmontar una vez colocada.
+uplink-security-sentry-mk290-desc = Una torreta portátil multiusos, capaz de alimentarse con cargadores de 5,56x45 mm, 6,8x52 mm y 7,62x39 mm. Requiere un destornillador para desmontarla una vez colocada. NO incluye munición, y debe vaciarse antes de empaquetarla.
 
 uplink-security-hardsuit-m82b-name = Traje rígido M82b
 uplink-security-hardsuit-m82b-desc = Una variante del M-82c para protección NBQ, habitualmente utilizada por sanitarios.
@@ -129,3 +132,6 @@ uplink-security-hardsuit-m82c-desc = Un sistema de protección básico para ento
 
 uplink-security-pulserifle-name = Rifle de pulso
 uplink-security-pulserifle-desc = Un arma de pulso grande y automática. Celda más grande y alto poder, perfecta para arrasar con grupos de enemigos.
+
+uplink-security-wearable-cameratsf-name = Cámara inalámbrica
+uplink-security-wearable-cameratsf-desc = Cámara usada para vigilar un área de operaciones. Puede llevarse puesta o colocarse en algún sitio.

@@ -35,6 +35,32 @@ ghost-role-information-mouse-description = Un ratón hambriento y travieso.
 ghost-role-information-mothroach-name = Mothroach
 ghost-role-information-mothroach-description = Un mothroach adorable pero travieso.
 
+ghost-role-information-moproach-name = Moproach
+ghost-role-information-moproach-description = Un mothroach adorable con unos zapatos aún más adorables con forma de fregona en las patas.
+
+ghost-role-information-oworoach-name = OwOroach
+ghost-role-information-oworoach-description = Un mothroach muy adorable pero travieso. Personalidad explosiva.
+
+ghost-role-information-imperiroach-name = ImperiRoach
+ghost-role-information-imperiroach-description = Mascota fiel y altamente entrenada de un operativo de la PDV, equipada con una microbomba. ¡Sirve a tu amo hasta la muerte!
+ghost-role-information-imperiroach-rules = Perteneces al [color=red][bold]Equipo PDV[/bold][/color]; colabora con el agente que te invocó.
+
+ghost-role-information-boomroach-name = BoomRoach
+ghost-role-information-boomroach-description = El último avance del Alto Mando de la TSF, o posiblemente un payaso con un bote de pegamento.
+ghost-role-information-boomroach-rules = Perteneces al [color=red][bold]Equipo TSF[/bold][/color]; colabora con el agente que te invocó.
+
+ghost-role-information-mothroachmustard-name = mothroach mostaza
+ghost-role-information-mothroachmustard-description = Un delicioso resultado de los cocineros del mundo cruzando carne con salsa.
+
+ghost-role-information-mothroachleopard-name = mothroach leopardo
+ghost-role-information-mothroachleopard-description = Un encantador resultado de numerosos intentos de cruzar insectos con depredadores.
+
+ghost-role-information-mothroachcecropia-name = mothroach cecropia
+ghost-role-information-mothroachcecropia-description = Un encantador resultado de numerosos intentos de cruzar un género de la familia de las ortigas con cucarachas.
+
+ghost-role-information-mothroachlunar-name = mothroach lunar
+ghost-role-information-mothroachlunar-description = Alguien dejó a la polilla bajo la luz de la luna.
+
 ghost-role-information-snail-name = Caracol
 ghost-role-information-snail-description = Un pequeño caracol al que no le importa un poco de espacio. ¡Mantente en la cuadrícula!
 

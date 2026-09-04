@@ -4,7 +4,7 @@ ame-controller-component-fuel-slot-success-insert = Insertas el frasco en la ran
 
 ## UI
 
-ame-window-title = Unidad de Control de Antimateria
+ame-window-title = Unidad de Control del Reactor de Isótopos
 ame-window-engine-status-label = Estado del Motor:
 ame-window-engine-injection-status-not-injecting-label = Sin inyección
 ame-window-engine-injection-status-injecting-label = Inyectando...

@@ -52,3 +52,15 @@ return { batches: N }
 Re-invoke the Workflow with the same script + `resumeFromRunId` of the prior run; completed
 agents return cached results, only unfinished batches re-run.
 ```
+
+## Upstream sync (key-level, used since 2026-09)
+After `git merge upstream/main` + `pwsh _Capibara/sync-locale.ps1`, do NOT retranslate whole files:
+1. Mirror any en-US file renames/deletes in es-ES first (`git mv` / `git rm`), else the orphan gate
+   trips and the moved file's keys all show as NEW.
+2. Prune the REMOVED ids from es-ES, then map every NEW/CHANGED id to its en-US file and write
+   `_Capibara/sync-tasks.json` (gitignored): an array of batches, each an array of
+   `{ file, new, ids }` (≤120 ids / ≤8 files per batch). `new=true` = no es-ES twin yet.
+3. Run the same Workflow shape as above with `sync-tasks.json`: for `new=true` translate the whole
+   file; for `new=false` the agent reads BOTH files and replaces/inserts ONLY the listed message
+   blocks in the existing es-ES file (everything else, incl. hand fixes, stays byte-identical).
+4. Gates as usual: `validate-locale.ps1` exit 0 → `sync-locale.ps1 -UpdateManifest` → sync reports 0/0/0.

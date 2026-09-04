@@ -17,18 +17,25 @@ armor-plate-gait-walk = velocidad al caminar
 armor-plate-gait-sprint = velocidad al correr
 
 armor-plate-speed-display =
-    { $deltasign ->
-        [-1] Aumenta tu {$gait} en [color=yellow]{$speedPercent}%[/color].
-         [0] No afecta tu velocidad.
-         [1] Reduce tu {$gait} en [color=yellow]{$speedPercent}%[/color].
-        *[other] ¡No debería tener este valor de velocidad!
+    { $stringClause ->
+         [1] Aumenta tu {$gait} en [color=yellow]{$speedPercent}%[/color].
+         [-1] Reduce tu {$gait} en [color=yellow]{$speedPercent}%[/color].
+        *[other] ¡No debería tener esta cláusula de velocidad!
     }
 
 armor-plate-ratios-display =
-    { $deltasign ->
-        [-1] [color=cyan]Absorbe[/color] [color=yellow]{$ratioPercent}%[/color] de [color=yellow]{$dmgType}[/color] y lo toma como [color=yellow]x{$multiplier}[/color] de daño a la durabilidad.
-         [0] No se ve afectada por {$dmgType}
-         [1] [color=fuchsia]Amplifica[/color] [color=yellow]{$dmgType}[/color] en [color=yellow]{$ratioPercent}%[/color] y toma el daño adicional como [color=yellow]x{$multiplier}[/color] de daño a la durabilidad.
-        *[other] ¡{$dmgType} no debería tener este valor de absorción!
+    { $stringClause ->
+        [1] [color=cyan]Absorbe[/color] el [color=yellow]{$ratioPercent}%[/color] de [color=yellow]{$dmgType}[/color]
+        [-1] [color=fuchsia]Amplifica[/color] [color=yellow]{$dmgType}[/color] en un [color=yellow]{$ratioPercent}%[/color]
+        [0] No afecta a [color=yellow]{$dmgType}[/color]
+       *[other] ¡{$dmgType} no debería tener esta cláusula de absorción!
     }
-armor-plate-stamina-value = Inflige [color=yellow]{$multiplier}%[/color] del daño absorbido como daño de resistencia.
+
+armor-plate-multiplier-display = y descuenta el [color=yellow]{$multiplier}%[/color] del valor de daño bruto de la durabilidad.
+armor-plate-multiplier-none = y no daña la placa.
+
+armor-plate-stamina-source-absorb = [color=cyan]Absorbido[/color]
+armor-plate-stamina-concat = y
+armor-plate-stamina-source-amplified = [color=fuchsia]Amplificado[/color]
+armor-plate-stamina-source-raw = [color=red]Entrante Total[/color]
+armor-plate-stamina-value = Inflige el [color=yellow]{$multiplier}%[/color] del daño {$sources} como daño de resistencia.

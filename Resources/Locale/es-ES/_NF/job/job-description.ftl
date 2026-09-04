@@ -1,7 +1,7 @@
 job-description-bailiff = Mantén el orden en el FOB, supervisa a tu(s) Teniente(s) y asegúrate de que todos los imperiales de la DP sean ejecutados por sus crímenes contra la TSF.
 job-description-brigmedic-nf = ¡Lucha en la retaguardia al servicio del Coronel, por las vidas de tus camaradas! Eres la primera y última esperanza de tu escuadrón. Que Hipócrates te bendiga.
 job-description-cadet-nf = Persigue a los imperiales de la DP y protege el FOB. Escucha a tus superiores y no dudes en pedirles ayuda.
-job-description-contractor = Cumple tus propios objetivos en el espacio de Colossus.
+job-description-contractor = Cumple tus propios objetivos por tu cuenta en el espacio de Colossus. ¡Eres tú contra el mundo, colega!
 job-description-deputy = Persigue a los Imperiales de la DP y a los enemigos de la TSF, aplica la ley del Coronel y lleva el orden al caos del sector.
 job-description-nf-detective = Investiga escenas del crimen usando herramientas forenses, asegúrate de que se encuentre al culpable y fúmate un par de cigarrillos.
 job-description-ertmailcarrier = Nada detiene el correo.
@@ -13,6 +13,8 @@ job-description-pirate = Eres miembro de un batallón imperial contra la expansi
 job-description-pirate-captain = Eres el líder de un batallón imperial contra la expansión de la TSF en el sector Colossus.
 job-description-pirate-first-mate = Gestiona las órdenes especiales del Gran Visir y supervisa a quienes están bajo tu mando.
 job-description-pdv-denasvar = Eres un miembro más experimentado de la Vanguardia. Lleva a tus compañeros a la victoria.
+job-description-pdv-tarkhan = Un miembro de élite de la PDV. Rara vez desplegado en Colossus.
+job-description-tsf-marsoc = Un miembro de élite del MARSOC de la TSF. Rara vez desplegado en Colossus.
 job-description-public-affairs-liaison = Interactúa con el público, reparte y rellena formularios y asiste a la cadena de mando de la TSFMC en tareas administrativas.
 job-description-security-guard = "Soy la ley." Lleva a cabo las órdenes del Supervisor, lleva el orden al caos y elimina las amenazas a la seguridad del Sector.
 job-description-senior-officer = Enseña a los nuevos reclutas los fundamentos del combate y lleva a tus escuadrones de la TSFMC a la victoria contra la Dinastía.

@@ -2,6 +2,10 @@
 
 # alert-level-announcement = Attention! Sector alert level is now {$name}! {$announcement}
 alert-level-announcement = ADVERTENCIA. El nivel DEFCON del sector es ahora DEFCON {CAPITALIZE($name)}. {$announcement}
+# Mono
+war-level-announcement-sender = Monitorización Diplomática Internacional
+war-level-announcement-pre = ¡ATENCIÓN! ¡El alto mando de la TSF y de la PDV ha acordado un alto el fuego en los ataques a bases!
+war-level-announcement-post = ¡ATENCIÓN! ¡El alto mando de la TSF y de la PDV ha declarado la guerra total! ¡Se aconseja a los civiles que se mantengan alejados de las bases de las facciones hasta que pase el conflicto!
 
 alert-level-unknown = Desconocido.
 alert-level-unknown-instructions = Desconocido.

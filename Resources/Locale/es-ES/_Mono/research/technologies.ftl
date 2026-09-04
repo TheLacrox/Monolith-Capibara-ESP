@@ -15,7 +15,9 @@ research-technology-advanced-melee-combat-options = Opciones Avanzadas de Combat
 research-technology-mechs-base = Producción de Mecas Base
 research-technology-mechs-combat = Producción de Mecas de Combate
 
-research-technology-basic-economy = Equipo de Procesamiento Portátil
+research-technology-basic-economy = Procesamiento Industrial Básico
 research-technology-uranium-processing-advanced = Procesamiento de Uranio Avanzado
+
+research-technology-processing-advanced = Procesamiento Avanzado de Materiales
 
 research-technology-drones-1 = Investigación de Drones 1

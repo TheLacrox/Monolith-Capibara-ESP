@@ -1,7 +1,7 @@
 ## frecuencias de cámara
-device-frequency-prototype-name-surveillance-camera-imperial = Cámaras de Vigilancia Imperiales
-device-frequency-prototype-name-surveillance-camera-communard = Cámaras de Vigilancia de la Liga Obrera
-device-frequency-prototype-name-surveillance-camera-interdyne = Cámaras de Vigilancia de Interdyne
+device-frequency-prototype-name-surveillance-camera-vanguard = Cámaras de Vigilancia Vanguard
+device-frequency-prototype-name-surveillance-camera-solarian = Cámaras de Vigilancia Solarianas
+device-frequency-prototype-name-surveillance-camera-mieyo = Cámaras de Vigilancia Mieyo
 
 ## control de drones
 device-frequency-prototype-name-drone-control = Control de Drones
