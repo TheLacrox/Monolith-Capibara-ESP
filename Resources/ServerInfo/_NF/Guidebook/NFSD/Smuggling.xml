@@ -1,46 +1,46 @@
 <Document>
 
-  # Smuggling Prevention
+  # Prevención del contrabando
 
-  As a marine in the TSFMC, part of your job is to prevent the smuggling of Phaethon Dynasty supply crates.
+  Como marine de la TSFMC, parte de tu trabajo es impedir el contrabando de cajas de suministros de la Phaethon Dynasty.
 
-  Smugglers use [color=#9ef5ff]dead drops[/color], objects where the Phaethon Dynasty leaves notes with clues to the location of [color=#9c8245]drop pods[/color] filled with supplies.
+  Los contrabandistas usan [color=#9ef5ff]entregas clandestinas[/color], objetos en los que la Phaethon Dynasty deja notas con pistas sobre la ubicación de [color=#9c8245]cápsulas de descenso[/color] llenas de suministros.
 
-  Remember:
-  - These are spread across the seedier points of interest across the sector.
-  - Use any clue you might find lying around.
-  - Ask around to see if the public's seen suspicious activity.
-  - Be on the lookout for strange traffic patterns.
+  Recuerda:
+  - Están repartidas por los puntos de interés más sospechosos del sector.
+  - Usa cualquier pista que encuentres tirada por ahí.
+  - Pregunta si el público ha visto actividad sospechosa.
+  - Está atento a patrones de tráfico extraños.
 
-  As TSFMC marines, part of your job is to prevent smuggling, and to prosecute anyone supporting the Phaethon Dynasty.
+  Como marines de la TSFMC, parte de tu trabajo es impedir el contrabando y perseguir a quien apoye a la Phaethon Dynasty.
 
-  Do not allow the TSF's control of Colossus to waver, doing a poor job counter-smuggling will fund the Phaethon Dynasty Vanguard's insurgency.
+  No permitas que el control de la TSF sobre Colossus flaquee: hacer un mal trabajo contra el contrabando financiará la insurgencia de la Phaethon Dynasty Vanguard.
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure1" Caption="contraband crate"/>
   </Box>
 
-  ## Notifications
+  ## Notificaciones
 
-  When a note is taken from a [color=#9ef5ff]dead drop[/color], a [color=#9C8245]drop pod[/color] is teleported into the sector. This [color=#9C8245]drop pod[/color] contains Phaethon Dynasty supply crates, which the Sultanate is paying civilians to distribute.
+  Cuando se toma una nota de una [color=#9ef5ff]entrega clandestina[/color], una [color=#9C8245]cápsula de descenso[/color] es teletransportada al sector. Esta [color=#9C8245]cápsula de descenso[/color] contiene cajas de suministros de la Phaethon Dynasty, que el Sultanato paga a civiles para que las distribuyan.
 
-  With cutting-edge bluespace technology, [bold]we can get signatures when these notes are taken[/bold], and, with some delay, get [bold]the approximate location of a [color=#9c8245]drop pod[/color][/bold].
+  Gracias a la tecnología bluespace de vanguardia, [bold]podemos obtener las firmas cuando se toman estas notas[/bold] y, con algo de retraso, obtener [bold]la ubicación aproximada de una [color=#9c8245]cápsula de descenso[/color][/bold].
 
-  Due to the nature of bluespace, [bold]these notifications are not completely reliable[/bold], but that is no excuse for laziness. Remain vigilant.
+  Debido a la naturaleza del bluespace, [bold]estas notificaciones no son del todo fiables[/bold], pero eso no es excusa para la desidia. Mantente vigilante.
 
-  ## Forensics
+  ## Forense
 
-  A [color=#5d8c45]contraband forensics module[/color] comes standard in a TSF marine's uplink. [bold]Using these allows you to gather data from dead drops or drop pods and it will be translated into Federation Military Credits.[/bold].
+  Un [color=#5d8c45]módulo forense de contrabando[/color] viene de serie en el uplink de un marine de la TSF. [bold]Usarlo te permite recopilar datos de entregas clandestinas o cápsulas de descenso, y se convertirán en Créditos Militares Federales.[/bold]
 
-  [color=#5d8c45]Scanning[/color] active or previously used [color=#9ef5ff]dead drops[/color], and Phaethon Dynasty [color=#9c8245]drop pods[/color] credits the TSF's bank with credits and rewards the marine with FMC.
+  [color=#5d8c45]Escanear[/color] entregas [color=#9ef5ff]clandestinas[/color] activas o usadas anteriormente, y [color=#9c8245]cápsulas de descenso[/color] de la Phaethon Dynasty, abona créditos al banco de la TSF y recompensa al marine con FMC.
 
-  [bold]If you're first to a [color=#9ef5ff]dead drop[/color], you can intercept the supplies and bring them back to Halcyon for a much bigger reward, so get moving![/bold]
+  [bold]Si eres el primero en llegar a una [color=#9ef5ff]entrega clandestina[/color], puedes interceptar los suministros y llevarlos de vuelta a Halcyon para una recompensa mucho mayor, ¡así que muévete![/bold]
 
   <Box>
     <GuideEntityEmbed Entity="ContrabandForensicsModule" Caption="forensics module"/>
     <GuideEntityEmbed Entity="FederationMilitaryCredit"/>
   </Box>
 
-  [bold]Remember to use any DNA you find to track down and prosecute the smugglers.[/bold] Those supporting the bloody massacre carried out by the Phaethon Dynasty must be brought to justice. 
+  [bold]Recuerda usar cualquier ADN que encuentres para localizar y procesar a los contrabandistas.[/bold] Quienes apoyen la masacre sangrienta perpetrada por la Phaethon Dynasty deben ser llevados ante la justicia.
 
 </Document>

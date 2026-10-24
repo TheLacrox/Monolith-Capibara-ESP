@@ -7,20 +7,18 @@ game-ticker-unknown-role = Desconocido
 game-ticker-delay-start = El inicio de la partida se ha retrasado {$seconds} segundos.
 game-ticker-pause-start = El inicio de la partida ha sido pausado.
 game-ticker-pause-start-resumed = La cuenta atrás del inicio de la partida ha sido reanudada.
-game-ticker-player-join-game-message = ¡Bienvenido a Space Station 14! Si es tu primera vez jugando, asegúrate de leer las reglas del juego y no tengas miedo de pedir ayuda en LOOC (OOC local) u OOC (generalmente disponible solo entre partidas).
-game-ticker-get-info-text = Hola y bienvenido a [color=white]Space Station 14![/color]
+game-ticker-player-join-game-message = ¡Bienvenido a Monolith! Si es tu primera vez jugando, asegúrate de leer las reglas del juego y no tengas miedo de pedir ayuda en LOOC (OOC local) u OOC (generalmente disponible solo entre partidas).
+game-ticker-get-info-text = Hola y bienvenido a [color=white]Monolith![/color]
                             La partida actual es: [color=white]#{$roundId}[/color]
                             El número de jugadores actuales es: [color=white]{$playerCount}[/color]
-                            El mapa actual es: [color=white]{$mapName}[/color]
                             El modo de juego actual es: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-get-info-preround-text = Hola y bienvenido a [color=white]Space Station 14![/color]
+game-ticker-get-info-preround-text = Hola y bienvenido a [color=white]Monolith![/color]
                             La partida actual es: [color=white]#{$roundId}[/color]
                             El número de jugadores actuales es: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
                                 [one] está listo
                                 *[other] están listos
                             })
-                            El mapa actual es: [color=white]{$mapName}[/color]
                             El modo de juego actual es: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
 game-ticker-no-map-selected = [color=yellow]¡Mapa aún no seleccionado![/color]

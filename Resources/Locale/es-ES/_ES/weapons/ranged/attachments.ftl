@@ -10,7 +10,12 @@ es-gun-attachments-slot-name-barrel = cañón
 es-gun-attachments-slot-name-grip = empuñadura
 es-gun-attachments-slot-name-optic = óptica
 
-es-gun-attachments-inspect-modifier-recovery = Afecta a la recuperación del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
-es-gun-attachments-inspect-modifier-recoil = Afecta al aumento del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
-es-gun-attachments-inspect-modifier-minspread = Afecta a la dispersión mínima en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
-es-gun-attachments-inspect-modifier-maxspread = Afecta a la dispersión máxima en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-recovery = - Afecta a la recuperación base del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-recoil = - Afecta al aumento base del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-minspread = - Afecta a la dispersión mínima base en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-maxspread = - Afecta a la dispersión máxima base en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+
+es-gun-attachments-inspect-modifier-recovery-wield = - Afecta a la bonificación al empuñar para la recuperación del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-recoil-wield = - Afecta a la bonificación al empuñar para el aumento del retroceso en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-minspread-wield = - Afecta a la bonificación al empuñar para la dispersión mínima en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].
+es-gun-attachments-inspect-modifier-maxspread-wield = - Afecta a la bonificación al empuñar para la dispersión máxima en [bold][color={$color}]{NATURALFIXED($modifier, 2)}x[/color][/bold].

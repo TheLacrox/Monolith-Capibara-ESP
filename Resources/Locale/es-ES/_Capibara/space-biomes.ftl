@@ -35,4 +35,10 @@ space-biome-BiomeInnerRing-desc = Espacio civilizado. Las constelaciones que se 
 space-biome-BiomeClusterA-name = INSO-357k
 space-biome-BiomeClusterA-desc = Un cementerio estelar de cascarones y rocas a la deriva.
 space-biome-BiomeWilds-name = Cúmulo de Asteroides LINEAR-21
-space-biome-BiomeWilds-desc = Un océano de riquezas de regolito. De vez en cuando, en los sensores tiemblan formas.
+space-biome-BiomeWilds-desc = Un océano de riquezas de regolito. De vez en cuando, en los sensores tiemblan formas.space-biome-CrocusBiomeUnderground-name = Subsuelo de Jianghui
+space-biome-CrocusBiomeJianghuiIndustrial-name = Zona Industrial de Jianghui
+space-biome-CrocusBiomeJianghuiIndustrial-desc = Una zona industrial en las latitudes altas de Crocus.
+space-biome-CrocusBiomeJianghuiCity-name = Afueras de Jianghui
+space-biome-CrocusBiomeJianghuiCity-desc = Infraestructura recién construida, ya evacuada y en ruinas.
+space-biome-CrocusBiomeJianghuiPort-name = Puerto Industrial de Jianghui
+space-biome-CrocusBiomeJianghuiPort-desc = Una de las paradas más importantes de las cadenas de suministro regionales.

@@ -1,33 +1,33 @@
 <Document>
-  # Cargo Hauling
+  # Transporte de carga
 
-One of the ways you can make money in the Colossus Sector is by moving shipments of [color=peru]trading crates[/color].
+Una de las formas de ganar dinero en el sector Colossus es transportar envíos de [color=peru]cajas comerciales[/color].
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureNormal"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure1"/>
   </Box>
 
-You can find these by:
-  * Buying them at [color=peru]cargo request computers[/color] at the [color=darkgreen]Trade Outpost[/color]
-  * Salvaging them from [color=#88b0d1]space wrecks[/color]
-  * Finding [color=#9C8245]Phaethon Dynasty supply crates[/color] to be smuggled (ask around to find out how)
+Puedes conseguirlas:
+  * Comprándolas en los [color=peru]ordenadores de solicitud de carga[/color] del [color=darkgreen]Puesto Comercial[/color]
+  * Recuperándolas de [color=#88b0d1]restos espaciales[/color]
+  * Encontrando [color=#9C8245]cajas de suministros de la Phaethon Dynasty[/color] para contrabandearlas (pregunta por ahí para saber cómo)
 
-Each trading crate will have a destination symbol on the right side of the crate. Examining the crate (Shift+Click) shows the name of the station it should be delivered to.
+Cada caja comercial tendrá un símbolo de destino en el lado derecho. Examinar la caja (Mayús+clic) muestra el nombre de la estación a la que debe entregarse.
 
-Selling a crate at its destination station will result in receiving more money than the crate's worth, while selling it at other stations will result in less.
+Vender una caja en su estación de destino te reportará más dinero que el valor de la caja, mientras que venderla en otras estaciones te reportará menos.
 
-## Express Deliveries
+## Entregas exprés
 
-Some crates are labelled as [color=yellow]express deliveries[/color].  These provide a bonus if delivered [italic]to the destination[/italic] on time.
+Algunas cajas están etiquetadas como [color=yellow]entregas exprés[/color].  Estas dan una bonificación si se entregan [italic]en el destino[/italic] a tiempo.
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureHigh"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure2"/>
   </Box>
 
-To make deliveries in time, make sure to keep your cargo bay organized so the crates for each destination can be removed from the cargo bay in order.
+Para entregar a tiempo, asegúrate de mantener organizada la bodega de carga, de modo que las cajas de cada destino puedan sacarse en orden.
 
-Remember, more hands make light work, so crew up to help deliveries run smoothly!
+Recuerda que muchas manos hacen más ligero el trabajo, así que ¡únete a otros tripulantes para que las entregas vayan sobre ruedas!
 
 </Document>

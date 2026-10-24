@@ -1,16 +1,12 @@
 dead-drop-hint-note =
-    YO...ALGO
-    NECESITO...
-    RECOGER PARA #&^@...
-    INTERCEPTAR PRONTO...
-    HAY...POCAS OPORTUNIDADES...
-    VE... RÁPIDO...
-    ES...VALIOSO
+    La Vanguardia de la Dinastía Phaethon necesita ayuda.
+    Ayúdala en su lucha contra la tiránica y herética Federación.
 
+    Depósitos clandestinos de Phaethon conocidos:
     {$drops}
 
-    BUENO... PARA TI
-    ¿VIENES A JUGAR..?
+    Revísalos para echar una mano, y te pagaremos generosamente.
+    Piedad para con el Sultán.
 
 dead-drop-time-known = próxima caída alrededor de {$time}
 dead-drop-time-unknown = próxima caída colocada cuando podamos

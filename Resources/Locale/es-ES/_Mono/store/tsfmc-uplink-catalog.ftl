@@ -22,6 +22,12 @@ uplink-security-compact-defibrillator-desc = Un desfibrilador portátil diseñad
 uplink-security-cash7500-name = 7.500 créditos
 uplink-security-cash7500-desc = Dinero en efectivo.
 
+uplink-security-cash10000-name = 10.000 créditos
+uplink-security-cash10000-desc = Dinero en efectivo.
+
+uplink-security-cash100000-name = 100.000 créditos
+uplink-security-cash100000-desc = Dinero en efectivo, en grandes cantidades.
+
 uplink-security-thrusterkit-name = Kit de mejora de propulsores
 uplink-security-thrusterkit-desc = Contiene 32 supercondensadores. Perfecto para mejorar ocho propulsores.
 
@@ -106,6 +112,9 @@ uplink-security-t1-aldebaran-voucher-desc = Una pequeña tarjeta que contiene lo
 uplink-security-t2-andromeda-voucher-name = TSFMC Andromeda LPC [T2]
 uplink-security-t2-andromeda-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero de clase Andromeda de las reservas del buque insignia.
 
+uplink-security-t2-cinquedea-voucher-name = TSFMC Cinquedea LPC [T2]
+uplink-security-t2-cinquedea-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de una corbeta de clase Cinquedea de las reservas del buque insignia.
+
 uplink-security-t2-spekter-voucher-name = TSFMC Spekter LPC [T2]
 uplink-security-t2-spekter-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de una corbeta de clase Spekter de las reservas del buque insignia.
 
@@ -135,3 +144,6 @@ uplink-security-pulserifle-desc = Un arma de pulso grande y automática. Celda m
 
 uplink-security-wearable-cameratsf-name = Cámara inalámbrica
 uplink-security-wearable-cameratsf-desc = Cámara usada para vigilar un área de operaciones. Puede llevarse puesta o colocarse en algún sitio.
+
+uplink-HardBomb-TSF-name = Bunker Buster TSF "Hiroshima"
+uplink-HardBomb-TSF-desc = La respuesta de la TSF a no tener suficiente explosión

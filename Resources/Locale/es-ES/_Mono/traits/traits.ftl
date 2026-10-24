@@ -91,3 +91,6 @@ trait-hardened-lymphocytes-desc = Tu médula ha sido tratada con células madre 
 
 trait-helmsmanship-name = Pericia al timón
 trait-helmsmanship-desc = Los motores y los estabilizadores rugen en armonía bajo tu mando. Las naves bajo tu control giran y aceleran un 10% más rápido.
+
+trait-heretic-name = Hereje
+trait-heretic-desc = Has agraviado a la Dinastía Phaethon, o al menos el Sultanato cree que sí. Tienes un 50% de probabilidad de ser marcado para la muerte por el Sultanato y de ser cazado por la PDV como consecuencia.

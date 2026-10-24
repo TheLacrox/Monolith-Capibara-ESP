@@ -1,4 +1,4 @@
-ent-120mmBulletAPHEDS = Proyectil APHEDS de 120mm
+ent-120mmBulletAPHEDS = Proyectil APHEDS de 100x650mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -6,105 +6,105 @@ ent-120mmBulletHE = Proyectil de 120mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-120mmCartridgeAPHEDS = Cartucho APHEDS de 120mm
+ent-120mmCartridgeAPHEDS = Cartucho APHEDS de 100x650mm
     .gender = male
-    .desc = Un proyectil perforante de alta explosividad con sabot desechable de propulsión química para cañones de 120mm.
+    .desc = Un proyectil perforante de alta explosividad con sabot desechable de propulsión química para cañones de 100x650mm.
 
-ent-140mmBulletAPHE = proyectil APHE de 140 mm
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-140mmBulletSACLOS = proyectil SACLOS de 140 mm
+ent-140mmBulletAPHE = Proyectil APHE de 85x680mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-140mmCartridge = cartucho (140 mm HEAT)
-
-ent-140mmCartridgeSACLOS = cartucho (140 mm SACLOS)
-
-ent-150mmApheShell = proyectil APHE de 150 mm
+ent-140mmBulletSACLOS = Proyectil SACLOS de 85x680mm
     .gender = male
-    .desc = Un proyectil APHE de propulsión química para cañones de 150 mm. Servirá.
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-150mmApShell = Proyectil AP de 150mm
+ent-140mmCartridge = cartucho (85x680mm HEAT)
+
+ent-140mmCartridgeSACLOS = cartucho (85x680mm SACLOS)
+
+ent-150mmApheShell = Cartucho APHE de 90x630mm
     .gender = male
-    .desc = Un proyectil AP de propulsión química para cañones de 150mm. No es gran cosa, ya que la mayoría de los cañones de 150mm están optimizados para proyectiles EMP. Es un método rudimentario, y desde luego no pasaría una inspección de la TSFN.
+    .desc = Un cartucho APHE de propulsión química para cañones de 90x630mm. Servirá.
 
-ent-150mmEmpShell = Proyectil EMP de 150mm
+ent-150mmApShell = Cartucho AP de 90x630mm
     .gender = male
-    .desc = Un proyectil EMP de propulsión química, usado en cañones de 150mm como el TARNYX. Nada del otro mundo.
+    .desc = Un cartucho AP de propulsión química para cañones de 90x630mm. No es muy bueno, ya que la mayoría de los cañones de 90x630mm están optimizados para cartuchos EMP. Es un método rudimentario, y desde luego no pasaría una inspección de la TSFN.
 
-ent-20mmBullet = Bala de 20mm
+ent-150mmEmpShell = Cartucho EMP de 90x630mm
+    .gender = male
+    .desc = Un cartucho EMP de propulsión química, usado en cañones de 90x630mm como el TARNYX. Nada del otro mundo.
+
+ent-20mmBullet = Bala de 14x97mm
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-20mmBulletAS = bala de 20 mm (AS)
+ent-20mmBulletAS = Bala de 14x97mm (AS)
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-20mmCartridge = cartucho (20mm sólido)
+ent-20mmCartridge = cartucho (14x97mm sólido)
 
-ent-20mmCartridgeAS = cartucho (20 mm AS)
+ent-20mmCartridgeAS = cartucho (14x97mm AS)
 
-ent-220mmBulletAPHE = Proyectil APHE de 220mm
+ent-220mmBulletAPHE = Proyectil APHE de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-220mmBulletHE = Proyectil HE de 220mm
+ent-220mmBulletHE = Proyectil HE de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-220mmCartridgeAPHE = Cartucho APHE de 220mm
+ent-220mmCartridgeAPHE = Cartucho APHE de 130x820mm
     .gender = male
-    .desc = Un proyectil perforante de alta explosividad de propulsión química para cañones de 220mm.
+    .desc = Un proyectil perforante de alta explosividad de propulsión química para cañones de 130x820mm.
 
-ent-220mmCartridgeHECluster = proyectil HE-CLST de 220 mm
+ent-220mmCartridgeHECluster = Cartucho HE-CLST de 130x820mm
     .gender = male
-    .desc = Un proyectil de racimo de alto explosivo y propulsión química para cañones de 220 mm. Dispara una dispersión de proyectiles explosivos.
+    .desc = Un cartucho de racimo de alta explosividad de propulsión química para cañones de 130x820mm. Dispara una dispersión de proyectiles explosivos.
 
-ent-220mmCartridgeSmartCluster = proyectil HMNG-CLST de 220 mm
+ent-220mmCartridgeSmartCluster = Cartucho HMNG-CLST de 130x820mm
     .gender = male
-    .desc = Un proyectil de racimo autoguiado y propulsión química para cañones de 220 mm. Dispara una dispersión de proyectiles explosivos que buscan objetivos mediante un sistema de rastreo básico.
+    .desc = Un cartucho de racimo guiado de propulsión química para cañones de 130x820mm. Dispara una dispersión de proyectiles explosivos que buscan objetivos con un rastreo básico.
 
-ent-220mmPelletHE = proyectil de racimo HE de 220 mm
+ent-220mmPelletHE = Proyectil de racimo HE de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-220mmPelletHESpread = proyectil de racimo HE de 220 mm
+ent-220mmPelletHESpread = Proyectil de racimo HE de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-220mmPelletSmart = proyectil de racimo HMNG de 220 mm
+ent-220mmPelletSmart = Proyectil de racimo HMNG de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-220mmPelletSmartSpread = proyectil de racimo HMNG de 220 mm
+ent-220mmPelletSmartSpread = Proyectil de racimo HMNG de 130x820mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-255mmBulletAPHE = Proyectil APHE de 255mm
+ent-255mmBulletAPHE = Proyectil APHE de 203x940mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-255mmBulletEMP = Proyectil EMP de 255mm
+ent-255mmBulletEMP = Proyectil EMP de 203x940mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-255mmBulletMinelayer = proyectil minador de 255 mm
+ent-255mmBulletMinelayer = Proyectil lanzaminas de 203x940mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-255mmCartridgeAPHE = Cartucho APHE de 255mm
+ent-255mmCartridgeAPHE = Cartucho APHE de 203x940mm
     .gender = male
-    .desc = Un proyectil perforante de alta explosividad de propulsión química para cañones de 255mm.
+    .desc = Un proyectil perforante de alta explosividad de propulsión química para cañones de 203x940mm.
 
-ent-255mmCartridgeEMP = Cartucho EMP de 255mm
+ent-255mmCartridgeEMP = Cartucho EMP de 203x940mm
     .gender = male
-    .desc = Un proyectil de pulso electromagnético de propulsión química para cañones de 255mm.
+    .desc = Un cartucho de pulso electromagnético de propulsión química para cañones de 203x940mm.
 
-ent-255mmCartridgeMinelayer = proyectil minador de 255 mm
+ent-255mmCartridgeMinelayer = Cartucho lanzaminas de 203x940mm
     .gender = male
-    .desc = Un proyectil de propulsión química para cañones de 255 mm con una espoleta temporizada. Cuando la espoleta se activa transcurrido 1 segundo, expulsa una carga de 4 grandes minas antinave que permanecen activas durante 1 hora.
+    .desc = Un cartucho de propulsión química para cañones de 203x940mm con espoleta temporizada. Cuando la espoleta expira tras 1 segundo, expulsa una carga de 4 minas antibuque grandes que persisten durante 1 hora.
 
 ent-280mmRocket = Cohete "Bazooka" de 280mm
     .gender = male
@@ -125,6 +125,18 @@ ent-30mmCartridgeHE = cartucho (30x173 mm HE)
 ent-35mmBullet = BaseBullet
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-35mmBulletAP = BaseBullet
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-35mmBulletHE = BaseBullet
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-35mmCartridge = cartucho (35x228mm AP)
+
+ent-35mmCartridgeHE = cartucho (35x228mm HE)
 
 ent-40mmGrenadeBaton = Granada de bastón de 40mm
 
@@ -148,11 +160,11 @@ ent-57mmBulletSmart = BaseBullet
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-57mmCartridgeHE = cartucho (57mm HE)
+ent-57mmCartridgeHE = cartucho (40x360mm HE)
 
-ent-57mmCartridgeSACLOS = cartucho (57 mm LG-SACLOS)
+ent-57mmCartridgeSACLOS = cartucho (40x360mm LG-SACLOS)
 
-ent-57mmCartridgeSmart = cartucho (57 mm HMNG)
+ent-57mmCartridgeSmart = cartucho (40x360mm HMNG)
 
 ent-60mmMechShell = Proyectil de 60mm
     .gender = male
@@ -170,37 +182,37 @@ ent-90mmBulletHE = Proyectil
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-90mmBulletMinelayer = proyectil minador de 90 mm
+ent-90mmBulletMinelayer = Proyectil lanzaminas de 57x460mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-90mmCartridgeAP = cartucho (90mm AP)
+ent-90mmCartridgeAP = cartucho (57x460mm AP)
 
-ent-90mmCartridgeFlak = cartucho (90 mm antiaéreo)
+ent-90mmCartridgeFlak = cartucho (57x460mm flak)
 
-ent-90mmCartridgeHE = cartucho (90mm HE)
+ent-90mmCartridgeHE = cartucho (57x460mm HE)
 
-ent-90mmCartridgeMinelayer = cartucho (90 mm minador)
+ent-90mmCartridgeMinelayer = cartucho (57x460mm lanzaminas)
 
-ent-90mmMagazineAP = Cargador de munición AP de 90mm
+ent-90mmMagazineAP = Cargador de munición AP de 57x460mm
     .gender = male
-    .desc = Un cargador de munición con proyectiles perforantes de 90mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 90mm.
+    .desc = Un cargador de munición con proyectiles perforantes de 57x460mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 57x460mm.
 
-ent-90mmMagazineFlak = cargador de munición antiaérea de 90 mm
+ent-90mmMagazineFlak = Cargador de munición flak de 57x460mm
     .gender = male
-    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles antiaéreos de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
+    .desc = Un cargador de munición con proyectiles flak de 57x460mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 57x460mm.
 
-ent-90mmMagazineHE = Cargador de munición HE de 90mm
+ent-90mmMagazineHE = Cargador de munición HE de 57x460mm
     .gender = male
-    .desc = Un cargador de munición con proyectiles de alta explosividad de 90mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 90mm.
+    .desc = Un cargador de munición con proyectiles de alta explosividad de 57x460mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 57x460mm.
 
-ent-90mmMagazineMinelayer = cargador de munición minadora de 90 mm
+ent-90mmMagazineMinelayer = Cargador de munición lanzaminas de 57x460mm
     .gender = male
-    .desc = Un cargador de munición que contiene 400 proyectiles minadores de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
+    .desc = Un cargador de munición con 400 proyectiles lanzaminas de 57x460mm. Compatible con piezas de artillería montadas en embarcaciones de 57x460mm.
 
-ent-90mmMagazineMinelayerInfinite = cargador de munición minadora de 90 mm
+ent-90mmMagazineMinelayerInfinite = Cargador de munición lanzaminas de 57x460mm
     .gender = male
-    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles minadores de 90 mm. Compatible con piezas de artillería de 90 mm montadas en naves.
+    .desc = Un cargador de munición con proyectiles lanzaminas de 57x460mm ilimitados. Compatible con piezas de artillería montadas en embarcaciones de 57x460mm.
 
 ent-AberrantFleshDigestiveSack = saco de asimilación
     .gender = male
@@ -1776,6 +1788,14 @@ ent-AirlockGlassXeno = esclusa de exodermis de resina
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
+ent-AirlockGodfather = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockGodfatherGlass = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
 ent-AirlockHatch = escotilla hermética
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
@@ -1912,6 +1932,10 @@ ent-AirlockHeavyGlass = esclusa de cristal de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
+ent-AirlockHeavyGodfatherLocked = esclusa de servicio pesado
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
+
 ent-AirlockHeavyGrandVizierLocked = esclusa de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
@@ -1969,6 +1993,10 @@ ent-AirlockHeavyTSFMCArmoryLocked = esclusa de servicio pesado
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
 ent-AirlockHeavyTSFMCLocked = esclusa de servicio pesado
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
+
+ent-AirlockHeavyUndergroundLocked = esclusa de servicio pesado
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste. Un modelo más blindado y avanzado, para uso en aplicaciones industriales pesadas y militares. Apertura más rápida y suave, mayor resistencia y más letal al aplastar.
 
@@ -2534,6 +2562,10 @@ ent-AirlockShuttleSyndicateRogueLockedCapital = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
 
+ent-AirlockShuttleUnderground = esclusa exterior
+    .gender = female
+    .desc = Necesaria para conectar dos naves espaciales.
+
 ent-AirlockShuttleUSSPOutpostLocked = esclusa exterior
     .gender = female
     .desc = Necesaria para conectar dos naves espaciales.
@@ -2583,6 +2615,14 @@ ent-AirlockTsfEngineering = esclusa
     .desc = Se abre, se cierra y quizás te aplaste.
 
 ent-AirlockTsfEngineeringGlass = esclusa de cristal
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockUnderground = esclusa
+    .gender = female
+    .desc = Se abre, se cierra y quizás te aplaste.
+
+ent-AirlockUndergroundGlass = esclusa de cristal
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
@@ -2710,7 +2750,7 @@ ent-AITimedSpawner = Generador Temporizado de IA
 
 ent-AK570Flatpack = paquete plano AK570
     .gender = male
-    .desc = Un paquete plano para construir un autocañón AK570 de 57mm.
+    .desc = Un paquete plano usado para construir un autocañón AK570 de 40x360mm.
 
 ent-AlertsComputerCircuitboard = placa del ordenador de alertas atmosféricas
     .gender = female
@@ -2895,6 +2935,8 @@ ent-AmeShielding = blindaje IRE
 ent-AmmoBox10Phz = caja de munición (DEW 10Phz)
 
 ent-AmmoBox12_gaugeBeanbag = caja de cartuchos de escopeta (calibre 12, saco de arena)
+
+ent-AmmoBox12_gaugeBlank = caja de cartuchos de escopeta (calibre 12 de fogueo)
 
 ent-AmmoBox12_gaugeBuckshot = caja de cartuchos de escopeta (calibre 12, perdigones)
 
@@ -4052,11 +4094,11 @@ ent-AutomationFilterStack = filtro de pila
     .gender = male
     .desc = Un filtro que se puede instalar en máquinas de fábrica. Este pesa los objetos para compararlos con el tamaño de una pila.
 
-ent-AutosurgeonAdvHeartMMC = autocirujano MMC (corazón de repuesto EVT-001)
+ent-AutosurgeonAdvHeartMMC = autocirujano MMC (EVT-001 Sakimoto)
     .gender = male
     .desc = Reemplaza el corazón por uno más extraño. Se desconoce cómo exactamente, pero permite al usuario canalizar una forma de energía latente en un único golpe.
 
-ent-AutosurgeonAdvHeartMMCFlatpack = paquete plano de autocirujano MMC (corazón de repuesto EVT-001)
+ent-AutosurgeonAdvHeartMMCFlatpack = paquete plano de autocirujano MMC (EVT-001 Sakimoto)
     .gender = male
     .desc = Un paquete plano para construir un autocirujano de MMC.
 
@@ -4128,11 +4170,11 @@ ent-AutosurgeonSandevistan = autocirujano del Syndicate (sandevistan)
     .gender = male
     .desc = Un autocirujano de un solo uso para sustituir o mejorar tus partes con implantes cibernéticos. Destroza esa estación y hazla parte de ti.
 
-ent-AutosurgeonSandevistanMieyo = autocirujano MMC (sandevistan)
+ent-AutosurgeonSandevistanMieyo = autocirujano MMC (EVT-002 Lotus)
     .gender = male
-    .desc = Reemplaza el corazón por un Sandevistan MMC.
+    .desc = Reemplaza el corazón por uno más extraño. Es una bolsa estéril llena de una serie de autoinyectores, enlaces electroneurales/cardiovasculares y termomáquinas diseñados para que el usuario se exija al límite.
 
-ent-AutosurgeonSandevistanMieyoFlatpack = paquete plano de autocirujano MMC (sandevistan)
+ent-AutosurgeonSandevistanMieyoFlatpack = paquete plano de autocirujano MMC (EVT-002 Lotus)
     .gender = male
     .desc = Un paquete plano para construir un autocirujano de MMC.
 
@@ -4254,10 +4296,6 @@ ent-BalloonSyn = globo syndie
     .gender = male
     .desc = Entregado a las almas más valientes que sobrevivieron a la atracción «torbellino atómico» en Syndieland.
 
-ent-BalorCarrierComputer = consola del astillero Balor
-    .gender = female
-    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
-
 ent-BananaPhoneInstrument = teléfono plátano
     .gender = male
     .desc = Una línea directa con la Honkmadre. Parece que siempre salta el buzón de voz.
@@ -4320,9 +4358,9 @@ ent-BannerMedical = pancarta médica
     .gender = female
     .desc = Una pancarta que muestra los colores del departamento Médico. Qué estéril.
 
-ent-BannerNanotrasen = pancarta Nanotrasen
+ent-BannerNanotrasen = pancarta misteriosa
     .gender = female
-    .desc = Una pancarta que muestra el logotipo de Nanotrasen. Parece bastante barata.
+    .desc = Una N blanca sobre fondo azul. Tiene un aspecto bastante barato y no ha envejecido bien. Debe de ser algún símbolo olvidado del pasado.
 
 ent-BannerNfsd = pancarta TSFMC
     .gender = female
@@ -4352,9 +4390,9 @@ ent-BannerSHM = pancarta SHM
     .gender = female
     .desc = Un estandarte que representa fielmente la iconografía de Steel Hammer Manufacturing Inc.
 
-ent-BannerSyndicate = estandarte del Syndicate
-    .gender = male
-    .desc = Un estandarte del que, según el Syndicate, deberías sentir odio por NT.
+ent-BannerSyndicate = pancarta del sultán
+    .gender = female
+    .desc = Una imponente S bordada sobre un fondo rojo oscuro. Tienes la sensación de que te falta algún contexto importante. "Piedad hacia el Sultán."
 
 ent-BannerYellow = estandarte amarillo
     .gender = male
@@ -4678,6 +4716,14 @@ ent-BaseSecurityUplinkRadioOfficer = enlace TSFMC
 ent-BaseSecurityUplinkRadioSheriff = enlace TSFMC
     .gender = male
     .desc = Radio antigua de aspecto retro...
+
+ent-BaseSignalFlare = bengala de señales
+    .gender = female
+    .desc = Una bengala que produce una luz muy brillante y una señal IFF durante un breve periodo, usada para comunicaciones en situaciones de alta intensidad.
+
+ent-BaseSignalFlareActivated = bengala de señales
+    .gender = female
+    .desc = Una bengala que produce una luz muy brillante y una señal IFF durante un breve periodo, usada para comunicaciones en situaciones de alta intensidad.
 
 ent-BaseSubstationWall = subestación de montaje en pared
     .gender = female
@@ -5071,6 +5117,16 @@ ent-BiomeSourceClusterA = fuente de bioma INSO-357k
 
 ent-BiomeSourceFallback = fuente de bioma de reserva
 
+ent-BiomeSourceFallbackCrocus = fuente de bioma de respaldo de crocus
+
+ent-BiomeSourceFallbackCrocusUnderground = fuente de bioma de respaldo subterráneo de crocus
+
+ent-BiomeSourceFallbackJianghuiCity = fuente de bioma de la ciudad de crocus jianghui
+
+ent-BiomeSourceFallbackJianghuiIndustrial = fuente de bioma industrial de crocus jianghui
+
+ent-BiomeSourceFallbackJianghuiPort = fuente de bioma del puerto de crocus jianghui
+
 ent-BiomeSourceFarReachesI = fuente de bioma de confines lejanos I
 
 ent-BiomeSourceFarReachesII = fuente de bioma de confines lejanos II
@@ -5234,6 +5290,10 @@ ent-BlastDoorExterior3 = puerta blindada
     .desc = Esta pone 'BLAST DONGER'.
 
 ent-BlastDoorExterior3Open = puerta blindada
+    .gender = female
+    .desc = Esta pone 'BLAST DONGER'.
+
+ent-BlastDoorExteriorIndestructibleOpen = puerta blindada
     .gender = female
     .desc = Esta pone 'BLAST DONGER'.
 
@@ -5406,10 +5466,6 @@ ent-BlueprintLithographFlatpack = paquete plano del litógrafo de planos
 ent-BlueprintLithographMachineCircuitboard = placa de máquina del litógrafo de planos
     .gender = female
     .desc = Una placa de circuito impreso de máquina para un litógrafo de planos.
-
-ent-BlueprintMotleyAnneFighters = plano del caza de Motley Anne
-    .gender = male
-    .desc = Un plano con los esquemas de cada uno de los cazas teledirigidos de la Motley Anne.
 
 ent-BlueprintSeismicCharge = plano de la carga sísmica
     .gender = male
@@ -6204,29 +6260,29 @@ ent-BowImprovised = arco
     .gender = male
     .desc = El original apunta y dispara de toda la vida.
 
-ent-Box220mmAPHE = caja de munición APHE de 220 mm
+ent-Box220mmAPHE = Caja de munición APHE de 130x820mm
     .gender = female
-    .desc = Una caja grande que contiene 24 proyectiles APHE de 220 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 24 proyectiles APHE de 130x820mm. Compatible con piezas de artillería montadas en embarcaciones.
 
-ent-Box220mmHECluster = caja de munición HE-CLST de 220 mm
+ent-Box220mmHECluster = Caja de munición HE-CLST de 130x820mm
     .gender = female
-    .desc = Una caja grande que contiene 24 proyectiles de racimo de alto explosivo de 220 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 24 proyectiles de racimo de alta explosividad de 130x820mm. Compatible con piezas de artillería montadas en embarcaciones.
 
-ent-Box220mmSmartCluster = caja de munición HMNG-CLST de 220 mm
+ent-Box220mmSmartCluster = Caja de munición HMNG-CLST de 130x820mm
     .gender = female
-    .desc = Una caja grande que contiene 24 proyectiles de racimo autoguiados de 220 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 24 proyectiles de racimo guiados de 130x820mm. Compatible con piezas de artillería montadas en embarcaciones.
 
-ent-Box255mmAPHE = caja de munición APHE de 255 mm
+ent-Box255mmAPHE = Caja de munición APHE de 203x940mm
     .gender = female
-    .desc = Una caja grande que contiene 16 proyectiles APHE de 255 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 16 proyectiles APHE de 203x940mm. Compatible con piezas de artillería montadas en embarcaciones.
 
-ent-Box255mmEMP = caja de munición EMP de 255 mm
+ent-Box255mmEMP = Caja de munición EMP de 203x940mm
     .gender = female
-    .desc = Una caja grande que contiene 16 proyectiles EMP de 255 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 16 proyectiles EMP de 203x940mm. Compatible con piezas de artillería montadas en embarcaciones.
 
-ent-Box255mmMine = caja de munición minadora de 255 mm
+ent-Box255mmMine = Caja de munición lanzaminas de 203x940mm
     .gender = female
-    .desc = Una caja grande que contiene 16 proyectiles minadores de 255 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Una caja grande con 16 proyectiles lanzaminas de 203x940mm. Compatible con piezas de artillería montadas en embarcaciones.
 
 ent-BoxAgrichem = kit NT "AgriChem Is Fun"
     .gender = male
@@ -6325,6 +6381,22 @@ ent-BoxDeathRattleImplants = caja de implantes deathrattle
 ent-BoxDispenserFlare = dispensador de bengalas de emergencia
     .gender = male
     .desc = Dispensa bengalas de emergencia.
+
+ent-BoxDispenserFlareGold = dispensador de bengalas de señales (otras)
+    .gender = male
+    .desc = Dispensa bengalas de señales, usadas para indicar una señal variada.
+
+ent-BoxDispenserFlareGreen = dispensador de bengalas de señales (amistosas)
+    .gender = male
+    .desc = Dispensa bengalas de señales, usadas para indicar intenciones amistosas.
+
+ent-BoxDispenserFlareRed = dispensador de bengalas de señales (hostiles)
+    .gender = male
+    .desc = Dispensa bengalas de señales, usadas para indicar intenciones hostiles.
+
+ent-BoxDispenserFlareWhite = dispensador de bengalas de señales (neutrales/rendición)
+    .gender = male
+    .desc = Dispensa bengalas de señales, usadas para indicar intenciones neutrales o, en combate, rendición.
 
 ent-BoxDonkSoftBox = caja de dardos de espuma
 
@@ -7189,6 +7261,10 @@ ent-Bullet357_magnumUranium = bala (.357 magnum uranio)
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
 ent-Bullet35mmGrenadeSAPHE = granada de fragmentación
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Bullet35mmGrenadeStinger = Granada stinger
     .gender = female
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -8511,7 +8587,7 @@ ent-CargoChuteExped = conducto de entrega de carga del albergue de expedición
     .gender = male
     .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
 
-ent-CargoChuteHideout = conducto de entrega de carga del escondite PDV
+ent-CargoChuteHideout = conducto de entrega de carga PDV helios
     .gender = male
     .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
 
@@ -8523,11 +8599,15 @@ ent-CargoChuteMD = conducto de entrega de carga de Despacho Médico
     .gender = male
     .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
 
-ent-CargoChuteTradeMall = conducto de entrega de carga del Centro Comercial
+ent-CargoChuteTradeMall = conducto de entrega de carga CC
     .gender = male
     .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
 
 ent-CargoChuteTSFMC = conducto de entrega de carga TSFMC
+    .gender = male
+    .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
+
+ent-CargoChuteZvezda = conducto de entrega zvezda
     .gender = male
     .desc = Una máquina con sistemas de tuberías que conducen a las entrañas de la estación, que acepta mercancías de exportación a cambio de certificados de comercio.
 
@@ -8692,6 +8772,12 @@ ent-Cartridge357_magnumUranium = cartucho (.357 magnum uranio)
     .desc = Proyectil magnum pesado, generalmente visto solo en magnums o fusiles de acción manual.
 
 ent-Cartridge35mmGrenadeSAPHE = granada 35x53mm SAPHE
+    .gender = female
+    .desc = Una granada de alta explosividad muy potente. Útil para negar áreas, causar bajas masivas y sabotaje. Mantén la distancia.
+
+ent-Cartridge35mmGrenadeStinger = Granada FL/ST de 35x53mm
+    .gender = female
+    .desc = Un proyectil potente no letal. Básicamente una granada aturdidora y de destello de largo alcance, útil para contrainsurgencia, contra francotiradores y control de disturbios.
 
 ent-Cartridge45_ACPEmp = cartucho (.45 ACP EMP)
     .gender = male
@@ -8988,100 +9074,4 @@ ent-Cartridge8x65mmSKR = cartucho (8x65mm SKR FMJ)
 ent-Cartridge8x65mmSKRIncendiary = cartucho (8x65mm SKR incendiario)
     .gender = male
     .desc = Un cartucho experimental de alto rendimiento. Cartucho estándar para rifles de alta potencia en todas las ramas de las fuerzas armadas de la TSF.
-
-ent-Cartridge8x65mmSKRPractice = cartucho (8x65mm SKR de práctica)
-    .gender = male
-    .desc = Un cartucho experimental de alto rendimiento. Cartucho estándar para rifles de alta potencia en todas las ramas de las fuerzas armadas de la TSF.
-
-ent-Cartridge9x19mmEmp = cartucho (9x19mm EMP)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmFMJ = cartucho (9x19mm FMJ)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmHP = cartucho (9x19mm punta hueca)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmIncendiary = cartucho (9x19mm incendiario)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmPlasteelAP = cartucho (9x19mm AP)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmPractice = cartucho (9x19mm de práctica)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmRIP = cartucho (9x19mm RIP)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmRubber = cartucho (9x19mm de goma)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-Cartridge9x19mmUranium = cartucho (9x19mm de uranio)
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-CartridgeCap = cartucho de pistola de fulminante
-
-ent-CartridgeDebug = cartucho bang, muerto
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-CartridgeDebugZoom = cartucho bang, zoom
-    .gender = male
-    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
-
-ent-CartridgeMinigun = cartucho (.10 de rifle)
-    .gender = male
-    .desc = Un cartucho intermedio extremadamente común para fusiles.
-
-ent-CartridgeMPSSMHEAT = tubo de cohete MPSSM Mk.248
-    .gender = male
-    .desc = Un tubo de misil diseñado para el lanzador MPSSM. Dispara un cohete HEAT no guiado para la destrucción estructural precisa y uso antitanque.
-
-ent-CartridgeMPSSMMissile = tubo de misil MPSSM ASM-19
-    .gender = male
-    .desc = Un tubo de misil diseñado para el lanzador MPSSM. Dispara un misil EMP-HE de seguimiento de naves con un alcance de enganche de 1,2 km.
-
-ent-CartridgeRocket = granada PG-7VL
-    .gender = female
-    .desc = Una ojiva de 1,5 diseñada para el lanzador RPG-7. Tiene forma tubular.
-
-ent-CartridgeRocketEmp = PG-7VL EMP
-    .gender = male
-    .desc = Una ojiva EMP de 1,5 diseñada para el lanzador RPG-7. Tiene forma tubular.
-
-ent-CartridgeRocketMiniNF = minicohete
-
-ent-CartridgeRocketSlow = granada PG-7VL "Cohete Caracol"
-    .gender = female
-    .desc = Una ojiva de 1,5 diseñada para el lanzador RPG-7. Es inusualmente lenta.
-
-ent-CartridgeShenzhen = cartucho (13,4x92 mm DU-APFSDS sin vaina)
-    .gender = male
-    .desc = Proyectil antimaterial de gran tamaño, con alta penetración de blindaje y daño estructural.
-
-ent-CartridgeSmart = cartucho (.160 inteligente)
-    .gender = male
-    .desc = Una bala inteligente de .160 con una pequeña carga de propelente de refuerzo en la base.
-
-ent-CarvedPumpkin = calabaza tallada
-    .gender = female
-    .desc = Una decoración tradicional de miedo.
-
-ent-CarvedPumpkinLarge = calabaza tallada
-    .gender = female
-    .desc = Una decoración tradicional de miedo.
-
-ent-CarvedPumpkinSmall = calabaza tallada
-    .gender = female
-    .desc = Una decoración tradicional de miedo.
 

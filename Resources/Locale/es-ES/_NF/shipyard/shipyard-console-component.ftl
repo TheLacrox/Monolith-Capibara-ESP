@@ -80,6 +80,15 @@ shipyard-console-class-Corvette = Corbeta
 shipyard-console-class-Frigate = Fragata
 shipyard-console-class-Destroyer = Destructor
 shipyard-console-class-Cruiser = Crucero
+shipyard-console-class-Escort = Escolta
+shipyard-console-class-Brawler = Luchador
+shipyard-console-class-MissileCarrier = Portamisiles AAM
+shipyard-console-class-AntiShipMissileCarrier = Portamisiles AShM
+shipyard-console-class-Carrier = Portaaeronaves
+shipyard-console-class-DroneCarrier = Portadrones
+shipyard-console-class-MechCarrier = Portamechas
+shipyard-console-class-EarlyWarning = Alerta temprana
+shipyard-console-class-Stealth = Sigilo
 # Mono changes end
 
 shipyard-console-engine-All = Todos

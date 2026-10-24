@@ -4,3 +4,4 @@ personal-shield-examine-broken = El escudo se está [color=red]apagando[/color].
 personal-shield-examine-offline = El escudo se está [color=red]recuperando[/color]. { $seconds } segundos hasta que se reinicie.
 personal-shield-examine-down = El escudo está [color=darkgray]desactivado[/color].
 personal-shield-toggle-fractured = Escudo recuperándose. { $seconds } segundos restantes.
+personal-shield-toggle-not-equipped = El escudo debe estar equipado antes de poder activarlo.

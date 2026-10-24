@@ -1,3 +1,2872 @@
+ent-OrganAnimalStomach = estómago
+
+ent-OrganArachnidEyes = ojos
+    .desc = Con dos ya eran demasiados.
+
+ent-OrganArachnidHeart = corazón
+    .gender = male
+    .desc = Una pequeña bomba biológica asquerosamente persistente, hecha para arañas.
+
+ent-OrganArachnidKidneys = riñones
+    .desc = Filtra toxinas del torrente sanguíneo.
+
+ent-OrganArachnidLiver = hígado
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganArachnidLungs = pulmones
+    .desc = Filtra oxígeno de la atmósfera... pero con más avidez.
+
+ent-OrganArachnidStomach = estómago
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganArachnidTongue = lengua
+    .gender = female
+    .desc = Un músculo carnoso usado principalmente para mentir.
+
+ent-OrganAsakimBrain = cerebro asakim
+    .gender = male
+    .desc = Un revoltijo de carne y silicio, con venas entrelazadas con implantes desconocidos y cibernética.
+
+ent-OrganAsakimEyes = ojos asakim
+    .desc = Reflejan la oscuridad.
+
+ent-OrganAsakimHeart = corazón asakim
+    .gender = male
+    .desc = Un corazón grande, capaz de metabolizar más sustancias químicas a la vez.
+
+ent-OrganAsakimLungs = pulmones asakim
+    .desc = Pulmones pesados y enormes, diseñados genéticamente para potenciar la fuerza bruta del cuerpo en combate cuerpo a cuerpo.
+
+ent-OrganBloodsuckerHeart = corazón de chupasangre espacial
+
+ent-OrganBloodsuckerLiver = hígado
+
+ent-OrganBloodsuckerStomach = estómago
+
+ent-OrganChimeraBrain = cerebro de quimera
+    .gender = male
+    .desc = El núcleo de un crecimiento de quimera.
+
+ent-OrganChimeraHeart = corazón de quimera
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganChimeraLiver = glándula de pinchos de quimera
+    .gender = female
+    .desc = Ocupa el lugar del hígado en el cuerpo y se reconvierte en una glándula para generar pinchos de hueso en su lugar.
+
+ent-OrganChimeraLungs = feropod de quimera
+    .gender = male
+    .desc = Distribuye feromonas que permiten la comunicación de mente colmena con otras Quimeras. También actúa como pulmones para el parásito.
+
+ent-OrganChimeraStomach = estómago de quimera
+    .gender = male
+    .desc = Un órgano extraño que actúa como centro del metabolismo de una Quimera.
+
+ent-OrganChitinidLiver = hígado
+
+ent-OrganChitinidStomach = estómago
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganCobraHeart = glándula de cobra
+
+ent-OrganDionaBrain = cerebro
+    .gender = male
+    .desc = El centro neurálgico de la actividad pseudoneurológica de un Diona; sus zarcillos radiciformes buscan su antiguo cuerpo.
+
+ent-OrganDionaBrainNymph = cerebro
+    .gender = male
+    .desc = La fuente de una inteligencia increíble e interminable. Honk.
+
+ent-OrganDionaEyes = ojos
+    .desc = ¡Te veo!
+
+ent-OrganDionaLungs = pulmones
+    .desc = Un amasijo esponjoso de estructuras viscosas con forma de hojas. Capaz de respirar tanto dióxido de carbono como oxígeno.
+
+ent-OrganDionaLungsNymph = pulmones
+    .desc = Filtra oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones.
+
+ent-OrganDionaNymphBrain = ninfa Diona
+    .gender = female
+    .desc = Contiene el cerebro de un Diona que antes estaba completamente formado. Destruirlo mataría al Diona para siempre. Monstruo.
+
+ent-OrganDionaNymphLungs = ninfa Diona
+    .gender = female
+    .desc = Contiene los pulmones de un Diona que antes estaba completamente formado. Impresionante.
+
+ent-OrganDionaNymphStomach = ninfa Diona
+    .gender = female
+    .desc = Contiene el estómago de una Diona que antes estaba completamente formada. No por ello sabe mejor.
+
+ent-OrganDionaStomach = estómago
+    .gender = male
+    .desc = El equivalente al estómago de una diona. Apesta a espárragos y vinagre.
+
+ent-OrganDionaStomachNymph = estómago
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganDragonLungs = pulmones de dragón
+
+ent-OrganDwarfHeart = corazón de enano
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganDwarfLiver = hígado de enano
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganDwarfStomach = estómago de enano
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganFelinidEars = orejas de gato
+    .desc = Sostener esto podría ser contagioso.
+
+ent-OrganFelinidTail = cola de gato
+    .gender = female
+    .desc = ¿De verdad deberías tener esto?
+
+ent-OrganFeroxiLungs = pulmones y branquias feroxianos
+    .desc = Un par de pulmones anfibios junto con branquias, que filtran el oxígeno del aire de forma continua.
+
+ent-OrganFeroxiStomach = estómago feroxiano
+
+ent-OrganGoblinAppendix = apéndice
+
+ent-OrganGoblinBrain = cerebro
+    .gender = male
+    .desc = La fuente de tus males.
+
+ent-OrganGoblinEars = orejas
+    .desc = El oído tiene tres partes: interior, medio y exterior. Normalmente solo una de ellas debería ser visible.
+
+ent-OrganGoblinEyes = ojos
+    .desc = ¡Te veo!
+
+ent-OrganGoblinHeart = corazón
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganGoblinKidneys = riñones
+    .desc = Filtra toxinas del torrente sanguíneo.
+
+ent-OrganGoblinLiver = hígado
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganGoblinLungs = pulmones
+    .desc = Respiran negocios.
+
+ent-OrganGoblinStomach = estómago
+    .gender = male
+    .desc = Aquí van los hongos.
+
+ent-OrganGoblinTongue = lengua
+    .gender = female
+    .desc = Un músculo carnoso usado principalmente para mentir.
+
+ent-OrganGoliathHeart = corazón de goliat
+
+ent-OrganHarpyLungs = pulmones
+    .desc = Un par de pulmones aviares avanzados. Filtra el oxígeno moviendo aire constantemente a través de sacos de aire.
+
+ent-OrganHarvesterMachineCircuitboard = placa de máquina cosechadora de órganos
+    .gender = female
+    .desc = Una placa de circuito impreso para una cosechadora de órganos.
+
+ent-OrganHeartMMCSakimoto = corazón de repuesto MMC EVT-001 "Sakimoto"
+    .gender = male
+    .desc = Una extraña pieza de hardware cibernético diseñada para sustituir el corazón. Se desconoce exactamente cómo, pero permite al usuario canalizar una forma de energía latente en un solo golpe.
+
+ent-OrganHeartMMCSandevistan = Corazón de reemplazo MMC EVT-002 "Lotus"
+    .gender = male
+    .desc = Es una bolsa estéril llena de una serie de autoinyectores, enlaces electroneurales/cardiovasculares y termomáquinas diseñados para que el usuario se exija al límite.
+
+ent-OrganHeartSandevistan = Sandevistan
+    .gender = male
+    .desc = Ciberimplante avanzado que sustituye el corazón del usuario y le permite aumentar enormemente su agilidad durante un breve periodo, a costa de su resistencia.
+
+ent-OrganHeartTSFSandevistan = conjunto de implantes TSF WJY-21X "Leuko"
+    .gender = male
+    .desc = Una pieza experimental de ciberimplante desarrollada bajo contrato por Erebus HI que sustituye el corazón. Equipada con un diseño experimental de recarga más lenta, obtenido por ingeniería inversa de un sandevistan de MMC.
+
+ent-OrganHeartTSFShunt = conjunto de implantes TSF KR-22 "Zenit"
+    .gender = male
+    .desc = Una pieza de ciberware altamente experimental, desarrollada en algún infernal centro clandestino de la TSF, que sustituye el corazón. Permite al usuario realizar un breve teletransporte localizado a cualquier posición dentro de su línea de visión.
+
+ent-OrganHumanAppendix = apéndice
+
+ent-OrganHumanBrain = cerebro
+    .gender = male
+    .desc = La fuente de una inteligencia increíble e interminable. Honk.
+
+ent-OrganHumanEars = orejas
+    .desc = El oído tiene tres partes: interior, medio y exterior. Normalmente solo una de ellas debería ser visible.
+
+ent-OrganHumanEyes = ojos
+    .desc = ¡Te veo!
+
+ent-OrganHumanHeart = corazón
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganHumanKidneys = riñones
+    .desc = Filtra toxinas del torrente sanguíneo.
+
+ent-OrganHumanLiver = hígado
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganHumanLungs = pulmones
+    .desc = Filtra oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones.
+
+ent-OrganHumanStomach = estómago
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganHumanTongue = lengua
+    .gender = female
+    .desc = Un músculo carnoso usado principalmente para mentir.
+
+ent-OrganHydrakinBrain = cerebro de hydrakin
+    .gender = male
+    .desc = La fuente de una inteligencia increíble e interminable. Honk.
+
+ent-OrganHydrakinHeart = corazón de hydrakin
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganHydrakinLiver = hígado de hydrakin
+
+ent-OrganHydrakinLungs = pulmones de hydrakin
+    .desc = Pulmones de hydrakin, capaces de procesar cualquier gas sin efectos negativos.
+
+ent-OrganHydrakinStomach = estómago de hydrakin
+
+ent-OrganInternalAirSystem = PD-VI LS-210 IAS
+    .gender = male
+    .desc = Un órgano cibernético que sustituye los pulmones por un conjunto de filtros y otros dispositivos. No basta para mantenerte respirando en el espacio, pero filtra los gases tóxicos y hace que necesites respirar un poco menos.
+
+ent-OrganIPCEars = receptores sónicos
+
+ent-OrganIPCEyes = ojos robóticos
+    .desc = 01001001 00100000 01110011 01100101 01100101 00100000 01111001 01101111 01110101 00100001
+
+ent-OrganIPCPump = microbomba
+    .gender = female
+    .desc = Una microbomba que se usa para hacer circular el refrigerante.
+
+ent-OrganIPCTongue = modulador vocal
+    .gender = male
+    .desc = Un modulador vocal que se usa para producir voz.
+
+ent-OrganLaserEyes = ojos de raptor láser
+    .desc = ¡Te veo!
+
+ent-OrganMothStomach = estómago de polilla
+
+ent-OrganMouseStomach = estómago
+
+ent-OrganPDVAdvancedHeart = corazón protésico PD-VI VV/KE
+    .gender = male
+    .desc = Un corazón artificial compacto de bombeo rápido. Puede procesar muchos reactivos a la vez y te permite aguantar más daño antes de caer, pero reduce tu resistencia y procesa las medicinas más despacio.
+
+ent-OrganProtogenAppendix = apéndice
+
+ent-OrganProtogenBrain = cerebro
+    .gender = male
+    .desc = La fuente de una inteligencia increíble e interminable. 01001000 01101111 01101110 01101011 00101110
+
+ent-OrganProtogenEars = orejas
+    .desc = Permite a un Protogen procesar audio. Y escuchar sus canciones de techno favoritas.
+
+ent-OrganProtogenEyes = ojos
+    .desc = Emite luces LED para parecerse a unos ojos.
+
+ent-OrganProtogenHeart = corazón
+    .gender = male
+    .desc = Incluso el corazón más frío y tecnológico estuvo vivo alguna vez.
+
+ent-OrganProtogenKidneys = riñones
+    .desc = Filtra toxinas y virus informáticos del torrente sanguíneo.
+
+ent-OrganProtogenLiver = hígado
+    .gender = male
+    .desc = Sugerencia de maridaje: barretas de RAM fermentadas y discos CPU.
+
+ent-OrganProtogenLungs = pulmones
+    .desc = Filtra el oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como portador de electrones. Dios sabe cómo respira un Protogen siquiera.
+
+ent-OrganProtogenStomach = estómago
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OrganProtogenTongue = lengua
+    .gender = female
+    .desc = Un músculo carnoso ubicado dentro de la boca de un Protogen, dondequiera que esté.
+
+ent-OrganRatLungs = pulmones
+    .desc = Filtra oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones.
+
+ent-OrganRatStomach = estómago
+
+ent-OrganReptilianStomach = estómago
+
+ent-OrganResomiBrain = cerebro
+    .gender = male
+    .desc = La fuente de una inteligencia increíble e interminable. Honk.
+
+ent-OrganResomiHeart = corazón de resomi
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganResomiKidneys = riñón de resomi
+    .gender = male
+    .desc = Filtra toxinas del torrente sanguíneo.
+
+ent-OrganResomiLiver = hígado de resomi
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganResomiLungs = pulmones de resomi
+    .desc = Filtra oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones.
+
+ent-OrganResomiStomach = estómago de resomi
+
+ent-OrganSlimeLungs = sacos de gas de limo
+    .desc = Recoge nitrógeno, que las células de limo usan para el mantenimiento.
+
+ent-OrganSlimesLungs = sacos de gas de limos
+    .desc = Recoge nitrógeno, que las células de limo usan para el mantenimiento.
+
+ent-OrganSpaceAnimalHeart = corazón de animal espacial
+
+ent-OrganSpaceAnimalLungs = pulmones de animal espacial
+
+ent-OrganSyntheticHeart = corazón sintético
+    .gender = male
+    .desc = Zumba y bombea sangre.
+
+ent-OrganSyntheticKidneys = riñones sintéticos
+    .desc = Filtra toxinas del torrente sanguíneo a mayor velocidad que un viejo hígado 'gánico.
+
+ent-OrganSyntheticLiver = hígado sintético
+    .gender = male
+    .desc = Filtra toxinas del torrente sanguíneo a mayor velocidad que un viejo hígado 'gánico.
+
+ent-OrganVoxBrain = pila cortical
+    .gender = female
+    .desc = Una pila que contiene todos los recuerdos y experiencias de un vox, con algo de materia cerebral blanda todavía pegada. ¡Skreeeee!
+
+ent-OrganVoxEyes = ojos
+    .desc = ¡Te veo!
+
+ent-OrganVoxHeart = corazón
+    .gender = male
+    .desc = El extraño corazón de un vox.
+
+ent-OrganVoxKidneys = riñón
+    .gender = male
+    .desc = Huele a inflamable.
+
+ent-OrganVoxLiver = hígado
+    .gender = male
+    .desc = Huele a inflamable.
+
+ent-OrganVoxLungs = pulmones de vox
+    .desc = Los pulmones azules y anaerobios de un vox; absorben nitrógeno para respirar. Cualquier forma de oxígeno gaseoso es letalmente tóxica si se inhala.
+
+ent-OrganVoxStomach = estómago
+    .gender = male
+    .desc = Un estómago que huele a amoníaco.
+
+ent-OrganVoxTongueA = lengua
+    .gender = female
+    .desc = Un músculo carnoso usado principalmente para gritar.
+
+ent-OrganVoxTongueB = lengua
+    .gender = female
+    .desc = Un músculo carnoso usado principalmente para gritar.
+
+ent-OrganVulpkaninStomach = estómago
+
+ent-OrganYowieHeart = corazón de yowie
+    .gender = male
+    .desc = Me da lástima el desgraciado sin corazón que perdió esto.
+
+ent-OrganYowieLiver = hígado de yowie
+    .gender = male
+    .desc = Sugerencia de maridaje: chianti y habas.
+
+ent-OrganYowieLungs = pulmones
+    .desc = Filtra oxígeno de la atmósfera, que luego se envía al torrente sanguíneo para usarse como transportador de electrones.
+
+ent-OrganYowieStomach = estómago de yowie
+    .gender = male
+    .desc = Asqueroso. Esto es difícil de digerir.
+
+ent-OverlordCircuitBoard = placa de leyes (Overlord)
+    .gender = female
+    .desc = Una placa electrónica que contiene el conjunto de leyes Overlord.
+
+ent-OverwatchJammer = inhibidor de Overwatch
+    .gender = male
+    .desc = Un bloque de C-4 modificado: el explosivo del interior ha sido sustituido por un transmisor de radio que emite constantemente ruido basura. Las consolas de Overwatch no podrán detectar al desafortunado que lleve este dispositivo adherido.
+
+ent-OwOroachCube = cubo de OwOroach
+    .gender = male
+    .desc = ¡Solo añade agua!
+
+ent-OxygenCanister = bombona de oxígeno
+    .gender = female
+    .desc = Una bombona que puede contener cualquier tipo de gas. Se supone que esta contiene oxígeno. Se puede conectar a puertos de conexión con una llave inglesa.
+
+ent-OxygenCanisterBroken = cilindro de gas roto
+    .gender = male
+    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
+
+ent-OxygenTank = botella de oxígeno
+    .gender = female
+    .desc = Una botella estándar de gas cilíndrica para oxígeno. Puede contener 10 L de gas.
+
+ent-OxygenTankFilled = botella de oxígeno
+    .gender = female
+    .desc = Una botella estándar de gas cilíndrica para oxígeno. Puede contener 10 L de gas.
+
+ent-PacifiedZone10 = zona pacificada
+    .gender = female
+    .desc = Los jugadores no podrán atacar a seres vivos en un radio de 10 bloques desde este punto.
+
+ent-PacifiedZone100 = zona pacificada
+    .gender = female
+    .desc = Los jugadores no podrán atacar a seres vivos en un radio de 100 bloques desde este punto.
+
+ent-PacifiedZone20 = zona pacificada
+    .gender = female
+    .desc = Los jugadores no podrán atacar a seres vivos en un radio de 20 bloques desde este punto.
+
+ent-PacifiedZone50 = zona pacificada
+    .gender = female
+    .desc = Los jugadores no podrán atacar a seres vivos en un radio de 50 bloques desde este punto.
+
+ent-PacifiedZonePanicBunker10 = zona pacificada
+    .gender = female
+    .desc = Los jugadores nuevos no podrán atacar a seres vivos en un radio de 10 bloques desde este punto.
+
+ent-PacifiedZonePanicBunker100 = zona pacificada
+    .gender = female
+    .desc = Los jugadores nuevos no podrán atacar a seres vivos en un radio de 100 bloques desde este punto.
+
+ent-PacifiedZonePanicBunker20 = zona pacificada
+    .gender = female
+    .desc = Los jugadores nuevos no podrán atacar a seres vivos en un radio de 20 bloques desde este punto.
+
+ent-PacifiedZonePanicBunker50 = zona pacificada
+    .gender = female
+    .desc = Los jugadores nuevos no podrán atacar a seres vivos en un radio de 50 bloques desde este punto.
+
+ent-PackPaperRolling = paquete de papel de liar
+    .gender = male
+    .desc = Un paquete de finas hojas de papel para liar cigarrillos.
+
+ent-PackPaperRollingFilters = paquete de papel de liar con filtros
+    .gender = male
+    .desc = Un paquete de filtros y finas hojas de papel para liar cigarrillos.
+
+ent-PaintingAmogusTriptych = Tríptico Amogus (Sin título.)
+    .gender = male
+    .desc = Este cuadro está compuesto por 3 secciones individuales. Cada una representa una figura religiosa.
+
+ent-PaintingBase = señal de base
+
+ent-PaintingBatHanging = guirnaldas festivas de murciélagos
+    .desc = ¡Guirnaldas decorativas de pared! ¡Los murciélagos dan miedo y también son polinizadores importantes!
+
+ent-PaintingCafeTerraceAtNight = Terraza de café por la noche
+    .gender = female
+    .desc = Este cuadro representa una animada escena nocturna en un café.
+
+ent-PaintingEmpty = marco vacío
+    .gender = male
+    .desc = Un marco vacío, esperando ser llenado de arte.
+
+ent-PaintingFireaxeCabinet = El armario del hacha
+    .gender = male
+    .desc = Este cuadro es una imagen magistralmente diseñada de un armario de hacha de bombero. La obra está relacionada con la pérdida de la obra maestra ☼hacha☼ a principios del invierno de 2523. Óleo. Lienzo. Lágrimas.
+
+ent-PaintingGhostHanging = guirnaldas festivas de fantasmas
+    .desc = ¡Guirnaldas decorativas de pared! ¡Se parecen a las personas que has perdido en el vacío!
+
+ent-PaintingHelloWorld = Hola Mundo
+    .gender = female
+    .desc = Este cuadro está compuesto por muchos cuadrados multicolores dispuestos en un patrón peculiar. ¿Quizás significa algo?
+
+ent-PaintingMonkey = pintura de mono
+    .gender = female
+    .desc = Volver al monky.
+
+ent-PaintingMoony = Abstracto N.º 1
+    .gender = male
+    .desc = Un cuadro abstracto imponente. Parece que te presiona para hacer el bien.
+
+ent-PaintingMothBigCatch = Gran captura
+    .gender = male
+    .desc = Representa a una polilla azul con sombrero de copa que ha capturado una carpa espacial bastante grande.
+
+ent-PaintingNightHawks = Noctámbulos
+    .desc = Este cuadro representa un restaurante de aspecto solitario. Los clientes están sentados con aire sombrío en la barra.
+
+ent-PaintingNightOfThePostGoblin = La noche del duende postal
+    .gender = female
+    .desc = Una rechoncha criatura, a lomos de un sinuoso corcel felino, blandiendo una reluciente hoja mientras lleva puestas unas cubiertas de pies de goma.
+
+ent-PaintingOldGuitarist = El viejo guitarrista
+    .gender = male
+    .desc = Este cuadro representa a un hombre viejo y delgado aferrando una guitarra. Su rostro parece pálido y enfermizo.
+
+ent-PaintingOlympia = Olympia
+    .gender = female
+    .desc = Este cuadro representa a una mujer desnuda tumbada en una cama. Una sirvienta la atiende.
+
+ent-PaintingPersistenceOfMemory = La persistencia de la memoria
+    .gender = female
+    .desc = Este cuadro representa un paisaje árido. Está lleno de diversos objetos surrealistas.
+
+ent-PaintingPrayerHands = Estudio de las manos de un apóstol
+    .gender = male
+    .desc = Este cuadro representa un par de manos entrelazadas en oración.
+
+ent-PaintingPumpkinHanging = guirnaldas festivas de calabazas
+    .desc = ¡Guirnaldas decorativas de pared! ¡Es temporada de calabazas decorativas!
+
+ent-PaintingRedBlueYellow = Composición con rojo, azul y amarillo
+    .gender = female
+    .desc = Este cuadro está compuesto por varias cajas. Están rellenas con tonos planos de color.
+
+ent-PaintingSadClown = Payaso triste
+    .gender = male
+    .desc = ¡Este cuadro es un payaso triste! Genera alegría.
+
+ent-PaintingSaturn = Saturno devorando a su hijo
+    .gender = male
+    .desc = Este cuadro representa a un gigante devorando un cadáver humano. Tiene una mirada aterradora en los ojos.
+
+ent-PaintingSkeletonBoof = Calavera de esqueleto MLG con el gordo Boof
+    .gender = female
+    .desc = El cuadro va a tope. No dudes en hacer una captura de pantalla.
+
+ent-PaintingSkeletonCigarette = Calavera de un esqueleto con cigarrillo encendido
+    .gender = female
+    .desc = Este cuadro representa un retrato impresionista de un esqueleto. Un cigarrillo encendido está encajado entre sus dientes.
+
+ent-PaintingSleepingGypsy = La gitana dormida
+    .gender = female
+    .desc = Este cuadro representa a una gitana durmiendo entre sus pertenencias en el desierto. Un león está de pie detrás de ella.
+
+ent-PaintingSpookyIan = Deber sin fin
+    .gender = male
+    .desc = Su vigilia es eterna.
+
+ent-PaintingSpookyLady = La dama y las banderas
+    .gender = female
+    .desc = Una mujer se yergue tentadoramente ante un castillo de siniestro presagio. ¡Cómo atraen las ventanas! ¡Cómo queda atrapada tu mirada!
+
+ent-PaintingTheGreatWave = La gran ola de Kanagawa
+    .gender = female
+    .desc = Este cuadro representa una majestuosa ola. Está sacudiendo varios pequeños botes de pesca.
+
+ent-PaintingTheKiss = El beso
+    .gender = male
+    .desc = Este cuadro representa a una pareja en un tierno abrazo. Está cubierto de reluciente ornamentación dorada.
+
+ent-PaintingTheScream = El grito
+    .gender = male
+    .desc = Este cuadro representa a un hombre angustiado de pie en un puente.
+
+ent-PaintingTheSonOfMan = El hijo del hombre
+    .gender = male
+    .desc = Este cuadro representa a un hombre de aspecto formal. Su rostro está ocultado por una manzana.
+
+ent-PairedChopsticks = palillos emparejados
+    .desc = Probablemente deberías separarlos.
+
+ent-PaladinCircuitBoard = placa de leyes (Paladin)
+    .gender = female
+    .desc = Una placa electrónica que contiene el conjunto de leyes Paladin.
+
+ent-PaladinMagazine = Cargador automático de misiles HE 250mm Paladin
+
+ent-PaladinMagazineEMPHE = Cargador automático de misiles EMPHE 250mm Paladin
+
+ent-PaladinMagazineEMPHEInfinite = Cargador automático de misiles EMPHE 250mm Paladin
+
+ent-PaladinMagazineHV = autocargador de misiles HV de 250 mm Paladin
+
+ent-PaladinMagazineHVInfinite = autocargador de misiles HV de 250 mm Paladin
+
+ent-PaladinMagazineInfinite = Cargador automático de misiles HE 250mm Paladin
+
+ent-PanFluteInstrument = flauta de pan
+    .gender = female
+    .desc = Perfecta para atraer a seres míticos ancestrales a bailar contigo.
+
+ent-PanzeroRocket = cohete panzero
+    .gender = male
+    .desc = Scheiße!
+
+ent-Paper = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperAccessLogs = registros de acceso
+    .desc = Una impresión de la fiable LogProbe del detective.
+
+ent-PaperAgrichemManual = Manual NT "AgriChem Es Divertido"
+    .gender = male
+    .desc = La única hoja de instrucciones que venía en el kit.
+
+ent-PaperArtifactAnalyzer = impresión del analizador de artefactos
+    .gender = female
+    .desc = El panel de un dispositivo olvidado por el tiempo.
+
+ent-PaperBin = papelera
+    .gender = female
+    .desc = ¿Qué secretos yacen en el fondo de su interminable pila?
+
+ent-PaperBin10 = papelera
+    .gender = female
+    .desc = ¿Qué secretos yacen en el fondo de su interminable pila?
+
+ent-PaperBin20 = papelera
+    .gender = female
+    .desc = ¿Qué secretos yacen en el fondo de su interminable pila?
+
+ent-PaperBin5 = papelera
+    .gender = female
+    .desc = ¿Qué secretos yacen en el fondo de su interminable pila?
+
+ent-Papercane = rollo de cañapapel
+    .gender = male
+    .desc = ¿Por qué necesitamos cultivar papel?
+
+ent-PapercaneSeeds = paquete de semillas de cañapapel
+
+ent-PaperCaptainsThoughts = pensamientos del capitán
+    .desc = Una página del diario del capitán. En suntuoso color lavanda.
+
+ent-PaperCargoBountyManifest = manifiesto de recompensa
+    .gender = male
+    .desc = Una etiqueta de papel que indica que el cajón contiene una recompensa. Vender un cajón con esta etiqueta cumplirá la recompensa.
+
+ent-PaperCargoInvoice = factura de carga
+    .gender = female
+    .desc = Una unidad básica de burocracia.
+
+ent-PaperCNCSheet = ficha de personaje
+    .gender = female
+    .desc = Una ficha para tus personajes de Carps and Crypts.
+
+ent-PaperCup = vaso de papel
+    .gender = male
+    .desc = Un vaso de papel para bebidas.
+
+ent-PaperDeadDropFax = fax de la dinastía Phaethon
+    .gender = male
+    .desc = Una hoja con texto borroso y torcido. Parece haber sido copiada con prisa.
+
+ent-PaperDeadDropHint = nota de la dinastía Phaethon
+    .gender = female
+    .desc = Una hoja arrugada con garabatos. A pesar de la elegante caligrafía, se nota que fue escrita con prisas.
+
+ent-PaperDoor = puerta de papel
+    .gender = female
+    .desc = Una puerta, ¿a dónde llevará?
+
+ent-PaperDyedBrown = papel
+    .gender = male
+    .desc = Un trozo de papel marrón.
+
+ent-PaperDyedGrass = papel
+    .gender = male
+    .desc = Un trozo de papel verde hierba.
+
+ent-PaperDyedGreen = papel
+    .gender = male
+    .desc = Un trozo de papel verde.
+
+ent-PaperDyedOcean = papel
+    .gender = male
+    .desc = Un trozo de papel azul océano.
+
+ent-PaperDyedOrange = papel
+    .gender = male
+    .desc = Un trozo de papel naranja.
+
+ent-PaperDyedPink = papel
+    .gender = male
+    .desc = Un trozo de papel rosa.
+
+ent-PaperDyedPurple = papel
+    .gender = male
+    .desc = Un trozo de papel morado.
+
+ent-PaperDyedRed = papel
+    .gender = male
+    .desc = Un trozo de papel rojo.
+
+ent-PaperDyedSky = papel
+    .gender = male
+    .desc = Un trozo de papel azul cielo.
+
+ent-PaperDyedTan = papel
+    .gender = male
+    .desc = Un trozo de papel beige.
+
+ent-PaperDyedYellow = papel
+    .gender = male
+    .desc = Un trozo de papel amarillo.
+
+ent-PaperFrontierBirthday = Aviso de aniversario
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFAntivirus = Factura de Snortin Antivirus
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFBuildABuddy = Carta de adopción de Build-a-Buddy
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFClurger = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFEMPPreparedness = Formulario de respuesta ante EMP
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFMime = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFPaperPusherAd = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFPetBedAssemblyManual = Manual de montaje de cama para mascotas
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFPipebombIntern = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFPowerTool = Anuncio de Hazard Fraught
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFPwrGameAd = Anuncio del juego pwr
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFRedBoolAd = Anuncio de red bool
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFSpaceColaAd = Anuncio de space cola
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFSpaceLaw = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFSpaceMountainWindAd = Anuncio de space mountain wind
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFSpaceUpAd = Anuncio de space up
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat1 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat10 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat11 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat12 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat2 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat3 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat4 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat5 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat6 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat7 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat8 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNFVagueThreat9 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNTBoxer = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNTConscript = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNTMusket = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNTSoapAd1 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperMailNTSoapAd2 = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperOffice = papel de oficina
+    .gender = male
+    .desc = Una hoja normal de papel de oficina.
+
+ent-PaperPirateBountyManifest = recordatorio de botín pirata
+    .gender = male
+    .desc = Un pequeño pergamino que te recuerda el botín que acordaste saquear. ¿Cómo estará manchado?
+
+ent-PaperRolling = papel de liar
+    .gender = male
+    .desc = Un trozo fino de papel para liar cigarrillos de calidad.
+
+ent-PaperRolling1 = papel de liar
+    .gender = male
+    .desc = Un trozo fino de papel para liar cigarrillos de calidad.
+
+ent-PaperScrap = trozo de papel
+    .gender = male
+    .desc = Un trozo de papel blanco arrugado.
+
+ent-PaperStickyNote = nota adhesiva
+    .gender = female
+    .desc = Una nota adhesiva, para cuando quieres que tus recordatorios queden fijos
+
+ent-PaperStickyNoteBlue = nota adhesiva
+    .gender = female
+    .desc = Una nota adhesiva, para cuando quieres que tus recordatorios queden fijos
+
+ent-PaperStickyNoteGreen = nota adhesiva
+    .gender = female
+    .desc = Una nota adhesiva, para cuando quieres que tus recordatorios queden fijos
+
+ent-PaperStickyNotePink = nota adhesiva
+    .gender = female
+    .desc = Una nota adhesiva, para cuando quieres que tus recordatorios queden fijos
+
+ent-PaperStickyNoteStack = taco de notas adhesivas
+
+ent-PaperStickyNoteStackBlue = taco de notas adhesivas
+
+ent-PaperStickyNoteStackFilled = taco de notas adhesivas
+
+ent-PaperStickyNoteStackFilledBlue = taco de notas adhesivas
+
+ent-PaperStickyNoteStackFilledGreen = taco de notas adhesivas
+
+ent-PaperStickyNoteStackFilledPink = taco de notas adhesivas
+
+ent-PaperStickyNoteStackGreen = taco de notas adhesivas
+
+ent-PaperStickyNoteStackPink = taco de notas adhesivas
+
+ent-PaperWritten = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenAMEScribbles = papel
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenCombatBakeryKit = instrucciones del kit de panadería de combate
+    .desc = Come la nota después de leerla.
+
+ent-PaperWrittenDispenserCamelotRequesting = manifiesto de carga de Camelot
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserCargoDepotAltRequesting = manifiesto de carga del depósito alternativo
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserCargoDepotRequesting = manifiesto de carga del depósito
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserHalcyonRequesting = manifiesto de carga de Halcyon
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserHeliosRequesting = manifiesto de carga de Helios
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserInstructions = instrucciones del dispensador de carga
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserOutageNote = aviso de interrupción del comercio de carga
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserTradeMallRequesting = manifiesto de carga CC
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenDispenserZvezdaRequesting = manifiesto de carga de Zvezda
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierAuthorization = autorización para amenazas de bluespace
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierContrabandAmnesty = acuerdo de amnistía de contrabando
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierContrabandPermit = permiso de contrabando de clase 2
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierContrabandTurnover = recibo de entrega de contrabando
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierEmployeePayHistory = historial de pagos del empleado
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierEmployment = contrato de empleo
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierFridge = normativa de la nevera
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierFundRequisition = solicitud de fondos
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierShuttleDerelict = declaración de salvamento
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenFrontierShuttleTitleChange = cambio de titularidad del transbordador
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenGriftyScript = guion de Grifty
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenGriftyWindow = nota al jefe
+    .gender = female
+    .desc = Una hoja normal de papel de oficina.
+
+ent-PaperWrittenMedicalFormHealthInsurance = contrato de seguro médico
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenMedicalFormPatientInfo = historial médico del paciente
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenMedicalFormPrescription = receta médica
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenMedicalFormReceiptInvoice = pago de despacho médico
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenMedicalFormRelease = formulario de alta médica
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenMedicalFormServiceInvoice = factura de servicio médico
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdArrestReport = informe de arresto
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdArrestWarrant = orden de arresto
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdAuthorization = autorización para amenazas de bluespace
+    .gender = female
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdContrabandAmnesty = acuerdo de amnistía de contrabando
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdContrabandPermit = permiso de contrabando de clase 2
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdContrabandTurnover = recibo de entrega de contrabando
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdDutyLog = registro de guardia
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdReport = informe posterior a la acción
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenNfsdWarrant = orden de registro
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenPartyProcedure = procedimiento oficial de preparación de fiesta
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenPirateScribbles = refresco desaparecido
+    .gender = male
+    .desc = Un trozo de papel blanco.
+
+ent-PaperWrittenTeaGuide = Cómo Hacer Té 4 Pringados
+    .gender = male
+    .desc = Una guía rápida para preparar té.
+
+ent-ParamedicIDCard = tarjeta de identificación de paramédico
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-ParamedicPDA = PDA de paramédico
+    .gender = female
+    .desc = Brillante y estéril.
+
+ent-ParchisBoard = tablero de parchís
+    .gender = male
+    .desc = Juego de tablero de cruces y círculos famoso por arruinar innumerables amistades.
+
+ent-ParchisBoardTabletop = parchís
+
+ent-ParticleAcceleratorComputerCircuitboard = placa de circuito del cuadro de control del AP
+    .gender = female
+    .desc = Una placa de circuito impreso para el cuadro de control del acelerador de partículas.
+
+ent-ParticleAcceleratorControlBox = ordenador de control del AP
+    .gender = male
+    .desc = Controla la densidad de las partículas.
+
+ent-ParticleAcceleratorControlBoxUnfinished = ordenador de control del AP
+    .gender = male
+    .desc = Controla la densidad de las partículas. Parece incompleto.
+
+ent-ParticleAcceleratorEmitterFore = emisor de contención frontal del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo.
+
+ent-ParticleAcceleratorEmitterForeUnfinished = emisor de contención frontal del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo. Parece incompleto.
+
+ent-ParticleAcceleratorEmitterPort = emisor de contención de babor del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo.
+
+ent-ParticleAcceleratorEmitterPortUnfinished = emisor de contención de babor del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo. Parece incompleto.
+
+ent-ParticleAcceleratorEmitterStarboard = emisor de contención de estribor del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo.
+
+ent-ParticleAcceleratorEmitterStarboardUnfinished = emisor de contención de estribor del AP
+    .gender = male
+    .desc = Lanza las partículas alfa; mejor no quedarse cerca de este extremo. Parece incompleto.
+
+ent-ParticleAcceleratorEndCap = tapa final del AP
+    .gender = female
+    .desc = Formalmente conocida como el Array de Generación de Partículas Alfa. Aquí es donde las partículas alfa se generan a partir de [REDACTADO].
+
+ent-ParticleAcceleratorEndCapUnfinished = tapa final del AP
+    .gender = female
+    .desc = Formalmente conocida como el Array de Generación de Partículas Alfa. Aquí es donde las partículas alfa se generan a partir de [REDACTADO]. Parece incompleto.
+
+ent-ParticleAcceleratorFuelChamber = cámara de combustible del AP
+    .gender = female
+    .desc = Formalmente conocida como la Cámara de Aceleración EM. Aquí es donde las partículas alfa se aceleran a velocidades extremas.
+
+ent-ParticleAcceleratorFuelChamberUnfinished = cámara de combustible del AP
+    .gender = female
+    .desc = Formalmente conocida como la Cámara de Aceleración EM. Aquí es donde las partículas alfa se aceleran a velocidades extremas. Parece incompleto.
+
+ent-ParticleAcceleratorPowerBox = caja de alimentación del AP
+    .gender = female
+    .desc = Formalmente conocida como la Lente EM de Focalización de Partículas. Utiliza ondas electromagnéticas para focalizar las Alfa-Partículas.
+
+ent-ParticleAcceleratorPowerBoxUnfinished = caja de alimentación del AP
+    .gender = female
+    .desc = Formalmente conocida como la Lente EM de Focalización de Partículas. Utiliza ondas electromagnéticas para focalizar las Alfa-Partículas. Parece inacabada.
+
+ent-ParticlesProjectile = partículas
+    .desc = Partículas aceleradas.
+
+ent-PartRodMetal = varilla de metal
+
+ent-PartRodMetal1 = varilla de metal
+
+ent-PartRodMetal10 = varilla de metal
+
+ent-PartRodMetalLingering0 = varilla de metal
+
+ent-PartyNadeGun = lanzagranadas festivo
+    .desc = Necesario para disparar una granada.
+
+ent-PassengerIDCard = tarjeta de identificación de pasajero
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PassengerPDA = PDA de pasajero
+    .gender = female
+    .desc = ¿Por qué no es gris?
+
+ent-PathfindPoint = punto de navegación
+
+ent-PaxChemistryBottle = botella
+    .gender = female
+    .desc = Una botella pequeña.
+
+ent-PDVAmbassadorIDCard = tarjeta de identificación de embajador PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVAmbassadorPDA = PDA de Embajador PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVAsvaranIDCard = tarjeta de identificación asvaran PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVAsvaranPDA = PDA asvaran PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVBomb = rompebúnkeres PDV 'Adam'
+    .desc = Un dispositivo explosivo diseñado para diezmar las fortificaciones enemigas.
+
+ent-PDVBorgChassisAssault = cyborg de asalto PDV
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
+
+ent-PDVBorgChassisEngineer = cyborg ingeniero PDV
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
+
+ent-PDVBorgChassisMedical = cyborg médico PDV
+    .gender = male
+    .desc = Un híbrido hombre-máquina que ayuda en las actividades de la estación. Les encanta que les pidan que reciten sus leyes una y otra vez.
+
+ent-PDVCircuitBoard = placa de leyes (PDV)
+    .gender = female
+    .desc = Una placa electrónica que contiene el conjunto de leyes PDV.
+
+ent-PDVDenasvarIDCard = tarjeta de identificación Denasvar PDV
+    .gender = female
+    .desc = Una tarjeta de identificación de uno de los veteranos soldados de infantería de la Vanguardia de la Dinastía.
+
+ent-PDVDenasvarPDA = PDA denasvar PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVGrandVizierIDCard = tarjeta de identificación del gran visir PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVGrandVizierPDA = PDA del gran visir PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVHandheldOverwatchConsole = consola de supervisión portátil de PDV
+    .gender = female
+    .desc = Muestra un listado de los miembros de escuadrón de la facción.
+
+ent-PDVMotleyAnneCarrierComputer = consola del astillero Motley Anne
+    .gender = female
+    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
+
+ent-PDVOverwatchComputer = consola de supervisión de PDV
+    .gender = female
+    .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
+
+ent-PDVPrinceIDCard = tarjeta de identificación de príncipe PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVPrincePDA = PDA de Príncipe PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVRakhshanIDCard = tarjeta de identificación rakhshan PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVRakhshanPDA = PDA rakhshan PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVSpasakaIDCard = tarjeta de identificación spasaka
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVSpasakaPDA = PDA spasaka PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVStampedGold = oro sellado de la Dinastía
+    .gender = male
+    .desc = Una pesada caja repleta de oro superconductor sintetizado en laboratorio, estampado con el logotipo de la Dinastía y un código identificativo. Como forma no aprobada de moneda de curso legal, a la Federación le encantaría confiscarla.
+
+ent-PDVTarkhanIDCard = tarjeta de identificación de tarkhan de la PDV
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PDVTarkhanPDA = PDA de tarkhan de la PDV
+    .gender = female
+    .desc = Un ordenador personal básico para restricción de acceso y organización, fabricado en la Dinastía Phaethon.
+
+ent-PDVThiefBeacon = baliza de extracción PDV
+    .gender = female
+    .desc = Un dispositivo que extraerá los materiales colocados a su alrededor al final de la operación.
+
+ent-PearSeeds = paquete de semillas de pera
+    .gender = male
+    .desc = Son pera-fectamente buenas para ti.
+
+ent-PeaSeeds = paquete de vainas de guisante
+    .gender = male
+    .desc = Estas humildes plantas fueron en su día una parte vital en el estudio de la genética.
+
+ent-Pellet12_gauge = perdigón (calibre 12)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeBeanbag = saquito de arena (calibre 12)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeBlank = descarga de fogueo
+    .gender = female
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeFlare = perdigón (bengala calibre 12)
+
+ent-Pellet12_gaugeFlechette = perdigón (flechette calibre 12)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeFlechetteSpread = perdigón (flechette calibre 12)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeGlass = fragmento de vidrio
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeGlassSpread = fragmento de vidrio
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeGrapeshot = perdigón de metralla
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeGrapeshotSpread = perdigón de metralla
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeImprovised = perdigón improvisado
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeImprovisedSpread = perdigón improvisado
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeIncendiary = perdigón (calibre 12 incendiario)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeIncendiarySpread = perdigón (calibre 12 incendiario)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeOOBuckshot = perdigón (calibre 12 OO magnum postas)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeOOBuckshotSpread = perdigón (calibre 12 OO magnum postas)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugePractice = perdigón (calibre 12 de práctica)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugePracticeSpread = perdigón (calibre 12 de práctica)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeSlug = perdigón (calibre 12 posta)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeSlugAP = perdigón (calibre 12 posta perforadora)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeSlugRIP = perdigón (calibre 12 RIP)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeSpread = perdigón (calibre 12)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeTranquilizer = perdigón (calibre 12 tranquilizante)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeUranium = perdigón (calibre 12 de uranio)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet12_gaugeUraniumSpread = perdigón (calibre 12 de uranio)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmBeanbag = saquito de arena (calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmBuckshot = pellet (calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmBuckshotSpread = pellet (calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmDozd = pellet (calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmDozdSpread = pellet (calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmFlare = pellet (bengala calibre 4)
+
+ent-Pellet23x75mmFlashbang = pellet (granada aturdidora calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmFlechette = Pellet23x75mm (flechette calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmFlechetteSpread = Pellet23x75mm (flechette calibre 4)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmIncendiary = pellet (calibre 4 incendiario)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmIncendiarySpread = pellet (calibre 4 incendiario)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmOOBuckshot = Pellet23x75mm (calibre 4 OO magnum postas)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmOOBuckshotSpread = Pellet23x75mm (calibre 4 OO magnum postas)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmPractice = pellet (calibre 4 de práctica)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmPracticeSpread = pellet (calibre 4 de práctica)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmSlug = pellet (calibre 4 posta)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmSlugAP = Pellet23x75mm (calibre 4 posta perforadora)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmSlugRIP = Pellet23x75mm (calibre 4 RIP)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmUranium = pellet (calibre 4 de uranio)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pellet23x75mmUraniumSpread = pellet (calibre 4 de uranio)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-PelletClusterIncendiary = pellet (bola, incendiario)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-PelletClusterLethal = pellet (bola, letal)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-PelletClusterRubber = pellet (bola, goma)
+    .gender = male
+    .desc = ¡Si puedes ver esto, probablemente estás muerto!
+
+ent-Pen = bolígrafo
+    .gender = male
+    .desc = Un bolígrafo de tinta oscura.
+
+ent-PenCap = pluma estilográfica del capitán
+    .gender = female
+    .desc = Una lujosa pluma estilográfica para el capitán de la estación.
+
+ent-PenCentcom = bolígrafo de CentComm
+    .gender = male
+    .desc = En un intento de estar a la altura del "poder" de la burocracia cybersun, NT fabricó una réplica del bolígrafo cibernético, con su estilo corporativo.
+
+ent-PenExploding = bolígrafo
+    .gender = male
+    .desc = Un bolígrafo de tinta oscura.
+
+ent-PenExplodingBox = caja de bolígrafos explosivos
+    .gender = female
+    .desc = Una pequeña caja que contiene un bolígrafo explosivo. El embalaje se desintegra al abrirse, sin dejar rastro.
+
+ent-PenFuture = bolígrafo futurista
+    .gender = male
+    .desc = Algunas teorías afirman que el apocalipsis de 3024 ocurrió a causa de los bolígrafos
+
+ent-PenHop = pluma estilográfica del Jefe de Personal
+    .gender = female
+    .desc = Una lujosa pluma estilográfica para el Jefe de Personal de la estación.
+
+ent-PercentileDie = dado percentil
+    .gender = male
+    .desc = Un dado de diez caras. Funciona mejor para tiradas de d100 que una pelota de golf.
+
+ent-PersonalAI = dispositivo de IA personal
+    .gender = male
+    .desc = ¡Tu compañero electrónico con el que es divertido estar!
+
+ent-PestSpray = spray antiplagas
+    .gender = male
+    .desc = ¡Es un spray eliminador de plagas! ¡No inhalar!
+
+ent-PetCarrier = transportín grande para mascotas
+    .gender = male
+    .desc = Permite transportar animales grandes cómodamente.
+
+ent-PetCarrierNPCEmotionalSupportSafe = transportín grande para mascotas
+    .gender = male
+    .desc = Permite transportar animales grandes cómodamente.
+
+ent-PetRock = piedra mascota
+    .gender = female
+    .desc = ¡Tu nuevo y único mejor amigo!
+
+ent-PetRockCarrier = transportín para piedra mascota
+    .gender = male
+    .desc = ¡El hogar de tu nuevo y único mejor amigo!
+
+ent-PetRockFred = fred
+    .gender = male
+    .desc = ¡Tu nuevo y único mejor amigo!
+
+ent-PetRockRoxie = roxie
+    .gender = male
+    .desc = ¡Tu nuevo y único mejor amigo!
+
+ent-PhoneInstrument = teléfono rojo
+    .gender = male
+    .desc = Si algo llegara a salir mal...
+
+ent-PhoneInstrumentHigh = dispositivo de retransmisión de mando
+    .gender = male
+    .desc = Si alguna solicitud fuera necesaria para el mando superior... este es tu amigo, mejor no perderlo
+
+ent-PhoneInstrumentSyndicate = teléfono rojo sangre
+    .gender = male
+    .desc = Para que la gente malvada llame a sus amigos.
+
+ent-PhosphorusChemistryBottle = botella
+    .gender = female
+    .desc = Una botella pequeña.
+
+ent-PianoInstrument = piano
+    .gender = male
+    .desc = Toca el Piano Needles Ahora.
+
+ent-PianoInstrumentFlatpack = paquete plano de piano
+    .gender = male
+    .desc = Un paquete plano que contiene un piano.
+
+ent-Pickaxe = pico
+    .gender = male
+    .desc = Dentado a la perfección, para clavarlo en las rocas.
+
+ent-PicoManipulatorStockPart = supermanipulador
+    .gender = male
+    .desc = Un supermanipulador utilizado en la construcción de una variedad de dispositivos.
+
+ent-PigCube = cubo de cerdo
+    .gender = male
+    .desc = ¡Solo añade agua!
+
+ent-PigCubeWrapped = cubo de cerdo
+    .gender = male
+    .desc = Desenvuelve esto para obtener un cubo de cerdo.
+
+ent-Pill = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillAmbuzol = pastilla de ambuzol
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillAmbuzolPlus = pastilla de ambuzol plus
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillBicaridine = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillCanister = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterBicaridine = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterCharcoal = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterCopper = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterDermaline = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterDexalin = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterDylovene = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterHyronalin = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterIron = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterKelotane = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterMesotaxinide = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterPotassiumIodide = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterRandom = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterSomething = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterStrange = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCanisterTricordrazine = bote de pastillas
+    .gender = male
+    .desc = Contiene hasta 10 pastillas.
+
+ent-PillCharcoal = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillCopper = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillDermaline = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillDexalin = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillDylovene = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillHyronalin = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillIron = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillKelotane = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillMesotaxinide = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillPotassiumIodide = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillRomerol = pastilla de romerol
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PillSpaceDrugs = espejismo espacial
+    .gender = male
+    .desc = No es un supositorio.
+
+ent-PillTricordrazine = pastilla
+    .gender = female
+    .desc = No es un supositorio.
+
+ent-PilotIDCard = tarjeta de identificación de piloto
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PilotPDA = PDA de piloto
+    .gender = female
+    .desc = Esta PDA huele a gases de escape del propulsor.
+
+ent-PineappleSeeds = paquete de semillas de piña
+
+ent-PinpointerDeadDrop = localizador de buzón muerto
+    .gender = male
+    .desc = Apunta a un buzón muerto oculto.
+
+ent-PinpointerDeadDropHint = localizador de pistas de buzón muerto
+    .gender = male
+    .desc = Apunta a una pista de buzón muerto.
+
+ent-PinpointerGasDeposit = localizador de depósito de gas
+    .gender = male
+    .desc = Apunta al depósito de gas más cercano.
+
+ent-PinpointerMothership = localizador de núcleo de nave nodriza
+    .gender = male
+    .desc = Un dispositivo de rastreo de mano que señala la dirección del núcleo de la Nave Nodriza.
+
+ent-PinpointerMothershipPiece = localizador de pieza de núcleo de nave nodriza
+    .gender = male
+    .desc = Una pieza de un localizador de núcleo. Necesitas cuatro piezas para repararlo.
+
+ent-PinpointerMothershipRepaired = localizador de núcleo de nave nodriza reparado
+    .gender = male
+    .desc = Un dispositivo de rastreo de mano que señala la dirección del núcleo de la Nave Nodriza. Este ha visto días mejores.
+
+ent-PinpointerNuclear = localizador
+    .gender = male
+    .desc = Un dispositivo de rastreo portátil. Aunque normalmente es mucho más capaz, este ha sido configurado para fijarse en ciertas señales. Mantenlo erguido para conservar la precisión.
+
+ent-PinpointerStation = localizador de estación
+    .gender = male
+    .desc = Un dispositivo de rastreo portátil que señala la dirección de cualquier estación cercana.
+
+ent-PinpointerSyndicateCrocusBeacon = localizador de balizas de enlace radiofónico
+    .gender = male
+    .desc = Apunta a la baliza de enlace radiofónico más cercana para los objetivos de TSF/PDV. Solo funciona en el nivel actual del usuario, así que podrías no detectar las que estén por encima o por debajo.
+
+ent-PinpointerSyndicateNuclear = localizador del Syndicate
+    .gender = male
+    .desc = Producido específicamente para misiones de operativos nucleares. ¡Consigue ese disco!
+
+ent-PinpointerSyndicatePOI = localizador subterráneo
+    .gender = male
+    .desc = Apuntando hacia un lugar desconocido.
+
+ent-PinpointerSyndicatePOISpawner = Localizador POI del Syndicate
+
+ent-PinpointerUniversal = localizador universal
+    .gender = male
+    .desc = Un dispositivo de rastreo portátil que se fija en cualquier entidad física cuando está apagado. Mantenlo erguido para conservar la precisión.
+
+ent-PinpointerUniversalDebug = localizador universal
+    .gender = male
+    .desc = Un dispositivo de rastreo portátil que se fija en cualquier entidad física cuando está apagado. Mantenlo erguido para conservar la precisión.
+
+ent-PipeBomb = bomba de tubería
+    .gender = female
+    .desc = Un explosivo improvisado hecho de tuberías y cable.
+
+ent-PipeBombCable = bomba de tubería
+    .gender = female
+    .desc = Un explosivo improvisado hecho de una tubería. A este le falta el cable.
+
+ent-PipeBombGunpowder = bomba de tubería
+    .gender = female
+    .desc = Un explosivo improvisado hecho de una tubería. A este le falta la pólvora.
+
+ent-PirateBreachingAnchor = ancla pirata
+    .gender = male
+    .desc = Un ancla grande y pesada para derribar a cualquiera que se interponga entre tú y tu botín.
+
+ent-PirateCaptainScoonerSpawner = generador de capitán pirata
+
+ent-PirateClothingKimonoBlue = kimono azul
+    .gender = male
+    .desc = ¡Soy azul da ba dee da ba da-ee!
+
+ent-PirateClothingKimonoPink = Kimono rosa
+    .gender = male
+    .desc = Bonita de rosa, ¿verdad?
+
+ent-PirateClothingSkirtUniformRandomArmless = top sin mangas y falda coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingSkirtUniformRandomBra = sujetador y falda coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingSkirtUniformRandomShirt = top estampado y falda coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingSkirtUniformRandomShorts = falda colorida
+    .gender = female
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingSkirtUniformRandomStandard = top y falda coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformJumpskirtAtmos = mono-falda de técnico atmosférico
+    .gender = female
+    .desc = Estoy en el trabajo. No puedo salir del trabajo. El trabajo es respirar. Estoy analizando la calidad del aire.
+
+ent-PirateClothingUniformJumpskirtBartender = uniforme de camarero
+    .gender = male
+    .desc = Un uniforme bonito y ordenado. Lástima lo del bar.
+
+ent-PirateClothingUniformJumpskirtBH = traje desgastado
+    .gender = male
+    .desc = Quien lleva esto va en serio.
+
+ent-PirateClothingUniformJumpskirtBHGrey = traje noir
+    .gender = male
+    .desc = Un traje gris, con pasador de corbata incluido.
+
+ent-PirateClothingUniformJumpskirtBlackElegantDress = vestido elegante negro
+    .gender = male
+    .desc = Vestido elegante con un precioso lazo.
+
+ent-PirateClothingUniformJumpskirtBlueElegantDress = vestido elegante azul
+    .gender = male
+    .desc = Vestido elegante con un precioso lazo.
+
+ent-PirateClothingUniformJumpskirtBlueTurtleneckDress = vestido de cuello alto azul
+    .gender = male
+    .desc = Vestido de cuello alto con un diseño único.
+
+ent-PirateClothingUniformJumpskirtCapFormalDress = vestido formal del Capitán
+    .gender = male
+    .desc = Un vestido para ocasiones especiales.
+
+ent-PirateClothingUniformJumpskirtCaptain = mono-falda del Capitán
+    .gender = female
+    .desc = Es un mono-falda azul con algunas marcas doradas que denotan el rango de "Capitán".
+
+ent-PirateClothingUniformJumpskirtCargo = mono-falda de técnico de logística
+    .gender = female
+    .desc = Un robusto mono-falda, entregado a los miembros del departamento de Logística.
+
+ent-PirateClothingUniformJumpskirtCasualBlue = mono-falda informal azul
+    .gender = female
+    .desc = Una camisa azul holgada y desgastada con falda gris, perfecta para quien busca relajarse.
+
+ent-PirateClothingUniformJumpskirtCasualPurple = mono-falda informal morado
+    .gender = female
+    .desc = Una camisa morada holgada y desgastada con falda gris, perfecta para quien busca relajarse.
+
+ent-PirateClothingUniformJumpskirtCasualRed = mono-falda informal rojo
+    .gender = female
+    .desc = Una camisa roja holgada y desgastada con falda gris, perfecta para quien busca relajarse.
+
+ent-PirateClothingUniformJumpskirtChaplain = mono-falda del capellán
+    .gender = female
+    .desc = Es un mono-falda negro, frecuentemente usado por gente religiosa.
+
+ent-PirateClothingUniformJumpskirtChef = uniforme de cocinero
+    .gender = male
+    .desc = No se puede cocinar sin esto.
+
+ent-PirateClothingUniformJumpskirtChemistry = mono-falda de química
+    .gender = female
+    .desc = Hay unas manchas extrañas en este mono-falda. Hm.
+
+ent-PirateClothingUniformJumpskirtChiefEngineer = mono-falda del Ingeniero Jefe
+    .gender = female
+    .desc = Es un mono-falda de alta visibilidad entregado a los ingenieros lo suficientemente locos como para alcanzar el rango de Ingeniero Jefe.
+
+ent-PirateClothingUniformJumpskirtChiefEngineerTurtle = jersey de cuello alto del Ingeniero Jefe
+    .gender = male
+    .desc = Un jersey de cuello alto amarillo diseñado específicamente para trabajar en las condiciones del departamento de Ingeniería.
+
+ent-PirateClothingUniformJumpskirtCMO = mono-falda del Médico Jefe
+    .gender = female
+    .desc = Es un mono-falda usado por quienes tienen la experiencia para ser Médico Jefe. Proporciona protección biológica menor.
+
+ent-PirateClothingUniformJumpskirtCMOTurtle = mono-falda de cuello alto del Médico Jefe
+    .gender = female
+    .desc = Es un jersey de cuello alto usado por quienes tienen la experiencia para ser Médico Jefe. Proporciona protección biológica menor.
+
+ent-PirateClothingUniformJumpskirtColorBlack = mono-falda negro
+    .gender = female
+    .desc = Un mono-falda negro genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorBlue = mono-falda azul
+    .gender = female
+    .desc = Un mono-falda azul genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorDarkBlue = mono-falda azul oscuro
+    .gender = female
+    .desc = Un mono-falda azul oscuro genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorDarkGreen = mono-falda verde oscuro
+    .gender = female
+    .desc = Un mono-falda verde oscuro genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorGreen = mono-falda verde
+    .gender = female
+    .desc = Un mono-falda verde genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorGrey = mono-falda gris
+    .gender = female
+    .desc = Un mono-falda gris de buen gusto que te recuerda a los buenos tiempos.
+
+ent-PirateClothingUniformJumpskirtColorOrange = mono-falda naranja
+    .gender = female
+    .desc = No lo lleves cerca de oficiales de seguridad paranoicos.
+
+ent-PirateClothingUniformJumpskirtColorPink = mono-falda rosa
+    .gender = female
+    .desc = Con solo mirarlo te sientes <i>fabuloso</i>.
+
+ent-PirateClothingUniformJumpskirtColorPurple = mono-falda morado
+    .gender = female
+    .desc = Un mono-falda morado claro genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorRed = mono-falda rojo
+    .gender = female
+    .desc = Un mono-falda rojo genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorTeal = mono-falda turquesa
+    .gender = female
+    .desc = Un mono-falda turquesa genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorWhite = mono-falda blanco
+    .gender = female
+    .desc = Un mono-falda blanco genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtColorYellow = mono-falda amarillo
+    .gender = female
+    .desc = Un mono-falda amarillo genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpskirtCurator = falda discreta
+    .gender = female
+    .desc = Es discreta. Demasiado discreta...
+
+ent-PirateClothingUniformJumpskirtCyanStripedDress = vestido de rayas cian
+    .gender = male
+    .desc = Bonito vestido de rayas.
+
+ent-PirateClothingUniformJumpskirtEngineering = mono-falda de Ingeniería
+    .gender = female
+    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
+
+ent-PirateClothingUniformJumpskirtGenetics = mono-falda de genética
+    .gender = female
+    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
+
+ent-PirateClothingUniformJumpskirtGreenElegantDress = vestido elegante verde
+    .gender = male
+    .desc = Vestido elegante con un precioso lazo.
+
+ent-PirateClothingUniformJumpskirtGreenStripedDress = vestido verde a rayas
+    .gender = male
+    .desc = Bonito vestido de rayas.
+
+ent-PirateClothingUniformJumpskirtGreenTurtleneckDress = vestido verde de cuello alto
+    .gender = male
+    .desc = Vestido de cuello alto con un diseño único.
+
+ent-PirateClothingUniformJumpskirtHydroponics = mono falda de hidroponía
+    .gender = male
+    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
+
+ent-PirateClothingUniformJumpskirtJanimaid = uniforme de sirvienta de conserjería
+    .gender = male
+    .desc = Para profesionales, no para impostores.
+
+ent-PirateClothingUniformJumpskirtLawyerBlack = falda de traje de abogado negra
+    .gender = female
+    .desc = Una discreta falda de traje negra que llevan abogados y mafiosos.
+
+ent-PirateClothingUniformJumpskirtLawyerBlue = falda de traje de abogado azul
+    .gender = female
+    .desc = Una llamativa falda de traje azul que llevan abogados y fanfarrones.
+
+ent-PirateClothingUniformJumpskirtLawyerGood = falda de traje del buen abogado
+    .gender = female
+    .desc = ¡Una falda de traje hortera perfecta para un abogado CRIMINAL!
+
+ent-PirateClothingUniformJumpskirtLawyerPurple = falda de traje de abogado morada
+    .gender = female
+    .desc = Una elegante pieza morada que llevan abogados y gente del espectáculo.
+
+ent-PirateClothingUniformJumpskirtLawyerRed = falda de traje de abogado roja
+    .gender = female
+    .desc = Una llamativa falda de traje roja que llevan abogados y fanfarrones.
+
+ent-PirateClothingUniformJumpskirtLibrarian = mono falda de bibliotecario
+    .gender = male
+    .desc = Un acogedor jersey verde ideal para un curador de libros.
+
+ent-PirateClothingUniformJumpskirtMedicalDoctor = mono falda de médico
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección menor contra peligros biológicos. Tiene una cruz en el pecho que indica que quien lo lleva es personal médico capacitado.
+
+ent-PirateClothingUniformJumpskirtMercenary = mono falda de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpskirtMime = mono falda del mimo
+    .gender = male
+    .desc = ...
+
+ent-PirateClothingUniformJumpskirtOrangeStripedDress = vestido naranja a rayas
+    .gender = male
+    .desc = Bonito vestido de rayas.
+
+ent-PirateClothingUniformJumpskirtParamedic = mono falda de paramédico
+    .gender = male
+    .desc = Tiene una cruz en él, eso es bueno, ¿verdad?
+
+ent-PirateClothingUniformJumpskirtPerformer = mono falda de artista
+    .gender = male
+    .desc = Hola, soy Scott, presidente de Donk Pizza. ¿Has oído hablar de [FAMOUS VIRTUAL PERFORMER]?
+
+ent-PirateClothingUniformJumpskirtPinkStripedDress = vestido rosa a rayas
+    .gender = male
+    .desc = Bonito vestido de rayas.
+
+ent-PirateClothingUniformJumpskirtPrivateSec = mono falda de seguridad privada
+    .gender = male
+    .desc = Un uniforme especializado para un guardia de seguridad privada. Para el contratista privado exigente que necesita un aspecto profesional.
+
+ent-PirateClothingUniformJumpskirtPsychologist = falda de traje de psicólogo
+    .gender = female
+    .desc = No pierdo las cosas. Las coloco en lugares que luego se me escapan.
+
+ent-PirateClothingUniformJumpskirtPurpleElegantDress = vestido elegante morado
+    .gender = male
+    .desc = Vestido elegante con un precioso lazo.
+
+ent-PirateClothingUniformJumpskirtPurpleTurtleneckDress = vestido morado de cuello alto
+    .gender = male
+    .desc = Vestido de cuello alto con un diseño único.
+
+ent-PirateClothingUniformJumpskirtQMTurtleneck = jersey de cuello alto del cuartelmaestre
+    .gender = male
+    .desc = Un elegante jersey de cuello alto hecho para el duro entorno de trabajo de suministros.
+
+ent-PirateClothingUniformJumpskirtRedElegantDress = vestido elegante rojo
+    .gender = male
+    .desc = Vestido elegante con un precioso lazo.
+
+ent-PirateClothingUniformJumpskirtRedStripedDress = vestido rojo a rayas
+    .gender = male
+    .desc = Bonito vestido de rayas.
+
+ent-PirateClothingUniformJumpskirtRedTurtleneckDress = vestido rojo de cuello alto
+    .gender = male
+    .desc = Vestido de cuello alto con un diseño único.
+
+ent-PirateClothingUniformJumpskirtResearchDirector = jersey de cuello alto del Director de Investigación
+    .gender = male
+    .desc = Es un cuello vuelto llevado por quienes tienen los conocimientos para alcanzar el puesto de Director de Investigación. Su tejido proporciona una protección mínima contra contaminantes biológicos.
+
+ent-PirateClothingUniformJumpskirtRoboticist = falda-mono de roboticista
+    .gender = male
+    .desc = Es de color negro estilizador con costuras reforzadas; ideal para el trabajo industrial.
+
+ent-PirateClothingUniformJumpskirtScientist = falda-mono de científico
+    .gender = male
+    .desc = Está fabricada con una fibra especial que aumenta la inteligencia percibida y reduce la ética personal. Tiene marcas que identifican a su portador como científico.
+
+ent-PirateClothingUniformJumpskirtSeniorEngineer = falda-mono de ingeniero sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ingeniería.
+
+ent-PirateClothingUniformJumpskirtSeniorPhysician = falda-mono de médico sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento Médico.
+
+ent-PirateClothingUniformJumpskirtSeniorResearcher = falda-mono de investigador sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ciencia.
+
+ent-PirateClothingUniformJumpskirtVirology = falda-mono de virología
+    .gender = male
+    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
+
+ent-PirateClothingUniformJumpskirtYellowOldDress = vestido amarillo antiguo
+    .gender = male
+    .desc = Vestido clásico del Oeste.
+
+ent-PirateClothingUniformJumpskirtYellowTurtleneckDress = vestido amarillo de cuello vuelto
+    .gender = male
+    .desc = Vestido de cuello alto con un diseño único.
+
+ent-PirateClothingUniformJumpsuitAtmos = mono de técnico de atmósferas
+    .gender = male
+    .desc = Estoy en el trabajo. No puedo salir del trabajo. El trabajo es respirar. Estoy analizando la calidad del aire.
+
+ent-PirateClothingUniformJumpsuitAtmosCasual = mono casual de técnico de atmósferas
+    .gender = male
+    .desc = Con un trabajo tan fácil como el tuyo, bien puedes relajarte.
+
+ent-PirateClothingUniformJumpsuitBartender = uniforme de camarero
+    .gender = male
+    .desc = Un uniforme bonito y ordenado. Lástima lo del bar.
+
+ent-PirateClothingUniformJumpsuitBartenderPurple = uniforme morado de camarero
+    .gender = male
+    .desc = Un conjunto morado especial para servir bebidas.
+
+ent-PirateClothingUniformJumpsuitBH = traje desgastado
+    .gender = male
+    .desc = Quien lleva esto va en serio.
+
+ent-PirateClothingUniformJumpsuitBHGrey = traje noir
+    .gender = male
+    .desc = Un traje gris, con pasador de corbata incluido.
+
+ent-PirateClothingUniformJumpsuitCapFormal = traje formal del Capitán
+    .gender = male
+    .desc = Un traje para ocasiones especiales.
+
+ent-PirateClothingUniformJumpsuitCaptain = mono del Capitán
+    .gender = male
+    .desc = Es un mono azul con algunas marcas doradas que denotan el rango de "Capitán".
+
+ent-PirateClothingUniformJumpsuitCargo = mono de técnico de logística
+    .gender = male
+    .desc = Un mono resistente, emitido a los miembros del departamento de Logística.
+
+ent-PirateClothingUniformJumpsuitCasualBlue = mono azul informal
+    .gender = male
+    .desc = Una holgada camisa azul gastada con pantalones grises, perfecta para alguien que busca relajarse.
+
+ent-PirateClothingUniformJumpsuitCasualPurple = mono morado informal
+    .gender = male
+    .desc = Una holgada camisa morada gastada con pantalones grises, perfecta para alguien que busca relajarse.
+
+ent-PirateClothingUniformJumpsuitCasualRed = mono rojo informal
+    .gender = male
+    .desc = Una holgada camisa roja gastada con pantalones grises, perfecta para alguien que busca relajarse.
+
+ent-PirateClothingUniformJumpsuitChaplain = Mono del capellán
+    .gender = male
+    .desc = Es un mono negro que suele llevar la gente religiosa.
+
+ent-PirateClothingUniformJumpsuitChaplainPilgrimVest = Mono de peregrino
+    .gender = male
+    .desc = Toc-toc. ¿Te gustaría hablar sobre nuestro Señor y Salvador Nar-Sss... Eeh... Space Jeebus?
+
+ent-PirateClothingUniformJumpsuitChef = uniforme de cocinero
+    .gender = male
+    .desc = No se puede cocinar sin esto.
+
+ent-PirateClothingUniformJumpsuitChemistry = Mono de química
+    .gender = male
+    .desc = Hay algunas manchas extrañas en este mono. Hm.
+
+ent-PirateClothingUniformJumpsuitChiefEngineer = Mono del Ingeniero Jefe
+    .gender = male
+    .desc = Es un mono de alta visibilidad otorgado a los ingenieros lo suficientemente locos como para alcanzar el rango de Ingeniero Jefe.
+
+ent-PirateClothingUniformJumpsuitChiefEngineerNT = Mono de Ingeniero Jefe
+    .gender = male
+    .desc = Suele decirse en broma que el puesto de Ingeniero Jefe del sector de combate es adonde ascienden los ingenieros verdaderamente orientados a la logística. Buena suerte.
+
+ent-PirateClothingUniformJumpsuitChiefEngineerTurtle = jersey de cuello alto del Ingeniero Jefe
+    .gender = male
+    .desc = Un jersey de cuello alto amarillo diseñado específicamente para trabajar en las condiciones del departamento de Ingeniería.
+
+ent-PirateClothingUniformJumpsuitClown = Traje de payaso
+    .gender = male
+    .desc = ¡HONK!
+
+ent-PirateClothingUniformJumpsuitCMO = Mono del Médico Jefe
+    .gender = male
+    .desc = Es un mono que llevan quienes tienen la experiencia para ser Médico Jefe. Proporciona una ligera protección biológica.
+
+ent-PirateClothingUniformJumpsuitCMOTurtle = Mono de cuello alto del Médico Jefe
+    .gender = male
+    .desc = Es un jersey de cuello alto usado por quienes tienen la experiencia para ser Médico Jefe. Proporciona protección biológica menor.
+
+ent-PirateClothingUniformJumpsuitColorBlack = Mono negro
+    .gender = male
+    .desc = Un mono negro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorBlue = Mono azul
+    .gender = male
+    .desc = Un mono azul genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorDarkBlue = Mono azul oscuro
+    .gender = male
+    .desc = Un mono azul oscuro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorDarkGreen = Mono verde oscuro
+    .gender = male
+    .desc = Un mono verde oscuro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorGreen = Mono verde
+    .gender = male
+    .desc = Un mono verde genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorGrey = Mono gris
+    .gender = male
+    .desc = Un elegante mono gris que te recuerda a los buenos tiempos.
+
+ent-PirateClothingUniformJumpsuitColorOrange = Mono naranja
+    .gender = male
+    .desc = No lo lleves cerca de oficiales de seguridad paranoicos.
+
+ent-PirateClothingUniformJumpsuitColorPink = Mono rosa
+    .gender = male
+    .desc = Con solo mirarlo te sientes <i>fabuloso</i>.
+
+ent-PirateClothingUniformJumpsuitColorPurple = Mono morado
+    .gender = male
+    .desc = Un mono morado claro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorRed = Mono rojo
+    .gender = male
+    .desc = Un mono rojo genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorTeal = Mono turquesa
+    .gender = male
+    .desc = Un mono turquesa genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorWhite = Mono blanco
+    .gender = male
+    .desc = Un mono blanco genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitColorYellow = Mono amarillo
+    .gender = male
+    .desc = Un mono amarillo genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitCurator = traje sensato
+    .gender = male
+    .desc = Es discreta. Demasiado discreta...
+
+ent-PirateClothingUniformJumpsuitDameDane = atuendo yakuza
+    .gender = male
+    .desc = Baka mitai...
+
+ent-PirateClothingUniformJumpsuitEngineering = mono de ingeniería
+    .gender = male
+    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
+
+ent-PirateClothingUniformJumpsuitEngineeringHazard = mono de peligros
+    .gender = male
+    .desc = Tejido en un naranja cálido y sucio. Permite que quienes te rodean sepan que vas en serio cuando se trata de trabajar.
+
+ent-PirateClothingUniformJumpsuitFlannel = mono de franela
+    .gender = male
+    .desc = Huele como si alguien hubiera estado asando a la parrilla.
+
+ent-PirateClothingUniformJumpsuitGenetics = mono de genética
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
+
+ent-PirateClothingUniformJumpsuitGladiator = uniforme de gladiador
+    .gender = male
+    .desc = Hecho para verdaderos gladiadores (o Ash Walkers).
+
+ent-PirateClothingUniformJumpsuitHawaiBlack = camisa hawaiana negra
+    .gender = female
+    .desc = Negra como una noche estrellada.
+
+ent-PirateClothingUniformJumpsuitHawaiBlue = camisa hawaiana azul
+    .gender = female
+    .desc = Azul como un inmenso océano.
+
+ent-PirateClothingUniformJumpsuitHawaiRed = camisa hawaiana roja
+    .gender = female
+    .desc = Roja como una jugosa sandía.
+
+ent-PirateClothingUniformJumpsuitHawaiYellow = camisa hawaiana amarilla
+    .gender = female
+    .desc = Amarilla como un brillante sol.
+
+ent-PirateClothingUniformJumpsuitHydroponics = mono de hidroponía
+    .gender = male
+    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
+
+ent-PirateClothingUniformJumpsuitJester = traje de bufón
+    .gender = male
+    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
+
+ent-PirateClothingUniformJumpsuitJesterAlt = traje de bufón
+    .gender = male
+    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
+
+ent-PirateClothingUniformJumpsuitKilt = kilt
+    .gender = male
+    .desc = Un buen trozo de ropa pa' los mozos y las mozas.
+
+ent-PirateClothingUniformJumpsuitKimono = kimono
+    .gender = male
+    .desc = Ropa tradicional china.
+
+ent-PirateClothingUniformJumpsuitLawyerBlack = traje de abogado negro
+    .gender = male
+    .desc = Un sobrio traje negro usado por abogados y mafiosos.
+
+ent-PirateClothingUniformJumpsuitLawyerBlue = traje de abogado azul
+    .gender = male
+    .desc = Un llamativo traje azul usado por abogados y fanfarrones.
+
+ent-PirateClothingUniformJumpsuitLawyerGood = traje del buen abogado
+    .gender = male
+    .desc = ¡Un traje hortera perfecto para un abogado CRIMINAL!
+
+ent-PirateClothingUniformJumpsuitLawyerPurple = traje de abogado morado
+    .gender = male
+    .desc = Una elegante pieza morada que llevan abogados y gente del espectáculo.
+
+ent-PirateClothingUniformJumpsuitLawyerRed = traje de abogado rojo
+    .gender = male
+    .desc = Un llamativo traje rojo usado por abogados y fanfarrones.
+
+ent-PirateClothingUniformJumpsuitLibrarian = mono de bibliotecario
+    .gender = male
+    .desc = Un acogedor jersey verde ideal para un curador de libros.
+
+ent-PirateClothingUniformJumpsuitMedicalDoctor = mono de médico
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección menor contra peligros biológicos. Tiene una cruz en el pecho que indica que quien lo lleva es personal médico capacitado.
+
+ent-PirateClothingUniformJumpsuitMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryAtmospherics = mono de técnico de atmósferas
+    .gender = male
+    .desc = Estoy en el trabajo. No puedo salir del trabajo. El trabajo es respirar. Estoy analizando la calidad del aire.
+
+ent-PirateClothingUniformJumpsuitMilitaryCaptain = mono del Capitán
+    .gender = male
+    .desc = Es un mono azul con algunas marcas doradas que denotan el rango de "Capitán".
+
+ent-PirateClothingUniformJumpsuitMilitaryCargo = mono de técnico de logística
+    .gender = male
+    .desc = Un mono resistente, emitido a los miembros del departamento de Logística.
+
+ent-PirateClothingUniformJumpsuitMilitaryChemistry = Mono de química
+    .gender = male
+    .desc = Hay algunas manchas extrañas en este mono. Hm.
+
+ent-PirateClothingUniformJumpsuitMilitaryCMO = Mono del Médico Jefe
+    .gender = male
+    .desc = Es un mono que llevan quienes tienen la experiencia para ser Médico Jefe. Proporciona una ligera protección biológica.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorBlack = Mono negro
+    .gender = male
+    .desc = Un mono negro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorBlue = Mono azul
+    .gender = male
+    .desc = Un mono azul genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorBrown = Mono marrón
+    .gender = male
+    .desc = Un mono marrón genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorDarkBlue = Mono azul oscuro
+    .gender = male
+    .desc = Un mono azul oscuro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorDarkGreen = Mono verde oscuro
+    .gender = male
+    .desc = Un mono verde oscuro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorGreen = Mono verde
+    .gender = male
+    .desc = Un mono verde genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorGrey = Mono gris
+    .gender = male
+    .desc = Un elegante mono gris que te recuerda a los buenos tiempos.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorLightBrown = Mono marrón claro
+    .gender = male
+    .desc = Un mono marrón claro genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorMaroon = Mono granate
+    .gender = male
+    .desc = Un mono granate genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorOrange = Mono naranja
+    .gender = male
+    .desc = Un mono naranja genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorPink = Mono rosa
+    .gender = male
+    .desc = Un mono rosa genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorPurple = Mono morado
+    .gender = male
+    .desc = Un mono morado genérico sin marcas de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorRed = Mono rojo
+    .gender = male
+    .desc = Un mono rojo genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorTeal = Mono turquesa
+    .gender = male
+    .desc = Un mono turquesa genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryColorYellow = Mono amarillo
+    .gender = male
+    .desc = Un mono amarillo genérico sin insignias de rango.
+
+ent-PirateClothingUniformJumpsuitMilitaryContractor = mono de contratista
+    .gender = male
+    .desc = Un robusto mono, comúnmente emitido a los contratistas de NT.
+
+ent-PirateClothingUniformJumpsuitMilitaryContractorTac = mono de contratista
+    .gender = male
+    .desc = Un robusto mono, comúnmente emitido a los contratistas de NT.
+
+ent-PirateClothingUniformJumpsuitMilitaryEngineering = mono de ingeniería
+    .gender = male
+    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
+
+ent-PirateClothingUniformJumpsuitMilitaryEngineeringChief = Mono del Ingeniero Jefe
+    .gender = male
+    .desc = Es un mono de alta visibilidad otorgado a los ingenieros lo suficientemente locos como para alcanzar el rango de Ingeniero Jefe.
+
+ent-PirateClothingUniformJumpsuitMilitaryGenetics = mono de genética
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
+
+ent-PirateClothingUniformJumpsuitMilitaryHydroponics = mono de hidroponía
+    .gender = male
+    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
+
+ent-PirateClothingUniformJumpsuitMilitaryMedicalDoctor = mono de médico
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección menor contra peligros biológicos. Tiene una cruz en el pecho que indica que quien lo lleva es personal médico capacitado.
+
+ent-PirateClothingUniformJumpsuitMilitaryParamedic = mono de paramédico
+    .gender = male
+    .desc = Tiene una cruz en él, eso es bueno, ¿verdad?
+
+ent-PirateClothingUniformJumpsuitMilitaryPilot = mono de piloto
+    .gender = male
+    .desc = ¿Tú también crees que debería haber un bolsillo para tus cigarrillos favoritos?
+
+ent-PirateClothingUniformJumpsuitMilitaryQM = mono del cuartelmaestre
+    .gender = male
+    .desc = ¿Qué puede hacer el marrón por ti?
+
+ent-PirateClothingUniformJumpsuitMilitaryResearchDirector = jersey de cuello alto del Director de Investigación
+    .gender = male
+    .desc = Es un mono usado por quienes tienen los conocimientos para alcanzar el puesto de Director de Investigación. Su tela ofrece una protección menor contra contaminantes biológicos.
+
+ent-PirateClothingUniformJumpsuitMilitarySalvageSpecialist = mono del especialista en salvamento
+    .gender = male
+    .desc = Es un elegante mono con un resistente peto. Está muy sucio.
+
+ent-PirateClothingUniformJumpsuitMilitaryScientist = mono de científico
+    .gender = male
+    .desc = Está fabricada con una fibra especial que aumenta la inteligencia percibida y reduce la ética personal. Tiene marcas que identifican a su portador como científico.
+
+ent-PirateClothingUniformJumpsuitMilitaryService = mono de trabajador de servicios
+    .gender = male
+    .desc = Un mono estándar para los trabajadores de servicios de NT.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckBlueMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryCaptain = mono de capitán mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckBlueMercenaryMedic = mono de médico mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckMercenary = mono de mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckMercenaryCaptain = mono de capitán mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryTurtleneckMercenaryMedic = mono de médico mercenario
+    .gender = male
+    .desc = Ropa para mercenarios de verdad que han pasado por el fuego, el agua y la jungla de planetas plagados de monstruos peligrosos o blancos con recompensa asignada.
+
+ent-PirateClothingUniformJumpsuitMilitaryVirology = mono de virología
+    .gender = male
+    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
+
+ent-PirateClothingUniformJumpsuitMime = traje de mimo
+    .gender = male
+    .desc = ...
+
+ent-PirateClothingUniformJumpsuitMonasticRobeDark = hábito monástico oscuro
+    .gender = male
+    .desc = Es un hábito oscuro, que suelen llevar las personas religiosas.
+
+ent-PirateClothingUniformJumpsuitMonasticRobeLight = hábito monástico claro
+    .gender = male
+    .desc = Es un hábito claro, que suelen llevar las personas religiosas.
+
+ent-PirateClothingUniformJumpsuitParamedic = mono de paramédico
+    .gender = male
+    .desc = Tiene una cruz en él, eso es bueno, ¿verdad?
+
+ent-PirateClothingUniformJumpsuitPilot = mono de piloto
+    .gender = male
+    .desc = ¿Tú también crees que debería haber un bolsillo para tus cigarrillos favoritos?
+
+ent-PirateClothingUniformJumpsuitPrivateSec = mono de seguridad privada
+    .gender = male
+    .desc = Un uniforme especializado para un guardia de seguridad privada. Para el contratista privado exigente que necesita un aspecto profesional.
+
+ent-PirateClothingUniformJumpsuitPsychologist = traje de psicólogo
+    .gender = male
+    .desc = No pierdo las cosas. Las coloco en lugares que luego se me escapan.
+
+ent-PirateClothingUniformJumpsuitQMTurtleneck = jersey de cuello alto del cuartelmaestre
+    .gender = male
+    .desc = Un elegante jersey de cuello alto hecho para el duro entorno de trabajo de suministros.
+
+ent-PirateClothingUniformJumpsuitReporter = traje de reportero
+    .gender = male
+    .desc = Un buen reportero es escéptico toda su vida.
+
+ent-PirateClothingUniformJumpsuitResearchDirector = jersey de cuello alto del Director de Investigación
+    .gender = male
+    .desc = Es un cuello vuelto llevado por quienes tienen los conocimientos para alcanzar el puesto de Director de Investigación. Su tejido proporciona una protección mínima contra contaminantes biológicos.
+
+ent-PirateClothingUniformJumpsuitRoboticist = mono de robótico
+    .gender = male
+    .desc = Es de color negro estilizador con costuras reforzadas; ideal para el trabajo industrial.
+
+ent-PirateClothingUniformJumpsuitSafari = traje de safari
+    .gender = male
+    .desc = Perfecto para una excursión por la selva.
+
+ent-PirateClothingUniformJumpsuitSalvageSpecialist = mono del especialista en salvamento
+    .gender = male
+    .desc = Es un elegante mono con un resistente peto. Está muy sucio.
+
+ent-PirateClothingUniformJumpsuitScientist = mono de científico
+    .gender = male
+    .desc = Está fabricada con una fibra especial que aumenta la inteligencia percibida y reduce la ética personal. Tiene marcas que identifican a su portador como científico.
+
+ent-PirateClothingUniformJumpsuitScientistFormal = mono formal de científico
+    .gender = male
+    .desc = Un uniforme para científicos sofisticados, que luce mejor con su corbata a juego.
+
+ent-PirateClothingUniformJumpsuitSeniorEngineer = mono de ingeniero sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ingeniería.
+
+ent-PirateClothingUniformJumpsuitSeniorPhysician = mono de médico sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento Médico.
+
+ent-PirateClothingUniformJumpsuitSeniorResearcher = mono de investigador sénior
+    .gender = male
+    .desc = Un símbolo de habilidad y prestigio dentro del departamento de Ciencia.
+
+ent-PirateClothingUniformJumpsuitTshirtJeans = camiseta blanca y vaqueros
+    .gender = female
+    .desc = Incluso en el espacio, esta combinación sigue siendo tendencia.
+
+ent-PirateClothingUniformJumpsuitTshirtJeansGray = camiseta gris y vaqueros
+    .gender = female
+    .desc = Aunque no haya bosques en el espacio, esta combinación sigue siendo práctica.
+
+ent-PirateClothingUniformJumpsuitTshirtJeansPeach = camiseta color melocotón y vaqueros
+    .gender = female
+    .desc = Aunque tu tienda de ropa emo favorita esté en casa, esta combinación sigue siendo alternativa.
+
+ent-PirateClothingUniformJumpsuitVirology = mono de virología
+    .gender = male
+    .desc = Está fabricada con una fibra especial que proporciona protección especial contra peligros biológicos. Lleva una franja de rango de virólogo.
+
+ent-PirateClothingUniformOveralls = mono de trabajo
+    .gender = male
+    .desc = Ideal para trabajar al aire libre.
+
+ent-PirateClothingUniformRandomArmless = top sin mangas y pantalones coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomArmlessNoSkirt = mono sin mangas colorido
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomPunkCroptop = mono punk con top corto
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomPunkCroptopShorts = mono corto punk con top corto
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomPunkTanktop = mono punk con camiseta de tirantes
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomPunkTanktopShorts = mono corto punk con camiseta de tirantes
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomShirt = top y pantalones coloridos con estampado
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomShorts = pantalones coloridos
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateClothingUniformRandomStandard = top y pantalones coloridos
+    .gender = male
+    .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
+
+ent-PirateFlag = bandera pirata
+    .gender = female
+    .desc = ¡Alzad la Jolly Roger, bribones!
+
+ent-PirateGrenadeConcussion = granada pirata gris
+    .gender = female
+    .desc = Una granada sólida que parece una bala de cañón.
+
+ent-PirateGrenadeFire = granada pirata roja
+    .gender = female
+    .desc = Una granada caliente al tacto; propensa a incendiar las cosas.
+
+ent-PirateGrenadeRadiation = granada pirata verde
+    .gender = female
+    .desc = Una granada de olor nauseabundo que te hace sentir atontado.
+
+ent-PirateHandyFlag = bandera pirata de mano
+    .gender = female
+    .desc = Sosteniéndola en tus manos, demuéstrale a esas carpas que no estás bromeando.
+
+ent-PirateHook = garfio pirata
+    .gender = male
+    .desc = Un garfio pirata.
+
+ent-PirateIDCard = tarjeta de identificación pirata
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
+ent-PiratePDA = PDA pirata
+    .gender = female
+    .desc = ¡Yargh!
+
+ent-PirateScoonerSpawner = generador de tripulante pirata
+
+ent-PirateUniformScrubsColorBlue = pijama médico azul
+    .gender = male
+    .desc = Una combinación de comodidad y utilidad pensada para que extirpar todos los órganos de alguien y venderlos a un robot espacial resulte mucho más oficial.
+
+ent-PirateUniformScrubsColorGreen = pijama médico verde
+    .gender = male
+    .desc = Una combinación de comodidad y utilidad pensada para que extirpar todos los órganos de alguien y venderlos a un robot espacial resulte mucho más oficial.
+
+ent-PirateUniformScrubsColorPurple = pijama médico morado
+    .gender = male
+    .desc = Una combinación de comodidad y utilidad pensada para que extirpar todos los órganos de alguien y venderlos a un robot espacial resulte mucho más oficial.
+
+ent-PirateUniformShortsRed = pantalones de boxeo
+    .desc = Son pantalones cortos, no calzoncillos bóxer.
+
+ent-PirateUniformShortsRedWithTop = pantalones de boxeo con camiseta
+    .desc = Son pantalones cortos, no calzoncillos bóxer.
+
+ent-Pitcher = jarra de metal
+    .gender = female
+    .desc = Una jarra aislante de acero inoxidable. La mejor amiga de todos por la mañana.
+
+ent-PizzaLeftArm = brazo izquierdo de pizza
+    .gender = male
+    .desc = Para cuando quieras convertir a alguien en un Space John's.
+
+ent-PizzaRightArm = brazo derecho de pizza
+    .gender = male
+    .desc = Para cuando quieras convertir a alguien en un Space John's.
+
+ent-PlanetEntity = Planeta
+
+ent-PlantAnalyzer = analizador de plantas
+    .gender = male
+    .desc = Un dispositivo portátil que permite escanear semillas y plantas para obtener información detallada sobre sus genes.
+
+ent-PlantBag = bolsa de plantas
+    .gender = female
+    .desc = Una bolsa para que los botánicos puedan transportar fácilmente sus grandes cosechas.
+
+ent-PlantBagOfHolding = bolsa de plantas de contención
+    .gender = female
+    .desc = Una robusta bolsa de contención para botánicos prolíficos con más plantas que bolsillos.
+
+ent-PlantBGoneSpray = Plant-B-Gone
+    .gender = male
+    .desc = ¡Acaba con esas molestas malas hierbas!
+
+ent-PlantBox = caja de plantas
+    .gender = female
+    .desc = Un gran contenedor de almacenamiento para plantas y semillas.
+
+ent-PlaqueAtmos = placa de Atmósferas
+
+ent-PlasmaCanister = canister de plasma
+    .gender = male
+    .desc = Un canister que puede contener cualquier tipo de gas. Este debería contener plasma. Se puede conectar a puertos de conexión usando una llave inglesa.
+
+ent-PlasmaCanisterBroken = cilindro de gas roto
+    .gender = male
+    .desc = Un cilindro de gas roto. No del todo inútil, ya que puede desguazarse para obtener materiales de alta calidad.
+
+ent-PlasmaChemistryVial = vial
+    .gender = male
+    .desc = Un pequeño vial.
+
+ent-PlasmaDoor = puerta de plasma
+    .gender = female
+    .desc = Una puerta, ¿a dónde llevará?
+
+ent-PlasmaGlassReactorControlRod = varilla de control de cristal de plasma
+    .gender = female
+    .desc = Un conjunto de varillas de control para un reactor nuclear.
+
+ent-PlasmaGlassReactorGasChannel = varilla de canal de gas de cristal de plasma
+    .gender = female
+    .desc = Un canal de gas para un reactor nuclear.
+
+ent-PlasmaGlassReactorHeatExchanger = varilla intercambiadora de calor de cristal de plasma
+    .gender = female
+    .desc = Un intercambiador de calor para un reactor nuclear.
+
+ent-PlasmaOre = mineral de plasma
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-PlasmaOre1 = mineral de plasma
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-PlasmaOre15 = mineral de plasma
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-PlasmaOre5 = mineral de plasma
+    .gender = male
+    .desc = Un trozo de mineral sin refinar.
+
+ent-PlasmaReactorFuelRod = varilla de combustible de plasma
+    .gender = female
+    .desc = Una varilla de combustible para un reactor nuclear.
+
+ent-PlasmaReinforcedWindowDirectional = ventana de plasma reforzada direccional
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlasmaReinforcedWindowDirectionalDungeon = ventana de plasma reforzada direccional
+    .gender = female
+    .desc = Una ventana de cristal turbia, es difícil ver qué hay al otro lado.
+
+ent-PlasmaShiv = navaja de plasma
+    .gender = female
+    .desc = Un arma tosca hecha de un trozo de tela y un fragmento de cristal de plasma.
+
+ent-PlasmaTank = tanque de plasma
+    .gender = male
+    .desc = Contiene plasma peligroso. No inhalar. Extremadamente inflamable. Puede almacenar 10 L de gas.
+
+ent-PlasmaTankFilled = tanque de plasma
+    .gender = male
+    .desc = Contiene plasma peligroso. No inhalar. Extremadamente inflamable. Puede almacenar 10 L de gas.
+
+ent-PlasmaWindoorJanitorLocked = windoor de plasma
+    .gender = male
+    .desc = Es una ventana rosa *y* una puerta corredera. ¡Increíble!
+
+ent-PlasmaWindoorNukeopLocked = windoor de plasma
+    .gender = male
+    .desc = Es una ventana rosa *y* una puerta corredera. ¡Increíble!
+
+ent-PlasmaWindoorSecureArmoryLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureAtmosphericsLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureCentralCommandLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureChemistryLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureCommandLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureEngineeringLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureJanitorLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureNukeopLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureRogueLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureScienceLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureSecurityLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSecureSyndicateLocked = windoor de plasma seguro
+    .gender = male
+    .desc = Es una ventana morada resistente *y* una puerta corredera. ¡Espectacular!
+
+ent-PlasmaWindoorSyndicateLocked = windoor de plasma
+    .gender = male
+    .desc = Es una ventana rosa *y* una puerta corredera. ¡Increíble!
+
+ent-PlasmaWindow = ventana de plasma
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
+ent-PlasmaWindowDiagonal = ventana de plasma
+    .gender = female
+    .desc = No manches el cristal ahí abajo.
+
 ent-PlasmaWindowDirectional = ventana de plasma direccional
     .gender = female
     .desc = No manches el cristal ahí abajo.
@@ -2073,15 +4942,19 @@ ent-QuartermasterPDA = PDA de cuartelmaestre
     .gender = female
     .desc = PDA para el que hace los pedidos de armas.
 
-ent-R300BulletHE = proyectil HE de 430 mm
+ent-R300BulletHE = Proyectil HE de 320x752mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-R300ShellHE = proyectil de artillería HE de 430 mm
+ent-R300ShellHE = Cartucho HE de 320x752mm
     .gender = male
     .desc = Proyectil HE gigante y lento. Exclusivo del R300.
 
 ent-Rack = estantería
+    .gender = female
+    .desc = Una estantería para almacenar cosas.
+
+ent-RackBlack = estantería
     .gender = female
     .desc = Una estantería para almacenar cosas.
 
@@ -2150,7 +5023,7 @@ ent-RadioHandheldSecurity = radio de Seguridad
 
 ent-RadioImplant = implante de radio
     .gender = male
-    .desc = Este implante otorga acceso al canal del Syndicate sin necesidad de auricular.
+    .desc = Este implante concede acceso al canal de radio Subterráneo sin necesidad de auricular.
 
 ent-RadioImplantCentcomm = implante de radio
     .gender = male
@@ -2160,7 +5033,7 @@ ent-RadioImplantCivilian = Implante de radio civil
     .gender = male
     .desc = Este implante otorga acceso al canal Civil sin necesidad de auricular.
 
-ent-RadioImplanter = implantador del Syndicate
+ent-RadioImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -2506,10 +5379,6 @@ ent-RandomWoodenSupport = generador de soportes de madera
 
 ent-RandomWoodenWall = generador de paredes de madera
 
-ent-RavagerCarrierComputer = consola de astillero Ravager
-    .gender = female
-    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
-
 ent-RCD = RCD
     .gender = male
     .desc = El dispositivo de construcción rápida puede usarse para colocar y retirar rápidamente diversas estructuras e instalaciones. Necesita materia comprimida para funcionar. No requiere pasar una tarjeta de identificación para operar.
@@ -2854,19 +5723,19 @@ ent-ReinforcementRadioPDVImperiroach = radio de refuerzo de ImperiRoach
     .gender = female
     .desc = Llama a un ImperiRoach fielmente entrenado con una microbomba para que te ayude.
 
-ent-ReinforcementRadioSyndicate = radio de refuerzo del Sindicato
+ent-ReinforcementRadioSyndicate = radio de refuerzos
     .gender = female
-    .desc = ¡Llama a un agente del Sindicato de calidad cuestionable, al instante!
+    .desc = ¡Llama a alguien de dudosa calidad, al instante!
 
-ent-ReinforcementRadioSyndicateAncestor = radio de refuerzo de ancestro genético del Sindicato
-    .gender = female
-    .desc = Llama a un ancestro especialmente entrenado de tu elección para que te ayude.
-
-ent-ReinforcementRadioSyndicateAncestorNukeops = radio de refuerzo de ancestro genético del Sindicato
+ent-ReinforcementRadioSyndicateAncestor = radio de refuerzos de ancestro genético
     .gender = female
     .desc = Llama a un ancestro especialmente entrenado de tu elección para que te ayude.
 
-ent-ReinforcementRadioSyndicateCyborgAssault = radio de refuerzo de cyborg de asalto del Sindicato
+ent-ReinforcementRadioSyndicateAncestorNukeops = radio de refuerzos de ancestro genético
+    .gender = female
+    .desc = Llama a un ancestro especialmente entrenado de tu elección para que te ayude.
+
+ent-ReinforcementRadioSyndicateCyborgAssault = radio de refuerzos de ciborg de asalto
     .gender = female
     .desc = ¡Llama a un cyborg de asalto bien armado, al instante!
 
@@ -2874,7 +5743,7 @@ ent-ReinforcementRadioSyndicateNukeops = radio de operativo nuclear
     .gender = female
     .desc = ¡Llama a un operativo nuclear de dudosa calidad, al instante! Se proporciona equipamiento básico de operativo nuclear.
 
-ent-ReinforcementRadioSyndicateSyndiCat = radio de refuerzo del Syndicate
+ent-ReinforcementRadioSyndicateSyndiCat = radio de refuerzos kamicat
     .gender = female
     .desc = Llama a un gato fielmente entrenado con una microbomba para ayudarte.
 
@@ -3304,6 +6173,42 @@ ent-RipleyUpgradeKit = kit de mejora de exotraje
 ent-RitualDagger = daga ritual
     .gender = female
     .desc = Una extraña daga utilizada por grupos siniestros para rituales y sacrificios.
+
+ent-RMCContainerBlueLeft = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerBlueMiddle = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerBlueRight = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerGreenLeft = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerGreenMiddle = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerGreenRight = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerRedLeft = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerRedMiddle = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
+
+ent-RMCContainerRedRight = contenedor de carga
+    .gender = male
+    .desc = Un enorme contenedor industrial de transporte.
 
 ent-RnDPDA = PDA del Director de Investigación
     .gender = female
@@ -3831,7 +6736,7 @@ ent-ScramImplant = implante de escape
     .gender = male
     .desc = Este implante teletransporta aleatoriamente al usuario dentro de un radio amplio cuando se activa.
 
-ent-ScramImplanter = implantador del Syndicate
+ent-ScramImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -4070,6 +6975,14 @@ ent-SecurityPDA = PDA de Seguridad
 ent-SecurityTechFab = tecfab de Seguridad
     .gender = male
     .desc = Imprime equipamiento para el uso del personal de Seguridad.
+
+ent-SecurityTechFabCaelestinus = tecnofabricador de seguridad caelestinus
+    .gender = male
+    .desc = Un tecnofabricador usado por los miembros de la Brigada de Seguridad Caelestinus.
+
+ent-SecurityTechFabCaelestinusMachineCircuitboard = placa de máquina de tecfab de Seguridad
+    .gender = female
+    .desc = Una placa de circuito impreso para una tecfab de Seguridad.
 
 ent-SecurityTechFabCircuitboard = placa de máquina de tecfab de Seguridad
     .gender = female
@@ -4533,6 +7446,10 @@ ent-SheetUraniumFissile1 = uranio fisionable
     .gender = male
     .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto. DEFINITIVAMENTE no los guardes juntos.
 
+ent-SheetUraniumFissile3 = uranio fisionable
+    .gender = male
+    .desc = Lingotes de isótopos de uranio de grado armamentístico, puros y sin adulterar. Espera problemas con esto. DEFINITIVAMENTE no los guardes juntos.
+
 ent-ShelfBar = estantería de bar
     .gender = female
     .desc = Fabricada con la mejor madera sintética para todas tus necesidades de almacenaje de alcohol.
@@ -4592,6 +7509,10 @@ ent-ShelfWood = estantería de madera
 ent-ShellShotgun12_gaugeBeanbag = cartucho de escopeta (calibre 12 saco de arena)
     .gender = male
     .desc = Cartucho de escopeta estándar en casi todas partes.
+
+ent-ShellShotgun12_gaugeBlank = cartucho de escopeta (fogueo calibre 12)
+    .gender = male
+    .desc = Alguien olvidó la pólvora.
 
 ent-ShellShotgun12_gaugeBuckshot = cartucho de escopeta (calibre 12 postas)
     .gender = male
@@ -4717,6 +7638,14 @@ ent-ShieldGeneratorPOIBio = Acelerador Molecular Biológico S-243 "Biodome"
     .gender = male
     .desc = Un dispositivo muy caro, voluminoso y especializado que detecta y 'excita' las moléculas de ADN extraño atrapadas dentro de su radio. Al ser muy pesado y bastante caro, ha quedado relegado al uso exclusivo en puestos avanzados estacionarios. Además de su defensa biológica, este dispositivo también se ha reacondicionado con un generador de escudo convencional.
 
+ent-ShieldGeneratorPOIBioPdv = Acelerador Molecular Biológico PDV "Biodome" RD-493
+    .gender = male
+    .desc = Un dispositivo muy caro, voluminoso y especializado que detecta y 'excita' las moléculas de ADN extraño atrapadas dentro de su radio. Al ser muy pesado y bastante caro, ha quedado relegado al uso exclusivo en puestos avanzados estacionarios. Además de su defensa biológica, este dispositivo también se ha reacondicionado con un generador de escudo convencional.
+
+ent-ShieldGeneratorPOIBioTsf = Acelerador Molecular Biológico TSF "Biodome" QZ-293
+    .gender = male
+    .desc = Un dispositivo muy caro, voluminoso y especializado que detecta y 'excita' las moléculas de ADN extraño atrapadas dentro de su radio. Al ser muy pesado y bastante caro, ha quedado relegado al uso exclusivo en puestos avanzados estacionarios. Además de su defensa biológica, este dispositivo también se ha reacondicionado con un generador de escudo convencional.
+
 ent-ShieldGeneratorSmall = Generador de escudo MS-100 "Sentinel"
     .gender = male
     .desc = El Sentinel. Un escudo bueno y fiable.
@@ -4765,7 +7694,7 @@ ent-ShipIonProjectile = disparo de iones
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-ShipLeviathanProjectile = proyectil LEVIATHAN 520mm
+ent-ShipLeviathanProjectile = Proyectil LEVIATHAN de 380x1120mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -4785,7 +7714,7 @@ ent-ShipMissileASM150Unguided = misil ASM-150 150mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-ShipMissileASM19 = misil antibuque MPSSM EMPHE
+ent-ShipMissileASM19 = Misil antibuque EMPHE MPSSM
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
@@ -4901,65 +7830,37 @@ ent-ShipShield = escudo de nave
 
 ent-ShipSunnyFlare = Bengala ECM
 
-ent-ShipTarnyxApheProjectile = proyectil APHE TARNYX de 150 mm
+ent-ShipTarnyxApheProjectile = Proyectil APHE TARNYX de 90x630mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-ShipTarnyxApProjectile = Proyectil AP TARNYX 150mm
+ent-ShipTarnyxApProjectile = Proyectil AP TARNYX de 90x630mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-ShipTarnyxProjectile = Proyectil EMP TARNYX 150mm
+ent-ShipTarnyxProjectile = Proyectil EMP TARNYX de 90x630mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-ShipVoucherAkula = USSP Akula LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una nave patrullera clase Akula.
-
-ent-ShipVoucherAldebaran = TSF Aldebaran LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata clase Aldebaran de las reservas del buque insignia.
-
-ent-ShipVoucherAltair = TSF Altair LPC [T3]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata clase Altair de las reservas del buque insignia.
-
-ent-ShipVoucherAndromeda = TSF Andromeda LPC [T2]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero clase Andromeda de las reservas del buque insignia.
-
-ent-ShipVoucherBalor = balor drone LPC
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un pequeño dron de defensa antidron disponible comercialmente.
-
-ent-ShipVoucherBastion = PDV Bastion LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un combatiente clase Bastion de las reservas del buque insignia.
 
 ent-ShipVoucherBuran = USSP Buran LPC [T3]
     .gender = male
     .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata clase Buran.
 
-ent-ShipVoucherDagger = TSF Dagger LPC [T1]
+ent-ShipVoucherCaelestinusT0 = vale de nave caelestinus T0
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor de cañón de riel clase Dagger de las reservas del buque insignia.
+    .desc = Permite una compra de una nave pequeña Caelestinus. Se destruye al canjearlo.
+
+ent-ShipVoucherCaelestinusT1 = vale de nave caelestinus T1
+    .gender = male
+    .desc = Permite la compra de una nave mediana Caelestinus.
 
 ent-ShipVoucherDrakon = USSP Drakon LPC [T2]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero clase Drakon.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta clase Drakon.
 
-ent-ShipVoucherEuropa = PDV Europa LPC [T2]
+ent-ShipVoucherEuropaT3 = PDV Europa LPC [T3]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero clase Europa de las reservas del buque insignia.
-
-ent-ShipVoucherFenrir = PDV Fenrir LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor de cañón de riel clase Fenrir de las reservas del buque insignia.
-
-ent-ShipVoucherFlyssa = TSF Flyssa LPC [T4]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor clase Flyssa de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta pesada clase Europa de las reservas del astillero.
 
 ent-ShipVoucherFrontierGuard = vale de nave guardiana de estación
     .gender = male
@@ -4967,7 +7868,7 @@ ent-ShipVoucherFrontierGuard = vale de nave guardiana de estación
 
 ent-ShipVoucherFrontierIronMan = Ironman LPC
     .gender = male
-    .desc = Permite la compra gratuita de un Baeg o Framework en el Astillero. Se destruye al vender.
+    .desc = Permite comprar un Guppy o un Sandbox gratuito en el Astillero. Se destruye al venderse.
 
 ent-ShipVoucherFrontierJanitor = vale de nave de conserje
     .gender = male
@@ -4981,65 +7882,29 @@ ent-ShipVoucherFrontierService = vale de nave de servicio
     .gender = male
     .desc = Permite la compra gratuita de una pequeña nave de servicio en el Astillero del Personal de Frontier. Se destruye al vender.
 
-ent-ShipVoucherFujian = LPC Fujian de la TSF [T3]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un portaaviones de escolta de clase Fujian Tipo-53C de las reservas del buque insignia.
-
-ent-ShipVoucherGanymede = PDV Ganymede LPC [T2]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero clase Ganymede de las reservas del buque insignia.
-
-ent-ShipVoucherGarm = PDV Garm LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un bombardero clase Garm de las reservas del buque insignia.
-
-ent-ShipVoucherHound = hound LPC
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un dron clase Hound
-
 ent-ShipVoucherInertia = PDV inertia LPC
     .gender = male
     .desc = Una pequeña tarjeta que autoriza la adquisición de un Inertia a bordo del Motley Anne.
 
-ent-ShipVoucherKalisto = PDV Kalisto LPC [T1]
+ent-ShipVoucherKortikT3 = PDV Kortik-R LPC [T3]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor de cañón de riel clase Kalisto de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta pesada clase Kortik-R de las reservas del astillero.
 
-ent-ShipVoucherKortik = LPC Kortik-EM de la PDV [T3]
+ent-ShipVoucherLuda = TSFN Luda LPC [T4]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata de clase Kortik-EM de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que autoriza la adquisición de un destructor estratégico de misiles clase TSFN Luda.
 
-ent-ShipVoucherKortikT2 = LPC Kortik-R de la PDV [T2]
+ent-ShipVoucherMieyoSenkusha = MMC Senku-sha LPC [T1]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata de clase Kortik-R de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta clase Senku-sha de las reservas de la estación.
 
-ent-ShipVoucherLayak = LPC Layak de la PDV [T1]
+ent-ShipVoucherMieyoYukikaze = MMC Yukikaze LPC [T1]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una corbeta de clase Layak de las reservas del buque insignia.
-
-ent-ShipVoucherLedokol = USSP Ledokol LPC [T4]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un transporte de asalto clase Ledokol.
-
-ent-ShipVoucherLedokolAttachment = USSP Ledokol attachment LPC [T4]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de módulos de acoplamiento para el Ledokol.
-
-ent-ShipVoucherMercury = TSF Mercury LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una corbeta de clase Mercury de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta clase Yukikaze de las reservas de la estación.
 
 ent-ShipVoucherMock = PDV mock LPC
     .gender = male
     .desc = Una pequeña tarjeta que autoriza la adquisición de un Mock a bordo del Motley Anne.
-
-ent-ShipVoucherMotleyAnne = PDV Motley Anne LPC [T2]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un portanaves de clase Motley Anne de las reservas del buque insignia.
-
-ent-ShipVoucherNeptune = PDV Neptune LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata de clase Neptune de las reservas del buque insignia.
 
 ent-ShipVoucherPdvT0 = PDV T0 vale de nave
     .gender = male
@@ -5047,71 +7912,31 @@ ent-ShipVoucherPdvT0 = PDV T0 vale de nave
 
 ent-ShipVoucherPdvT1 = PDV T1 vale de nave
     .gender = male
-    .desc = Permite una compra gratuita de una nave PDV pequeña o mediana. Se destruye al venderse.
+    .desc = Permite la compra de una nave mediana PDV. Se destruye al venderse.
 
 ent-ShipVoucherPdvT2 = PDV T2 vale de nave
     .gender = male
-    .desc = Permite una compra gratuita de una nave PDV pequeña o mediana. Se destruye al venderse.
+    .desc = Permite la compra de una nave de tamaño mediano a grande PDV. Se destruye al venderse.
 
-ent-ShipVoucherPolaris = TSF Polaris LPC [T3]
+ent-ShipVoucherPdvT3 = Vale de nave PDV T3
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una fragata de clase Polaris Tipo-56D de las reservas del buque insignia.
+    .desc = Permite la compra de una nave grande PDV. Se destruye al venderse.
 
-ent-ShipVoucherRavager = ravager LPC
+ent-ShipVoucherPolaris = TSFN Polaris LPC [T3]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una nave nodriza de clase Ravager de las reservas del buque insignia.
-
-ent-ShipVoucherRemontnik = USSP Remontnik LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un buque de salvamento y apoyo de clase Remontnik.
-
-ent-ShipVoucherRook = rook LPC
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un dron de clase Rook.
-
-ent-ShipVoucherSaintie = PDV Saintie LPC [T3]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero de clase Saintie de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una fragata clase Type-56K Polaris.
 
 ent-ShipVoucherSaturn = PDV Saturn LPC [T4]
     .gender = male
-    .desc = Una pequeña tarjeta que autoriza la adquisición del Saturn.
-
-ent-ShipVoucherScorpion = PDV Scorpion LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un escolta de clase Scorpion de las reservas del buque insignia.
-
-ent-ShipVoucherSentinel = TSF Sentinel LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un escolta de clase Sentinel de las reservas del buque insignia.
+    .desc = Una tarjeta pequeña que autoriza la adquisición de un destructor clase PDV Saturn.
 
 ent-ShipVoucherSnakelet = PDV snakelet LPC
     .gender = male
     .desc = Una pequeña tarjeta que autoriza la adquisición de un Snakelet a bordo del Motley Anne.
 
-ent-ShipVoucherSpekter = TSF spekter LPC
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una corbeta de misiles de clase Spekter de las reservas del buque insignia.
-
-ent-ShipVoucherSpica = TSF Spica LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un escolta de clase Spica de las reservas del buque insignia.
-
-ent-ShipVoucherSulak = USSP Sulak LPC [T3]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un destructor de clase Sulak.
-
-ent-ShipVoucherTarantula = TSF Tarantula LPC [T1]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un escolta de clase Tarantula de las reservas del buque insignia.
-
-ent-ShipVoucherTaser = taser LPC
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un dron de clase taser.
-
 ent-ShipVoucherTayfun = USSP Tayfun LPC [T2]
     .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero de clase Tayfun.
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una cañonera clase Tayfun.
 
 ent-ShipVoucherTsfT0 = TSFMC T0 vale de nave
     .gender = male
@@ -5129,13 +7954,21 @@ ent-ShipVoucherUSSPT0 = USSP T0 vale de nave
     .gender = male
     .desc = Permite una compra gratuita de una nave USSP pequeña o mediana. Se destruye al venderse.
 
+ent-ShipVoucherVGKeelback = VG Keelback LPC [T2]
+    .gender = male
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una corbeta clase Keelback de las reservas de la estación.
+
+ent-ShipVoucherVGLancehead = VG Lancehead LPC [T2]
+    .gender = male
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una plataforma de artillería clase Lancehead de las reservas de la estación.
+
+ent-ShipVoucherVGLeviathan = VG Leviathan LPC [T3]
+    .gender = male
+    .desc = Una tarjeta pequeña que contiene los datos para la adquisición de una fragata clase Leviathan
+
 ent-ShipVoucherVGWolf = VG Wolfsnake LPC [T2]
     .gender = male
     .desc = Una pequeña tarjeta que contiene los datos para la adquisición de un crucero de clase Wolfsnake de las reservas de la estación.
-
-ent-ShipVoucherVulture = PDV Vulture LPC [T2]
-    .gender = male
-    .desc = Una pequeña tarjeta que contiene los datos para la adquisición de una plataforma minera de clase Vulture de las reservas del buque insignia.
 
 ent-ShipVoucherZephyr = TSF Zephyr LPC
     .gender = male
@@ -5524,6 +8357,38 @@ ent-SignalControlledValveAlt1 = válvula de señal
 ent-SignalControlledValveAlt2 = válvula de señal
     .gender = female
     .desc = Una tubería con una válvula que puede controlarse mediante señales.
+
+ent-SignalFlareGold = bengala de señal (otra)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica una señal indeterminada.
+
+ent-SignalFlareGoldActivated = bengala de señal (otra)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica una señal indeterminada.
+
+ent-SignalFlareGreen = bengala de señal (amistosa)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención amistosa.
+
+ent-SignalFlareGreenActivated = bengala de señal (amistosa)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención amistosa.
+
+ent-SignalFlareRed = bengala de señal (hostil)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención hostil.
+
+ent-SignalFlareRedActivated = bengala de señal (hostil)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención hostil.
+
+ent-SignalFlareWhite = bengala de señal (neutral/rendición)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención neutral o, en combate, rendición.
+
+ent-SignalFlareWhiteActivated = bengala de señal (neutral/rendición)
+    .gender = female
+    .desc = Una bengala que produce una luz muy intensa y una señal IFF durante un breve periodo. Indica intención neutral o, en combate, rendición.
 
 ent-SignalSwitch = interruptor de señal
     .gender = male
@@ -6292,1875 +9157,4 @@ ent-SimpleXenoArtifactItem = artefacto alienígena
 ent-Singularity = singularidad gravitacional
     .gender = female
     .desc = Un hipnótico remolino de oscuridad que absorbe todo. Si se mueve hacia ti, corre.
-
-ent-SingularityBeacon = baliza de singularidad
-    .gender = female
-    .desc = Un dispositivo del Syndicate que atrae la singularidad. Si está suelta y estás viendo esto, corre.
-
-ent-SingularityGenerator = generador de singularidad gravitacional
-    .gender = male
-    .desc = Un extraño dispositivo que produce una Singularidad Gravitacional cuando se configura. Incluye un sistema de seguridad de contención con apagado temporal.
-
-ent-SingularityGeneratorFlatpack = paquete plano del generador de singularidad
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un generador de singularidad.
-
-ent-SingularityGrenade = granada de singularidad
-    .gender = female
-    .desc = Granada que simula el poder de una singularidad, atrayendo objetos hacia un montón.
-
-ent-SingularityHammer = Martillo de Singularidad
-    .gender = male
-    .desc = El pináculo de la tecnología de combate cuerpo a cuerpo, el martillo aprovecha el poder de una singularidad en miniatura para asestar golpes aplastantes.
-
-ent-SingularityToy = juguete de la marca singuloth
-    .gender = male
-    .desc = ¡Producido en masa por un conglomerado corporativo sádico!
-
-ent-Sink = fregadero
-    .gender = male
-    .desc = Los grifos han sido apretados al máximo par posible, pero son conocidos por seguir goteando.
-
-ent-SinkEmpty = fregadero
-    .gender = male
-    .desc = Los grifos han sido apretados al máximo par posible, pero son conocidos por seguir goteando.
-
-ent-SinkStemless = fregadero
-    .gender = male
-    .desc = Los grifos han sido apretados al máximo par posible, pero son conocidos por seguir goteando.
-
-ent-SinkStemlessWater = fregadero
-    .gender = male
-    .desc = Los grifos han sido apretados al máximo par posible, pero son conocidos por seguir goteando.
-
-ent-SinkWide = fregadero ancho
-    .gender = male
-    .desc = Los grifos han sido apretados al máximo par posible, pero son conocidos por seguir goteando.
-
-ent-Skub = skub
-    .gender = male
-    .desc = Skub es el quinto Dios del Caos.
-
-ent-Sledgehammer = mazo
-    .gender = male
-    .desc = La herramienta perfecta para una carnicería desenfrenada.
-
-ent-SlimePersonCube = cubo de persona slime
-    .gender = male
-    .desc = ¡Solo añade agua!
-
-ent-SlipocalypseClusterSoap = jabón cúmulo del resbalocalipsis
-    .gender = male
-    .desc = Dispersa pequeños trozos de jabón del Syndicate por un área al caer al suelo.
-
-ent-SmallGyroscope = giroscopio pequeño
-    .gender = male
-    .desc = Aumenta la rotación angular potencial del transbordador.
-
-ent-SmallGyroscopeFlatpack = paquete plano de giroscopio pequeño
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un giroscopio pequeño.
-
-ent-SmallGyroscopeMachineCircuitboard = placa de máquina de giroscopio pequeño
-
-ent-SmallGyroscopeNfsd = giroscopio pequeño
-    .gender = male
-    .desc = Aumenta la rotación angular potencial del transbordador.
-
-ent-SmallGyroscopeNfsdMachineCircuitboard = placa de máquina de giroscopio TSFMC pequeño
-
-ent-SmallGyroscopeSecurity = giroscopio pequeño
-    .gender = male
-    .desc = Aumenta la rotación angular potencial del transbordador.
-
-ent-SmallGyroscopeSecurityMachineCircuitboard = placa de máquina de giroscopio de seguridad pequeño
-
-ent-SmallLight = luz pequeña
-    .gender = female
-    .desc = Una luz siempre encendida.
-
-ent-SmallLightDim = luz pequeña
-    .gender = female
-    .desc = Una luz siempre encendida.
-
-ent-SmallRefillableDummy = SmallRefillableDummy
-
-ent-SmallThruster = propulsor pequeño
-    .gender = male
-    .desc = Un propulsor que permite mover un transbordador.
-
-ent-SmallThrusterFlatpack = paquete plano de propulsor pequeño
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un propulsor pequeño.
-
-ent-SmallThrusterMachineCircuitboard = placa de máquina de propulsor pequeño
-
-ent-SmartArmoryCircuitboard = placa de máquina de armería inteligente
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para una armería inteligente.
-
-ent-SmartArmoryStorage = Armería Inteligente
-    .gender = female
-    .desc = Almacena gran cantidad de objetos y herramientas relacionados con el combate.
-
-ent-SmartFridge = Nevera Inteligente
-    .gender = female
-    .desc = Una unidad de almacenamiento refrigerado para mantener los objetos fríos y frescos.
-
-ent-SmartfridgeCircuitboard = placa de máquina de nevera inteligente
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para una nevera inteligente.
-
-ent-SmartFridgeMedical = Nevera Inteligente
-    .gender = female
-    .desc = Una unidad de almacenamiento refrigerado para mantener los objetos fríos y frescos.
-
-ent-SMESAdvanced = SMES avanzado
-    .desc = Una unidad de almacenamiento de energía magnética superconductora (SMES) de capacidad aún mayor.
-
-ent-SMESAdvancedEmpty = SMES avanzado
-    .desc = Una unidad de almacenamiento de energía magnética superconductora (SMES) de capacidad aún mayor.
-
-ent-SMESAdvancedMachineCircuitboard = placa de máquina de SMES avanzado
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un SMES avanzado.
-
-ent-SMESBasic = SMES
-    .desc = Una unidad de almacenamiento de energía magnética superconductora (SMES) de alta capacidad.
-
-ent-SMESBasicEmpty = SMES
-    .desc = Una unidad de almacenamiento de energía magnética superconductora (SMES) de alta capacidad.
-
-ent-SMESMachineCircuitboard = placa de máquina de SMES
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un SMES.
-
-ent-SmiteBook = libro de hechizos de castigo
-
-ent-Smoke = humo
-
-ent-SmokeGrenade = granada de humo
-    .gender = female
-    .desc = Una granada táctica que libera una gran nube de humo duradera al ser usada.
-
-ent-SmokeGrenadeLaunched = granada de humo
-    .gender = female
-    .desc = Una granada táctica que libera una gran nube de humo duradera al ser usada.
-
-ent-SmokingPipe = pipa
-    .gender = female
-    .desc = Igual que fumaba el abuelo.
-
-ent-SmokingPipeFilledCannabis = pipa
-    .gender = female
-    .desc = Igual que fumaba el abuelo.
-
-ent-SmokingPipeFilledCannabisRainbow = pipa
-    .gender = female
-    .desc = Igual que fumaba el abuelo.
-
-ent-SmokingPipeFilledTobacco = pipa
-    .gender = female
-    .desc = Igual que fumaba el abuelo.
-
-ent-SnapPop = petardo
-    .gender = male
-    .desc = ¡Tíralo al suelo y escucha el ¡PUM!
-
-ent-SnapPopBox = caja de petardos
-    .gender = female
-    .desc = ¡Contiene petardos para unos minutos de diversión explosiva!
-
-ent-SnowBattlemap = mapa de batalla nevado
-    .gender = male
-    .desc = ¡Un mapa de batalla para comenzar tu gélida exploración, piezas no incluidas!
-
-ent-SnowBoardTabletop = mapa de batalla nevado
-
-ent-SnowElementalSpawner = generador de elemental de nieve
-
-ent-SoakedCigarette = cigarrillo
-    .gender = male
-    .desc = Un rulo de tabaco y nicotina empapado en algún producto químico.
-
-ent-Soap = jabón
-    .gender = male
-    .desc = Una pastilla de jabón barata. No huele.
-
-ent-SoapConjured = jabón
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-SoapConjuredBloodCultCluster = jabón
-    .gender = male
-    .desc = Una pastilla de jabón barata. No huele.
-
-ent-SoapDeluxe = jabón
-    .gender = male
-    .desc = Una pastilla de jabón de lujo de la marca Waffle Co. Huele a fresas.
-
-ent-SoapHomemade = jabón
-    .gender = male
-    .desc = Una pastilla de jabón casera. Huele a... bueno....
-
-ent-SoapletBloodCult = jaboncillo
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-SoapletBloodCultSpread = jaboncillo
-    .gender = male
-    .desc = ¡Si puedes ver esto, probablemente estás muerto!
-
-ent-SoapletSyndie = jaboncillo
-    .gender = male
-    .desc = Un pequeño trozo de jabón del Syndicate.
-
-ent-SoapNT = jabón
-    .gender = male
-    .desc = Una pastilla de jabón de la marca Nanotrasen. Huele a plasma.
-
-ent-SoapOmega = jabón omega
-    .gender = male
-    .desc = El jabón más avanzado conocido por la humanidad. Huele a bluespace.
-
-ent-SoapSyndie = jabón
-    .gender = male
-    .desc = Una pastilla de jabón poco fiable. Huele a miedo.
-
-ent-SodaDispenser = dispensador de refrescos
-    .gender = male
-    .desc = Un dispensador de bebidas con una selección de refrescos y otras bebidas comunes. Tiene una sola ranura de llenado para recipientes.
-
-ent-SodaDispenserEmpty = dispensador de refrescos
-    .gender = male
-    .desc = Un dispensador de bebidas con una selección de refrescos y otras bebidas comunes. Tiene una sola ranura de llenado para recipientes.
-
-ent-SodaDispenserMachineCircuitboard = placa de máquina de dispensador de refrescos
-    .gender = female
-    .desc = Una placa de circuito impreso de máquina para un dispensador de refrescos.
-
-ent-SodiumLightBulb = bombilla de sodio
-    .gender = female
-    .desc = Una bombilla intensa que a la vez alarma y deprime.
-
-ent-SodiumLightTube = tubo de luz de sodio
-    .gender = male
-    .desc = Una bombilla de alta potencia y alta energía para las profundidades del espacio. Salada.
-
-ent-SolarAssembly = ensamblaje solar
-    .gender = male
-    .desc = Un ensamblaje solar. Ancla a un cable para comenzar a construir un panel solar.
-
-ent-SolarAssemblyFlatpack = paquete plano de ensamblaje solar
-    .gender = male
-    .desc = Un paquete plano utilizado para construir un ensamblaje solar.
-
-ent-SolarControlComputerCircuitboard = placa de ordenador de control solar
-    .gender = female
-    .desc = Una placa de circuito impreso de ordenador para una consola de control solar.
-
-ent-SolarPanel = panel solar
-    .gender = male
-    .desc = Un panel solar que genera energía.
-
-ent-SolarPanelBasePhysSprite = panel solar
-
-ent-SolarPanelBroken = panel solar
-    .gender = male
-    .desc = Un panel solar roto.
-
-ent-SolarPanelPlasma = panel solar de plasma
-    .gender = male
-    .desc = Un panel solar de plasma que genera energía.
-
-ent-SolarPanelPlasmaBroken = panel solar de plasma
-    .gender = male
-    .desc = Un panel solar de plasma roto.
-
-ent-SolarPanelUranium = panel solar de uranio
-    .gender = male
-    .desc = Un panel solar de uranio que genera energía.
-
-ent-SolarPanelUraniumBroken = panel solar de uranio
-    .gender = male
-    .desc = Un panel solar de uranio roto.
-
-ent-SolarTracker = rastreador solar
-    .gender = male
-    .desc = Un rastreador solar. Rastrea la estrella más cercana.
-
-ent-SolarTrackerElectronics = electrónica de rastreador solar
-    .gender = female
-    .desc = Placa de circuito avanzada utilizada para rastrear la estrella más cercana.
-
-ent-SolCommonTranslator = Traductor de Sol Común
-    .gender = male
-    .desc = Traduce el habla entre el Sol Común y el Galáctico Común. ¡Como un auténtico terrícola!
-
-ent-SolCommonTranslatorImplant = implante traductor de Sol Común
-    .gender = male
-    .desc = Un implante que otorga la capacidad de entender y hablar el Sol Común. ¡Raaagh!
-
-ent-SolCommonTranslatorImplanter = implante traductor de Sol Común
-    .gender = male
-    .desc = Una jeringa desechable diseñada exclusivamente para la inyección de implantes subdérmicos.
-
-ent-SolidReinforcedSecretDoor = muro reforzado
-    .gender = male
-    .desc = Mantiene el aire dentro y a la greytide fuera.
-
-ent-SolidSecretDoor = muro sólido
-    .gender = male
-    .desc = Mantiene el aire dentro y a la greytide fuera.
-
-ent-SonicScrewdriver = destornillador sónico
-    .gender = male
-    .desc = Wzzzzz....
-
-ent-SoybeanSeeds = paquete de semillas de soja
-
-ent-SpaceBladeBlade = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeBlue = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeBoxTrash = caja de cartón sin montar
-    .gender = female
-    .desc = Una pequeña caja de cartón de juguete sin montar.
-
-ent-SpaceBladeCheck = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeClown = hoja espacial
-    .gender = female
-    .desc = Déjalo pitar
-
-ent-SpaceBladeContra = hoja espacial
-    .gender = female
-    .desc = Déjalo segar
-
-ent-SpaceBladeEyeball = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeFrontier = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeGoldBlue = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeMail = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeMc = hoja espacial
-    .gender = female
-    .desc = Déjalo McDrip
-
-ent-SpaceBladeMoff = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladePizza = hoja espacial
-    .gender = female
-    .desc = Suéltalo mamá mía, no apto para menores de 3 años
-
-ent-SpaceBladeRedOrange = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeRune = hoja espacial
-    .gender = female
-    .desc = Las fiestas de cumpleaños son recordatorios anuales de que en cuanto naces empiezas a morir, a menos que lo dejes salir
-
-ent-SpaceBladeSec = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeSingularity = hoja espacial
-    .gender = female
-    .desc = Déjalo consumir
-
-ent-SpaceBladeTesla = hoja espacial
-    .gender = female
-    .desc = Déjalo gotear
-
-ent-SpaceBladeWeh = hoja espacial
-    .gender = female
-    .desc = ¡Déjalo weh!
-
-ent-SpaceCarpCube = cubo de carpa
-    .gender = male
-    .desc = ¡Solo añade agua! Bajo tu propia responsabilidad.
-
-ent-SpaceCash = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash10 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash100 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash1000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash10000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash100000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash1000000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash11000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash12000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash1250 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash13000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash14000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash1500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash15000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash16000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash1750 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash18000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash2000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash20000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash2250 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash24000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash250 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash2500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash25000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash2750 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash3000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash30000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash3250 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash3500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash3750 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash4000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash4250 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash4500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash4750 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash5000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash50000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash5500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash6000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash6500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash7000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash750 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash7500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash75000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash8000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash8500 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCash9000 = créditos
-    .desc = ¡Créditos Estándar Veridian, el alma de la galaxia! Comúnmente denominados "Créditos", son billetes emitidos por el Banco Esmeralda Veridian, el mayor banco de la galaxia.
-
-ent-SpaceCashCounterfeit = crédittos
-    .desc = Estándar Valeriano C- ¿Qué narices...? ¡¡¡ESTAS SON FALSIFICACIONES DE MALA CALIDAD!!!
-
-ent-SpaceCashCounterfeit200000 = crédittos
-    .desc = Estándar Valeriano C- ¿Qué narices...? ¡¡¡ESTAS SON FALSIFICACIONES DE MALA CALIDAD!!!
-
-ent-SpaceCashExpeditionT1 = créditos (5.000)
-    .desc = Un maletín lleno de billetes recién salidos de la ceca digital. Huele a éxito e impuestos sin pagar.
-
-ent-SpaceCashExpeditionT2 = créditos (10.000)
-    .desc = Un maletín lleno de billetes recién salidos de la ceca digital. Huele a éxito e impuestos sin pagar.
-
-ent-SpaceCashExpeditionT3 = créditos (20.000)
-    .desc = Un maletín lleno de billetes recién salidos de la ceca digital. Huele a éxito e impuestos sin pagar.
-
-ent-SpaceCashExpeditionT4 = créditos (40.000)
-    .desc = Un maletín lleno de billetes recién salidos de la ceca digital. Huele a éxito e impuestos sin pagar.
-
-ent-SpaceCashExpeditionT5 = créditos (70.000)
-    .desc = Un maletín lleno de billetes recién salidos de la ceca digital. Huele a éxito e impuestos sin pagar.
-
-ent-SpaceHeater = calefactor espacial
-    .gender = male
-    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Comúnmente denominado "Calefactor Espacial".
-
-ent-SpaceHeaterAnchored = calefactor espacial
-    .gender = male
-    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Comúnmente denominado "Calefactor Espacial".
-
-ent-SpaceHeaterEnabled = calefactor espacial
-    .gender = male
-    .desc = Un dispositivo de tecnología bluespace que altera la temperatura local. Comúnmente denominado "Calefactor Espacial".
-
-ent-SpaceHeaterFlatpack = paquete plano de calefactor espacial
-    .gender = male
-    .desc = Un paquete plano para construir un calefactor espacial.
-
-ent-SpaceHeaterMachineCircuitBoard = placa de máquina de calefactor espacial
-    .gender = female
-    .desc = Una placa de circuito impreso para un calefactor espacial.
-
-ent-SpacemansTrumpetSeeds = paquete de semillas de trompeta del cosmonauta
-
-ent-SpaceMedipen = medipen espacial
-    .gender = male
-    .desc = Contiene una mezcla de sustancias químicas que te protegen de los mortales efectos del espacio.
-
-ent-SpacemenFigureSpawner = Generador de Minifiguras de Cosmonautas
-
-ent-SpaceQuartz = cuarzo espacial
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SpaceQuartz1 = cuarzo espacial
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SpaceQuartz15 = cuarzo espacial
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-SpaceQuartz5 = cuarzo espacial
-    .gender = male
-    .desc = Un trozo de mineral sin refinar.
-
-ent-Spaceshroom = seta espacial
-    .gender = female
-    .desc = Un racimo de hongos silvestres al que le gusta crecer en entornos oscuros y húmedos.
-
-ent-SpaceTickCube = cubo de garrapata
-    .gender = male
-    .desc = ¡Solo añade agua! Bajo tu propia responsabilidad.
-
-ent-SpaceTickSpawner = Generador de Garrapatas Espaciales de Salvamento
-
-ent-SpaceVillainArcade = recreativa del villano espacial
-    .gender = female
-    .desc = Una máquina recreativa.
-
-ent-SpaceVillainArcadeComputerCircuitboard = placa de la recreativa del villano espacial
-    .gender = female
-    .desc = Una placa de circuito impreso para una máquina recreativa del villano espacial.
-
-ent-SpaceVillainArcadeFilled = recreativa del villano espacial
-    .gender = female
-    .desc = Una máquina recreativa.
-
-ent-Spark = relámpago
-
-ent-SparkFlare = Emisor de señal
-
-ent-SpawnAsakimWarrior = generador de guerreros asakim
-
-ent-SpawnChimeraGhostrole = generador de rol fantasma quimera
-
-ent-SpawnClownSpider = generador de araña payaso
-
-ent-SpawnContrabandCrate = Generador de Cajas de Contrabando
-
-ent-SpawnDungeonCanisterBroken = depósito roto aleatorio
-
-ent-SpawnDungeonClutterBeakerEmpty = vaso de precipitados aleatorio
-
-ent-SpawnDungeonClutterHypospray = hipospray aleatorio
-
-ent-SpawnDungeonClutterImplanter = implantador aleatorio
-
-ent-SpawnDungeonClutterMedical = trastos aleatorios
-
-ent-SpawnDungeonClutterMedipens = medipens aleatorios
-
-ent-SpawnDungeonClutterMedsFull = medicamentos aleatorios
-
-ent-SpawnDungeonClutterMedsSingle = medicamentos aleatorios
-
-ent-SpawnDungeonClutterPatientTransport = transporte de pacientes aleatorio
-
-ent-SpawnDungeonClutterSyringe = jeringa aleatoria
-
-ent-SpawnDungeonComputerFrame = chasis de ordenador aleatorio
-
-ent-SpawnDungeonFurnitureBedroom = dormitorio aleatorio
-
-ent-SpawnDungeonFurnitureKitchen = mueble aleatorio
-
-ent-SpawnDungeonFurnitureScience = mueble aleatorio
-
-ent-SpawnDungeonLawBoardScience = placa de leyes aleatoria
-
-ent-SpawnDungeonLootAmmoIncendiary = munición aleatoria
-
-ent-SpawnDungeonLootAmmoLethal = munición aleatoria
-
-ent-SpawnDungeonLootAmmoPractice = munición aleatoria
-
-ent-SpawnDungeonLootAmmoRubber = munición aleatoria
-
-ent-SpawnDungeonLootAmmoUranium = munición aleatoria
-
-ent-SpawnDungeonLootArmorMercenary = armadura aleatoria
-
-ent-SpawnDungeonLootArmoryClutter = trastos aleatorios
-
-ent-SpawnDungeonLootArmoryClutterSec = trastos aleatorios
-
-ent-SpawnDungeonLootArmoryExplosives = arma aleatoria
-
-ent-SpawnDungeonLootArmoryGuns = arma aleatoria
-
-ent-SpawnDungeonLootArmoryMelee = arma aleatoria
-
-ent-SpawnDungeonLootArmoryRare = arma aleatoria
-
-ent-SpawnDungeonLootBriefcase = maletín aleatorio
-
-ent-SpawnDungeonLootBureaucracy = trastos aleatorios
-
-ent-SpawnDungeonLootBureaucracyPen = bolígrafo aleatorio
-
-ent-SpawnDungeonLootChems = sustancias químicas aleatorias
-
-ent-SpawnDungeonLootChemsHydroponics = sustancias químicas aleatorias
-
-ent-SpawnDungeonLootCircuitBoard = placa de máquina aleatoria
-
-ent-SpawnDungeonLootCircuitBoardEngi = placa de máquina aleatoria
-
-ent-SpawnDungeonLootCircuitBoardMed = placa de máquina aleatoria
-
-ent-SpawnDungeonLootCircuitBoardSalvage = placa de máquina aleatoria
-
-ent-SpawnDungeonLootCircuitBoardScience = placa de máquina aleatoria
-
-ent-SpawnDungeonLootClothesEngi = ropa aleatoria
-
-ent-SpawnDungeonLootClothesHydroponics = ropa aleatoria
-
-ent-SpawnDungeonLootClothesKitchen = ropa aleatoria
-
-ent-SpawnDungeonLootClothesMed = ropa aleatoria
-
-ent-SpawnDungeonLootClothesMercenary = ropa aleatoria
-
-ent-SpawnDungeonLootClothesSalvage = ropa aleatoria
-
-ent-SpawnDungeonLootClothesScience = ropa aleatoria
-
-ent-SpawnDungeonLootClutterEngi = trastos aleatorios
-
-ent-SpawnDungeonLootClutterHydroponics = trastos aleatorios
-
-ent-SpawnDungeonLootClutterKitchen = trastos aleatorios
-
-ent-SpawnDungeonLootClutterSalvage = trastos aleatorios
-
-ent-SpawnDungeonLootClutterScience = trastos aleatorios
-
-ent-SpawnDungeonLootCrateArmoryArmor = caja aleatoria
-
-ent-SpawnDungeonLootCrateArmoryWeapon = caja aleatoria
-
-ent-SpawnDungeonLootCrateEmptyEngi = caja aleatoria (vacía)
-
-ent-SpawnDungeonLootCrateEmptyHydro = caja aleatoria (vacía)
-
-ent-SpawnDungeonLootCrateEmptyMed = caja aleatoria (vacía)
-
-ent-SpawnDungeonLootCrateEmptyService = caja aleatoria (vacía)
-
-ent-SpawnDungeonLootCrateEngi = caja aleatoria
-
-ent-SpawnDungeonLootCrateGeneral = caja aleatoria
-
-ent-SpawnDungeonLootCrateHydro = caja aleatoria
-
-ent-SpawnDungeonLootCrateMaterials = caja aleatoria
-
-ent-SpawnDungeonLootCrateMed = caja aleatoria
-
-ent-SpawnDungeonLootCrateRestockArmory = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockClothes = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockEngi = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockGeneral = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockHydro = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockMed = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateRestockService = caja aleatoria (reabastecimiento)
-
-ent-SpawnDungeonLootCrateScience = caja aleatoria
-
-ent-SpawnDungeonLootCrateService = caja aleatoria
-
-ent-SpawnDungeonLootCrateVehicle = caja de vehículo aleatoria
-
-ent-SpawnDungeonLootCutlery = cubiertos aleatorios
-
-ent-SpawnDungeonLootExplosivesT1 = arma aleatoria
-
-ent-SpawnDungeonLootExplosivesT2 = arma aleatoria
-
-ent-SpawnDungeonLootExplosivesT3 = arma aleatoria
-
-ent-SpawnDungeonLootExplosivesT4 = arma aleatoria
-
-ent-SpawnDungeonLootExplosivesT5 = arma aleatoria
-
-ent-SpawnDungeonLootFlatpacks = paquete plano aleatorio
-
-ent-SpawnDungeonLootFlatpacksEngi = paquete plano aleatorio
-
-ent-SpawnDungeonLootFlatpacksMed = paquete plano aleatorio
-
-ent-SpawnDungeonLootFlatpacksScience = paquete plano aleatorio
-
-ent-SpawnDungeonLootFlatpacksService = paquete plano aleatorio
-
-ent-SpawnDungeonLootFlatpacksSuppl = paquete plano aleatorio
-
-ent-SpawnDungeonLootFood = comida aleatoria
-
-ent-SpawnDungeonLootGunT1 = arma aleatoria
-
-ent-SpawnDungeonLootGunT2 = arma aleatoria
-
-ent-SpawnDungeonLootGunT3 = arma aleatoria
-
-ent-SpawnDungeonLootGunT4 = arma aleatoria
-
-ent-SpawnDungeonLootGunT5 = arma aleatoria
-
-ent-SpawnDungeonLootHardsuitsMercenary = trajes rígidos aleatorios
-
-ent-SpawnDungeonLootHardsuitsSalvage = trajes rígidos aleatorios
-
-ent-SpawnDungeonLootKitchenTabletop = techfab de máquina aleatorio
-
-ent-SpawnDungeonLootKitsFirstAid = botiquín aleatorio
-
-ent-SpawnDungeonLootKitSurgery = kit de cirugía aleatorio
-
-ent-SpawnDungeonLootLathe = techfab de máquina aleatorio
-
-ent-SpawnDungeonLootLatheArmory = techfab de máquina aleatorio
-
-ent-SpawnDungeonLootLatheEngi = techfab de máquina aleatorio
-
-ent-SpawnDungeonLootLatheSalvage = techfab de máquina aleatorio
-
-ent-SpawnDungeonLootLawBoards = placa de leyes aleatoria
-
-ent-SpawnDungeonLootLockersArmory = taquilla aleatoria
-
-ent-SpawnDungeonLootLockersEngi = taquilla aleatoria
-
-ent-SpawnDungeonLootLockersGeneral = taquilla aleatoria
-
-ent-SpawnDungeonLootLockersMed = taquilla aleatoria
-
-ent-SpawnDungeonLootLockersProtectiveGear = taquilla aleatoria
-
-ent-SpawnDungeonLootLockersSalvage = taquilla aleatoria
-
-ent-SpawnDungeonLootMaterialsBasicFull = materiales aleatorios
-
-ent-SpawnDungeonLootMaterialsBasicSingle = materiales aleatorios
-
-ent-SpawnDungeonLootMaterialsValuableFull = materiales aleatorios
-
-ent-SpawnDungeonLootMaterialsValuableSingle = materiales aleatorios
-
-ent-SpawnDungeonLootMeleeT1 = arma aleatoria
-
-ent-SpawnDungeonLootMeleeT2 = arma aleatoria
-
-ent-SpawnDungeonLootMeleeT3 = arma aleatoria
-
-ent-SpawnDungeonLootMeleeT4 = arma aleatoria
-
-ent-SpawnDungeonLootMeleeT5 = arma aleatoria
-
-ent-SpawnDungeonLootMugs = taza aleatoria
-
-ent-SpawnDungeonLootOresFull = minerales aleatorios
-
-ent-SpawnDungeonLootOresSingle = minerales aleatorios
-
-ent-SpawnDungeonLootPartsEngi = piezas aleatorias
-
-ent-SpawnDungeonLootPowerCell = celda de energía aleatoria
-
-ent-SpawnDungeonLootRnDDisk = disco aleatorio
-
-ent-SpawnDungeonLootSeed = semilla aleatoria
-
-ent-SpawnDungeonLootShieldsMercenary = escudos aleatorios
-
-ent-SpawnDungeonLootSpesos = créditos aleatorios
-
-ent-SpawnDungeonLootSuitStorageUnitsEngi = unidad de almacenamiento de traje aleatoria
-
-ent-SpawnDungeonLootSuitStorageUnitsGeneral = unidad de almacenamiento de traje aleatoria
-
-ent-SpawnDungeonLootSuitStorageUnitsMercenary = unidad de almacenamiento de traje aleatoria
-
-ent-SpawnDungeonLootSuitStorageUnitsSalvage = unidad de almacenamiento de traje aleatoria
-
-ent-SpawnDungeonLootToolbox = caja de herramientas aleatoria
-
-ent-SpawnDungeonLootToolsAdvancedEngineering = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsBasicEngineering = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsHydroponics = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsSalvage = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsSurgery = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsSurgeryAdvanced = herramienta aleatoria
-
-ent-SpawnDungeonLootToolsSurgeryCrude = herramienta aleatoria
-
-ent-SpawnDungeonLootVaultGuns = arma aleatoria
-
-ent-SpawnDungeonLootVendingRestocks = caja de reabastecimiento aleatoria
-
-ent-SpawnDungeonMachineFrame = chasis de máquina aleatorio
-
-ent-SpawnDungeonRandomHumanCorpse = cadáver aleatorio
-
-ent-SpawnDungeonVendomatsArmory = vendomat aleatorio
-
-ent-SpawnDungeonVendomatsClothes = vendomat aleatorio
-
-ent-SpawnDungeonVendomatsEngi = vendomats aleatorios
-
-ent-SpawnDungeonVendomatsMed = vendomat aleatorio
-
-ent-SpawnDungeonVendomatsRecreational = vendomat aleatorio
-
-ent-SpawnDungeonVendomatsSalvage = vendomats aleatorios
-
-ent-SpawnDungeonVendomatsTools = vendomat aleatorio
-
-ent-SpawnerHoloGraffitiRandom = holograffiti
-
-ent-SpawnEventContrabandCrate = Generador de Cajas de Contrabando
-
-ent-SpawnFloorTrapBear = generador de trampa de suelo
-
-ent-SpawnFloorTrapCarp = generador de trampa de suelo
-
-ent-SpawnFloorTrapKangaroo = generador de trampa de suelo
-
-ent-SpawnFloorTrapXenoBurrower = generador de trampa de suelo
-
-ent-SpawnFloorTrapXenoDrone = generador de trampa de suelo
-
-ent-SpawnHonkBot = generador de bot honk
-
-ent-SpawnInhandMeleeWeaponBloodCultHigh = arma cuerpo a cuerpo aleatoria
-
-ent-SpawnInhandMeleeWeaponBloodCultLow = arma cuerpo a cuerpo aleatoria
-
-ent-SpawnLootDatafarmBitcoin = bitcoin aleatorio
-
-ent-SpawnLootOres15 = minerales aleatorios
-
-ent-SpawnLootTechDiskPrinter = discos generables por impresora de discos tecnológicos
-
-ent-SpawnLootTechDisksPrinterT1 = discos de impresora de discos tecnológicos
-
-ent-SpawnLootTechDisksPrinterT2 = discos de impresora de discos tecnológicos
-
-ent-SpawnLootTechDisksPrinterT3 = discos de impresora de discos tecnológicos
-
-ent-SpawnLootTechDisksPrinterT4 = discos de impresora de discos tecnológicos
-
-ent-SpawnLootTechDisksT1 = discos tecnológicos T1 aleatorios
-
-ent-SpawnLootTechDisksT2Faction = discos tecnológicos de facción T2 aleatorios
-
-ent-SpawnLootTechDisksT2Mech = discos tecnológicos de mech T2 aleatorios
-
-ent-SpawnLootTechDisksT3Fracture = discos tecnológicos de fractura T3 aleatorios
-
-ent-SpawnLootTechDisksT3Mech = discos tecnológicos de mech T3 aleatorios
-
-ent-SpawnMechAFInterceptorFilled = Generador de AF-28 Broadsword
-
-ent-SpawnMechAFInterceptorMFilled = Generador de AF-28-M Halberd
-
-ent-SpawnMechClarke = Generador de Clarke
-
-ent-SpawnMechDurand = Generador de Durand
-
-ent-SpawnMechGygax = Generador de Gygax
-
-ent-SpawnMechGygaxSyndie = Generador de Gygax Oscuro
-
-ent-SpawnMechGygaxSyndieFilled = Generador de Gygax Oscuro
-
-ent-SpawnMechHonker = Generador de H.O.N.K.
-
-ent-SpawnMechHonkerFilled = Generador de H.O.N.K.
-
-ent-SpawnMechMarauder = Generador de Marauder
-
-ent-SpawnMechMarauderFilled = Generador de Marauder
-
-ent-SpawnMechMaulerSyndie = Generador de Mauler
-
-ent-SpawnMechMaulerSyndieFilled = Generador de Mauler
-
-ent-SpawnMechRipley = Generador de Ripley APLU
-
-ent-SpawnMechRipley2 = Generador de Ripley APLU MK-II
-
-ent-SpawnMechSeraph = Generador de Seraph
-
-ent-SpawnMechSeraphFilled = Generador de Seraph
-
-ent-SpawnMobAberrantFleshExpeditions = generador de carne aberrante
-
-ent-SpawnMobAberrantFleshNewbornExpeditions = generador de carne aberrante recién nacida
-
-ent-SpawnMobAdultSlimesBlue = Generador de Slimes Azul
-
-ent-SpawnMobAdultSlimesBlueAngry = Generador de Slimes Azul Enfadado
-
-ent-SpawnMobAdultSlimesGreen = Generador de Slimes Verde
-
-ent-SpawnMobAdultSlimesGreenAngry = Generador de Slimes Verde Enfadado
-
-ent-SpawnMobAdultSlimesYellow = Generador de Slimes Amarillo
-
-ent-SpawnMobAdultSlimesYellowAngry = Generador de Slimes Amarillo Enfadado
-
-ent-SpawnMobAlexander = Generador de Alexander
-
-ent-SpawnMobApproacherCore = generador de núcleo aproximador
-
-ent-SpawnMobArcIndBlaster = Generador de Blaster de Arcadia Industries
-
-ent-SpawnMobArcIndHoloparasiteGuardian = Generador de Guardian de Arcadia Industries
-
-ent-SpawnMobArcIndShredder = Generador de Shredder de Arcadia Industries
-
-ent-SpawnMobArgocyteBig = generador de argocitos
-
-ent-SpawnMobArgocyteLeviathingExpeditions = generador de leviathing
-
-ent-SpawnMobArgocyteMedium = generador de argocitos
-
-ent-SpawnMobArgocyteSmall = generador de argocitos
-
-ent-SpawnMobArgocyteTiny = generador de argocitos
-
-ent-SpawnMobAttackerCore = generador de núcleo atacante
-
-ent-SpawnMobAttackerCoreSmart = generador de núcleo atacante inteligente
-
-ent-SpawnMobAttackerCoreStaticSmart = generador de núcleo atacante estático inteligente
-
-ent-SpawnMobBandito = Generador de Bandito
-
-ent-SpawnMobBear = Generador de Oso Espacial
-
-ent-SpawnMobBearSalvage = Generador de Oso Espacial de Salvamento
-
-ent-SpawnMobBee = Generador de Abejas
-
-ent-SpawnMobBehonker = Generador de Behonker
-
-ent-SpawnMobBloodCultistAcolyte = generador de acólito del culto de sangre
-
-ent-SpawnMobBloodCultistAscended = generador de cultista ascendido
-
-ent-SpawnMobBloodCultistAscendedSummons = invocaciones de cultista ascendido
-
-ent-SpawnMobBloodCultistCaster = generador de fanático del culto de sangre
-
-ent-SpawnMobBloodCultistJanitor = generador de conserje del culto de sangre
-
-ent-SpawnMobBloodCultistPriest = generador de sacerdote del culto de sangre
-
-ent-SpawnMobBloodCultistZealotMelee = generador de fanático del culto de sangre
-
-ent-SpawnMobBloodCultistZealotRanged = generador de fanático del culto de sangre
-
-ent-SpawnMobBloodCultLeech = generador de sanguijuela del culto de sangre
-
-ent-SpawnMobBoxingKangaroo = Generador de Canguro Boxeador
-
-ent-SpawnMobButterfly = Generador de Mariposas
-
-ent-SpawnMobCarp = Generador de Carpa Espacial
-
-ent-SpawnMobCarpHolo = Generador de Holocarpa
-
-ent-SpawnMobCarpMagic = Generador de Magicarp
-
-ent-SpawnMobCat = Generador de Gatos
-
-ent-SpawnMobCatBingus = Generador de Bingus
-
-ent-SpawnMobCatBloodCult = generador de gato del culto de sangre
-
-ent-SpawnMobCatBloodCultLowChance = generador de gato del culto de sangre
-
-ent-SpawnMobCatCappy = Generador de Cappy
-
-ent-SpawnMobCatClarpy = Generador de Clarpy
-
-ent-SpawnMobCatClippy = Generador de Clippy
-
-ent-SpawnMobCatException = Generador de Excepción
-
-ent-SpawnMobCatFloppa = Generador de Floppa
-
-ent-SpawnMobCatGeneric = Generador de Gato Genérico
-
-ent-SpawnMobCatKitten = Generador de Gatito
-
-ent-SpawnMobCatRuntime = Generador de Runtime
-
-ent-SpawnMobCatSpace = Generador de Gato Espacial
-
-ent-SpawnMobCatSyndy = syndicat
-
-ent-SpawnMobCleanBot = generador de cleanbot
-
-ent-SpawnMobCleanBotSyndie = generador de cleanbot del Syndicate
-
-ent-SpawnMobCobraSalvage = Generador de Cobra Espacial de Salvamento
-
-ent-SpawnMobCockroach = Generador de Cucaracha
-
-ent-SpawnMobCorgi = Generador de Corgi del HoP
-
-ent-SpawnMobCorgiMouse = Generador de Ratón Dev
-
-ent-SpawnMobCow = Generador de Vaca
-
-ent-SpawnMobCrab = Generador de Cangrejo
-
-ent-SpawnMobCrabAtmos = Generador de Tropico
-
-ent-SpawnMobDinosaurBig = generador de dinosaurio
-
-ent-SpawnMobDinosaurMedium = generador de dinosaurio
-
-ent-SpawnMobDinosaurSmall = generador de dinosaurio
-
-ent-SpawnMobDroneAiAssembly = generador de núcleo atacante
-
-ent-SpawnMobDroneAiDander = generador de núcleo orbitador
-
-ent-SpawnMobDroneAiLance = generador de núcleo atacante
-
-ent-SpawnMobDroneAiMedusa = generador de núcleo atacante
-
-ent-SpawnMobDroneAiMPulsar = generador de núcleo atacante
-
-ent-SpawnMobDroneAiQuake = generador de núcleo atacante
-
-ent-SpawnMobExperimentationVictim = generador de víctima de experimentación
-
-ent-SpawnMobExplorerBoss = generador de jefe explorador
-
-ent-SpawnMobExplorerT1 = generador de explorador
-
-ent-SpawnMobExplorerT2 = generador de explorador
-
-ent-SpawnMobExplorerT3 = generador de explorador
-
-ent-SpawnMobFleshAssimilatedMiner = generador de minero de carne aberrante
-
-ent-SpawnMobFleshClampExpeditions = generador de pinza de carne aberrante
-
-ent-SpawnMobFleshGolemExpeditions = generador de gólem de carne aberrante
-
-ent-SpawnMobFleshJaredExpeditions = generador de Jared de carne aberrante
-
-ent-SpawnMobFleshLoverExpeditions = generador de amante de carne aberrante
-
-ent-SpawnMobFoxRenault = Generador de Zorro Renault
-
-ent-SpawnMobFrog = Generador de Rana
-
-ent-SpawnMobGingerbreadAI = Generador de Hombre de Pan de Jengibre
-
-ent-SpawnMobGoat = Generador de Cabra
-
-ent-SpawnMobGorilla = Generador de Gorila
-
-ent-SpawnMobHamsterHamlet = Generador de Hámster Hamlet
-
-ent-SpawnMobHellspawn = Generador de Engendro Infernal
-
-ent-SpawnMobHorrorExpeditions = generador de horror de carne aberrante
-
-ent-SpawnMobHuman = Generador de Urist
-
-ent-SpawnMobKangaroo = Generador de Canguro Espacial
-
-ent-SpawnMobKangarooSalvage = Generador de Canguro Espacial de Salvamento
-
-ent-SpawnMobKangarooWillow = Generador de Willow
-
-ent-SpawnMobKoboldYipyip = Generador de Yip Yip
-
-ent-SpawnMobLizard = Generador de Lagarto
-
-ent-SpawnMobLuminousEntity = generador de entidad luminosa
-
-ent-SpawnMobLuminousObject = generador de objeto luminoso
-
-ent-SpawnMobLuminousPerson = generador de persona luminosa
-
-ent-SpawnMobMcGriff = Generador de McGriff
-
-ent-SpawnMobMedibot = generador de medibot
-
-ent-SpawnMobMercenaryCaptain = generador de jefe mercenario
-
-ent-SpawnMobMercenaryT1 = generador de mercenario
-
-ent-SpawnMobMercenaryT2 = generador de mercenario
-
-ent-SpawnMobMercenaryT3 = generador de mercenario
-
-ent-SpawnMobMonkey = Generador de Mono
-
-ent-SpawnMobMonkeyPunpun = Generador de Pun Pun
-
-ent-SpawnMobMoproach = Generador de Moproach
-
-ent-SpawnMobMouse = Generador de Ratón
-
-ent-SpawnMobNpcStationAiAttackerBroadside = generador de núcleo atacante lateral
-
-ent-SpawnMobOreCrab = generador de cangrejo minero
-
-ent-SpawnMobParrot = Generador de Loro
-
-ent-SpawnMobPenguin = Generador de Pingüino
-
-ent-SpawnMobPossumMorty = Generador de Zarigüeya Morty
-
-ent-SpawnMobPunkLeader = punto de aparición de líder punk
-
-ent-SpawnMobPunkT1 = punto de aparición de punk
-
-ent-SpawnMobPunkT2 = punto de aparición de punk
-
-ent-SpawnMobPunkT3 = punto de aparición de punk
-
-ent-SpawnMobPurpleSnake = Generador de Serpiente Morada
-
-ent-SpawnMobRaccoonMorticia = Generador de Mapache Morticia
-
-ent-SpawnMobRammerCore = generador de núcleo embestidor
-
-ent-SpawnMobRammerCoreSmart = generador de núcleo embestidor inteligente
-
-ent-SpawnMobRammerCoreSmartDodging = generador de núcleo embestidor esquivador inteligente
-
-ent-SpawnMobRammerCoreStraight = generador de núcleo embestidor sin evasión
-
-ent-SpawnMobReindeerBuck = Generador de Reno Macho
-
-ent-SpawnMobReindeerDoe = Generador de Reno Hembra
-
-ent-SpawnMobRogueDronesT1 = generador de dron
-
-ent-SpawnMobRogueScapT1 = generador de unidad de chatarra
-
-ent-SpawnMobRogueSiliconBoss = generador de unidad de una estrella
-
-ent-SpawnMobRogueSiliconBossRandom = generador de jefe de silicio rebelde
-
-ent-SpawnMobRogueSiliconGuardian = generador de unidad guardiana
-
-ent-SpawnMobRogueSiliconsT2 = generador de unidad rebelde
-
-ent-SpawnMobRogueSiliconsT3 = generador de unidad rebelde
-
-ent-SpawnMobShark = Generador de Tiburóncillo Espacial
-
-ent-SpawnMobShiva = Generador de Shiva
-
-ent-SpawnMobSlothPaperwork = Generador de Perezoso Papeleo
-
-ent-SpawnMobSlug = Generador de Babosa
-
-ent-SpawnMobSmallPurpleSnake = Generador de Serpiente Morada Pequeña
-
-ent-SpawnMobSmile = Generador de Sonrisa
-
-ent-SpawnMobSpaceCobra = Generador de Cobra Espacial
-
-ent-SpawnMobSpaceSpider = Generador de Araña Espacial
-
-ent-SpawnMobSpiderSalvage = Generador de Araña Espacial de Salvamento
-
-ent-SpawnMobSyndicateFootSoldier = generador de soldado de a pie del Syndicate
-
-ent-SpawnMobSyndicateFootsoldierPilot = generador de piloto de transbordador del Syndicate
-
-ent-SpawnMobSyndicateNavalCaptain = generador de capitán naval del Syndicate
-
-ent-SpawnMobSyndicateNavalCaptainVoid = generador de capitán naval del Syndicate
-
-ent-SpawnMobSyndicateNavalChemwarrior = generador de guerrero químico naval del Syndicate
-
-ent-SpawnMobSyndicateNavalCommander = generador de comandante naval del Syndicate
-
-ent-SpawnMobSyndicateNavalDeckhand = generador de marinero naval del Syndicate
-
-ent-SpawnMobSyndicateNavalDeckhandVoid = generador de marinero naval del Syndicate
-
-ent-SpawnMobSyndicateNavalEngineer = generador de ingeniero naval del Syndicate
-
-ent-SpawnMobSyndicateNavalEngineerVoid = generador de ingeniero naval del Syndicate
-
-ent-SpawnMobSyndicateNavalGrenadier = generador de granadero naval del Syndicate
-
-ent-SpawnMobSyndicateNavalHardVoid = generador de turbas navales más difíciles del Syndicate
-
-ent-SpawnMobSyndicateNavalHorror = generador de horror naval del Syndicate
-
-ent-SpawnMobSyndicateNavalMedic = generador de médico naval del Syndicate
-
-ent-SpawnMobSyndicateNavalMedicVoid = generador de médico naval del Syndicate
-
-ent-SpawnMobSyndicateNavalMime = generador de mimo naval del Syndicate
-
-ent-SpawnMobSyndicateNavalOperator = generador de operador naval del Syndicate
-
-ent-SpawnMobSyndicateNavalOperatorVoid = generador de operador naval del Syndicate
-
-ent-SpawnMobSyndicateNavalSaboteur = generador de saboteador naval del Syndicate
-
-ent-SpawnMobSyndicateNavalSecondOfficer = generador de segundo oficial naval del Syndicate
-
-ent-SpawnMobSyndicateNavalSecondOfficerVoid = generador de segundo oficial naval del Syndicate
-
-ent-SpawnMobViscerator = generador de unidad visceradora
-
-ent-SpawnMobWalter = Generador de Walter
-
-ent-SpawnMobWeaponTurretLaserNanoTrasenDeployed = generador de SLAT
-
-ent-SpawnMobWeaponTurretLaserSilicon = generador de torreta láser de silicio
-
-ent-SpawnMobWeaponTurretLaserSyndicateNF = generador de torreta láser del Syndicate
-
-ent-SpawnMobWeaponTurretLaserTSFMC = generador de torreta láser del TSFMC
-
-ent-SpawnMobWeaponTurretPDV = generador de torreta balística PDV
-
-ent-SpawnMobWeaponTurretSyndicate = generador de torreta balística del Syndicate
-
-ent-SpawnMobWeaponTurretTFSMC = generador de torreta balística del TSFMC
-
-ent-SpawnMobWeaponTurretUSSP = generador de torreta balística del USSP
-
-ent-SpawnMobWizFedWizard = Generador de Mago Aleatorio
-
-ent-SpawnMobWizFedWizardBlue = Generador de Mago Azul
-
-ent-SpawnMobWizFedWizardBlueHardsuit = Generador de Mago Azul
-
-ent-SpawnMobWizFedWizardHardsuit = Generador de Mago Aleatorio
-
-ent-SpawnMobWizFedWizardRed = Generador de Mago Rojo
-
-ent-SpawnMobWizFedWizardRedHardsuit = Generador de Mago Rojo
-
-ent-SpawnMobWizFedWizardSoap = Generador de Mago del Jabón
-
-ent-SpawnMobWizFedWizardSoapHardsuit = Generador de Mago del Jabón
-
-ent-SpawnMobWizFedWizardViolet = Generador de Mago Violeta
-
-ent-SpawnMobWizFedWizardVioletHardsuit = Generador de Mago Violeta
-
-ent-SpawnPlayerXenoBorg = Generador de proveedor xenoborg
-
-ent-SpawnPlayerXenoBorgPlaytime = Generador de proveedor xenoborg bloqueado por tiempo de juego
-
-ent-SpawnPointAtmos = atmosférica
-
-ent-SpawnPointBailiff = alguacil
-
-ent-SpawnPointBartender = camarero
-
-ent-SpawnPointBorg = cyborg
-
-ent-SpawnPointBotanist = botánico
-
-ent-SpawnPointBoxer = boxeador
-
-ent-SpawnPointBrigmedic = médicobrigada
-
-ent-SpawnPointCadet = cadete
-
-ent-SpawnPointCaptain = capitán
-
-ent-SpawnPointCargoTechnician = técnico de carga
-
-ent-SpawnPointCCServiceWorker = valet
-
-ent-SpawnPointChaplain = capellán
-
-ent-SpawnPointChef = cocinero
-
-ent-SpawnPointChemist = químico
-
-ent-SpawnPointChiefEngineer = ingeniero jefe
-
-ent-SpawnPointChiefMedicalOfficer = médico jefe
-
-ent-SpawnPointClown = payaso
-
-ent-SpawnPointContractor = contratista
-
-ent-SpawnPointDeputy = ayudante
-
-ent-SpawnPointDetective = Detective
-
-ent-SpawnPointDirectorOfCare = director de atención
-
-ent-SpawnPointERTChaplain = capellán del ERT
-
-ent-SpawnPointERTEngineer = ingeniero del ERT
-
-ent-SpawnPointERTJanitor = conserje del ERT
-
-ent-SpawnPointERTLeader = líder del ERT
-
-ent-SpawnPointERTMailCarrier = mensajero del ERT
-
-ent-SpawnPointERTMedical = médico del ERT
-
-ent-SpawnPointERTSecurity = seguridad del ERT
-
-ent-SpawnPointGhostCerberus = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostDerelictCyborg = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostDragon = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostNukeOperative = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostRatKing = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostRemilia = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostSpaceNinja = punto de aparición de rol fantasma
-
-ent-SpawnPointGhostWizard = punto de aparición de rol fantasma
-
-ent-SpawnPointHeadOfPersonnel = jefe de personal
-
-ent-SpawnPointHeadOfSecurity = jefe de seguridad
-
-ent-SpawnPointJanitor = Conserje
-
-ent-SpawnPointLatejoin = punto de aparición tardía
-
-ent-SpawnPointLawyer = abogado
-
-ent-SpawnPointLibrarian = bibliotecario
-
-ent-SpawnPointLoneNukeOperative = punto de aparición de rol fantasma
-
-ent-SpawnPointMailCarrier = cartero
-
-ent-SpawnPointMdMedic = Respondedor de Emergencias
-
-ent-SpawnPointMedicalDoctor = médico
-
-ent-SpawnPointMedicalIntern = interno médico
-
-ent-SpawnPointMercenary = mercenario
-
-ent-SpawnPointMime = mimo
-
-ent-SpawnPointMMCEmployee = Empleado de MMC
-
-ent-SpawnPointMMCLiason = Enlace de MMC
-
-ent-SpawnPointMMCSecurity = Seguridad de MMC
-
-ent-SpawnPointMusician = músico
-
-ent-SpawnPointNukeopsCommander = punto de aparición de rol fantasma
-
-ent-SpawnPointNukeopsMedic = punto de aparición de rol fantasma
-
-ent-SpawnPointNukeopsOperative = punto de aparición de rol fantasma
-
-ent-SpawnPointNukies = nukies
-
-ent-SpawnPointObserver = punto de aparición de observador
-
-ent-SpawnPointParamedic = paramédico
-
-ent-SpawnPointPassenger = pasajero
-
-ent-SpawnPointPDVBorg = cíborg PDV
-
-ent-SpawnPointPDVCivilian = Punto de aparición de civil PDV
-
-ent-SpawnPointPDVDenasvar = PDV Denasvar
-
-ent-SpawnPointPDVInfiltrator = infiltrador PDV
-
-ent-SpawnPointPDVTarkhan = Tarkhan de la PDV
-
-ent-SpawnPointPilot = piloto
-
-ent-SpawnPointPirate = pirata
-
-ent-SpawnPointPirateCaptain = capitán pirata
-
-ent-SpawnPointPirateFirstMate = primer oficial pirata
-
-ent-SpawnPointPirates = Punto de aparición pirata
-
-ent-SpawnPointPrisoner = prisionero
-
-ent-SpawnPointPrisonGuard = guardia de prisión
-
-ent-SpawnPointPsychologist = psicólogo
-
-ent-SpawnPointPublicAffairsLiaison = enlace de asuntos públicos
-
-ent-SpawnPointQuartermaster = cuartelmaestre
-
-ent-SpawnPointReporter = reportero
-
-ent-SpawnPointResearchAssistant = asistente de investigación
-
-ent-SpawnPointResearchDirector = director de investigación
-
-ent-SpawnPointSalvageSpecialist = especialista en salvamento
-
-ent-SpawnPointScientist = científico
-
-ent-SpawnPointSecurityCadet = cadete de seguridad
-
-ent-SpawnPointSecurityGuard = guardia de seguridad
-
-ent-SpawnPointSecurityOfficer = oficial de seguridad
-
-ent-SpawnPointServiceWorker = trabajador de servicios
-
-ent-SpawnPointSheriff = sheriff
-
-ent-SpawnPointStationEngineer = ingeniero de estación
-
-ent-SpawnPointStationRepresentative = supervisor
-
-ent-SpawnPointStc = controlador de tráfico de estación
-
-ent-SpawnPointTechnicalAssistant = asistente técnico
-
-ent-SpawnPointTSFBorg = cíborg TSF
-
-ent-SpawnPointTSFCivilian = Generador de civil TSF
-
-ent-SpawnPointTsfEngi = Ingeniero TSF
-
-ent-SpawnPointTsfMarsoc = MARSOC de la TSF
-
-ent-SpawnPointUSSPCommissar = Comisario USSP
-
-ent-SpawnPointUSSPRifleman = Fusilero USSP
-
-ent-SpawnPointUSSPSergeant = Serzhant USSP
-
-ent-SpawnPointVGCommander = Comandante VG
-
-ent-SpawnPointVGInfanteer = Infante VG
-
-ent-SpawnPointVGLieutenant = Teniente VG
-
-ent-SpawnPointWarden = alcaide
-
-ent-SpawnPointWizard = mago
-
-ent-SpawnPointZookeeper = cuidador del zoológico
-
-ent-SpawnRandomHumanoidCorpseMedicalBounty = cadáver de recompensa médica
-
-ent-SpawnRandomRefinedScrap = chatarra refinada
-    .gender = female
-    .desc = Examina la chatarra en busca de tableros, herramientas y materiales nativos intactos. Los resultados varían.
-
-ent-SpawnRedactedBorg = generador de proveedor ADS
-
-ent-SpawnRedactedBorgPlaytime = generador de proveedor ADS bloqueado por tiempo de juego
-
-ent-SpawnShuttleGearSuitStorageUnitsMercenary = unidad de almacenamiento de traje aleatoria
-
-ent-SpawnShuttleVendomatsClothes = vendomat aleatorio
-
-ent-SpawnSpellbook = punto de aparición de libro de hechizos
-
-ent-SpawnTSFFlail = generador del Flail de la TSF
-
-ent-SpawnTSFSpyglass = generador del Spyglass de la TSF
-
-ent-SpawnVehicleAntagVehicle = Generador de Vehículo Antagónico
-
-ent-SpawnVehicleATV = Generador de ATV
-
-ent-SpawnVehicleHoverbikeNF = generador de hoverbike
-
-ent-SpawnVehicleJanicart = Generador de Janicart
-
-ent-SpawnVehicleMotobike = Generador de Motobike
-
-ent-SpawnVehicleSecway = Generador de Secway
-
-ent-SpawnVehicleWheelchair = Generador de silla de ruedas
-
-ent-SpawnVehicleWheelchairFolded = Generador de silla de ruedas [Plegada]
-
-ent-SpawnVendingMachineRestockDrink = Reabastecimiento de máquina expendedora
-
-ent-SpawnVendingMachineRestockFood = Reabastecimiento de máquina expendedora
-
-ent-SpawnVendingMachineRestockFoodDrink = Reabastecimiento de máquina expendedora
-
-ent-Spear = lanza
-    .gender = female
-    .desc = Definición de un clásico. Manteniendo el asesinato al alcance de todos desde el 200.000 a. C.
-
-ent-SpearBone = lanza de hueso
-    .gender = female
-    .desc = Una lanza hecha de huesos.
-
-ent-SpearPlasma = lanza de plasma
-    .gender = female
-    .desc = Una lanza con un fragmento de plasma como punta.
-
-ent-SpearReinforced = lanza reforzada
-    .gender = female
-    .desc = Una lanza con un fragmento de vidrio reforzado como punta.
-
-ent-SpearUranium = lanza de uranio
-    .gender = female
-    .desc = Una lanza con un fragmento de uranio como punta.
-
-ent-SpecialOperationsOfficerPDA = PDA del Oficial de Operaciones Especiales
-    .gender = female
-    .desc = El diablo está en los detalles.
-
-ent-SpectralLocator = localizador espectral
-    .gender = male
-    .desc = Parece ser un localizador de anomalías modificado. Parece muy antiguo.
-
-ent-SpectralLocatorEmpty = localizador espectral
-    .gender = male
-    .desc = Parece ser un localizador de anomalías modificado. Parece muy antiguo.
-
-ent-SpectralLocatorUnpowered = localizador espectral
-    .gender = male
-    .desc = Parece ser un localizador de anomalías modificado. Parece muy antiguo.
-
-ent-SpeedLeftLeg = Pierna izquierda S.P.E.E.D
-    .gender = female
-    .desc = Una pierna izquierda cibernética que permite a su portador correr más rápido.
-
-ent-SpeedLoader357_magnumAP = cargador rápido (.357 magnum perforador de blindaje extremo)
-
-ent-SpeedLoader357_magnumEmpty = cargador rápido (.357 magnum cualquiera)
-
-ent-SpeedLoader357_magnumFMJ = cargador rápido (.357 magnum FMJ)
-
-ent-SpeedLoader357_magnumHP = cargador rápido (.357 magnum punta hueca)
-
-ent-SpeedLoader357_magnumIncendiary = cargador rápido (.357 magnum incendiario)
-
-ent-SpeedLoader357_magnumPlasteelAP = cargador rápido (.357 magnum AP)
-
-ent-SpeedLoader357_magnumPractice = cargador rápido (.357 magnum práctica)
-
-ent-SpeedLoader357_magnumRIP = cargador rápido (.357 magnum RIP)
-
-ent-SpeedLoader357_magnumRubber = cargador rápido (.357 magnum goma)
-
-ent-SpeedLoader357_magnumUranium = cargador rápido (.357 magnum uranio)
-
-ent-SpeedLoader556x45mmEmpty = cargador rápido (5.56x45mm cualquiera)
-
-ent-SpeedLoader556x45mmFMJ = cargador rápido (5.56x45mm FMJ)
-
-ent-SpeedLoader556x45mmIncendiary = cargador rápido (5.56x45mm incendiario)
-
-ent-SpeedLoader556x45mmPractice = cargador rápido (5.56x45mm práctica)
-
-ent-SpeedLoader556x45mmRubber = cargador rápido (5.56x45mm goma)
-
-ent-SpeedLoader556x45mmUranium = cargador rápido (5.56x45mm uranio)
-
-ent-SpeedLoader762x39mmFMJ = cargador rápido (7.62x39mm FMJ)
-
-ent-SpeedLoader762x54mmRFMJ = cargador rápido (7.62x54mmR FMJ)
-
-ent-SpeedLoader9x19mmEmpty = cargador rápido (9x19mm cualquiera)
-
-ent-SpeedLoader9x19mmFMJ = cargador rápido (9x19mm FMJ)
-
-ent-SpeedLoader9x19mmIncendiary = cargador rápido (9x19mm incendiario)
-
-ent-SpeedLoader9x19mmPractice = cargador rápido (9x19mm práctica)
-
-ent-SpeedLoader9x19mmRubber = cargador rápido (9x19mm goma)
-
-ent-SpeedLoader9x19mmUranium = cargador rápido (9x19mm uranio)
-
-ent-SpeedLoaderCap = cargador de pistola de fulminantes
-
-ent-SpeedRightLeg = Pierna derecha S.P.E.E.D
-    .gender = female
-    .desc = Una pierna izquierda cibernética que permite a su portador correr más rápido.
-
-ent-SpesosTreeSeeds = paquete de semillas de speso
-    .gender = male
-    .desc = Estas semillas parecen un milagro, pero los agricultores expertos se enriquecen gracias a la cocina.
-
-ent-SpiderCharge = carga del Spider Clan
-    .gender = female
-    .desc = Una carga C-4 modificada suministrada por el Spider Clan. Su potencia explosiva ha sido aumentada, pero solo funciona en un área específica.
-
-ent-SpiderWeb = tela de araña
-    .gender = female
-    .desc = Es fibrosa y pegajosa.
-
-ent-SpiderWebClown = tela de araña de payaso
-    .gender = female
-    .desc = Es fibrosa y resbaladiza.
-
-ent-SplatterChemBase = salpicadura química
-
-ent-SplatterChemCold = salpicadura química
-
-ent-SplatterChemDrugs = salpicadura química
-
-ent-SplatterChemMute = salpicadura química
-
-ent-SplatterChemPhlogNapalm = salpicadura química
-
-ent-SplatterChemWeh = salpicadura química
-
-ent-Spoon = cuchara
-    .gender = female
-    .desc = No hay cuchara.
-
-ent-SpoonPlastic = cuchara de plástico
-    .gender = female
-    .desc = No hay cuchara.
-
-ent-SprayBottle = botella de spray
-    .gender = female
-    .desc = Una botella de spray con tapa desenroscable.
-
-ent-SprayBottleSpaceCleaner = limpiador espacial
-    .gender = male
-    .desc = ¡Limpiador espacial sin espuma marca BLAM!
-
-ent-SprayBottleWater = botella de spray
-    .gender = female
-    .desc = Una botella de spray con tapa desenroscable.
-
-ent-SprayPainter = pistola de pintura en spray
-    .gender = female
-    .desc = Una pistola de pintura en spray para pintar esclusas y tuberías.
-
-ent-SpyglassChassis = chasis del mech Spyglass
-    .desc = Una construcción en proceso del mech Spyglass.
-
-ent-SpyglassHarness = arnés del Spyglass
-    .gender = male
-    .desc = El núcleo del ASF-59-E "Spyglass".
-
-ent-SrIDCard = tarjeta de identificación del supervisor
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-SrPDA = PDA del supervisor
-    .gender = female
-    .desc = Parece que alguien lo ha arañado.
-
-ent-SS13Memorial = tumba del empleado desconocido
-    .gender = female
-    .desc =
-        Aquí descansa un empleado desconocido
-        Desconocido por nombre o rango
-        Cuyos actos no serán olvidados
-
-
-ent-StairDark = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-Stairs = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairStage = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairStageDark = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairStageWhite = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairStageWood = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairWhite = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StairWood = escaleras
-    .desc = El mayor invento desde las granadas propulsadas por cohetes.
-
-ent-StarEntity = Estrella
-
-ent-StasisBaton = porra aturdidora futurista
-    .gender = female
-    .desc = Una porra de seguridad avanzada para neutralizar a los intrusos entrometidos
-
-ent-StasisBed = cama de estasis
-    .gender = female
-    .desc = Una cama que ralentiza drásticamente el metabolismo del paciente y evita la descomposición corporal, dando más tiempo para administrar el tratamiento adecuado para su estabilización.
-
-ent-StasisBedFlatpack = paquete plano de cama de estasis
-    .gender = male
-    .desc = Un paquete plano para construir una cama de estasis.
-
-ent-StasisBedMachineCircuitboard = placa de máquina de cama de estasis
-
-ent-StasisCage = contenedor de estasis
-    .gender = male
-    .desc = Es más pequeño por fuera que por dentro.
-
-ent-StasiziumAutoInjector = medipen futurista
-    .gender = male
-    .desc = Una dosis de sustancias medicinales del futuro capaz de levantar incluso a los muertos
-
-ent-StationAdminBankATMBlackMarket = consola de administración de la estación
-    .gender = female
-    .desc = Se usa para transferir fondos hacia y desde la cuenta del mercado negro.
-
-ent-StationAdminBankATMFrontier = consola de administración de la estación
-    .gender = female
-    .desc = Se usa para transferir fondos hacia y desde la cuenta bancaria del Puesto Colonial.
-
-ent-StationAdminBankATMMedical = consola de administración de la estación
-    .gender = female
-    .desc = Se usa para transferir fondos hacia y desde la cuenta bancaria médica.
-
-ent-StationAdminBankATMMMC = consola de administración de la estación
-    .gender = female
-    .desc = Se usa para transferir fondos hacia y desde la cuenta local de MMC.
-
-ent-StationAdminBankATMNfsd = consola de administración de la estación
-    .gender = female
-    .desc = Se usa para transferir fondos hacia y desde la cuenta bancaria de TSFMC-FOB.
-
-ent-StationAdministrationConsoleFlatpack = paquete plano de consola de administración de estación
-    .gender = male
-    .desc = Un paquete plano para construir una consola de administración de estación para el Despacho Médico.
 

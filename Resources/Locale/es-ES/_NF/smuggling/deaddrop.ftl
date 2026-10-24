@@ -1,18 +1,19 @@
-deaddrop-shuttle-name = Alijo Extraviado
-deaddrop-search-text = Investigar en busca de... ¿algo?
-deaddrop-hint-pretext = BOTÍN... AQUÍ:
-deaddrop-hint-posttext = ALIJO... VALIOSO... ...AYUDA... POR FAVOR
-deaddrop-hint-next-drop = ESPERA... {$time}.
-deaddrop-hint-name = hoja de papel extraviada
-deaddrop-hint-desc = Un trozo de papel, limpiamente doblado para caber en un pequeño escondite. ¿De dónde ha salido esto?
+deaddrop-shuttle-name = Envío de suministros de la Dinastía Phaethon
+deaddrop-search-text = Busca más de cerca
+deaddrop-hint-pretext = Hemos enviado una cápsula de suministros de la Dinastía Phaethon a las siguientes coordenadas:
+deaddrop-hint-posttext = El Sultanato te pagará generosamente si distribuyes su contenido a sus respectivos destinos.
+deaddrop-hint-next-drop = Espera la siguiente entrega aquí alrededor de {$time}.
+deaddrop-hint-name = papel doblado con pulcritud
+deaddrop-hint-desc = Un trozo de papel, doblado con pulcritud para caber en un pequeño escondite.
 
-smuggling-report-nfsd-general = Actividad anómala detectada.
-smuggling-report-nfsd-alternative = Actividad anómala detectada, posibles ubicaciones: {$location1} o {$location2}.
-smuggling-report-nfsd-specific = Actividad anómala detectada en {$location}.
-smuggling-report-nfsd-pod = Posible alijo extraviado detectado. Ubicación estimada: ({$x}, {$y})
-smuggling-report-pirate = Posible alijo extraviado detectado. Ubicación Estimada: ({$x}, {$y})
+smuggling-report-nfsd-general = Se ha detectado actividad de depósitos clandestinos de la Dinastía Phaethon.
+smuggling-report-nfsd-alternative = Depósito clandestino de la Dinastía Phaethon detectado, posibles ubicaciones: {$location1} o {$location2}.
+smuggling-report-nfsd-specific = Depósito clandestino de la Dinastía Phaethon detectado en {$location}.
+smuggling-report-nfsd-pod = Sospechosa cápsula de suministros de la Dinastía Phaethon detectada. Ubicación estimada: ({$x}, {$y})
+smuggling-report-pirate = Una cápsula de suministros de la Dinastía Phaethon ha sido enviada al sector Colossus. Ubicación estimada: ({$x}, {$y})
 
-deaddrop-faxed-hint-name = fax extraviado
+deaddrop-faxed-hint-name = fax de la Dinastía Phaethon
 deaddrop-faxed-hint-content =
-    VE... UBICACIÓN... ...VALIOSO...
-deaddrop-faxed-hint-signature = !@*#$&$!^
+    La Vanguardia de la Dinastía Phaethon necesita ayuda.
+    Ayúdala en su lucha contra la tiránica y herética Federación.
+deaddrop-faxed-hint-signature = El Sultanato

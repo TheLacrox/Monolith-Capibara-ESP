@@ -1,4 +1,4 @@
-pirate-bounty-console-menu-title = Consola de recompensas PDV
+pirate-bounty-console-menu-title = Consola de herejes PDV
 pirate-bounty-console-accept-button-chest = Invocar Cofre
 pirate-bounty-console-accept-button-label = Aceptar
 pirate-bounty-console-skip-button-text = Omitir

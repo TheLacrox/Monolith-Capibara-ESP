@@ -71,17 +71,11 @@ book-text-combat-bakery-kit = ¡Gracias por elegir nuestro kit de panadería de 
       Fragmento de vidrio x 1
       Tiempo de cocción: 5 segundos
 
-book-text-cargo-instructions = Has intentado activar la máquina sin ningún producto.
+book-text-cargo-instructions =
 
-      Para usar la máquina correctamente, inserta con tus manos uno de los materiales solicitados para el dispensador específico del puerto, y la recompensa se depositará encima de la máquina.
+      Para usar las máquinas de conducto de carga, inserta con las manos uno de los materiales solicitados para el dispensador específico de un puerto, y la recompensa se depositará encima de la máquina.
 
-      Estas cajas de carga se pueden comprar y/o vender en los siguientes lugares:
-      - TSFMC Flagship Halcyon - Solo venta
-      - Camelot Station - Compra y venta
-      - Trade Mall - Compra y venta
-      - Cargo Depots - Compra y venta
-      - PDV Base - Solo venta
-      - PDV Jupiter - Solo venta
+      Los manifiestos se pueden comprar en los vendedores de materiales comerciales (situados en CC, en los depósitos de carga y en Camelot).
 
       Este papel se desintegrará automáticamente después de 2 minutos.
 
@@ -97,5 +91,118 @@ book-text-cargo-outage = Estimado usuario,
       Se están refinando más detalles. Agradecemos su paciencia.
 
       Se han retirado $10 de su cuenta en concepto de tarifa de conveniencia.
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+book-text-cargo-zvezda-tradecrates = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - SUMINISTROS : $3000
+      - SUMINISTROS MÉD. : $5000
+      - SUMINISTROS QUÍM. : $2000
+      - SUMINISTROS QUÍM. VOLÁTILES : $6000
+      - COMB. FISIONABLE : $18000
+      - CHATARRA : $3000
+      - COMPONENTES : $5000
+      - MUNICIÓN : $10000
+      - COMP. DE ARMAS : $6000
+      - FERTILIZANTE : $5000
+      - COMP. DE NAVE : $6000
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-tradecrates = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - SUMINISTROS : $3000
+      - SUMINISTROS MÉD. : $5000
+      - SUMINISTROS QUÍM. : $2000
+      - SUMINISTROS QUÍM. VOLÁTILES : $6000
+      - COMB. FISIONABLE : $24000
+      - CHATARRA : $3000
+      - COMPONENTES : $8000
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-tradecrates-alt = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - MUNICIÓN : $10000
+      - PIEZAS DE ARMAS : $8000
+      - LUJOS : $18000
+      - FERTILIZANTE : $5000
+      - COMB. FISIONABLE : $24000
+      - CHATARRA : $3000
+      - COMP. DE NAVE : $8000
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-trademall = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - MUNICIÓN : $7000
+      - SUMINISTROS : $6000
+      - SUMINISTROS MÉD. : $2500
+      - SUMINISTROS QUÍM. : $5000
+      - SUMINISTROS QUÍM. VOLÁTILES : $6000
+      - COMB. FUSIONABLE : $12000
+      - CHATARRA : $4000
+      - COMPONENTES : $4000
+      - FERTILIZANTE : $4500
+      - TEJIDOS : $5000
+      - METALES : $5000
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-camelot = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - MUNICIÓN : $8000
+      - SUMINISTROS : $2500
+      - SUMINISTROS MÉD. : $4500
+      - PIEZAS DE ARMAS : $10000
+      - LUJOS : $14000
+      - EQUIPO : $3500
+      - COMB. FUSIONABLE : $12000
+      - COMP. DE NAVE : $6000
+      - FERTILIZANTE : $7000
+      - TEJIDOS : $4000
+      - METALES : $3500
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-halcyon = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - MUNICIÓN : $12000
+      - SUMINISTROS : $2500
+      - SUMINISTROS MÉD. : $3500
+      - SUMINISTROS QUÍM. : $4500
+      - SUMINISTROS QUÍM. VOLÁTILES : $8000
+      - PIEZAS DE ARMAS : $9000
+      - EQUIPO : $3000
+      - COMB. FUSIONABLE : $12000
+      - COMP. DE NAVE : $6000
+      - FERTILIZANTE : $7000
+      - TEJIDOS : $2500
+      - METALES : $5000
+
+      Este papel se desintegrará automáticamente después de 2 minutos.
+
+
+book-text-cargo-depot-helios = MANIFIESTO
+      EN ESTE CONDUCTO (POR CAJA):
+      - MUNICIÓN : $14000
+      - SUMINISTROS : $5000
+      - SUMINISTROS MÉD. : $2500
+      - SUMINISTROS QUÍM. : $6000
+      - SUMINISTROS QUÍM. VOLÁTILES : $6000
+      - PIEZAS DE ARMAS : $12000
+      - CHATARRA : $6000
+      - EQUIPO : $4500
+      - COMB. FUSIONABLE : $14000
+      - COMPONENTES : $5000
+      - COMP. DE NAVE : $6000
+      - TEJIDOS : $2500
+      - METALES : $4000
 
       Este papel se desintegrará automáticamente después de 2 minutos.

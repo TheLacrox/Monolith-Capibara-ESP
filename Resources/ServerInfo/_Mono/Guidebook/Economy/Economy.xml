@@ -1,6 +1,6 @@
 <Document>
 
-  # Industry
+  # Industria
 
   <Box>
     <GuideEntityEmbed Entity="CameraEconomy1" Caption="photonic flash camera"/>
@@ -8,9 +8,9 @@
     <GuideEntityEmbed Entity="CapacitorEconomy2" Caption="industrial advanced capacitor"/>
   </Box>
 
-  Among your travels, you may encounter various industrial components.
-  These can be found on wrecks, salvaged from advanced machines, or produced using specialized equipment.
-  They can be sold, or more commonly, used for creating advanced machines likes thrusters, shield generators, and processing equipment.
-  Basic components can be bought from a cargo terminal, while more advanced ones may require visiting an industrial point of interest like a faction base.
+  Durante tus viajes, puedes encontrar diversos componentes industriales.
+  Pueden hallarse en restos de naves, recuperarse de máquinas avanzadas o fabricarse con equipo especializado.
+  Pueden venderse o, lo que es más habitual, usarse para crear máquinas avanzadas como propulsores, generadores de escudos y equipos de procesamiento.
+  Los componentes básicos se pueden comprar en una terminal de carga, mientras que los más avanzados pueden requerir visitar un punto de interés industrial, como una base de facción.
 
 </Document>

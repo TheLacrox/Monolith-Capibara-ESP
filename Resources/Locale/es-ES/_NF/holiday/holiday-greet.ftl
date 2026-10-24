@@ -1,7 +1,7 @@
 ## Holiday Names
 
-holiday-name-frontier-birthday = Cumpleaños de Frontier Station
+holiday-name-frontier-birthday = Cumpleaños de Monolith
 
 holiday-custom-frontier-birthday =
-    ¡Es el cumpleaños de Frontier Station!
-    Gracias por ayudar a hacer de Frontier lo que es.
+    ¡Es el cumpleaños de Monolith!
+    Gracias por ayudar a hacer de Monolith lo que es.

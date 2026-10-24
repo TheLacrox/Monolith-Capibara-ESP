@@ -84,3 +84,137 @@ selectable-set-tsfmarsoc-hailstorm-kit-desc =
     - un revólver de energía EG-4
     - unas mandíbulas de la vida
     - y un botiquín médico de combate.
+
+selectable-set-crocus-infantry-kit-name = Kit de Fusilero
+
+selectable-set-crocus-infantry-tsf-kit-desc =
+    Contiene:
+      - QBZ-410 Lecter
+      - Gafas de visión nocturna
+      - 4 cargadores
+      - 1 caja de munición
+      - 1 granada explosiva
+      - 1 granada aturdidora
+      - 1 botiquín de primeros auxilios
+      - 2 torniquetes
+
+selectable-set-crocus-infantry-pdv-kit-desc =
+    Contiene:
+      - M-32 Vympel
+      - Gafas de visión nocturna
+      - 4 cargadores
+      - 1 caja de munición
+      - 1 granada explosiva
+      - 1 granada aturdidora
+      - 1 botiquín de primeros auxilios
+      - 2 torniquetes
+
+selectable-set-crocus-medic-kit-name = Kit de Sanitario
+
+selectable-set-crocus-medic-tsf-kit-desc =
+    Contiene:
+      - CS/LR-8 Drozd
+      - 3 cargadores
+      - 1 caja de munición
+      - 2 IFAK de combate
+      - un escáner médico
+      - un juego de herramientas quirúrgicas
+      - una mascarilla estéril
+      - un HUD médico
+      - un DEA portátil
+
+selectable-set-crocus-medic-pdv-kit-desc =
+    Contiene:
+      - M-32 Vympel
+      - 3 cargadores
+      - 1 caja de munición
+      - 2 IFAK de combate
+      - un escáner médico
+      - un juego de herramientas quirúrgicas
+      - una mascarilla estéril
+      - un HUD médico
+      - un DEA portátil
+
+selectable-set-crocus-sapper-kit-name = Kit de Zapador
+
+selectable-set-crocus-sapper-tsf-kit-desc =
+    Contiene:
+      - CS/LR-8 Drozd
+      - Gafas de visión nocturna
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+      - 4 cargas de apertura
+      - un martillo de apertura
+      - un activador remoto avanzado
+
+selectable-set-crocus-sapper-pdv-kit-desc =
+    Contiene:
+      - M-32 Vympel
+      - Gafas de visión nocturna
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+      - 4 cargas de apertura
+      - un martillo de apertura
+      - un activador remoto avanzado
+
+selectable-set-crocus-autorifleman-kit-name = Kit de Ametrallador
+
+selectable-set-crocus-autorifleman-tsf-kit-desc =
+    Contiene:
+      - QJY-68 Grizzly
+      - 2 cajas de munición (240 cartuchos)
+      - 1 parche para contusiones
+      - 2 torniquetes
+
+selectable-set-crocus-autorifleman-pdv-kit-desc =
+    Contiene:
+      - PKMS
+      - Gafas de visión nocturna
+      - 3 cajas de munición
+      - 1 parche para contusiones
+      - 2 torniquetes
+
+selectable-set-crocus-grenadier-kit-name = Kit de Granadero
+
+selectable-set-crocus-grenadier-tsf-kit-desc =
+    Contiene:
+      - CS/LR-8 Drozd
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+      - 4 granadas explosivas
+      - 2 granadas aturdidoras
+      - 2 granadas de humo
+
+selectable-set-crocus-grenadier-pdv-kit-desc =
+    Contiene:
+      - C-20r
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+      - 4 granadas explosivas
+      - 2 granadas aturdidoras
+      - 2 granadas de humo
+
+selectable-set-crocus-marksman-tsf-kit-name = Kit de Tirador Selecto
+
+selectable-set-crocus-marksman-tsf-kit-desc =
+    Contiene:
+      - QBU-430 Bandit
+      - Gafas de visión nocturna
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+
+selectable-set-crocus-pointman-pdv-kit-name = Kit de Punta de Lanza
+
+selectable-set-crocus-pointman-pdv-kit-desc =
+    Contiene:
+      - MlA-73 SMG
+      - un escudo balístico pesado
+      - 3 cargadores
+      - 1 caja de munición
+      - 1 botiquín de primeros auxilios
+      - 2 granadas aturdidoras

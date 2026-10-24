@@ -7,12 +7,12 @@ station-event-bluespace-scrap-start-announcement = Tormentas detectadas en las r
 station-event-bluespace-scrap-warning-announcement = Inestabilidad de bluespace detectada en los restos, cinco minutos hasta la salida prevista.
 station-event-bluespace-scrap-end-announcement = Inestabilidad crítica de bluespace detectada, los restos de la tormenta han salido del sector.
 
-station-event-bluespace-vault-start-announcement = Una cámara de suministros blindada Solaria está llegando al sector. El TSFMC puede declarar la cámara como Zona de Exclusión Aérea restringida. Las cuentas de la estación serán recompensadas por su retorno seguro.
+station-event-bluespace-vault-start-announcement = Una cámara de suministros blindada Solaria se dirige al sector. El TSFMC puede declarar la cámara como Zona de Exclusión Aérea restringida. El TSFMC será recompensado por su retorno seguro y, bajo ninguna circunstancia, debe permitir que se robe el servidor a bordo.
 station-event-bluespace-vault-warning-announcement = Procedimientos FTL remotos inicializados, cinco minutos hasta la extracción de la cámara.
 station-event-bluespace-vault-end-announcement = Hemos recuperado la cámara de esta área del espacio de Colossus. Las cuentas del TSFMC han sido subsidiadas.
-station-event-bluespace-cache-start-announcement = Un alijo de armas del Syndicate está llegando al sector. El TSFMC puede declarar el alijo como Zona de Exclusión Aérea. Las cuentas de la estación serán recompensadas por custodiar el alijo.
+station-event-bluespace-cache-start-announcement = Un alijo de armas de la Dinastía Phaethon se dirige al sector. El TSFMC puede declarar el alijo como Zona de Exclusión Aérea.
 station-event-bluespace-cache-warning-announcement = Procedimientos FTL remotos inicializados, cinco minutos hasta la extracción del alijo de armas.
-station-event-bluespace-cache-end-announcement = Hemos recuperado el alijo de armas del Syndicate de vuestro sector. Las cuentas de la estación han sido pagadas.
+station-event-bluespace-cache-end-announcement = Hemos recuperado el alijo de armas de la Dinastía Phaethon de vuestro sector.
 
 station-event-bluespace-asteroid-start-announcement = Los escaneos de largo alcance indican un asteroide inusualmente grande entrando al sector. Los prospectores deberían desviar sus operaciones para maximizar el potencial de ganancias.
 station-event-bluespace-asteroid-warning-announcement = Inestabilidad de bluespace detectada en el asteroide, cinco minutos hasta la salida estimada.
@@ -42,4 +42,4 @@ station-event-bluespace-name-BrokenMcDelivery = McDelivery
 station-event-bluespace-name-Cave = Cueva
 station-event-bluespace-name-UnidentifiedVessel = Nave no identificada
 station-event-bluespace-name-SecureNTVault = Cámara Solaria segura
-station-event-bluespace-name-SyndicateWeaponsCache = Alijo de armas del Syndicate
+station-event-bluespace-name-SyndicateWeaponsCache = Alijo de armas Phaethon

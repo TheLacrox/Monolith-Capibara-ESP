@@ -1,3 +1,238 @@
+ent-ClothingUniformJumpsuitColorYellow = Mono amarillo
+    .gender = male
+    .desc = Un mono amarillo genérico sin insignias de rango.
+
+ent-ClothingUniformJumpsuitCombatSuitCCEBasic = Uniforme de combate CCE (básico)
+    .gender = male
+    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitCCEBleached = Uniforme de combate CCE (decolorado)
+    .gender = male
+    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha sido decolorado por alguna razón.
+
+ent-ClothingUniformJumpsuitCombatSuitCCEDesert = Uniforme de combate CCE (desierto)
+    .gender = male
+    .desc = Traje de combate camuflado de desierto de la CCE. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitCCEWorn = Uniforme de combate CCE (desgastado)
+    .gender = male
+    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha sido muy utilizado y se ha oscurecido con el tiempo.
+
+ent-ClothingUniformJumpsuitCombatSuitDigitalBlack = Uniforme de combate digital negro
+    .gender = male
+    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
+
+ent-ClothingUniformJumpsuitCombatSuitDigitalBlue = Uniforme de combate digital azul
+    .gender = male
+    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
+
+ent-ClothingUniformJumpsuitCombatSuitDigitalGreenTan = Uniforme de combate digital verde y beis
+    .gender = male
+    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
+
+ent-ClothingUniformJumpsuitCombatSuitDigitalRed = Uniforme de combate digital rojo
+    .gender = male
+    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
+
+ent-ClothingUniformJumpsuitCombatSuitGrassland = Uniforme de combate de pradera
+    .gender = male
+    .desc = Traje de combate camuflado de pradera. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitLampart = Uniforme de combate Lampart
+    .gender = male
+    .desc = Traje de combate camuflado Lampart. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitLampartFlag = Uniforme de combate Lampart
+    .gender = male
+    .desc = Traje de combate camuflado Lampart con una extraña bandera cosida. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitMisko = Uniforme de combate Misko
+    .gender = male
+    .desc = Traje de combate camuflado Misko. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitMudland = Uniforme de combate Mudland
+    .gender = male
+    .desc = Traje de combate camuflado Mudland. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitSummerFlora = Uniforme de combate flora veraniega
+    .gender = male
+    .desc = Traje de combate camuflado con flora veraniega. Camuflaje en el espacio... Este ha sido ligeramente usado y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitSummerFloraFlag = Uniforme de combate flora veraniega
+    .gender = male
+    .desc = Traje de combate camuflado con flora veraniega y una extraña bandera cosida. Camuflaje en el espacio... Este ha sido ligeramente usado y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCombatSuitUrbanWhite = uniforme de combate urbano blanco
+    .gender = male
+    .desc = Traje de combate camuflado Misko. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
+
+ent-ClothingUniformJumpsuitCossack = traje cosaco
+    .gender = male
+    .desc = Los buenos y viejos pantalones y la brigantina.
+
+ent-ClothingUniformJumpsuitCurator = traje sensato
+    .gender = male
+    .desc = Es discreta. Demasiado discreta...
+
+ent-ClothingUniformJumpsuitDameDane = atuendo yakuza
+    .gender = male
+    .desc = Baka mitai...
+
+ent-ClothingUniformJumpsuitDeathSquad = uniforme del escuadrón de la muerte
+    .gender = male
+    .desc = Mono blindado avanzado usado por fuerzas especiales en operaciones especiales.
+
+ent-ClothingUniformJumpsuitDetective = traje desgastado del Detective
+    .gender = male
+    .desc = Quien lleva esto va en serio.
+
+ent-ClothingUniformJumpsuitDetectiveGrey = traje noir del Detective
+    .gender = male
+    .desc = El traje gris de un duro investigador privado, con pasador de corbata incluido.
+
+ent-ClothingUniformJumpsuitDiplomat = mono de diplomático
+    .gender = male
+    .desc = Un traje usado por los trabajadores de Mando Central centrados en la diplomacia.
+
+ent-ClothingUniformJumpsuitEngineering = mono de ingeniería
+    .gender = male
+    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
+
+ent-ClothingUniformJumpsuitEngineeringHazard = mono de peligros
+    .gender = male
+    .desc = Tejido en un naranja cálido y sucio. Permite que quienes te rodean sepan que vas en serio cuando se trata de trabajar.
+
+ent-ClothingUniformJumpsuitERTChaplain = uniforme de capellán del ERT
+    .gender = male
+    .desc = Un traje especial hecho para el cuerpo de capellanes de élite de Mando Central.
+
+ent-ClothingUniformJumpsuitERTEngineer = uniforme de ingeniería del ERT
+    .gender = male
+    .desc = Un traje especial hecho para los ingenieros de élite bajo CentComm.
+
+ent-ClothingUniformJumpsuitERTJanitor = uniforme de conserjería del ERT
+    .gender = male
+    .desc = Un traje especial hecho para los conserjes de élite bajo CentComm.
+
+ent-ClothingUniformJumpsuitERTLeader = uniforme de líder del ERT
+    .gender = male
+    .desc = Un traje especial hecho para el mejor de los élites bajo CentComm.
+
+ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de cartero del ERT
+    .gender = male
+    .desc = Un traje especial hecho para los carteros de élite bajo CentCom.
+
+ent-ClothingUniformJumpsuitERTMedic = uniforme médico del ERT
+    .gender = male
+    .desc = Un traje especial hecho para los médicos de élite bajo CentComm.
+
+ent-ClothingUniformJumpsuitERTSecurity = uniforme de seguridad del ERT
+    .gender = male
+    .desc = Un traje especial hecho para la seguridad de élite bajo CentComm.
+
+ent-ClothingUniformJumpsuitFamilyGuy = ropas familiares
+    .desc = Te hace recordar aquella vez que hiciste algo gracioso.
+
+ent-ClothingUniformJumpsuitFlannel = mono de franela
+    .gender = male
+    .desc = Huele como si alguien hubiera estado asando a la parrilla.
+
+ent-ClothingUniformJumpsuitGalaxyBlue = traje galáctico azul
+    .gender = male
+    .desc = Pleito azul para quienes hacen negocios a escala galáctica.
+
+ent-ClothingUniformJumpsuitGalaxyRed = traje galáctico rojo
+    .gender = male
+    .desc = Pleito rojo para quienes hacen negocios a escala galáctica.
+
+ent-ClothingUniformJumpsuitGenetics = mono de genética
+    .gender = male
+    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
+
+ent-ClothingUniformJumpsuitGladiator = uniforme de gladiador
+    .gender = male
+    .desc = Hecho para verdaderos gladiadores (o Ash Walkers).
+
+ent-ClothingUniformJumpsuitHawaiBlack = camisa hawaiana negra
+    .gender = female
+    .desc = Negra como una noche estrellada.
+
+ent-ClothingUniformJumpsuitHawaiBlue = camisa hawaiana azul
+    .gender = female
+    .desc = Azul como un inmenso océano.
+
+ent-ClothingUniformJumpsuitHawaiRed = camisa hawaiana roja
+    .gender = female
+    .desc = Roja como una jugosa sandía.
+
+ent-ClothingUniformJumpsuitHawaiYellow = camisa hawaiana amarilla
+    .gender = female
+    .desc = Amarilla como un brillante sol.
+
+ent-ClothingUniformJumpsuitHoP = mono del Jefe de Personal
+    .gender = male
+    .desc = Bastante soso e inofensivo. Perfecto para desaparecer de la faz del universo.
+
+ent-ClothingUniformJumpsuitHoS = mono del Jefe de Seguridad
+    .gender = male
+    .desc = Es de un rojo brillante y bastante impecable, igual que las víctimas de Seguridad suelen estarlo.
+
+ent-ClothingUniformJumpsuitHoSAlt = jersey de cuello alto del Jefe de Seguridad
+    .gender = male
+    .desc = Es un jersey de cuello alto que llevan quienes son lo suficientemente fuertes y disciplinados para alcanzar el puesto de Jefe de Seguridad.
+
+ent-ClothingUniformJumpsuitHoSBlue = mono azul del Jefe de Seguridad
+    .gender = male
+    .desc = Un mono azul del Jefe de Seguridad.
+
+ent-ClothingUniformJumpsuitHosFormal = traje formal del HoS
+    .gender = male
+    .desc = Un traje para ocasiones especiales.
+
+ent-ClothingUniformJumpsuitHoSGrey = mono gris del Jefe de Seguridad
+    .gender = male
+    .desc = Un mono gris del Jefe de Seguridad que lo hace parecer un pasajero.
+
+ent-ClothingUniformJumpsuitHoSParadeMale = uniforme de gala del Jefe de Seguridad
+    .gender = male
+    .desc = Ropa de lujo masculina del Jefe de Seguridad, para ocasiones especiales.
+
+ent-ClothingUniformJumpsuitHydroponics = mono de hidroponía
+    .gender = male
+    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
+
+ent-ClothingUniformJumpsuitJacketMonkey = chaqueta de camarero para simio
+    .gender = female
+    .desc = Una chaqueta decente, para un simio decente.
+
+ent-ClothingUniformJumpsuitJanitor = mono de conserje
+    .gender = male
+    .desc = El mono para el pobre infeliz con la fregona.
+
+ent-ClothingUniformJumpsuitJester = traje de bufón
+    .gender = male
+    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
+
+ent-ClothingUniformJumpsuitJesterAlt = traje de bufón
+    .gender = male
+    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
+
+ent-ClothingUniformJumpsuitJournalist = traje de periodista
+    .gender = male
+    .desc = Si el periodismo es bueno, por naturaleza es controvertido.
+
+ent-ClothingUniformJumpsuitKilt = kilt
+    .gender = male
+    .desc = Un buen trozo de ropa pa' los mozos y las mozas.
+
+ent-ClothingUniformJumpsuitKimono = kimono
+    .gender = male
+    .desc = Ropa tradicional china.
+
+ent-ClothingUniformJumpsuitLawyerBlack = traje de abogado negro
+    .gender = male
+    .desc = Un sobrio traje negro usado por abogados y mafiosos.
+
 ent-ClothingUniformJumpsuitLawyerBlue = traje de abogado azul
     .gender = male
     .desc = Un llamativo traje azul usado por abogados y fanfarrones.
@@ -512,6 +747,14 @@ ent-ClothingUniformOveralls = mono de trabajo
     .gender = male
     .desc = Ideal para trabajar al aire libre.
 
+ent-ClothingUniformPDVInfantry = traje de campaña de la infantería PD
+    .gender = male
+    .desc = Uniforme de campaña ajustado para la infantería PD.
+
+ent-ClothingUniformPDVInfantryCrocus = traje de campaña de la infantería PD
+    .gender = male
+    .desc = Uniforme de campaña ajustado para la infantería PD.
+
 ent-ClothingUniformRandomArmless = top sin mangas y pantalones coloridos
     .gender = male
     .desc = Generado por redes neuronales basadas en las últimas tendencias de moda.
@@ -582,7 +825,15 @@ ent-ClothingUniformTSFMC = Uniforme de combate TSFMC tipo 45U
     .gender = male
     .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Está equipado con un brazalete de bandera azul del TSF.
 
+ent-ClothingUniformTSFMCCrocus = Uniforme de combate TSFMC tipo 45U
+    .gender = male
+    .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Está equipado con un brazalete de bandera azul del TSF.
+
 ent-ClothingUniformTSFMCDesert = Uniforme de combate TSFMC tipo 47D
+    .gender = male
+    .desc = Un uniforme de combate con camuflaje desértico TSF tipo 47D. Está equipado con un brazalete de bandera azul del TSF.
+
+ent-ClothingUniformTSFMCDesertCrocus = Uniforme de combate TSFMC tipo 47D
     .gender = male
     .desc = Un uniforme de combate con camuflaje desértico TSF tipo 47D. Está equipado con un brazalete de bandera azul del TSF.
 
@@ -593,6 +844,14 @@ ent-ClothingUniformTSFMCDress = Uniforme de gala TSFMC
 ent-ClothingUniformTSFMCEngi = Uniforme de ingeniero TSFMC
     .gender = male
     .desc = Un uniforme de combate con camuflaje urbano TSF tipo 45U. Tiene marcas de alta visibilidad para ingenieros.
+
+ent-ClothingUniformTSFMCForest = uniforme de combate tipo 47F de la TSFMC
+    .gender = male
+    .desc = Uniforme de combate con camuflaje forestal TSF tipo 47F. Lleva un brazalete con la bandera azul de la TSF.
+
+ent-ClothingUniformTSFMCForestCrocus = uniforme de combate tipo 47F de la TSFMC
+    .gender = male
+    .desc = Uniforme de combate con camuflaje forestal TSF tipo 47F. Lleva un brazalete con la bandera azul de la TSF.
 
 ent-ClothingUniformTsfmcMopp = Traje MOPP TSFMC tipo 49C
     .gender = male
@@ -1026,6 +1285,22 @@ ent-CMSemioticZero_g = Semiótico de ausencia de gravedad artificial
     .gender = male
     .desc = Estándar Semiótico que denota la ausencia cercana de gravedad artificial.
 
+ent-CMVendorBundleNightvision = kit de NODs
+    .gender = male
+    .desc = Gafas de visión nocturna acopladas al casco y su soporte.
+
+ent-CMVendorBundleRiflemanApparel = mátame por favor
+    .gender = male
+    .desc = paquete boom mátame
+
+ent-CMVendorBundleRiflemanApparelNoFurry = mátame por favor, boomer
+    .gender = male
+    .desc = paquete boom mátame-ese
+
+ent-CMVendorBundleSurgery = kit quirúrgico
+    .gender = male
+    .desc = Juego completo de herramientas quirúrgicas y una mascarilla estéril.
+
 ent-Coal = carbón
     .gender = male
     .desc = Un trozo de mineral sin refinar.
@@ -1071,6 +1346,20 @@ ent-CoffeeSeeds = paquete de semillas de café
 ent-CognizineChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
+
+ent-ColMarTechBase = expendedor de ColMarTech
+
+ent-ColMarTechEquipment = estante automatizado de equipo de marine de ColMarTech
+    .gender = male
+    .desc = Estante automatizado conectado a un enorme almacén de equipo reglamentario de fusilero marine.
+
+ent-ColMarTechEquipmentPDV = estante automatizado de equipo de infantería PDV
+    .gender = male
+    .desc = Estante automatizado conectado a un enorme almacén de equipo reglamentario.
+
+ent-ColMarTechEquipmentTSF = estante automatizado de equipo de infantería TSF
+    .gender = male
+    .desc = Estante automatizado conectado a un enorme almacén de equipo reglamentario.
 
 ent-CombatBakeryKit = kit de panadería de combate
     .gender = male
@@ -1300,9 +1589,9 @@ ent-ComputerPalletConsoleNFVeryLowMarket = ordenador de venta de carga
     .gender = male
     .desc = Sirve para vender mercancías cargadas en palets de carga.
 
-ent-ComputerPirateBounty = consola de recompensas PDV
+ent-ComputerPirateBounty = consola de herejes de la PDV
     .gender = female
-    .desc = Consulta contratos activos, rastrea objetivos y cobra en vales.
+    .desc = Muestra la identidad de todos los herejes conocidos por el Sultanato en el sector Coloso, así como las recompensas por enviar sus restos al Sultanato mediante palé de intercambio de datos.
 
 ent-ComputerPirateBountyRedemption = consola de canje de recompensas
     .gender = female
@@ -1380,11 +1669,11 @@ ent-ComputerShipyardSHM = consola del astillero SHM
     .gender = female
     .desc = Sirve para transferir naves de las reservas de empleo de SHM.
 
-ent-ComputerShipyardSr = consola del astillero del personal colonial
+ent-ComputerShipyardSr = consola del astillero de C-Sec
     .gender = female
-    .desc = Sirve para comprar naves exclusivas del personal del Puesto Colonial.
+    .desc = Se usa para comprar embarcaciones exclusivas del personal de seguridad de Caelestinus.
 
-ent-ComputerShipyardSyndicate = consola del astillero del Syndicate
+ent-ComputerShipyardSyndicate = consola del astillero clandestino
     .gender = female
     .desc = Sirve para comprar naves no disponibles por otros medios.
 
@@ -1398,7 +1687,7 @@ ent-ComputerShipyardViper = consola del astillero del Grupo Viper
 
 ent-ComputerShipyardZvezda = consola del astillero Zvezda
     .gender = female
-    .desc = Sirve para comprar y vender "transbordadores"
+    .desc = Se usa para comprar y vender "transbordadores".
 
 ent-ComputerShuttle = consola del transbordador
     .gender = female
@@ -1582,9 +1871,9 @@ ent-ComputerTabletopPalletConsoleNFVeryLowMarket = ordenador de venta de carga
     .gender = male
     .desc = Sirve para vender mercancías cargadas en palets de carga.
 
-ent-ComputerTabletopPirateBounty = consola de recompensas PDV
+ent-ComputerTabletopPirateBounty = consola de herejes de la PDV
     .gender = female
-    .desc = Consulta contratos activos, rastrea objetivos y cobra en vales.
+    .desc = Muestra la identidad de todos los herejes conocidos por el Sultanato en el sector Coloso, así como las recompensas por enviar sus restos al Sultanato mediante palé de intercambio de datos.
 
 ent-ComputerTabletopPirateBountyRedemption = consola de canje de recompensas
     .gender = female
@@ -1672,7 +1961,7 @@ ent-ComputerTabletopSolarControl = ordenador de control solar
 
 ent-ComputerTabletopStationAdminBankATMFrontier = consola de administración de la estación
     .gender = female
-    .desc = Se usa para transferir fondos desde la cuenta bancaria del Puesto Colonial.
+    .desc = Se usa para transferir fondos de la cuenta bancaria de Caelestinus
 
 ent-ComputerTabletopStationAdminBankATMMedical = consola de administración de la estación
     .gender = female
@@ -1872,6 +2161,14 @@ ent-ContractorPDA = PDA de Espaciante
     .gender = female
     .desc = ¿Por qué no es gris?
 
+ent-ContractorPDAFugitive = PDA de Espaciante
+    .gender = female
+    .desc = ¿Por qué no es gris?
+
+ent-ContractorPDAGodfather = PDA de Espaciante
+    .gender = female
+    .desc = ¿Por qué no es gris?
+
 ent-ConvertAltarSpawner = generador de altar de conversión aleatorio
 
 ent-ConveyorBelt = cinta transportadora
@@ -1964,81 +2261,89 @@ ent-CrateAmmoAmmoBox12_gaugeBuckshotgun = cajón de munición seguro
     .gender = male
     .desc = Un gran contenedor para objetos.
 
-ent-CrateAmmoBox140mm = caja HEAT de 140 mm Longbow
+ent-CrateAmmoBox140mm = caja de HEAT de 85x680mm Longbow
     .gender = female
-    .desc = Contiene una caja de munición HEAT de 140 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles HEAT. Cómprala por si pierdes la munición incluida.
+    .desc = Contiene una caja de munición HEAT de 85x680mm. Proporciona a una pieza de artillería proyectiles HEAT infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox140mmSACLOS = caja SACLOS de 140 mm Longbow
+ent-CrateAmmoBox140mmSACLOS = caja de SACLOS de 85x680mm Longbow
     .gender = female
-    .desc = Contiene una caja de munición SACLOS de 140 mm. Proporciona a una pieza de artillería 120 proyectiles SACLOS.
+    .desc = Contiene una caja de munición SACLOS de 85x680mm. Proporciona a una pieza de artillería 120 proyectiles SACLOS.
 
-ent-CrateAmmoBox20mm = Caja de tambor sólido 20mm L85
+ent-CrateAmmoBox20mm = caja de tambor sólido de 14x97mm L85
     .gender = female
-    .desc = Contiene una caja de munición sólida de 20mm. Proporciona a una pieza de artillería rondas sólidas infinitas. Cómprala si has perdido la munición original.
+    .desc = Contiene una caja de munición sólida de 14x97mm. Proporciona a una pieza de artillería proyectiles sólidos infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox20mmAS = caja de tambor AS de 20 mm L85
+ent-CrateAmmoBox20mmAS = caja de tambor AS de 14x97mm L85
     .gender = female
-    .desc = Contiene una caja de munición antiescudo de 20 mm. Proporciona a una pieza de artillería 1250 proyectiles AS. Puede derribar un MS-250 en unos 150 disparos.
+    .desc = Contiene una caja de munición antiescudo de 14x97mm. Proporciona a una pieza de artillería 1250 proyectiles AS. Puede derribar un MS-250 en unos 150 disparos.
 
-ent-CrateAmmoBox220mmAPHE = caja de proyectiles APHE CYREXA de 220 mm
+ent-CrateAmmoBox220mmAPHE = caja de proyectiles APHE de 130x820mm CYREXA
     .gender = female
     .desc = Contiene 48 proyectiles APHE, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox220mmHECluster = caja de proyectiles HE-CLST CYREXA de 220 mm
+ent-CrateAmmoBox220mmHECluster = caja de proyectiles HE-CLST de 130x820mm CYREXA
     .gender = female
     .desc = Contiene 48 proyectiles HE-CLST, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox220mmSmartCluster = caja de proyectiles HMNG-CLST CYREXA de 220 mm
+ent-CrateAmmoBox220mmSmartCluster = caja de proyectiles HMNG-CLST de 130x820mm CYREXA
     .gender = female
     .desc = Contiene 48 proyectiles HMNG-CLST, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox255mmAPHE = caja de proyectiles APHE Bofors de 255 mm
+ent-CrateAmmoBox255mmAPHE = caja de proyectiles APHE de 203x940mm Bofors
     .gender = female
     .desc = Contiene 32 proyectiles APHE, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox255mmEMP = caja de proyectiles EMP Bofors de 255 mm
+ent-CrateAmmoBox255mmEMP = caja de proyectiles EMP de 203x940mm Bofors
     .gender = female
     .desc = Contiene 32 proyectiles EMP, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox255mmMine = caja de proyectiles minadores Bofors de 255 mm
+ent-CrateAmmoBox255mmMine = caja de proyectiles lanzaminas de 203x940mm Bofors
     .gender = female
     .desc = Contiene 32 proyectiles minadores, embalados en 2 cajas grandes.
 
-ent-CrateAmmoBox30mm = Caja de tambor sólido 30mm Draupnir
+ent-CrateAmmoBox30mm = caja de tambor sólido de 20x141mm Draupnir
     .gender = female
-    .desc = Contiene una caja de munición sólida de 30mm. Proporciona a una pieza de artillería rondas sólidas infinitas. Cómprala si has perdido la munición original.
+    .desc = Contiene una caja de munición sólida de 20x141mm. Proporciona a una pieza de artillería proyectiles sólidos infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox30mmHE = caja de tambor HE de 30 mm Draupnir
+ent-CrateAmmoBox30mmHE = caja de tambor HE de 20x141mm Draupnir
     .gender = female
-    .desc = Contiene una caja de munición HE de 30 mm con 2000 proyectiles.
+    .desc = Contiene una caja de munición HE de 20x141mm, con 2000 proyectiles.
 
-ent-CrateAmmoBox57mm = Caja de tambor HE 57mm AK-570
+ent-CrateAmmoBox35mm = caja de tambor sólido de 25x170mm AC-35
     .gender = female
-    .desc = Contiene una caja de munición explosiva de 57mm. Proporciona a una pieza de artillería rondas explosivas infinitas. Cómprala si has perdido la munición original.
+    .desc = Contiene una caja de munición sólida de 25x170mm. Proporciona a una pieza de artillería proyectiles sólidos infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox57mmSACLOS = caja de tambor SACLOS de 57 mm AK-570
+ent-CrateAmmoBox35mmHe = caja de tambor HE de 25x170mm AC-35
     .gender = female
-    .desc = Contiene una caja de munición SACLOS de 57 mm. Proporciona a una pieza de artillería 600 proyectiles guiados por FCS.
+    .desc = Contiene una caja de munición HE de 25x170mm. Proporciona a una pieza de artillería proyectiles sólidos infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox57mmSmart = caja de tambor HMNG de 57 mm AK-570
+ent-CrateAmmoBox57mm = caja de tambor HE de 40x360mm AK-570
     .gender = female
-    .desc = Contiene una caja de munición autoguiada de 57 mm. Proporciona a una pieza de artillería 600 proyectiles autoguiados.
+    .desc = Contiene una caja de munición de alta explosividad de 40x360mm. Proporciona a una pieza de artillería proyectiles de alta explosividad infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox90mm = Caja HE 90mm Dravon
+ent-CrateAmmoBox57mmSACLOS = caja de tambor SACLOS de 40x360mm AK-570
     .gender = female
-    .desc = Contiene una caja de munición explosiva de 90mm. Proporciona a una pieza de artillería rondas explosivas infinitas. Cómprala si has perdido la munición original.
+    .desc = Contiene una caja de munición SACLOS de 40x360mm. Proporciona a una pieza de artillería 600 proyectiles guiados por FCS.
 
-ent-CrateAmmoBox90mmAP = caja AP de 90 mm Dravon
+ent-CrateAmmoBox57mmSmart = caja de tambor HMNG de 40x360mm AK-570
     .gender = female
-    .desc = Contiene una caja de munición perforante de 90 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles perforantes. Cómprala por si pierdes la munición incluida.
+    .desc = Contiene una caja de munición de guiado de 40x360mm. Proporciona a una pieza de artillería 600 proyectiles de guiado.
 
-ent-CrateAmmoBox90mmFlak = caja antiaérea de 90 mm Dravon
+ent-CrateAmmoBox90mm = caja de HE de 57x460mm Dravon
     .gender = female
-    .desc = Contiene una caja de munición antiaérea de 90 mm. Proporciona a una pieza de artillería una cantidad ilimitada de proyectiles antiaéreos. Cómprala por si pierdes la munición incluida.
+    .desc = Contiene una caja de munición de alta explosividad de 57x460mm. Proporciona a una pieza de artillería proyectiles de alta explosividad infinitos. Cómprala por si perdiste la munición que venía con ella.
 
-ent-CrateAmmoBox90mmMinelayer = caja minadora de 90 mm Dravon
+ent-CrateAmmoBox90mmAP = caja de AP de 57x460mm Dravon
     .gender = female
-    .desc = Contiene una caja de munición minadora de 90 mm. Proporciona a una pieza de artillería 400 proyectiles minadores.
+    .desc = Contiene una caja de munición perforante de 57x460mm. Proporciona a una pieza de artillería proyectiles perforantes infinitos. Cómprala por si perdiste la munición que venía con ella.
+
+ent-CrateAmmoBox90mmFlak = caja de Flak de 57x460mm Dravon
+    .gender = female
+    .desc = Contiene una caja de munición flak de 57x460mm. Proporciona a una pieza de artillería proyectiles flak infinitos. Cómprala por si perdiste la munición que venía con ella.
+
+ent-CrateAmmoBox90mmMinelayer = caja de lanzaminas de 57x460mm Dravon
+    .gender = female
+    .desc = Contiene una caja de munición lanzaminas de 57x460mm. Proporciona a una pieza de artillería 400 proyectiles lanzaminas.
 
 ent-CrateAmmoBoxBigLethal20 = cajón de munición seguro
     .gender = male
@@ -2160,7 +2465,7 @@ ent-CrateAmmoBoxPracticeShotgun = cajón de munición seguro
     .gender = male
     .desc = Un gran contenedor para objetos.
 
-ent-CrateAmmoBoxR300 = Caja de proyectiles HE 430mm R-300
+ent-CrateAmmoBoxR300 = caja de proyectiles HE de 320x752mm R-300
     .gender = female
     .desc = Contiene 3 proyectiles HE.
 
@@ -2396,17 +2701,17 @@ ent-CrateCrewMonitoring = caja de monitorización de tripulación
     .gender = female
     .desc = Contiene un paquete plano de un servidor de monitorización de tripulación y algunos ordenadores de monitorización de tripulación. Requiere acceso a Ciencia para abrirse.
 
-ent-CrateCybersunDarkGygaxBundle = paquete Cybersun gygax
+ent-CrateCybersunDarkGygaxBundle = paquete gygax oscuro
     .gender = male
-    .desc = Contiene un conjunto de mechs blindados ligeros Cybersan.
+    .desc = Contiene un conjunto de mechs ligeramente blindados.
 
-ent-CrateCybersunJuggernautBundle = paquete Cybersun juggernaut
+ent-CrateCybersunJuggernautBundle = paquete juggernaut
     .gender = male
-    .desc = Contiene todo excepto un cañón para liarla parda.
+    .desc = Contiene todo menos un cañón grande para volverse loco. Eres un fugitivo con suerte.
 
-ent-CrateCybersunMaulerBundle = paquete Cybersun mauler
+ent-CrateCybersunMaulerBundle = paquete mauler
     .gender = male
-    .desc = Contiene un conjunto de mechs blindados pesados Cybersan.
+    .desc = Contiene un conjunto de mechs muy blindados.
 
 ent-CrateElectrical = caja eléctrica
     .gender = female
@@ -2825,6 +3130,10 @@ ent-CrateMachine = máquina de cajas
     .gender = female
     .desc = ¿De dónde vienen?
 
+ent-CrateMaterialAdamantite = caja de fichas de datos
+    .gender = female
+    .desc = 500 fichas de datos y 50 láminas de adamantita.
+
 ent-CrateMaterialBiomass = caja de biomasa
     .gender = female
     .desc = 300 unidades de biomasa. Ñam.
@@ -2876,11 +3185,27 @@ ent-CrateMaterialPlastitanium = caja de plastitanio
 ent-CrateMaterialRandom = materiales sobrantes
     .desc = Materiales sobrantes de algún lugar.
 
+ent-CrateMaterialsAdvancedFilledTsf = caja de materiales avanzados
+    .gender = female
+    .desc = Un gran contenedor para objetos.
+
 ent-CrateMaterialsBasic10Filled = caja de materiales
     .gender = female
     .desc = Un gran contenedor para objetos.
 
 ent-CrateMaterialsBasicFilled = caja de materiales
+    .gender = female
+    .desc = Un gran contenedor para objetos.
+
+ent-CrateMaterialsBasicFilledTsf = caja de materiales básicos
+    .gender = female
+    .desc = Un gran contenedor para objetos.
+
+ent-CrateMaterialsExoticFilledTsf = caja de materiales exóticos
+    .gender = female
+    .desc = Un gran contenedor para objetos.
+
+ent-CrateMaterialsIndustrialFilledTsf = caja de materiales industriales
     .gender = female
     .desc = Un gran contenedor para objetos.
 
@@ -3258,6 +3583,14 @@ ent-CrateRadiation = caja de equipo de protección radiológica
     .gender = female
     .desc = En realidad no tiene revestimiento de plomo. No guardes tu plutonio aquí.
 
+ent-CrateRadioStationAds = caja de anuncios
+    .gender = female
+    .desc = Una caja entera cuyo único propósito es almacenar 6 anuncios exclusivos. ¡Qué maravilla es el capitalismo, eh!
+
+ent-CrateRadioStationVinyls = caja de vinilos
+    .gender = female
+    .desc = ¡Una caja con 12 vinilos para que NUNCA toques la misma canción dos veces, vienen en fundas!
+
 ent-CrateRCD = caja de RCD
     .gender = female
     .desc = Una caja que contiene un único dispositivo de construcción rápida.
@@ -3474,13 +3807,13 @@ ent-CrateSyndicate = Caja del Syndicate
     .gender = female
     .desc = Una caja de acero oscuro con bandas rojas y la letra S grabada en relieve en la parte delantera.
 
-ent-CrateSyndicateSuperSurplusBundle = Caja de superexcedente del Syndicate
+ent-CrateSyndicateSuperSurplusBundle = caja de excedentes superior
     .gender = female
-    .desc = Contiene artículos completamente aleatorios del Syndicate por valor de 600 telecristales.
+    .desc = Contiene objetos por valor de 600 telecristales, importados sin orden de un mercado negro lejano.
 
-ent-CrateSyndicateSurplusBundle = Caja de excedente del Syndicate
+ent-CrateSyndicateSurplusBundle = caja de excedentes
     .gender = female
-    .desc = Contiene artículos completamente aleatorios del Syndicate por valor de 250 telecristales. Puede ser chatarra inútil o algo muy bueno.
+    .desc = Contiene objetos por valor de 250 telecristales, importados sin orden de un mercado negro lejano. Puede ser chatarra inútil o algo realmente bueno.
 
 ent-CrateTechBoardRandom = Tablones excedentes
     .desc = Tablones excedentes de algún lugar.
@@ -3503,25 +3836,25 @@ ent-CrateTrackingImplants = Implantes de rastreo
 ent-CrateTrackingImplantsNfsd = Implantes de rastreo TSFMC
     .desc = Contiene varios implantadores de rastreo. Ideal para prisioneros que quieras liberar pero seguir rastreando.
 
-ent-CrateTradeContrabandSecure1 = muestra monolítica
+ent-CrateTradeContrabandSecure1 = caja de suministros de la Dinastía Phaethon
     .gender = female
-    .desc = Un megalito estable de composición desconocida y origen desconocido. Sensaciones primarias de inquietud te recorren con solo verlo. Inmensamente valioso para la investigación de anomalías.
+    .desc = Contiene un pequeño lote de suministros para la Vanguardia de la Dinastía Phaethon, que se les enviará al venderse en un depósito de carga. El mensajero recibirá una buena paga. Un cierre antimanipulación acidificará el contenido de la caja si se destruye.
 
-ent-CrateTradeContrabandSecure2 = caja incrustada
+ent-CrateTradeContrabandSecure2 = caja de suministros de la Dinastía Phaethon
     .gender = female
-    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
+    .desc = Contiene un pequeño lote de suministros para la Vanguardia de la Dinastía Phaethon, que se les enviará al venderse en un depósito de carga. El mensajero recibirá una buena paga. Un cierre antimanipulación acidificará el contenido de la caja si se destruye.
 
-ent-CrateTradeContrabandSecure3 = caja de seguridad incrustada
+ent-CrateTradeContrabandSecure3 = caja de suministros de la Dinastía Phaethon
     .gender = female
-    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
+    .desc = Contiene un pequeño lote de suministros para la Vanguardia de la Dinastía Phaethon, que se les enviará al venderse en un depósito de carga. El mensajero recibirá una buena paga. Un cierre antimanipulación acidificará el contenido de la caja si se destruye.
 
-ent-CrateTradeContrabandSecure4 = alijo incrustado
-    .gender = male
-    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
+ent-CrateTradeContrabandSecure4 = caja de suministros de la Dinastía Phaethon
+    .gender = female
+    .desc = Contiene un pequeño lote de suministros para la Vanguardia de la Dinastía Phaethon, que se les enviará al venderse en un depósito de carga. El mensajero recibirá una buena paga. Un cierre antimanipulación acidificará el contenido de la caja si se destruye.
 
-ent-CrateTradeContrabandSecure5 = tesoro incrustado
-    .gender = male
-    .desc = Contiene algo... descarriado. Casi imposible de abrir sin destruir su contenido. Inmensamente valioso para la investigación de anomalías.
+ent-CrateTradeContrabandSecure5 = caja de suministros de la Dinastía Phaethon
+    .gender = female
+    .desc = Contiene un pequeño lote de suministros para la Vanguardia de la Dinastía Phaethon, que se les enviará al venderse en un depósito de carga. El mensajero recibirá una buena paga. Un cierre antimanipulación acidificará el contenido de la caja si se destruye.
 
 ent-CrateTradeSecureHigh = Caja de comercio de carga exprés
     .gender = female
@@ -3697,6 +4030,14 @@ ent-CrateVendingMachineRestockVendomatFilled = Caja de reabastecimiento de Vendo
     .gender = female
     .desc = Contiene una caja de reabastecimiento para una máquina expendedora Vendomat.
 
+ent-CrateVinylsDeltarisk = caja de vinilos 'deltarisk'
+    .gender = female
+    .desc = Una caja desvaída de una época pasada. Es un milagro que el contenido aún funcione.
+
+ent-CrateVinylsNulb = caja de vinilos 'nulb'
+    .gender = female
+    .desc = Una caja desvaída de una época pasada. Es un milagro que el contenido aún funcione.
+
 ent-CrateVirologyBiosuit = Caja de trajes biológicos de virología
     .gender = female
     .desc = Contiene 2 trajes de protección biológica para garantizar que ninguna enfermedad te distraiga de tratar a la tripulación. Requiere acceso Médico para abrirla.
@@ -3812,6 +4153,22 @@ ent-CriminalRecordsComputerCircuitboard = Placa de ordenador de registros crimin
 ent-CrisisAutoInjector = Autoinyector de crisis
     .gender = male
     .desc = Una dosis rápida de estabilizadores y vasodilatadores para usar en pacientes en estado crítico. Contiene inaprovaline y dexalin plus.
+
+ent-CrocusBeacon = baliza de enlace de radio
+    .gender = female
+    .desc = Ayuda a emitir y retransmitir datos críticos a las unidades de la TSF de la zona.
+
+ent-CrocusBeaconBroken = baliza de enlace de radio dañada
+    .gender = female
+    .desc = Necesitará grandes reparaciones para volver a funcionar. Empieza las reparaciones con 2 láminas de acero.
+
+ent-CrocusStrippedTree = árbol crocus
+    .gender = male
+    .desc = Sí, es un árbol.
+
+ent-CrocusStump = tocón de crocus
+    .gender = male
+    .desc = Sí, no es un árbol.
 
 ent-CrossbowBloodCult = Ballesta del culto de sangre
     .gender = female
@@ -3966,6 +4323,10 @@ ent-CrystalGrey = cristal
 ent-Crystallizer = cristalizador
     .gender = male
     .desc = Se usa para cristalizar o solidificar gases.
+
+ent-CrystallizerFlatpack = paquete plano de cristalizador
+    .gender = male
+    .desc = Paquete plano usado para construir un cristalizador.
 
 ent-CrystallizerMachineCircuitboard = placa de máquina de cristalizador
     .gender = female
@@ -4157,6 +4518,10 @@ ent-DartYellow = dardo
     .gender = male
     .desc = Dardo ligero para jugar a los dardos. ¡No te lo claves en el ojo!
 
+ent-DataChitStorageServer = servidor de almacenamiento de fichas de datos solarian
+    .gender = male
+    .desc = Contiene unas 500 fichas de datos de información confiscada, que suele encontrarse en bóvedas solarianas muy blindadas. A la Dinastía Phaethon le encantaría recuperarla.
+
 ent-DatafarmCrypto = granja de datos (Cripto)
     .gender = female
     .desc = Un servidor ávido de energía dedicado a extraer datos de... algún lugar. Este genera criptomoneda valiosa pero aleatoria a razón de una cada 10 minutos.
@@ -4195,11 +4560,11 @@ ent-DeathAcidifierImplant = implante acidificador de muerte
     .gender = male
     .desc = Este implante disuelve al usuario y su equipo al morir.
 
-ent-DeathAcidifierImplanter = implantador del Syndicate
+ent-DeathAcidifierImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
-ent-DeathAcidifierImplanterNF = implantador del Syndicate
+ent-DeathAcidifierImplanterNF = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -4217,9 +4582,9 @@ ent-DeathNettleSeeds = paquete de semillas de ortiga mortal
 
 ent-DeathRattleImplant = implante de estertor mortal
     .gender = male
-    .desc = Este implante informará al canal de radio del Syndicate si el usuario entra en estado crítico o muere.
+    .desc = Este implante informará al canal de radio Clandestino si el usuario entra en estado crítico o muere.
 
-ent-DeathRattleImplanter = implantador del Syndicate
+ent-DeathRattleImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -5394,7 +5759,7 @@ ent-DnaScramblerImplant = implante mezclador de ADN
     .gender = male
     .desc = Este implante permite al usuario cambiar aleatoriamente su aspecto y nombre una sola vez.
 
-ent-DnaScramblerImplanter = implantador del Syndicate
+ent-DnaScramblerImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -5491,6 +5856,10 @@ ent-DoorElectronicsFrontierBridge = electrónica de puerta
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
 ent-DoorElectronicsFrontierCommand = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
+ent-DoorElectronicsGodfather = electrónica de puerta
     .gender = female
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
@@ -5611,6 +5980,10 @@ ent-DoorElectronicsTheatre = electrónica de puerta
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
 ent-DoorElectronicsTsfEngineer = electrónica de puerta
+    .gender = female
+    .desc = Una placa electrónica utilizada en puertas y esclusas.
+
+ent-DoorElectronicsUnderground = electrónica de puerta
     .gender = female
     .desc = Una placa electrónica utilizada en puertas y esclusas.
 
@@ -7429,7 +7802,7 @@ ent-EmpImplant = implante EMP
     .gender = male
     .desc = Este implante genera un pulso electromagnético de 2,75 m, 10 s y 2,7 MJ al activarse.
 
-ent-EmpImplanter = implantador del Syndicate
+ent-EmpImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -7505,11 +7878,11 @@ ent-EncryptionKeyScience = clave de cifrado de ciencia
     .gender = male
     .desc = Una clave de cifrado utilizada por los científicos. ¿Quizás es resistente al plasma?
 
-ent-EncryptionKeySecurity = clave de cifrado de seguridad colonial
+ent-EncryptionKeySecurity = clave de cifrado de seguridad de Caelestinus
     .gender = male
-    .desc = Una clave de cifrado utilizada por la seguridad colonial.
+    .desc = Una clave de cifrado usada por la seguridad de Caelestinus.
 
-ent-EncryptionKeyService = clave de cifrado del personal colonial
+ent-EncryptionKeyService = clave de cifrado del personal de Caelestinus
     .gender = male
     .desc = Una clave de cifrado utilizada por el personal de servicio, encargado de mantener la estación llena, feliz y limpia.
 
@@ -7521,9 +7894,9 @@ ent-EncryptionKeyStationMasterSR = clave de cifrado del jefe de estación
     .gender = male
     .desc = Una clave de cifrado utilizada por los jefes de la estación.
 
-ent-EncryptionKeySyndie = clave de cifrado rojo sangre
+ent-EncryptionKeySyndie = clave de cifrado subterránea
     .gender = male
-    .desc = Una clave de cifrado utilizada por... espera... ¿Quién es el propietario de este chip?
+    .desc = Una clave de cifrado usada por... espera... ¿de quién es este chip?
 
 ent-EncryptionKeyTraffic = clave de cifrado de banda corta
     .gender = male
@@ -7649,9 +8022,17 @@ ent-EpinephrineChemistryBottle = botella
     .gender = female
     .desc = Una botella pequeña.
 
+ent-ERMedicalPDA = PDA médico
+    .gender = female
+    .desc = Brillante y estéril.
+
 ent-Error = error
     .gender = male
     .desc = Hmmm. Algo salió mal.
+
+ent-ERSeniorPhysicianPDA = PDA de médico sénior
+    .gender = female
+    .desc = Huele levemente a hierro y productos químicos.
 
 ent-ERTChaplainIDCard = tarjeta de identificación de capellán ERT
     .gender = female
@@ -7716,6 +8097,24 @@ ent-EscapeShuttleObjective = Escapa a CentComm con vida y sin restricciones.
 ent-EscapeThiefShuttleObjective = Escapa a CentComm con vida y sin restricciones.
     .gender = female
     .desc = No quieres que nadie descubra tus actividades ilegales, ¿verdad?
+
+ent-ESEffectSparks = chispas
+
+ent-ESTileFire = fuego
+    .gender = male
+    .desc = ¡Un fuego!!!!!!!!!!!!
+
+ent-ESTileFireStage2 = fuego
+    .gender = male
+    .desc = ¡Un fuego!!!!!!!!!!!!
+
+ent-ESTileFireStage3 = fuego
+    .gender = male
+    .desc = ¡Un fuego!!!!!!!!!!!!
+
+ent-ESTileFireStage4 = fuego
+    .gender = male
+    .desc = ¡Un fuego!!!!!!!!!!!!
 
 ent-EthanolChemistryBottle = botella
     .gender = female
@@ -7913,7 +8312,7 @@ ent-FakeMindShieldImplant = implante de escudo mental falso
     .gender = male
     .desc = Este implante permite al implantador producir una señal falsa que los HUD de seguridad de NT usan para identificar a individuos implantados con un escudo mental.
 
-ent-FakeMindShieldImplanter = implantador del Syndicate
+ent-FakeMindShieldImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -7981,7 +8380,7 @@ ent-FaxMachineNFLodge = fax de largo alcance
     .gender = male
     .desc = Tecnologías de bluespace aplicadas a la burocracia.
 
-ent-FaxMachineNFLPBravo = fax de largo alcance del Syndicate
+ent-FaxMachineNFLPBravo = fax de largo alcance
     .gender = male
     .desc = Tecnologías de bluespace aplicadas a la burocracia.
 
@@ -8021,7 +8420,7 @@ ent-FaxMachineNFPole = fax de largo alcance
     .gender = male
     .desc = Tecnologías de bluespace aplicadas a la burocracia.
 
-ent-FaxMachineNFSyndicateVessel = fax de largo alcance del Syndicate
+ent-FaxMachineNFSyndicateVessel = fax de largo alcance
     .gender = male
     .desc = Tecnologías de bluespace aplicadas a la burocracia.
 
@@ -8165,7 +8564,7 @@ ent-FenceWoodSmallTJunction = valla de madera pequeña
 
 ent-FentanylSolidified = cristal de fentanilo
     .gender = male
-    .desc = 5u de Fentanilo solidificado con Tricordrazina. Vale mucho.
+    .desc = 25u de fentanilo solidificado con tricordrazina. Muy valioso.
 
 ent-FeroxiCube = cubo de feroxi
     .gender = male
@@ -8354,6 +8753,10 @@ ent-Flare = bengala de emergencia
     .gender = female
     .desc = Una bengala que produce una luz muy brillante durante un momento. Apunta la llama en dirección contraria a ti.
 
+ent-FlareActivated = bengala de emergencia
+    .gender = female
+    .desc = Una bengala que produce una luz muy brillante durante un momento. Apunta la llama en dirección contraria a ti.
+
 ent-Flash = flash
     .gender = male
     .desc = Un flash ultraluminoso con gatillo que aturde a la víctima y le hace perder la vista por un momento. Inútil cuando está quemado.
@@ -8406,7 +8809,7 @@ ent-FlippoLighter = mechero Flippo
 
 ent-Floodlight = foco
     .gender = male
-    .desc = Un poste con potentes focos montados.
+    .desc = Un poste con potentes luces montadas. No consume energía, pero necesita que haya una batería presente.
 
 ent-FloodlightBroken = foco roto
     .gender = male
@@ -9002,6 +9405,10 @@ ent-FloorWaterEntity = agua
     .gender = male
     .desc = Un verdadero quitasedas.
 
+ent-FloraBoulderCrocus = roca de crocus
+    .gender = female
+    .desc = Pesada como algo realmente pesado.
+
 ent-FloraGreyStalagmite = estalagmita
     .gender = female
     .desc = Pinchos de piedra natural.
@@ -9044,6 +9451,18 @@ ent-FloraTreeChristmas03 = árbol de Navidad
 
 ent-FloraTreeConifer = conífera nevada
     .gender = female
+    .desc = Sí, es un árbol.
+
+ent-FloraTreeCrocusDead = árbol muerto de crocus
+    .gender = male
+    .desc = Sí, es un árbol.
+
+ent-FloraTreeCrocusPine = pino de crocus
+    .gender = male
+    .desc = Sí, es un árbol.
+
+ent-FloraTreeCrocusPineRed = pino de crocus
+    .gender = male
     .desc = Sí, es un árbol.
 
 ent-FloraTreeLarge = árbol grande
@@ -9317,423 +9736,4 @@ ent-FoodBowlBig = cuenco
 ent-FoodBowlBigTrash = cuenco roto
     .gender = male
     .desc = Un cuenco sencillo, roto e inútil.
-
-ent-FoodBowlFancy = cuenco
-    .gender = male
-    .desc = Un cuenco elegante, usado para sopas y ensaladas ESPECIALES.
-
-ent-FoodBoxBiscuitOatmeal = Caja de Galletas de Avena
-    .gender = female
-    .desc = Una caja con galletas de avena. ¡Perfectas para un tentempié!
-
-ent-FoodBoxBiscuitSimple = Caja de Galletas Simples
-    .gender = female
-    .desc = Una caja con galletas simples. ¡Perfectas para un tentempié!
-
-ent-FoodBoxBiscuitSugar = Caja de Galletas de Azúcar
-    .gender = female
-    .desc = Una caja con galletas de azúcar. ¡Perfectas para un tentempié!
-
-ent-FoodBoxCloth = caja de tela marca FlutterSoft
-    .gender = female
-    .desc = ¡La fibra es la comida de polilla más importante del día! No te la saltes ni uses la basura del fondo del taquillero; compra tela de alta calidad marca FlutterSoft.
-
-ent-FoodBoxDonkpocket = caja de donk-pockets
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketBerry = caja de donk-pockets sabor a bayas
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketCarp = caja de carp-pockets
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketDink = caja de dink-pockets
-    .gender = female
-    .desc = ¡Cero carbohidratos netos! ¡No necesita calentamiento!
-
-ent-FoodBoxDonkpocketHonk = caja de donk-pockets sabor a plátano
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketPizza = caja de donk-pockets sabor a pizza
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketSpicy = caja de donk-pockets sabor picante
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketStonk = caja de stonk-pockets edición limitada
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonkpocketTeriyaki = caja de donk-pockets sabor teriyaki
-    .gender = female
-    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
-
-ent-FoodBoxDonut = caja de donuts
-    .gender = female
-    .desc = Mmm, donuts.
-
-ent-FoodBoxDonutEmpty = caja de donuts
-    .gender = female
-    .desc = Mmm, donuts.
-
-ent-FoodBoxNugget = nuggets de pollo
-    .desc = De repente sientes el impulso de operar en el mercado de valores intergaláctico.
-
-ent-FoodBoxNuggetEmpty = nuggets de pollo
-    .desc = De repente sientes el impulso de operar en el mercado de valores intergaláctico.
-
-ent-FoodBoxPizza = caja de pizza
-    .gender = female
-    .desc = Una caja de cartón para guardar cosas.
-
-ent-FoodBoxPizzaCotton = caja de pizza
-    .gender = female
-    .desc = Una caja de cartón para guardar cosas.
-
-ent-FoodBoxPizzaFilled = caja de pizza
-    .gender = female
-    .desc = Una caja de cartón para guardar cosas.
-
-ent-FoodBoxSushi = bandeja de sushi
-    .gender = female
-    .desc = Envase de plástico para sushi con tapa.
-
-ent-FoodBoxSushiBad = bandeja de sushi
-    .gender = female
-    .desc = Envase de plástico para sushi con tapa.
-
-ent-FoodBreadAvocadoToast = tostada de aguacate
-    .gender = female
-    .desc = Era esto o tener casa propia.
-
-ent-FoodBreadBaguette = baguette
-    .gender = male
-    .desc = ¡Bon appétit!
-
-ent-FoodBreadBaguetteCotton = baguette de algodón
-    .gender = male
-    .desc = ¡Bon azzétit!
-
-ent-FoodBreadBaguetteCottonSlice = crostini de algodón
-    .gender = male
-    .desc = ¡Bon az-zetite!
-
-ent-FoodBreadBaguetteSlice = crostini
-    .gender = male
-    .desc = ¡Bon ap-petite!
-
-ent-FoodBreadBanana = pan de plátano
-    .gender = male
-    .desc = Un manjar celestial y muy saciante.
-
-ent-FoodBreadBananaSlice = rebanada de pan de plátano
-    .gender = female
-    .desc = Una rebanada de delicioso pan de plátano.
-
-ent-FoodBreadBun = bollo
-    .gender = male
-    .desc = Un bollo de hamburguesa. Redondo y cómodo de sostener.
-
-ent-FoodBreadBunBottom = bollo inferior
-    .gender = male
-    .desc = Es hora de empezar a construir la torre de hamburguesa.
-
-ent-FoodBreadBunTop = bollo superior
-    .gender = male
-    .desc = El remate perfecto para tu torre de hamburguesa.
-
-ent-FoodBreadButteredToast = tostada con mantequilla
-    .gender = female
-    .desc = Crujiente.
-
-ent-FoodBreadChallah = challah de miel
-    .gender = male
-    .desc = Pan trenzado espolvoreado con semillas de amapola.
-
-ent-FoodBreadChallahSlice = rebanada de challah
-    .gender = female
-    .desc = ¡Una rebanada de amapola y miel, caramba!
-
-ent-FoodBreadCorn = pan de maíz
-    .gender = male
-    .desc = Un buen pan de maíz al más puro estilo campestre, de esos que te hacen decir yeehaw y sacar el revólver.
-
-ent-FoodBreadCornSlice = rebanada de pan de maíz
-    .gender = female
-    .desc = Una rebanada de pan de maíz.
-
-ent-FoodBreadCotton = pan de algodón
-    .gender = male
-    .desc = Pan, pero para la polilla.
-
-ent-FoodBreadCottonSlice = Rebanada de pan de algodón
-    .gender = female
-    .desc = Una rebanada de pan de algodón (quizás) delicioso.
-
-ent-FoodBreadCreamcheese = Pan de queso crema
-    .gender = male
-    .desc = ¡Ñam ñam ñam!
-
-ent-FoodBreadCreamcheeseSlice = Rebanada de pan de queso crema
-    .gender = female
-    .desc = ¡Una rebanada de ñam!
-
-ent-FoodBreadFrenchToast = Tostada francesa
-    .gender = female
-    .desc = Una rebanada de pan empapada en una mezcla de huevo batido.
-
-ent-FoodBreadGarlicSlice = Pan de ajo
-    .gender = male
-    .desc = Por desgracia, es limitado.
-
-ent-FoodBreadJellySlice = Tostada de jalea
-    .gender = female
-    .desc = ¡Como si Ciencia fuera a sacrificar sus slimes por unas tostadas!
-
-ent-FoodBreadMeat = Pan de carne
-    .gender = male
-    .desc = La base culinaria de todo elocuen/tg/entilhombre que se precie.
-
-ent-FoodBreadMeatSlice = Rebanada de pan de carne
-    .gender = female
-    .desc = Una rebanada de delicioso pan de carne.
-
-ent-FoodBreadMeatSpider = Pan de carne de araña
-    .gender = male
-    .desc = Un pastel de carne tranquilizadoramente verde hecho de carne de araña.
-
-ent-FoodBreadMeatSpiderSlice = Rebanada de pan de carne de araña
-    .gender = female
-    .desc = Una rebanada de pastel de carne hecho de un animal que probablemente aún quiere verte muerto.
-
-ent-FoodBreadMeatXeno = Pan de carne xeno
-    .gender = male
-    .desc = Un final apropiado, y sustancioso, para la escoria xeno.
-
-ent-FoodBreadMeatXenoSlice = Rebanada de pan de carne xeno
-    .gender = female
-    .desc = Una rebanada de escoria xeno.
-
-ent-FoodBreadMimana = Pan de mimana
-    .gender = male
-    .desc = Mejor comerlo en silencio.
-
-ent-FoodBreadMimanaSlice = Rebanada de pan de mimana
-    .gender = female
-    .desc = ¡Una rebanada de silencio!
-
-ent-FoodBreadMoldy = Hogaza mohosa
-    .gender = female
-    .desc = Todavía está bastante bien para comer, solo come alrededor de las partes mohosas.
-
-ent-FoodBreadMoldySlice = Rebanada de pan mohoso
-    .gender = female
-    .desc = Estaciones enteras se han destrozado discutiendo si esto todavía está en condiciones de comer.
-
-ent-FoodBreadPlain = Pan
-    .gender = male
-    .desc = Un pan terrestre llanamente tradicional.
-
-ent-FoodBreadPlainSlice = Rebanada de pan
-    .gender = female
-    .desc = Una rebanada del hogar.
-
-ent-FoodBreadSausage = Pan de salchicha
-    .gender = male
-    .desc = No le des demasiadas vueltas.
-
-ent-FoodBreadSausageSlice = Rebanada de pan de salchicha
-    .gender = female
-    .desc = No le des demasiadas vueltas.
-
-ent-FoodBreadTofu = Pan de tofu
-    .gender = male
-    .desc = Como el pan de carne pero para vegetarianos. Presume ante tus compañeros de tripulación de lo mucho mejor que es.
-
-ent-FoodBreadTofuSlice = Rebanada de pan de tofu
-    .gender = female
-    .desc = Una rebanada de delicioso pan de tofu.
-
-ent-FoodBreadTwoSlice = Dos rebanadas
-    .desc = Con clase.
-
-ent-FoodBreadVolcanic = Hogaza volcánica
-    .gender = female
-    .desc = Una hogaza oscura. Se parece a la piedra pómez.
-
-ent-FoodBreadVolcanicSlice = Rebanada volcánica
-    .gender = female
-    .desc = Una rebanada de hogaza oscura. Se parece a la piedra pómez.
-
-ent-FoodBungo = Fruta bungo
-    .gender = female
-    .desc = La humilde fruta bungo.
-
-ent-FoodBungoPit = Hueso de bungo
-
-ent-FoodBurgerAppendix = Hamburguesa de apéndice
-    .gender = female
-    .desc = Sabe a apendicitis.
-
-ent-FoodBurgerBacon = Hamburguesa de bacon
-    .gender = female
-    .desc = La combinación perfecta de todo lo americano.
-
-ent-FoodBurgerBaconRotten = Hamburguesa podrida
-    .gender = female
-    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
-
-ent-FoodBurgerBaseball = Hamburguesa béisbol
-    .gender = female
-    .desc = Todavía está caliente. El vapor que desprende huele un poco a sudor.
-
-ent-FoodBurgerBear = Bearger
-    .gender = male
-    .desc = Mejor servido rawr.
-
-ent-FoodBurgerBig = Hamburguesa gran bocado
-    .gender = female
-    .desc = Olvídate del Big Mac. ¡ESTA es el futuro!
-
-ent-FoodBurgerBigBiteRotten = Hamburguesa podrida
-    .gender = female
-    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
-
-ent-FoodBurgerBoomRoach = Boomroachburger
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerBrain = Hamburguesa de cerebro
-    .gender = female
-    .desc = Una hamburguesa de aspecto extraño. Parece casi sintiente.
-
-ent-FoodBurgerCarp = Hamburguesa filet-o-carpa
-    .gender = female
-    .desc = Casi como si una carpa estuviera gritando en algún lugar...
-
-ent-FoodBurgerCat = Hamburguesa de gato
-    .gender = female
-    .desc = ¡Por fin esos gatos y gatopersonas sirven para algo!
-
-ent-FoodBurgerCecropiaMothRoach = Mothroachburger cecropia
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerCheese = Hamburguesa de queso
-    .gender = female
-    .desc = Esta noble hamburguesa se alza con orgullo, revestida de queso dorado.
-
-ent-FoodBurgerCheeseRotten = Hamburguesa podrida
-    .gender = female
-    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
-
-ent-FoodBurgerChicken = Sándwich de pollo
-    .gender = male
-    .desc = Un delicioso sándwich de pollo; se dice que los beneficios de este manjar ayudan a criminalizar el desarme de personas en la frontera espacial.
-
-ent-FoodBurgerClown = Hamburguesa de payaso
-    .gender = female
-    .desc = Tiene un sabor gracioso...
-
-ent-FoodBurgerClurger = Clurger
-    .gender = male
-    .desc = ¡El favorito del Cartero!
-
-ent-FoodBurgerCorgi = Corger
-    .gender = male
-    .desc = ¡El favorito del Jefe de Personal!
-
-ent-FoodBurgerCrab = Hamburguesa de cangrejo
-    .gender = female
-    .desc = Una deliciosa hamburguesa de lo más cangrejil, colocada entre dos panes.
-
-ent-FoodBurgerCrazy = Hamburguesa loca
-    .gender = female
-    .desc = Parece el tipo de comida que haría un payaso demente con gabardina.
-
-ent-FoodBurgerDuck = Sándwich de pato
-    .gender = male
-    .desc = Un sándwich de pato; solo los criminalmente dementes se atreverían a comer la carne de una criatura tan adorable.
-
-ent-FoodBurgerEmpowered = Hamburguesa electrificada
-    .gender = female
-    .desc = Está sorprendentemente buena, si es que vives de la electricidad.
-
-ent-FoodBurgerEmpoweredRotten = Hamburguesa podrida
-    .gender = female
-    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
-
-ent-FoodBurgerFive = Hamburguesa cinco alarmas
-    .gender = female
-    .desc = ¡ARDIENTE! ¡ARDIENTE! ¡ARDIENTE!
-
-ent-FoodBurgerGhost = Hamburguesa fantasma
-    .gender = female
-    .desc = ¡Demasiado espeluznante!
-
-ent-FoodBurgerHuman = Hamburguesa humana
-    .gender = female
-    .desc = No puedes saber de quién está hecha...
-
-ent-FoodBurgerImperiRoach = Roachburger imperi
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerJelly = Hamburguesa de jalea
-    .gender = female
-    .desc = ¿Delicia culinaria...?
-
-ent-FoodBurgerLeopardMothRoach = Mothroachburger leopardo
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerLunarMothRoach = Mothroachburger lunar
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerMcguffin = McGuffin
-    .gender = male
-    .desc = Una imitación barata y grasienta de los huevos benedictinos.
-
-ent-FoodBurgerMcrib = Sándwich de costillas BBQ
-    .gender = male
-    .desc = Una esquiva hamburguesa con forma de costilla con disponibilidad limitada en toda la galaxia. No es tan buena como la recuerdas.
-
-ent-FoodBurgerMime = Hamburguesa del mimo
-    .gender = female
-    .desc = Su sabor desafía al lenguaje.
-
-ent-FoodBurgerMopRoach = roachburger de fregona
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerMothRoach = Mothroachburger
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerMustardMothRoach = mothroachburger de mostaza
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerOwORoach = roachburger OwO
-    .gender = male
-    .desc = La última lámpara que vio fue la del interior del microondas.
-
-ent-FoodBurgerPlain = Hamburguesa sencilla
-    .gender = female
-    .desc = Una hamburguesa aburrida y seca.
-
-ent-FoodBurgerPlainRotten = Hamburguesa podrida
-    .gender = female
-    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
-
-ent-FoodBurgerRat = Hamburguesa de rata
-    .gender = female
-    .desc = Más o menos lo que esperabas...
 

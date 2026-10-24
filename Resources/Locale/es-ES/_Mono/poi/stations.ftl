@@ -15,3 +15,14 @@ frontier-lobby-jupiter-description = Esto NO está bajo la protección de las re
 
 frontier-lobby-chengdu-subtext = Un crucero lo bastante poderoso como para arrasar cualquier cosa.
 frontier-lobby-chengdu-description = Un crucero Tipo-98F desplegado por la TSFN para conflictos a gran escala. Equipado con misiles de crucero, cañones de riel y cañones automáticos, lanzadores de misiles guiados y suficientes láseres de defensa puntual como para dejar obsoleto cualquier torpedo. [color=red]Solo cuenta con un astillero extremadamente limitado y solo tiene 2 muelles. Esto no es una base móvil como el Jupiter, es un buque de guerra.[/color]
+
+frontier-lobby-crocus-subtext = Guerra terrestre.
+frontier-lobby-crocus-description = Este es un mapa para el modo Crocus. Puede que tengas objetivos al aparecer. Consúltalos en el menú de personaje; son compartidos con toda tu facción.
+
+   - [color=red][bold]¡Las especies especiales pueden tener dificultades para jugar aquí![/bold][/color] - El aire puede ser demasiado frío para los reptilianos, hay poca infraestructura para los IPC y los Vox pueden tener problemas con los fallos atmosféricos.
+   - Los civiles en este modo (por ahora) se consideran [color=bold]agentes libres[/color] y no tienen un objetivo específico. Trátalo como un rol neutral de "haz lo que quieras".
+
+frontier-lobby-underground-subtext = Un escondite que alberga enemigos de la Federación Trans-Solar.
+frontier-lobby-underground-description = Un escondite con su IFF desactivado en la Nube Exterior, que contiene una enfermería, una fábrica y cuatro expendedoras del Underground que sirven como enlace directo con un mercado negro persa lejano.
+
+   - [color=red][bold]Todos los roles de esta estación son buscados activamente por la TSFMC y deben esperar ser abatidos a la vista si son descubiertos.[/bold][/color] Dicho esto, obtienes algunos beneficios bastante interesantes.
