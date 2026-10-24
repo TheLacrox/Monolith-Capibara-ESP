@@ -9,3 +9,4 @@ research-technology-viper-group-shipyard-adv = Adquisición de LPC del Viper Gro
 
 # T3 VG
 research-technology-viper-group-heavy = Trajes Rígidos Pesados del Viper Group
+research-technology-viper-group-shipyard-T3 = Adquisición de LPC de Grado 3 del Viper Group

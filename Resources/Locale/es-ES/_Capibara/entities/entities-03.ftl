@@ -1,3 +1,422 @@
+ent-FoodBowlFancy = cuenco
+    .gender = male
+    .desc = Un cuenco elegante, usado para sopas y ensaladas ESPECIALES.
+
+ent-FoodBoxBiscuitOatmeal = Caja de Galletas de Avena
+    .gender = female
+    .desc = Una caja con galletas de avena. ¡Perfectas para un tentempié!
+
+ent-FoodBoxBiscuitSimple = Caja de Galletas Simples
+    .gender = female
+    .desc = Una caja con galletas simples. ¡Perfectas para un tentempié!
+
+ent-FoodBoxBiscuitSugar = Caja de Galletas de Azúcar
+    .gender = female
+    .desc = Una caja con galletas de azúcar. ¡Perfectas para un tentempié!
+
+ent-FoodBoxCloth = caja de tela marca FlutterSoft
+    .gender = female
+    .desc = ¡La fibra es la comida de polilla más importante del día! No te la saltes ni uses la basura del fondo del taquillero; compra tela de alta calidad marca FlutterSoft.
+
+ent-FoodBoxDonkpocket = caja de donk-pockets
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketBerry = caja de donk-pockets sabor a bayas
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketCarp = caja de carp-pockets
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketDink = caja de dink-pockets
+    .gender = female
+    .desc = ¡Cero carbohidratos netos! ¡No necesita calentamiento!
+
+ent-FoodBoxDonkpocketHonk = caja de donk-pockets sabor a plátano
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketPizza = caja de donk-pockets sabor a pizza
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketSpicy = caja de donk-pockets sabor picante
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketStonk = caja de stonk-pockets edición limitada
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonkpocketTeriyaki = caja de donk-pockets sabor teriyaki
+    .gender = female
+    .desc = Instrucciones: Calentar en microondas. El producto se enfriará si no se consume en siete minutos.
+
+ent-FoodBoxDonut = caja de donuts
+    .gender = female
+    .desc = Mmm, donuts.
+
+ent-FoodBoxDonutEmpty = caja de donuts
+    .gender = female
+    .desc = Mmm, donuts.
+
+ent-FoodBoxNugget = nuggets de pollo
+    .desc = De repente sientes el impulso de operar en el mercado de valores intergaláctico.
+
+ent-FoodBoxNuggetEmpty = nuggets de pollo
+    .desc = De repente sientes el impulso de operar en el mercado de valores intergaláctico.
+
+ent-FoodBoxPizza = caja de pizza
+    .gender = female
+    .desc = Una caja de cartón para guardar cosas.
+
+ent-FoodBoxPizzaCotton = caja de pizza
+    .gender = female
+    .desc = Una caja de cartón para guardar cosas.
+
+ent-FoodBoxPizzaFilled = caja de pizza
+    .gender = female
+    .desc = Una caja de cartón para guardar cosas.
+
+ent-FoodBoxSushi = bandeja de sushi
+    .gender = female
+    .desc = Envase de plástico para sushi con tapa.
+
+ent-FoodBoxSushiBad = bandeja de sushi
+    .gender = female
+    .desc = Envase de plástico para sushi con tapa.
+
+ent-FoodBreadAvocadoToast = tostada de aguacate
+    .gender = female
+    .desc = Era esto o tener casa propia.
+
+ent-FoodBreadBaguette = baguette
+    .gender = male
+    .desc = ¡Bon appétit!
+
+ent-FoodBreadBaguetteCotton = baguette de algodón
+    .gender = male
+    .desc = ¡Bon azzétit!
+
+ent-FoodBreadBaguetteCottonSlice = crostini de algodón
+    .gender = male
+    .desc = ¡Bon az-zetite!
+
+ent-FoodBreadBaguetteSlice = crostini
+    .gender = male
+    .desc = ¡Bon ap-petite!
+
+ent-FoodBreadBanana = pan de plátano
+    .gender = male
+    .desc = Un manjar celestial y muy saciante.
+
+ent-FoodBreadBananaSlice = rebanada de pan de plátano
+    .gender = female
+    .desc = Una rebanada de delicioso pan de plátano.
+
+ent-FoodBreadBun = bollo
+    .gender = male
+    .desc = Un bollo de hamburguesa. Redondo y cómodo de sostener.
+
+ent-FoodBreadBunBottom = bollo inferior
+    .gender = male
+    .desc = Es hora de empezar a construir la torre de hamburguesa.
+
+ent-FoodBreadBunTop = bollo superior
+    .gender = male
+    .desc = El remate perfecto para tu torre de hamburguesa.
+
+ent-FoodBreadButteredToast = tostada con mantequilla
+    .gender = female
+    .desc = Crujiente.
+
+ent-FoodBreadChallah = challah de miel
+    .gender = male
+    .desc = Pan trenzado espolvoreado con semillas de amapola.
+
+ent-FoodBreadChallahSlice = rebanada de challah
+    .gender = female
+    .desc = ¡Una rebanada de amapola y miel, caramba!
+
+ent-FoodBreadCorn = pan de maíz
+    .gender = male
+    .desc = Un buen pan de maíz al más puro estilo campestre, de esos que te hacen decir yeehaw y sacar el revólver.
+
+ent-FoodBreadCornSlice = rebanada de pan de maíz
+    .gender = female
+    .desc = Una rebanada de pan de maíz.
+
+ent-FoodBreadCotton = pan de algodón
+    .gender = male
+    .desc = Pan, pero para la polilla.
+
+ent-FoodBreadCottonSlice = Rebanada de pan de algodón
+    .gender = female
+    .desc = Una rebanada de pan de algodón (quizás) delicioso.
+
+ent-FoodBreadCreamcheese = Pan de queso crema
+    .gender = male
+    .desc = ¡Ñam ñam ñam!
+
+ent-FoodBreadCreamcheeseSlice = Rebanada de pan de queso crema
+    .gender = female
+    .desc = ¡Una rebanada de ñam!
+
+ent-FoodBreadFrenchToast = Tostada francesa
+    .gender = female
+    .desc = Una rebanada de pan empapada en una mezcla de huevo batido.
+
+ent-FoodBreadGarlicSlice = Pan de ajo
+    .gender = male
+    .desc = Por desgracia, es limitado.
+
+ent-FoodBreadJellySlice = Tostada de jalea
+    .gender = female
+    .desc = ¡Como si Ciencia fuera a sacrificar sus slimes por unas tostadas!
+
+ent-FoodBreadMeat = Pan de carne
+    .gender = male
+    .desc = La base culinaria de todo elocuen/tg/entilhombre que se precie.
+
+ent-FoodBreadMeatSlice = Rebanada de pan de carne
+    .gender = female
+    .desc = Una rebanada de delicioso pan de carne.
+
+ent-FoodBreadMeatSpider = Pan de carne de araña
+    .gender = male
+    .desc = Un pastel de carne tranquilizadoramente verde hecho de carne de araña.
+
+ent-FoodBreadMeatSpiderSlice = Rebanada de pan de carne de araña
+    .gender = female
+    .desc = Una rebanada de pastel de carne hecho de un animal que probablemente aún quiere verte muerto.
+
+ent-FoodBreadMeatXeno = Pan de carne xeno
+    .gender = male
+    .desc = Un final apropiado, y sustancioso, para la escoria xeno.
+
+ent-FoodBreadMeatXenoSlice = Rebanada de pan de carne xeno
+    .gender = female
+    .desc = Una rebanada de escoria xeno.
+
+ent-FoodBreadMimana = Pan de mimana
+    .gender = male
+    .desc = Mejor comerlo en silencio.
+
+ent-FoodBreadMimanaSlice = Rebanada de pan de mimana
+    .gender = female
+    .desc = ¡Una rebanada de silencio!
+
+ent-FoodBreadMoldy = Hogaza mohosa
+    .gender = female
+    .desc = Todavía está bastante bien para comer, solo come alrededor de las partes mohosas.
+
+ent-FoodBreadMoldySlice = Rebanada de pan mohoso
+    .gender = female
+    .desc = Estaciones enteras se han destrozado discutiendo si esto todavía está en condiciones de comer.
+
+ent-FoodBreadPlain = Pan
+    .gender = male
+    .desc = Un pan terrestre llanamente tradicional.
+
+ent-FoodBreadPlainSlice = Rebanada de pan
+    .gender = female
+    .desc = Una rebanada del hogar.
+
+ent-FoodBreadSausage = Pan de salchicha
+    .gender = male
+    .desc = No le des demasiadas vueltas.
+
+ent-FoodBreadSausageSlice = Rebanada de pan de salchicha
+    .gender = female
+    .desc = No le des demasiadas vueltas.
+
+ent-FoodBreadTofu = Pan de tofu
+    .gender = male
+    .desc = Como el pan de carne pero para vegetarianos. Presume ante tus compañeros de tripulación de lo mucho mejor que es.
+
+ent-FoodBreadTofuSlice = Rebanada de pan de tofu
+    .gender = female
+    .desc = Una rebanada de delicioso pan de tofu.
+
+ent-FoodBreadTwoSlice = Dos rebanadas
+    .desc = Con clase.
+
+ent-FoodBreadVolcanic = Hogaza volcánica
+    .gender = female
+    .desc = Una hogaza oscura. Se parece a la piedra pómez.
+
+ent-FoodBreadVolcanicSlice = Rebanada volcánica
+    .gender = female
+    .desc = Una rebanada de hogaza oscura. Se parece a la piedra pómez.
+
+ent-FoodBungo = Fruta bungo
+    .gender = female
+    .desc = La humilde fruta bungo.
+
+ent-FoodBungoPit = Hueso de bungo
+
+ent-FoodBurgerAppendix = Hamburguesa de apéndice
+    .gender = female
+    .desc = Sabe a apendicitis.
+
+ent-FoodBurgerBacon = Hamburguesa de bacon
+    .gender = female
+    .desc = La combinación perfecta de todo lo americano.
+
+ent-FoodBurgerBaconRotten = Hamburguesa podrida
+    .gender = female
+    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
+
+ent-FoodBurgerBaseball = Hamburguesa béisbol
+    .gender = female
+    .desc = Todavía está caliente. El vapor que desprende huele un poco a sudor.
+
+ent-FoodBurgerBear = Bearger
+    .gender = male
+    .desc = Mejor servido rawr.
+
+ent-FoodBurgerBig = Hamburguesa gran bocado
+    .gender = female
+    .desc = Olvídate del Big Mac. ¡ESTA es el futuro!
+
+ent-FoodBurgerBigBiteRotten = Hamburguesa podrida
+    .gender = female
+    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
+
+ent-FoodBurgerBoomRoach = Boomroachburger
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerBrain = Hamburguesa de cerebro
+    .gender = female
+    .desc = Una hamburguesa de aspecto extraño. Parece casi sintiente.
+
+ent-FoodBurgerCarp = Hamburguesa filet-o-carpa
+    .gender = female
+    .desc = Casi como si una carpa estuviera gritando en algún lugar...
+
+ent-FoodBurgerCat = Hamburguesa de gato
+    .gender = female
+    .desc = ¡Por fin esos gatos y gatopersonas sirven para algo!
+
+ent-FoodBurgerCecropiaMothRoach = Mothroachburger cecropia
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerCheese = Hamburguesa de queso
+    .gender = female
+    .desc = Esta noble hamburguesa se alza con orgullo, revestida de queso dorado.
+
+ent-FoodBurgerCheeseRotten = Hamburguesa podrida
+    .gender = female
+    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
+
+ent-FoodBurgerChicken = Sándwich de pollo
+    .gender = male
+    .desc = Un delicioso sándwich de pollo; se dice que los beneficios de este manjar ayudan a criminalizar el desarme de personas en la frontera espacial.
+
+ent-FoodBurgerClown = Hamburguesa de payaso
+    .gender = female
+    .desc = Tiene un sabor gracioso...
+
+ent-FoodBurgerClurger = Clurger
+    .gender = male
+    .desc = ¡El favorito del Cartero!
+
+ent-FoodBurgerCorgi = Corger
+    .gender = male
+    .desc = ¡El favorito del Jefe de Personal!
+
+ent-FoodBurgerCrab = Hamburguesa de cangrejo
+    .gender = female
+    .desc = Una deliciosa hamburguesa de lo más cangrejil, colocada entre dos panes.
+
+ent-FoodBurgerCrazy = Hamburguesa loca
+    .gender = female
+    .desc = Parece el tipo de comida que haría un payaso demente con gabardina.
+
+ent-FoodBurgerDuck = Sándwich de pato
+    .gender = male
+    .desc = Un sándwich de pato; solo los criminalmente dementes se atreverían a comer la carne de una criatura tan adorable.
+
+ent-FoodBurgerEmpowered = Hamburguesa electrificada
+    .gender = female
+    .desc = Está sorprendentemente buena, si es que vives de la electricidad.
+
+ent-FoodBurgerEmpoweredRotten = Hamburguesa podrida
+    .gender = female
+    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
+
+ent-FoodBurgerFive = Hamburguesa cinco alarmas
+    .gender = female
+    .desc = ¡ARDIENTE! ¡ARDIENTE! ¡ARDIENTE!
+
+ent-FoodBurgerGhost = Hamburguesa fantasma
+    .gender = female
+    .desc = ¡Demasiado espeluznante!
+
+ent-FoodBurgerHuman = Hamburguesa humana
+    .gender = female
+    .desc = No puedes saber de quién está hecha...
+
+ent-FoodBurgerImperiRoach = Roachburger imperi
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerJelly = Hamburguesa de jalea
+    .gender = female
+    .desc = ¿Delicia culinaria...?
+
+ent-FoodBurgerLeopardMothRoach = Mothroachburger leopardo
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerLunarMothRoach = Mothroachburger lunar
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerMcguffin = McGuffin
+    .gender = male
+    .desc = Una imitación barata y grasienta de los huevos benedictinos.
+
+ent-FoodBurgerMcrib = Sándwich de costillas BBQ
+    .gender = male
+    .desc = Una esquiva hamburguesa con forma de costilla con disponibilidad limitada en toda la galaxia. No es tan buena como la recuerdas.
+
+ent-FoodBurgerMime = Hamburguesa del mimo
+    .gender = female
+    .desc = Su sabor desafía al lenguaje.
+
+ent-FoodBurgerMopRoach = roachburger de fregona
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerMothRoach = Mothroachburger
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerMustardMothRoach = mothroachburger de mostaza
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerOwORoach = roachburger OwO
+    .gender = male
+    .desc = La última lámpara que vio fue la del interior del microondas.
+
+ent-FoodBurgerPlain = Hamburguesa sencilla
+    .gender = female
+    .desc = Una hamburguesa aburrida y seca.
+
+ent-FoodBurgerPlainRotten = Hamburguesa podrida
+    .gender = female
+    .desc = Probablemente todavía sea comestible, solo hay que raspar esto. Y esto también. Y esto también.
+
+ent-FoodBurgerRat = Hamburguesa de rata
+    .gender = female
+    .desc = Más o menos lo que esperabas...
+
 ent-FoodBurgerRobot = Roburger
     .gender = male
     .desc = La lechuga es el único componente orgánico. Bip.
@@ -2479,7 +2898,7 @@ ent-FreedomImplant = implante de libertad
     .gender = male
     .desc = Este implante permite al usuario liberarse de esposas hasta tres veces antes de dejar de funcionar.
 
-ent-FreedomImplanter = implantador del Syndicate
+ent-FreedomImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -2487,7 +2906,7 @@ ent-FreelanceTrackingImplant = implante rastreador de mercenario
     .gender = male
     .desc = Este implante tiene un monitor de rastreo para el canal de radio de mercenarios.
 
-ent-FreelanceTrackingImplanter = implantador del Syndicate
+ent-FreelanceTrackingImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -2551,6 +2970,18 @@ ent-FuelPlasma1 = plasma de grado combustible
     .gender = male
     .desc = Una barra de plasma desaturado, apta como combustible.
 
+ent-FuelTankHugeFuelFilled = cisterna de almacenamiento de combustible
+    .gender = female
+    .desc = Un gran depósito de combustible reforzado, diseñado para contener 20ku de reactivos.
+
+ent-FuelTankHugeOil = cisterna de almacenamiento de combustible
+    .gender = female
+    .desc = Un gran depósito de combustible reforzado, diseñado para contener 20ku de reactivos.
+
+ent-FuelTankHugeOilFilled = cisterna de almacenamiento de combustible
+    .gender = female
+    .desc = Un gran depósito de combustible reforzado, diseñado para contener 20ku de reactivos.
+
 ent-FuelUranium = uranio de grado combustible
     .gender = male
     .desc = Una barra de uranio semiprocesado, apta como combustible.
@@ -2558,6 +2989,10 @@ ent-FuelUranium = uranio de grado combustible
 ent-FuelUranium1 = uranio de grado combustible
     .gender = male
     .desc = Una barra de uranio semiprocesado, apta como combustible.
+
+ent-FugitiveIDCard = tarjeta de identificación de fugitivo
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
 
 ent-Fulton = fulton
     .gender = male
@@ -2862,6 +3297,10 @@ ent-GasFilterOxygenOnFlipped = filtro de gas
 ent-Gaslock = esclusa de gas externa
     .gender = female
     .desc = Conecta tuberías de gas de naves o estaciones separadas para permitir la transferencia de gas. Ambos lados deben estar acoplados y bombeando en la misma dirección para aceptar el flujo.
+
+ent-GaslockFlatpack = paquete plano de esclusa de gas
+    .gender = male
+    .desc = Un paquete plano usado para construir una esclusa de gas de tamaño completo.
 
 ent-GaslockFrame = esclusa de gas portátil
     .gender = female
@@ -3207,13 +3646,25 @@ ent-GasThermoMachineHeaterEnabled = calentador
     .gender = male
     .desc = Calienta el gas en las tuberías conectadas.
 
+ent-GasThermoMachineHeaterFlatpack = paquete plano de calefactor
+    .gender = male
+    .desc = Un paquete plano usado para construir un calefactor.
+
 ent-GasThermoMachineHellfireFreezer = congelador infernal
     .gender = male
     .desc = Una máquina avanzada que enfría el gas en las tuberías conectadas. Tiene el efecto secundario de enfriar el área circundante. ¡Frío como el Infierno!
 
+ent-GasThermoMachineHellfireFreezerFlatpack = paquete plano de congelador Hellfire
+    .gender = male
+    .desc = Un paquete plano usado para construir un congelador Hellfire.
+
 ent-GasThermoMachineHellfireHeater = calentador infernal
     .gender = male
     .desc = Una máquina avanzada que calienta el gas en las tuberías conectadas. Tiene el efecto secundario de filtrar calor al área circundante. ¡Caliente como el Infierno!
+
+ent-GasThermoMachineHellfireHeaterFlatpack = paquete plano de calefactor Hellfire
+    .gender = male
+    .desc = Un paquete plano usado para construir un calefactor Hellfire.
 
 ent-GasTurbineMonitor = monitor de turbina de gas
     .gender = male
@@ -3409,7 +3860,7 @@ ent-GhostBox = Caja fantasma
     .gender = female
     .desc = ¡Cuidado!
 
-ent-GibAcidifierImplanterNF = implantador del Syndicate
+ent-GibAcidifierImplanterNF = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -3509,6 +3960,10 @@ ent-GoblinCube = Cubo de goblin
     .gender = male
     .desc = ¡Solo añade agua!
 
+ent-GodfatherIDCard = tarjeta de identificación del padrino
+    .gender = female
+    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
+
 ent-Gohei = Gohei
     .gender = male
     .desc = Un palo de madera con cintas blancas en el extremo. Originalmente usado por sacerdotisas de santuarios para purificar cosas. Ahora lo usan los weeaboos de la estación.
@@ -3607,6 +4062,10 @@ ent-GreebleAntenna2 = Antena
     .gender = female
     .desc = Como antenas al infierno. Generalmente parte de los sistemas de comunicación UHF de una nave o estación.
 
+ent-GreebleAntenna3 = Antena
+    .gender = female
+    .desc = Como antenas al infierno. Generalmente parte de los sistemas de comunicación UHF de una nave o estación.
+
 ent-GreebleElint1 = Sistema ELINT
     .gender = male
     .desc = Se usa para leer radiación electromagnética no comunicacional y sus propiedades, como señales de radar. ¿A quién le importa?
@@ -3618,6 +4077,30 @@ ent-GreebleRadarpanel1 = Panel de radar
 ent-GreebleRadarpanel2 = Panel de radar
     .gender = male
     .desc = Algún tipo de panel protector de fibra de vidrio. Presente en varios sistemas, como el mapeo meteorológico y de altitud o los sistemas de alerta temprana militares. ¡Si es lo suficientemente potente, puede que tengas cáncer un poco antes!
+
+ent-GreebleRadiator1 = radiador
+    .gender = male
+    .desc = Un conjunto grande y delicado de disipación de calor que se encuentra en el exterior de las naves. Útil para enfriar reactores, aunque suele haber disipadores internos de seguridad.
+
+ent-GreebleRadiator2 = radiador
+    .gender = male
+    .desc = Un conjunto grande y delicado de disipación de calor que se encuentra en el exterior de las naves. Útil para enfriar reactores, aunque suele haber disipadores internos de seguridad.
+
+ent-GreebleSideLabel1 = etiqueta de advertencia
+    .gender = female
+    .desc = Una etiqueta genérica de peligro. Probablemente haya algo peligroso cerca.
+
+ent-GreebleSideLabel2 = etiqueta de advertencia
+    .gender = female
+    .desc = Una etiqueta genérica de peligro. Esta parece relacionada con penachos de propulsión.
+
+ent-GreebleSideLabel3 = etiqueta de advertencia
+    .gender = female
+    .desc = Una etiqueta genérica de peligro. Probablemente haya algo peligroso cerca.
+
+ent-GreebleSideLabel4 = etiqueta de advertencia
+    .gender = female
+    .desc = Una etiqueta genérica de peligro. Probablemente haya algo peligroso cerca.
 
 ent-GreenTabletopPiece = Pieza verde
 
@@ -3657,7 +4140,6 @@ ent-GrenadeStinger = Granada stinger
     .gender = female
     .desc = Nada que ver aquí, por favor, dispérsense.
 
-ent-GridGravityGeneratorDummy = GridGravityGeneratorDummy
 
 ent-Grille = Rejilla
     .gender = female
@@ -3749,6 +4231,12 @@ ent-GunAttachmentOpticErebus4x = Óptica 4x Spectre 970 (railmount Erebus-HI)
 ent-GunAttachmentOpticErebus8x = Óptica 8x L6 Bowman (railmount Erebus-HI)
     .gender = female
     .desc = Permite el combate a larga distancia. Voluminosa y difícil de controlar tras el retroceso.
+
+ent-GunAttachmentQLG20 = lanzagranadas bajo cañón TCA QLG-20 (montaje UBGL de TSF)
+    .desc = Un UBGL diseñado para montarse en los fusiles largos de TSF y ofrecer una opción ligera de apoyo de fuego y uso general.
+
+ent-GunAttachmentRKR40 = lanzagranadas bajo cañón PD-VI RKR/40 (montaje UBGL de Vympel)
+    .desc = Un UBGL propietario diseñado para el M-32 Vympel y para cualquier otra arma que comparta su mecanismo de disparo único (que no es nada).
 
 ent-GunAttachmentSuppressorMulticalPistol = silenciador MULTI-CAL para pistola
     .gender = male
@@ -3971,7 +4459,6 @@ ent-HamtrRLeg = pierna derecha del HAMTR
 ent-Handcuffs = esposas
     .desc = Se usa para detener a criminales y demás gilipollas.
 
-ent-HandcuffsDummy = Esposas ficticias
 
 ent-HandheldAutopulserProjectile = proyectil de plasma
     .gender = male
@@ -4100,6 +4587,86 @@ ent-HappyHonkNukieSnacks = caja de aperitivos del Syndicate
 ent-HardlightShield = escudo de luz dura
     .gender = male
     .desc = Escudo de luz dura fabricado por Z-22; plegado, cabe incluso en el bolsillo. Es más emisor que reflector, a diferencia de sus primos azules.
+
+ent-HardpointBallisticHeavy = punto de anclaje balístico pesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointBallisticLight = punto de anclaje balístico ligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointBallisticMedium = punto de anclaje balístico medio
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointBallisticSuperheavy = punto de anclaje balístico superpesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointBallisticSuperlight = punto de anclaje balístico superligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointDebugHeavy = punto de anclaje de depuración universal pesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointDebugLight = punto de anclaje de depuración universal ligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointDebugMedium = punto de anclaje de depuración universal medio
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointDebugSuperheavy = punto de anclaje de depuración universal superpesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointDebugSuperlight = punto de anclaje de depuración universal superligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointEnergyHeavy = punto de anclaje energético pesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointEnergyLight = punto de anclaje energético ligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointEnergyMedium = punto de anclaje energético medio
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointEnergySuperheavy = punto de anclaje energético superpesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointEnergySuperlight = punto de anclaje energético superligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointMissileHeavy = punto de anclaje de misiles pesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointMissileLight = punto de anclaje de misiles ligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointMissileMedium = punto de anclaje de misiles medio
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointMissileSuperheavy = punto de anclaje de misiles superpesado
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
+
+ent-HardpointMissileSuperlight = punto de anclaje de misiles superligero
+    .gender = male
+    .desc = Un punto donde las armas de la nave se anclan a sus distintos sistemas, como los cargadores neumáticos de munición o los sistemas de control de tiro.
 
 ent-HarmonicaInstrument = armónica
     .gender = female
@@ -4346,10 +4913,6 @@ ent-HighSecViperCommandLocked = puerta de alta seguridad
 ent-HighSecViperLocked = puerta de alta seguridad
     .gender = female
     .desc = Mantiene afuera lo malo y retiene lo bueno.
-
-ent-HiveCarrierComputer = consola del transportador Zephyr
-    .gender = female
-    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
 
 ent-HoloClownInjector = inyector de holoclown
     .gender = male
@@ -4761,6 +5324,10 @@ ent-HolopadGeneralTools = holopad
     .gender = male
     .desc = Un dispositivo montado en el suelo para proyectar imágenes holográficas.
 
+ent-HolopadGodfather = holopad de bluespace
+    .gender = male
+    .desc = Un dispositivo montado en el suelo para proyectar imágenes holográficas y permitir la comunicación nave a nave.
+
 ent-HolopadHologram = holograma
 
 ent-HolopadJupiter = holopad de bluespace
@@ -5135,25 +5702,17 @@ ent-HoverbikeSyndicateFlatpack = paquete plano de hoverbike del Syndicate
 
 ent-hoverentity = entidad flotante
 
-ent-HumanBodyAndAppearanceDummy = Maniquí Humano (Cuerpo y Apariencia)
 
-ent-HumanBodyDummy = Maniquí Humano (Cuerpo)
 
 ent-HumanCube = cubo humano
     .gender = male
     .desc = ¡Solo añade agua!
 
-ent-HumanDisposalDummy = Maniquí Humano (Desecho)
 
-ent-HumanHandcuffDummy = Maniquí Humano (Esposas)
 
-ent-HumanLungDummy = Maniquí Humano (Pulmón)
 
-ent-HumanUniformDummy = Maniquí Humano (Uniforme)
 
-ent-HumanVendingDummy = Maniquí Humano (Máquina Expendedora)
 
-ent-HumanWeightlessDummy = Maniquí Humano (Ingravidez)
 
 ent-HydrogenChemistryBottle = botella
     .gender = female
@@ -5278,7 +5837,6 @@ ent-IceCrust = costra de hielo
 
 ent-IceElementalSpawner = Generador de Elemental de Hielo
 
-ent-IDCardDummy = Maniquí de Tarjeta de ID
 
 ent-IDCardTide = tarjeta ID marea
     .gender = female
@@ -5600,15 +6158,9 @@ ent-IntercomSupply = intercomunicador
     .gender = male
     .desc = Un intercomunicador. Para cuando la estación simplemente necesita saber algo.
 
-ent-InventoryIDCardDummy = InventoryIDCardDummy
 
-ent-InventoryJumpsuitJanitorDummy = InventoryJumpsuitJanitorDummy
 
-ent-InventoryPdaDummy = InventoryPdaDummy
-    .gender = male
-    .desc = Asistente de Datos Personal.
 
-ent-InventoryStunnableDummy = InventoryStunnableDummy
 
 ent-InvisibleCrate = caja
     .gender = female
@@ -5743,11 +6295,11 @@ ent-JerryCanWeldingFuel = bidón
 
 ent-JetpackADM = mochila propulsora pre-fractura
     .gender = female
-    .desc = Una exótica mochila propulsora furtiva pre-fractura, diseñada para ser invisible al radar más allá de 16 metros.
+    .desc = Una mochila propulsora sigilosa exótica, anterior a la fractura.
 
 ent-JetpackADMFilled = mochila propulsora pre-fractura
     .gender = female
-    .desc = Una exótica mochila propulsora furtiva pre-fractura, diseñada para ser invisible al radar más allá de 16 metros.
+    .desc = Una mochila propulsora sigilosa exótica, anterior a la fractura.
 
 ent-JetpackBlack = mochila propulsora
     .gender = female
@@ -5812,6 +6364,8 @@ ent-JetpackVoid = jetpack del vacío
 ent-JetpackVoidFilled = jetpack del vacío
     .gender = male
     .desc = Es una mochila propulsora. Puede almacenar 5 L de gas.
+
+ent-JianghuiChart = carta de Jianghui
 
 ent-Joint = porro
     .gender = male
@@ -5957,6 +6511,30 @@ ent-JupiterCarrierComputer = consola del astillero Jupiter
     .gender = female
     .desc = Astillero ligero que usa los hangares internos del Jupiter, no tiene acceso al catálogo completo de naves de la Dinastía Phaethon.
 
+ent-JVNECdDiskCapstien = disco CD (Capstien)
+    .gender = male
+    .desc = ¡El show de June and Eels!
+
+ent-JVNECdDiskJNE = disco CD (show de June & Eels)
+    .gender = male
+    .desc = ¡El show de June and Eels!
+
+ent-JVNECdDiskNextUp = disco CD (Next Up)
+    .gender = male
+    .desc = ¡El show de June and Eels!
+
+ent-JVNECdDiskNinja = disco CD (¡¡¡NINJA!!!)
+    .gender = male
+    .desc = ¡El show de June and Eels!
+
+ent-JVNECdDiskNumber = disco CD (Numbers)
+    .gender = male
+    .desc = Alrededor del arbusto de moras, el mono perseguía a la comadreja...
+
+ent-JVNECdDiskSyndicate = disco CD (Syndicate)
+    .gender = male
+    .desc = radio Syndicate 102.9
+
 ent-KalimbaInstrument = kalimba
     .gender = female
     .desc = El poder de un piano al alcance de tus pulgares.
@@ -6091,7 +6669,7 @@ ent-KukriKnife = cuchillo kukri
 
 ent-L58Flatpack = paquete plano del L85
     .gender = male
-    .desc = Un paquete plano para construir un autocañón L85 de 20 mm.
+    .desc = Un paquete plano usado para construir un autocañón L85 de 14x97mm.
 
 ent-LabelAbsinthe = papel
     .gender = male
@@ -6412,10 +6990,6 @@ ent-LedLightBulb = bombilla LED
 ent-LedLightTube = tubo de luz LED
     .gender = male
     .desc = Una bombilla de alta potencia y alta energía.
-
-ent-LedokolAttachmentComputer = consola de accesorio ledokol
-    .gender = female
-    .desc = Utilizada en portanaves para comprar y vender naves sin necesidad de regresar a una estación.
 
 ent-Left4ZedChemistryBottle = botella
     .gender = female
@@ -8211,7 +8785,7 @@ ent-MacroBombImplant = implante de macrobomba
     .gender = male
     .desc = Este implante crea una gran explosión al morir, tras una cuenta atrás preprogramada.
 
-ent-MacroBombImplanter = implantador del Syndicate
+ent-MacroBombImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
@@ -8247,33 +8821,49 @@ ent-Magazine127x99mmEmpty = cargador (12,7x99mm vacío)
 
 ent-Magazine127x99mmExplosive = cargador (12,7x99mm alto explosivo)
 
-ent-Magazine140mm = cargador de munición APHE de 140 mm
+ent-Magazine140mm = cargador de munición APHE de 85x680mm
     .gender = male
-    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles APHE de 140 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene cartuchos APHE de 85x680mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine140mmSACLOS = cargador de munición SACLOS de 140 mm
+ent-Magazine140mmSACLOS = cargador de munición SACLOS de 85x680mm
     .gender = male
-    .desc = Un cargador de munición que contiene 120 proyectiles de 140 mm guiados por láser mediante control semiautomático por línea de visión. Es un nombre larguísimo, pero solo significa que tú los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene 120 cartuchos de 85x680mm guiados por láser, semiautomáticos y de línea de visión por comandos. Es un trabalenguas, pero significa que tú lo guías directamente en vuelo. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine20mm = cargador de munición sólida de 20mm
+ent-Magazine20mm = cargador de munición sólida de 14x97mm
     .gender = male
-    .desc = Un cargador de munición que contiene proyectiles sólidos de 20mm infinitos. Utilizable por piezas de artillería montadas en embarcaciones.
+    .desc = Un cargador de munición que contiene cartuchos sólidos de 14x97mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine20mmAS = cargador de munición AS de 20 mm
+ent-Magazine20mmAS = cargador de munición AS de 14x97mm
     .gender = male
-    .desc = Un cargador de munición que contiene 1250 proyectiles antiescudo de 20 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene 1250 cartuchos antiescudo de 14x97mm. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine30mm = cargador de munición sólida de 30mm
+ent-Magazine30mm = cargador de munición sólida de 20x141mm
     .gender = male
-    .desc = Un cargador de munición que contiene proyectiles sólidos de 30mm infinitos. Utilizable por piezas de artillería montadas en embarcaciones.
+    .desc = Un cargador de munición que contiene cartuchos sólidos de 20x141mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine30mmHE = cargador de munición HE de 30 mm
+ent-Magazine30mmHE = cargador de munición HE de 20x141mm
     .gender = male
-    .desc = Un cargador de munición que contiene 2000 proyectiles HE de 30 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene 2000 cartuchos HE de 20x141mm. Utilizable por piezas de artillería montadas en naves.
+
+ent-Magazine35mm = cargador de munición sólida de 25x170mm
+    .gender = male
+    .desc = Un cargador de munición que contiene cartuchos sólidos de 25x170mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
 ent-Magazine35mmGrenade = cargador (granada 35x53mm SAPHE)
+    .gender = male
+    .desc = Un cargador para el lanzador QLU-907 Anubis. Acepta granadas de 35mm específicas, además de algunas portátiles seleccionadas.
 
 ent-Magazine35mmGrenadeEmpty = cargador (granada 35x53mm, cualquiera)
+    .gender = male
+    .desc = Un cargador para el lanzador QLU-907 Anubis. Acepta granadas de 35mm específicas, además de algunas portátiles seleccionadas.
+
+ent-Magazine35mmGrenadeStinger = cargador (granada de 35x53mm FL/ST)
+    .gender = male
+    .desc = Un cargador para el lanzador QLU-907 Anubis. Acepta granadas de 35mm específicas, además de algunas portátiles seleccionadas.
+
+ent-Magazine35mmHE = cargador de munición HE de 25x170mm
+    .gender = male
+    .desc = Un cargador de munición que contiene 2000 cartuchos HE de 25x170mm. Utilizable por piezas de artillería montadas en naves.
 
 ent-Magazine4_gaugeBuckshot = bote de munición (perdigones de calibre 4)
     .gender = male
@@ -8421,25 +9011,25 @@ ent-Magazine556x45mmRubber = cargador (5.56x45mm de goma)
 
 ent-Magazine556x45mmUranium = cargador (5.56x45mm de uranio)
 
-ent-Magazine57mmHE = cargador de munición HE de 57mm
+ent-Magazine57mmHE = cargador de munición HE de 40x360mm
     .gender = male
-    .desc = Un cargador de munición con proyectiles de alto explosivo de 57mm en cantidad ilimitada. Utilizable por piezas de artillería montadas en embarcaciones.
+    .desc = Un cargador de munición que contiene cartuchos de alto explosivo de 40x360mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine57mmSACLOS = cargador de munición LG-SACLOS de 57 mm
+ent-Magazine57mmSACLOS = cargador de munición LG-SACLOS de 40x360mm
     .gender = male
-    .desc = Un cargador de munición que contiene 600 proyectiles de 57 mm con guiado láser semiautomático por línea de mira. Menudo trabalenguas, pero solo significa que los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene 600 cartuchos de 40x360mm guiados por láser, semiautomáticos y de línea de visión por comandos. Es un trabalenguas, pero significa que tú lo guías directamente en vuelo. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine57mmSACLOSInfinite = cargador de munición LG-SACLOS de 57 mm
+ent-Magazine57mmSACLOSInfinite = cargador de munición LG-SACLOS de 40x360mm
     .gender = male
-    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles de 57 mm con guiado láser semiautomático por línea de mira. Menudo trabalenguas, pero solo significa que los guías directamente durante el vuelo. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene cartuchos de 40x360mm infinitos guiados por láser, semiautomáticos y de línea de visión por comandos. Es un trabalenguas, pero significa que tú lo guías directamente en vuelo. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine57mmSmart = cargador de munición HMNG de 57 mm
+ent-Magazine57mmSmart = cargador de munición HMNG de 40x360mm
     .gender = male
-    .desc = Un cargador de munición que contiene 600 proyectiles autoguiados de 57 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene 600 cartuchos autoguiados de 40x360mm. Utilizable por piezas de artillería montadas en naves.
 
-ent-Magazine57mmSmartInfinite = cargador de munición HMNG de 57 mm
+ent-Magazine57mmSmartInfinite = cargador de munición HMNG de 40x360mm
     .gender = male
-    .desc = Un cargador de munición que contiene una cantidad ilimitada de proyectiles autoguiados de 57 mm. Compatible con piezas de artillería montadas en naves.
+    .desc = Un cargador de munición que contiene cartuchos autoguiados de 40x360mm infinitos. Utilizable por piezas de artillería montadas en naves.
 
 ent-Magazine57x28mmPistolEmpty = cargador de pistola (5.7x28mm, universal)
 
@@ -8578,338 +9168,4 @@ ent-Magazine762x51mmFMJ = cargador (7.62x51mm FMJ)
 ent-Magazine762x51mmHP = cargador (7.62x51mm punta hueca)
 
 ent-Magazine762x51mmIncendiary = cargador (7.62x51mm incendiario)
-
-ent-Magazine762x51mmLowCapacityEmpty = cargador de baja capacidad (7.62x51mm universal)
-
-ent-Magazine762x51mmLowCapacityFMJ = cargador de baja capacidad (7.62x51mm FMJ)
-
-ent-Magazine762x51mmLowCapacityIncendiary = cargador de baja capacidad (7.62x51mm incendiario)
-
-ent-Magazine762x51mmLowCapacityPractice = cargador de baja capacidad (7.62x51mm entrenamiento)
-
-ent-Magazine762x51mmLowCapacityRubber = cargador de baja capacidad (7.62x51mm goma)
-
-ent-Magazine762x51mmLowCapacityUranium = cargador de baja capacidad (7.62x51mm uranio)
-
-ent-Magazine762x51mmPlasteelAP = cargador (7.62x51mm AP)
-
-ent-Magazine762x51mmPractice = cargador (7.62x51mm entrenamiento)
-
-ent-Magazine762x51mmRIP = cargador (7.62x51mm RIP)
-
-ent-Magazine762x51mmRubber = cargador (7.62x51mm goma)
-
-ent-Magazine762x51mmUranium = cargador (7.62x51mm uranio)
-
-ent-Magazine762x54mmREmpty = cargador (7.62x54mmR universal)
-
-ent-Magazine762x54mmRFMJ = cargador (7.62x54mmR FMJ)
-
-ent-Magazine762x54mmRHP = cargador (7.62x54mmR punta hueca)
-
-ent-Magazine762x54mmRIncendiary = cargador (7.62x54mmR incendiario)
-
-ent-Magazine762x54mmRPlasteelAP = cargador (7.62x54mmR AP)
-
-ent-Magazine762x54mmRPractice = cargador (7.62x54mmR entrenamiento)
-
-ent-Magazine762x54mmRRIP = cargador (7.62x54mmR RIP)
-
-ent-Magazine762x54mmRRubber = cargador (7.62x54mmR goma)
-
-ent-Magazine762x54mmRUranium = cargador (7.62x54mmR uranio)
-
-ent-Magazine8x65mmEmpty = cargador STANAG (8x65mm SKR universal)
-
-ent-Magazine8x65mmEmptyBox = caja SAW (8x65mm SKR universal)
-
-ent-Magazine8x65mmSKR = cargador STANAG (8x65mm SKR)
-
-ent-Magazine8x65mmSKRBox = caja SAW (8x65mm SKR)
-
-ent-Magazine8x65mmSKRIncendiary = cargador STANAG (8x65mm SKR incendiario)
-
-ent-Magazine8x65mmSKRPractice = cargador STANAG (8x65mm SKR entrenamiento)
-
-ent-Magazine9x19mmPistolEmpty = cargador de pistola (9x19mm universal)
-
-ent-Magazine9x19mmPistolFMJ = cargador de pistola (9x19mm FMJ)
-
-ent-Magazine9x19mmPistolHighCapacityEmpty = cargador de pistola ametralladora (9x19mm universal)
-
-ent-Magazine9x19mmPistolHighCapacityFMJ = cargador de pistola ametralladora (9x19mm FMJ)
-
-ent-Magazine9x19mmPistolHighCapacityPractice = cargador de pistola ametralladora (9x19mm entrenamiento)
-
-ent-Magazine9x19mmPistolHighCapacityRubber = cargador de pistola ametralladora (9x19mm goma)
-
-ent-Magazine9x19mmPistolHP = cargador de pistola (9x19mm punta hueca)
-
-ent-Magazine9x19mmPistolIncendiary = cargador de pistola (9x19mm incendiario)
-
-ent-Magazine9x19mmPistolPlasteelAP = cargador de pistola (9x19mm AP)
-
-ent-Magazine9x19mmPistolPractice = cargador de pistola (9x19mm entrenamiento)
-
-ent-Magazine9x19mmPistolRIP = cargador de pistola (9x19mm RIP)
-
-ent-Magazine9x19mmPistolRubber = cargador de pistola (9x19mm goma)
-
-ent-Magazine9x19mmPistolUranium = cargador de pistola (9x19mm uranio)
-
-ent-Magazine9x19mmSubMachineGunEmp = cargador de subfusil (9x19mm EMP)
-
-ent-Magazine9x19mmSubMachineGunEmpty = cargador de subfusil (9x19mm universal)
-
-ent-Magazine9x19mmSubMachineGunFMJ = cargador de subfusil (9x19mm FMJ)
-
-ent-Magazine9x19mmSubMachineGunHP = cargador de subfusil (9x19mm punta hueca)
-
-ent-Magazine9x19mmSubMachineGunIncendiary = cargador de subfusil (9x19mm incendiario)
-
-ent-Magazine9x19mmSubMachineGunPlasteelAP = cargador de subfusil (9x19mm AP)
-
-ent-Magazine9x19mmSubMachineGunPractice = cargador de subfusil (9x19mm entrenamiento)
-
-ent-Magazine9x19mmSubMachineGunRIP = cargador de subfusil (9x19mm RIP)
-
-ent-Magazine9x19mmSubMachineGunRubber = cargador de subfusil (9x19mm goma)
-
-ent-Magazine9x19mmSubMachineGunTopMountedEmpty = cargador superior (9x19mm superior universal)
-
-ent-Magazine9x19mmSubMachineGunTopMountedFMJ = cargador superior (9x19mm superior)
-
-ent-Magazine9x19mmSubMachineGunUranium = cargador de subfusil (9x19mm uranio)
-
-ent-MagazineAsmgtUniversal556x45mm = caja de munición compatible con ASMGT (5.56x45mm)
-    .gender = female
-    .desc = Caja de munición universal compatible con ASMGT, capaz de aceptar cartuchos de 5.56x45mm, 6.35x40mm, 7.62x39mm y 9x19mm.
-
-ent-MagazineAsmgtUniversal635x40mm = caja de munición compatible con ASMGT (6.35x40mm)
-    .gender = female
-    .desc = Caja de munición universal compatible con ASMGT, capaz de aceptar cartuchos de 5.56x45mm, 6.35x40mm, 7.62x39mm y 9x19mm.
-
-ent-MagazineAsmgtUniversal762x39mm = caja de munición compatible con ASMGT (7.62x39mm)
-    .gender = female
-    .desc = Caja de munición universal compatible con ASMGT, capaz de aceptar cartuchos de 5.56x45mm, 6.35x40mm, 7.62x39mm y 9x19mm.
-
-ent-MagazineAsmgtUniversal9x19mm = caja de munición compatible con ASMGT (9x19mm)
-    .gender = female
-    .desc = Caja de munición universal compatible con ASMGT, capaz de aceptar cartuchos de 5.56x45mm, 6.35x40mm, 7.62x39mm y 9x19mm.
-
-ent-MagazineAsmgtUniversalEmpty = caja de munición compatible con ASMGT
-    .gender = female
-    .desc = Caja de munición universal compatible con ASMGT, capaz de aceptar cartuchos de 5.56x45mm, 6.35x40mm, 7.62x39mm y 9x19mm.
-
-ent-MagazineDP29 = cargador DP-29 (7.62x39mm)
-
-ent-MagazineFoamBox = caja de munición (espuma)
-
-ent-MagazineNovaliteC1 = peine (5.56x45mm FMJ)
-
-ent-MagazineNovaliteC1Empty = peine (5.56x45mm universal)
-
-ent-MagazineNovaliteC1Rubber = peine (5.56x45mm goma)
-
-ent-MagazinePistolDebug = cargador bang, sin vida
-
-ent-MagazinePistolDebugZoom = cargador bang, veloz
-
-ent-MagazineShenzhen = cargador QBU-284 (13,4x92 mm DU-APFSDS)
-
-ent-MagazineSmart = cargador (.160 inteligente)
-
-ent-MagazineSmartLMG = tambor MlA-79 (.160 inteligente)
-
-ent-MagicalLamp = lámpara mágica
-    .gender = female
-    .desc = La federación de magos tuvo que recortar gastos de alguna manera tras el escándalo del merchandising del genio.
-
-ent-MagicalLampAI = lámpara mágica
-    .gender = female
-    .desc = La federación de magos tuvo que recortar gastos de alguna manera tras el escándalo del merchandising del genio.
-
-ent-MagicDiceBag = bolsa de dados
-    .gender = female
-    .desc = Contiene toda la suerte que jamás necesitarás.
-
-ent-MailAdminFun = paquete sin dirección
-
-ent-MailBag = saco postal
-    .gender = male
-    .desc = Aquí llega el correo, nunca falla...
-
-ent-MailBagCapsulePrimed = saco postal
-    .gender = male
-    .desc = Aquí llega el correo, nunca falla...
-
-ent-MailBlockGameDIY = paquete sin dirección
-
-ent-MailCapsulePrimed = cápsula postal
-
-ent-MailCarrierIDCard = tarjeta de identificación de cartero
-    .gender = female
-    .desc = Una tarjeta necesaria para acceder a varias zonas de la estación.
-
-ent-MailCigars = paquete sin dirección
-
-ent-MailCommandNFPipebombIntern = paquete sin dirección
-
-ent-MailCommandNFPlatinumCigars = paquete sin dirección
-
-ent-MailCommandNFPremiumAlcohol = paquete sin dirección
-
-ent-MailCommandNFStationPet = paquete grande sin dirección
-
-ent-MailCommandNFWristwatchGold = paquete sin dirección
-
-ent-MailCosplayArc = paquete sin dirección
-
-ent-MailCosplayGeisha = paquete sin dirección
-
-ent-MailCosplaySchoolgirl = paquete sin dirección
-
-ent-MailFlowers = paquete sin dirección
-
-ent-MailingUnit = unidad de envío postal
-    .gender = female
-    .desc = Una unidad de entrega postal neumática.
-
-ent-MailingUnitElectronics = electrónica de la unidad postal
-    .gender = female
-    .desc = Una placa electrónica utilizada en las unidades postales.
-
-ent-MailLargeAdminFun = paquete grande sin dirección
-
-ent-MailMetricsCartridge = cartucho de métricas postales
-    .gender = male
-    .desc = Un cartucho que registra estadísticas sobre los envíos postales.
-
-ent-MailMonoAK = paquete grande sin dirección
-
-ent-MailMonoC20r = paquete grande sin dirección
-
-ent-MailMonoC4 = paquete grande sin dirección
-
-ent-MailMonoDesword = paquete grande sin dirección
-
-ent-MailMonoERTMailKit = paquete grande sin dirección
-
-ent-MailMonoRCD = paquete sin dirección
-
-ent-MailNFAlcohol = paquete sin dirección
-
-ent-MailNFATV = paquete grande sin dirección
-
-ent-MailNFBakedGoods = paquete sin dirección
-
-ent-MailNFBible = paquete grande sin dirección
-
-ent-MailNFBikeHorn = paquete sin dirección
-
-ent-MailNFBoxer = paquete grande sin dirección
-
-ent-MailNFBuildABuddy = paquete grande sin dirección
-
-ent-MailNFCake = paquete grande sin dirección
-
-ent-MailNFCheese = paquete sin dirección
-
-ent-MailNFCigarettes = paquete sin dirección
-
-ent-MailNFCircuitboardIndustrial = paquete sin dirección
-
-ent-MailNFCircuitboardService = paquete sin dirección
-
-ent-MailNFCognizine = paquete sin dirección
-
-ent-MailNFConscript = paquete grande sin dirección
-
-ent-MailNFCookies = paquete sin dirección
-
-ent-MailNFCosplayMaid = paquete sin dirección
-
-ent-MailNFCosplayNurse = paquete sin dirección
-
-ent-MailNFCosplayWizard = paquete sin dirección
-
-ent-MailNFCritter = paquete sin dirección
-
-ent-MailNFDAW = paquete grande sin dirección
-
-ent-MailNFDonkPockets = paquete sin dirección
-
-ent-MailNFEmotionalRPG = paquete grande sin dirección
-
-ent-MailNFEMP = paquete sin dirección
-
-ent-MailNFFigurineBulk = paquete sin dirección
-
-ent-MailNFGladiator = paquete grande sin dirección
-
-ent-MailNFGoldCigars = paquete sin dirección
-
-ent-MailNFIFFBoard = paquete sin dirección
-
-ent-MailNFInstrumentFlatpack = paquete grande sin dirección
-
-ent-MailNFInstrumentLarge = paquete grande sin dirección
-
-ent-MailNFInstrumentSmall = paquete sin dirección
-
-ent-MailNFJoints = paquete sin dirección
-
-ent-MailNFKendoKit = paquete grande sin dirección
-
-ent-MailNFKnife = paquete sin dirección
-
-ent-MailNFMedkit = paquete grande sin dirección
-
-ent-MailNFMime = paquete grande sin dirección
-
-ent-MailNFMoney = paquete sin dirección
-
-ent-MailNFMuffins = paquete sin dirección
-
-ent-MailNFNecrosol = paquete sin dirección
-
-ent-MailNFOmnizine = paquete sin dirección
-
-ent-MailNFPAI = paquete sin dirección
-
-ent-MailNFPen = paquete sin dirección
-
-ent-MailNFPlushie = paquete sin dirección
-
-ent-MailNFPowerCell = paquete sin dirección
-
-ent-MailNFPowerTool = paquete grande sin dirección
-
-ent-MailNFRGBBGun = paquete grande sin dirección
-
-ent-MailNFSkeletonMotorcycle = paquete grande sin dirección
-
-ent-MailNFSkub = paquete sin dirección
-
-ent-MailNFSmoke = paquete sin dirección
-
-ent-MailNFSnacks = paquete sin dirección
-
-ent-MailNFSoaps = paquete sin dirección
-
-ent-MailNFSoapsOmega = paquete sin dirección
-
-ent-MailNFSodaPwrGame = paquete sin dirección
-
-ent-MailNFSodaRedBool = paquete sin dirección
-
-ent-MailNFSodaSpaceCola = paquete sin dirección
-
-ent-MailNFSodaSpaceMountainWind = paquete sin dirección
-
-ent-MailNFSodaSpaceUp = paquete sin dirección
-
-ent-MailNFSword = paquete grande sin dirección
-
-ent-MailNFT2ComponentBox = paquete sin dirección
 

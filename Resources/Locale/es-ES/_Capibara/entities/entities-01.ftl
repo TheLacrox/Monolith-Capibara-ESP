@@ -1,3 +1,99 @@
+ent-Cartridge8x65mmSKRPractice = cartucho (8x65mm SKR de práctica)
+    .gender = male
+    .desc = Un cartucho experimental de alto rendimiento. Cartucho estándar para rifles de alta potencia en todas las ramas de las fuerzas armadas de la TSF.
+
+ent-Cartridge9x19mmEmp = cartucho (9x19mm EMP)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmFMJ = cartucho (9x19mm FMJ)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmHP = cartucho (9x19mm punta hueca)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmIncendiary = cartucho (9x19mm incendiario)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmPlasteelAP = cartucho (9x19mm AP)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmPractice = cartucho (9x19mm de práctica)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmRIP = cartucho (9x19mm RIP)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmRubber = cartucho (9x19mm de goma)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-Cartridge9x19mmUranium = cartucho (9x19mm de uranio)
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-CartridgeCap = cartucho de pistola de fulminante
+
+ent-CartridgeDebug = cartucho bang, muerto
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-CartridgeDebugZoom = cartucho bang, zoom
+    .gender = male
+    .desc = Cartucho de pistola genérico. Fácil de manejar, con un efecto decente sobre la carne sin blindaje.
+
+ent-CartridgeMinigun = cartucho (.10 de rifle)
+    .gender = male
+    .desc = Un cartucho intermedio extremadamente común para fusiles.
+
+ent-CartridgeMPSSMHEAT = tubo de cohete MPSSM Mk.248
+    .gender = male
+    .desc = Un tubo de misil diseñado para el lanzador MPSSM. Dispara un cohete HEAT no guiado para la destrucción estructural precisa y uso antitanque.
+
+ent-CartridgeMPSSMMissile = tubo de misil MPSSM ASM-19
+    .gender = male
+    .desc = Un tubo de misil diseñado para el lanzador MPSSM. Dispara un misil EMP-HE de seguimiento de naves con un alcance de enganche de 1,2 km.
+
+ent-CartridgeRocket = granada PG-7VL
+    .gender = female
+    .desc = Una ojiva de 1,5 diseñada para el lanzador RPG-7. Tiene forma tubular.
+
+ent-CartridgeRocketEmp = PG-7VL EMP
+    .gender = male
+    .desc = Una ojiva EMP de 1,5 diseñada para el lanzador RPG-7. Tiene forma tubular.
+
+ent-CartridgeRocketMiniNF = minicohete
+
+ent-CartridgeRocketSlow = granada PG-7VL "Cohete Caracol"
+    .gender = female
+    .desc = Una ojiva de 1,5 diseñada para el lanzador RPG-7. Es inusualmente lenta.
+
+ent-CartridgeShenzhen = cartucho (13,4x92 mm DU-APFSDS sin vaina)
+    .gender = male
+    .desc = Proyectil antimaterial de gran tamaño, con alta penetración de blindaje y daño estructural.
+
+ent-CartridgeSmart = cartucho (.160 inteligente)
+    .gender = male
+    .desc = Una bala inteligente de .160 con una pequeña carga de propelente de refuerzo en la base.
+
+ent-CarvedPumpkin = calabaza tallada
+    .gender = female
+    .desc = Una decoración tradicional de miedo.
+
+ent-CarvedPumpkinLarge = calabaza tallada
+    .gender = female
+    .desc = Una decoración tradicional de miedo.
+
+ent-CarvedPumpkinSmall = calabaza tallada
+    .gender = female
+    .desc = Una decoración tradicional de miedo.
+
 ent-CassetteTape = cinta de casete
     .gender = female
     .desc = Una cinta magnética que puede contener hasta dos minutos de contenido por cada cara.
@@ -53,6 +149,90 @@ ent-CCServiceWorkerPDA = PDA de servicio del Sector Colossus
 ent-CCTCOverwatchComputer = consola de vigilancia CCTC
     .gender = female
     .desc = Una consola informática usada para rastrear a los miembros de la facción mediante cámaras corporales.
+
+ent-CdDiskBillMovie = disco CD (película de Bill)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskCapTraining = disco CD (PSA de formación del capitán)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskCargonia = disco CD (Cargonia)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskChemistry = disco CD (Química)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskCloningPsa = disco CD (PSA de clonación)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskCommanderAnnouncement = disco CD (anuncio del comandante)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskCommanderFigurines = disco CD (figuritas del comandante)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskCommanderResignation = disco CD (dimisión del comandante)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskCommanderSupport = disco CD (apoyo al comandante)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskDanitosBurritos = disco CD (Danitos Burritos)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskDansTickets = disco CD (Dans Tickets)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskGrones = disco CD (grones)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskHeisenbeeTrial = disco CD (juicio de Heisenbee)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskPopeCrunchCereal = disco CD (Pope Crunch Cereal)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskQuikNoodles = disco CD (Quik Noodles)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskRobotics = disco CD (robótica)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskSecurityPsa = disco CD (PSA de seguridad)
+    .gender = male
+    .desc = Un disco CD, normalmente con anuncios.
+
+ent-CdDiskXgOnboarding1 = disco CD (incorporación XG 1)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskXgOnboarding2 = disco CD (incorporación XG 2)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskXgOnboarding3 = disco CD (incorporación XG 3)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
+
+ent-CdDiskXgOnboarding4 = disco CD (incorporación XG 4)
+    .gender = male
+    .desc = Un disco CD extraño; algo te dice que este no contiene anuncios.
 
 ent-CDDogtags = chapas de identificación
     .desc = Un juego de chapas de identificación, colgadas de un pequeño cordón para llevarlas puestas.
@@ -179,6 +359,10 @@ ent-CEWater = agua
     .gender = male
     .desc = Seguro que vas a mojarte los pies.
 
+ent-CEWaterCrocus = agua
+    .gender = male
+    .desc = Seguro que vas a mojarte los pies.
+
 ent-CEWaterMoving = agua
     .gender = male
     .desc = Seguro que vas a mojarte los pies.
@@ -230,6 +414,10 @@ ent-Chainsaw = motosierra
     .desc = Una motosierra enorme. Normalmente se usa para talar árboles... normalmente.
 
 ent-Chair = silla
+    .gender = female
+    .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
+
+ent-ChairBlack = silla
     .gender = female
     .desc = Te sientas en ella. Ya sea por voluntad propia o por la fuerza.
 
@@ -1823,7 +2011,7 @@ ent-ClothingBackpackDuffelSyndicateBurner = Paquete Burner
     .gender = male
     .desc = Un rifle Burner de gran calibre, viene con algo de munición antimaterial y explosivos de alto poder.
 
-ent-ClothingBackpackDuffelSyndicateC4tBundle = Paquete de C-4 del Syndicate
+ent-ClothingBackpackDuffelSyndicateC4tBundle = paquete de C-4
     .gender = male
     .desc = Contiene una gran cantidad de cargas de C-4.
 
@@ -1839,17 +2027,17 @@ ent-ClothingBackpackDuffelSyndicateDecoyKitFilled = Paquete señuelo
     .gender = male
     .desc = Contiene distracciones, tanto auditivas como visuales. El olor llegará pronto.
 
-ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = Paquete de traje blindado de élite del Syndicate
+ent-ClothingBackpackDuffelSyndicateEliteHardsuitBundle = paquete de traje de combate de élite
     .gender = male
-    .desc = Contiene el traje blindado de élite del Syndicate, que viene con algo más de material.
+    .desc = Contiene un traje de combate de élite, que viene con algunos extras.
 
-ent-ClothingBackpackDuffelSyndicateEVABundle = Paquete EVA del Syndicate
+ent-ClothingBackpackDuffelSyndicateEVABundle = paquete de EVA
     .gender = male
-    .desc = Contiene el traje EVA aprobado por el Syndicate.
+    .desc = Contiene un traje EVA rojo.
 
 ent-ClothingBackpackDuffelSyndicateFilledAtreides = Paquete Atreides
     .gender = male
-    .desc = Estilizado y letal: un subfusil compacto de una mano, preferido por los veteranos del Syndicate, con tres cargadores incluidos.
+    .desc = Elegante y letal: una subametralladora compacta de una mano preferida por los insurgentes, incluye tres cargadores.
 
 ent-ClothingBackpackDuffelSyndicateFilledEmpGrenadeLauncher = Paquete China-Lake EMP
     .gender = male
@@ -1863,7 +2051,7 @@ ent-ClothingBackpackDuffelSyndicateFilledLMG = Paquete L6 SAW
     .gender = male
     .desc = Más dakka: la icónica ametralladora ligera L6, con 2 cargadores de caja incluidos.
 
-ent-ClothingBackpackDuffelSyndicateFilledMedical = Bolsa quirúrgica del Syndicate
+ent-ClothingBackpackDuffelSyndicateFilledMedical = Bolsa quirúrgica avanzada
     .gender = female
     .desc = Una bolsa de lona grande con un conjunto completo de herramientas quirúrgicas.
 
@@ -1881,13 +2069,13 @@ ent-ClothingBackpackDuffelSyndicateFilledSMG = Paquete C-20r
 
 ent-ClothingBackpackDuffelSyndicateFilledWSPR = Paquete WSPR
     .gender = male
-    .desc = Un paquete con el rifle de asalto WSPR del Syndicate, con 4 cargadores de repuesto y dos cajas de munición.
+    .desc = Un paquete con el fusil de asalto WSPR, con 4 cargadores de repuesto y dos cajas de munición.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitBundle = Paquete de traje blindado del Syndicate
+ent-ClothingBackpackDuffelSyndicateHardsuitBundle = paquete de traje de combate ensangrentado
     .gender = male
-    .desc = Contiene el característico traje blindado rojo sangre del Syndicate.
+    .desc = Contiene un traje de combate rojo sangre.
 
-ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = Paquete de extras para traje blindado del Syndicate
+ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = paquete de extras de traje de combate
     .gender = male
     .desc = Contiene cosas que definitivamente querrás tener al adquirir un traje blindado.
 
@@ -1899,21 +2087,21 @@ ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = Paquete médico
     .gender = male
     .desc = Todo lo que necesitas para devolver a tus camaradas al combate.
 
-ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = Paquete de traje blindado médico del Syndicate
+ent-ClothingBackpackDuffelSyndicateMedicHardsuitBundle = paquete de traje médico ensangrentado
     .gender = male
-    .desc = Contiene el traje blindado médico rojo sangre del Syndicate.
+    .desc = Contiene un traje médico rojo sangre.
 
-ent-ClothingBackpackDuffelSyndicatePyjamaBundle = Bolsa de pijamas del Syndicate
+ent-ClothingBackpackDuffelSyndicatePyjamaBundle = bolsa de viaje de pijamas
     .gender = female
-    .desc = Contiene 3 pares de pijamas del Syndicate y 4 peluches para la mejor pijamada de tu vida.
+    .desc = Contiene 3 pares de pijamas y 4 peluches para la pijamada definitiva.
 
-ent-ClothingBackpackDuffelSyndicateRaidBundle = Paquete de traje de asalto del Syndicate
+ent-ClothingBackpackDuffelSyndicateRaidBundle = paquete de traje de asalto
     .gender = male
-    .desc = Contiene el resistente traje de armadura de asalto del Syndicate.
+    .desc = Contiene un traje de armadura de asalto resistente.
 
-ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = Paquete de traje de sigilo Cybersun
+ent-ClothingBackpackDuffelSyndicateStealthHardsuitBundle = paquete de traje sigiloso
     .gender = male
-    .desc = Un paquete avanzado de traje blindado de sigilo Cybersun.
+    .desc = Un paquete de traje de combate sigiloso.
 
 ent-ClothingBackpackDuffelTacticalDuffelBlack = Bolsa táctica negra
     .gender = female
@@ -1951,9 +2139,9 @@ ent-ClothingBackpackDuffelVirology = bolsa de lona de virología
     .gender = female
     .desc = Una bolsa de lona grande hecha de fibras hipoalergénicas. Está diseñada para ayudar a prevenir la propagación de enfermedades. Huele a mono.
 
-ent-ClothingBackpackDuffelZombieBundle = paquete zombie del Syndicate
+ent-ClothingBackpackDuffelZombieBundle = paquete zombi de romerol
     .gender = male
-    .desc = Un kit todo en uno para desatar a los no muertos sobre una estación.
+    .desc = Un kit de bioterrorismo anticuado.
 
 ent-ClothingBackpackElectropack = electropack
     .gender = male
@@ -2417,7 +2605,7 @@ ent-ClothingBackpackStasisBatteryUnremoveableFilled = almacenamiento de estasis
     .gender = male
     .desc = Almacena energía para congelar el flujo del tiempo, distorsionando el espacio interior para aumentar la capacidad.
 
-ent-ClothingBackpackSyndicate = mochila del Syndicate
+ent-ClothingBackpackSyndicate = mochila resistente a explosiones
     .gender = female
     .desc = La llevas en la espalda y metes objetos dentro.
 
@@ -2872,6 +3060,10 @@ ent-ClothingBeltNfsdWebbingFilled = portaequipos de la TSFMC
 ent-ClothingBeltNfsdWebbingFilledBrigmedic = portaequipos de la TSFMC
     .desc = Un portaequipos táctico de asalto.
 
+ent-ClothingBeltPDVInfantry = equipo de cinturón de infantería PD
+    .gender = male
+    .desc = Equipo de cinturón estándar para la infantería PD.
+
 ent-ClothingBeltPilot = portaequipos de piloto
     .desc = Un portaequipos diseñado para alguien que se pasa mucho tiempo sentado.
 
@@ -2957,6 +3149,10 @@ ent-ClothingBeltSheathFilledNavyOfficer = vaina del sable
     .desc = Una vaina ornamentada diseñada para alojar la espada de un oficial.
 
 ent-ClothingBeltSheathVizier = vaina del gran visir
+    .gender = female
+    .desc = Una vaina y pistolera emparejadas, hechas a medida para los grandes visires del PDV para portar las armas de su cargo.
+
+ent-ClothingBeltSheathVizierFilled = vaina del gran visir
     .gender = female
     .desc = Una vaina y pistolera emparejadas, hechas a medida para los grandes visires del PDV para portar las armas de su cargo.
 
@@ -3087,6 +3283,9 @@ ent-ClothingEyesBallisticGogglesOrange = gafas balísticas naranjas
 
 ent-ClothingEyesBallisticGogglesRed = gafas balísticas rojas
     .desc = Unas gafas balísticas con lentes rojas y microchips integrados para escanear el estado de salud.
+
+ent-ClothingEyesBallisticGogglesRedCrocus = gafas antidestello
+    .desc = Un par de gafas balísticas con lentes rojas para bloquear la luz intensa. También sirven como protección ocular para soldar.
 
 ent-ClothingEyesBlindfold = venda para los ojos
     .gender = female
@@ -3369,6 +3568,9 @@ ent-ClothingHandsGlovesColorBlack = guantes negros
 ent-ClothingHandsGlovesColorBlackAK = guantes de combate
     .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
 
+ent-ClothingHandsGlovesColorBlackC20r = guantes de combate
+    .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
+
 ent-ClothingHandsGlovesColorBlackChinaLake = guantes de combate
     .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
 
@@ -3376,6 +3578,9 @@ ent-ClothingHandsGlovesColorBlackCrossbow = guantes de combate
     .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
 
 ent-ClothingHandsGlovesColorBlackLaserPistol = guantes de combate
+    .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
+
+ent-ClothingHandsGlovesColorBlackLecter = guantes de combate
     .desc = Guantes negros corrientes que no te protegen de las descargas eléctricas.
 
 ent-ClothingHandsGlovesColorBlackPistol = guantes de combate
@@ -4648,6 +4853,10 @@ ent-ClothingHeadHelmetCBURN = casco de exotraje CBURN
     .gender = male
     .desc = Una capucha resistente a la presión e ignífuga utilizada por unidades especiales de limpieza.
 
+ent-ClothingHeadHelmetCombatPDV = casco PD-VI STZ-H
+    .gender = male
+    .desc = Parte del sistema de blindaje STZ para la infantería PD. Mantiene a salvo tu cabecita crujiente.
+
 ent-ClothingHeadHelmetCombatUSSP = casco de campo USSP
     .gender = male
     .desc = Un casco de campo USSP estándar equipado con una compacta matriz de antenas, una característica de los diseños más recientes moldeada por los requisitos del DST.
@@ -4740,11 +4949,11 @@ ent-ClothingHeadHelmetHardsuitClown = casco de exotraje de payaso
     .gender = male
     .desc = Un casco de exotraje de payaso.
 
-ent-ClothingHeadHelmetHardsuitCybersun = casco juggernaut cybersun
+ent-ClothingHeadHelmetHardsuitCybersun = casco de juggernaut
     .gender = male
-    .desc = Hecho de materia roja comprimida, este casco fue diseñado en la instalación de la cromoesfera Tau.
+    .desc = Hecho de materia roja comprimida, este casco es una marca de la divinidad del Sultán.
 
-ent-ClothingHeadHelmetHardsuitCybersunStealth = casco de exotraje sigiloso cybersun
+ent-ClothingHeadHelmetHardsuitCybersunStealth = casco de traje duro sigiloso
     .gender = male
     .desc = Un casco con blindaje para operaciones de sigilo.
 
@@ -4791,6 +5000,10 @@ ent-ClothingHeadHelmetHardsuitERTSecurity = casco de traje duro de seguridad del
 ent-ClothingHeadHelmetHardsuitFSB = casco de traje espacial biotec Far Star
     .gender = male
     .desc = Un casco de traje ligero que no restringe tus movimientos de cabeza. ¡Tiene una luz!
+
+ent-ClothingHeadHelmetHardsuitGodfather = casco de traje duro BR-238
+    .gender = male
+    .desc = Símbolo de poder, este casco tiene tantos artilugios como su diseñador pudo meter a presión en su interior.
 
 ent-ClothingHeadHelmetHardsuitGoliath = casco de traje duro de goliath
     .gender = male
@@ -4900,13 +5113,13 @@ ent-ClothingHeadHelmetHardsuitScaf = casco de traje duro scaf
     .gender = male
     .desc = Un casco robusto y resistente. Por dentro huele a rabia contenida.
 
-ent-ClothingHeadHelmetHardsuitSecurity = casco de traje duro de seguridad
+ent-ClothingHeadHelmetHardsuitSecurity = casco de traje duro del juez
     .gender = male
     .desc = Casco de traje duro blindado para necesidades de seguridad.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = casco de traje duro del Jefe de Seguridad
+ent-ClothingHeadHelmetHardsuitSecurityRed = casco de traje duro del supervisor
     .gender = male
-    .desc = Casco de traje espacial de Seguridad con el último software NT-HUD de alto secreto. Pertenece al Jefe de Seguridad.
+    .desc = Casco de traje duro especialmente blindado perteneciente al Supervisor. Las marcas de la TSF han sido desfiguradas.
 
 ent-ClothingHeadHelmetHardsuitSpatio = casco de traje espacial de espacionauta
     .gender = male
@@ -4914,19 +5127,19 @@ ent-ClothingHeadHelmetHardsuitSpatio = casco de traje espacial de espacionauta
 
 ent-ClothingHeadHelmetHardsuitSyndie = casco de traje espacial rojo sangre
     .gender = male
-    .desc = Un casco fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Casco muy blindado diseñado para trabajar en operaciones especiales.
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = casco de comandante del Syndicate
+ent-ClothingHeadHelmetHardsuitSyndieCommander = casco de comandante
     .gender = male
-    .desc = Una versión reforzada del casco del traje espacial rojo sangre, construida específicamente para el comandante de un escuadrón de operativos del Syndicate. Cuenta con una armadura significativamente mejorada para esos mortales combates en primera línea.
+    .desc = Versión reforzada del casco del traje duro rojo sangre, diseñada para el comandante de un escuadrón de abordaje. Tiene una armadura notablemente mejorada para esos mortales combates de primera línea.
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = casco de élite del Syndicate
+ent-ClothingHeadHelmetHardsuitSyndieElite = casco de élite
     .gender = male
-    .desc = Una versión élite del casco del traje espacial rojo sangre, con armadura mejorada e ignifugado. Propiedad de los Gorlex Marauders.
+    .desc = Versión de élite del casco del traje duro rojo sangre, con armadura mejorada y resistencia al fuego.
 
-ent-ClothingHeadHelmetHardsuitSyndieEliteUnremoveable = casco de élite del Syndicate
+ent-ClothingHeadHelmetHardsuitSyndieEliteUnremoveable = casco de élite
     .gender = male
-    .desc = Una versión élite del casco del traje espacial rojo sangre, con armadura mejorada e ignifugado. Propiedad de los Gorlex Marauders.
+    .desc = Versión de élite del casco del traje duro rojo sangre, con armadura mejorada y resistencia al fuego.
 
 ent-ClothingHeadHelmetHardsuitSyndieMedic = casco de traje espacial médico rojo sangre
     .gender = male
@@ -4942,7 +5155,7 @@ ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = casco de traje espacial 
 
 ent-ClothingHeadHelmetHardsuitSyndieUnremoveable = casco de traje espacial rojo sangre
     .gender = male
-    .desc = Un casco fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Casco muy blindado diseñado para trabajar en operaciones especiales.
 
 ent-ClothingHeadHelmetHardsuitTacticalMaid = casco de traje espacial táctico de doncella
     .gender = male
@@ -5060,9 +5273,9 @@ ent-ClothingHeadHelmetPodWars = casco Ironclad II
     .gender = male
     .desc = Un casco Ironclad II, una reliquia de las guerras de cápsulas.
 
-ent-ClothingHeadHelmetRaid = casco de asalto del Syndicate
+ent-ClothingHeadHelmetRaid = casco de asalto
     .gender = male
-    .desc = Un casco blindado para usar con el traje de asalto del Syndicate. Muy elegante.
+    .desc = Casco blindado para usar con el traje de asalto. Muy elegante.
 
 ent-ClothingHeadHelmetRiot = casco antidisturbios ligero
     .gender = male
@@ -5220,7 +5433,7 @@ ent-ClothingHeadsetAltNfsdBrown = auricular de diadema de la TSFMC
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
-ent-ClothingHeadsetAltNfsdBrownCentcom = auricular de diadema del sheriff
+ent-ClothingHeadsetAltNfsdBrownCentcom = auricular de orejera del coronel
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
@@ -5228,7 +5441,7 @@ ent-ClothingHeadsetAltNfsdCreamandBrown = auricular de diadema de la TSFMC
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
-ent-ClothingHeadsetAltNfsdCreamandBrownCentcom = auricular de diadema del sheriff
+ent-ClothingHeadsetAltNfsdCreamandBrownCentcom = auricular de orejera del coronel
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
@@ -5236,7 +5449,7 @@ ent-ClothingHeadsetAltNfsdGreen = auricular de diadema de la TSFMC
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
-ent-ClothingHeadsetAltNfsdGreenCentcom = auricular de diadema del sheriff
+ent-ClothingHeadsetAltNfsdGreenCentcom = auricular de orejera del coronel
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
@@ -5264,9 +5477,9 @@ ent-ClothingHeadsetAltSecurityCommon = auricular
     .gender = male
     .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
-ent-ClothingHeadsetAltSyndicate = auricular de diadema rojo sangre
+ent-ClothingHeadsetAltSyndicate = auricular de orejera del submundo
     .gender = male
-    .desc = Un intercomunicador del Syndicate actualizado y modular que se ajusta sobre la cabeza y acepta claves de cifrado (hay 5 ranuras para llaves).
+    .desc = Un intercomunicador actualizado y modular que se ajusta sobre la cabeza. Acepta claves de cifrado.
 
 ent-ClothingHeadsetAltTsfmc = auricular de diadema de la TSFMC
     .gender = male
@@ -5566,10 +5779,6 @@ ent-ClothingHelmetHardsuitCCTCMediumPremium = casco de tacsuit MP-EVA CSW-21 "Ce
     .gender = male
     .desc = Casco sellado de entorno universal y alta resistencia. Equipado con equipamiento NVD básico.
 
-ent-ClothingHelmetHardsuitMercenaryWarlord = casco WL-01
-    .gender = male
-    .desc = Una pieza de protección de cabeza pesada que acompaña al traje Warlord; ofrece inmunidad a destellos y soporte para escáner de masa.
-
 ent-ClothingHelmetHardsuitMieyoCombat = casco de tacsuit kurogane MMC
     .gender = male
     .desc = Un conjunto de sensores camuflado como casco. Excelentes NVG, protección media.
@@ -5597,6 +5806,10 @@ ent-ClothingHelmetHardsuitUIEngineer = casco de ingeniería U.I.
 ent-ClothingHelmetHardsuitUIPilot = casco de piloto U.I.
     .gender = male
     .desc = Un casco para los pilotos de Ullman Industry.
+
+ent-ClothingHelmetHardsuitWarlord = casco WL-01
+    .gender = male
+    .desc = Pieza de cabeza pesada que acompaña al traje Warlord; ofrece inmunidad a destellos y un escáner de masas integrado.
 
 ent-ClothingKimonoBlue = kimono azul
     .gender = male
@@ -5892,7 +6105,7 @@ ent-ClothingModsuitBootsEngineer = botas de traje modular zapador
     .desc = Hechas para mancharse de aceite.
 
 ent-ClothingModsuitBootsHeadOfSecurity = botas de traje modular baluarte
-    .desc = A estas las llamo mis pisacomunistas.
+    .desc = A estas las llamo mis pisadoras quimera.
 
 ent-ClothingModsuitBootsMercenary = botas de traje modular mercenario
     .desc = El Sistema de Mejora de Actuadores del traje, combinado con las magbotas integradas, hace que las acciones de abordaje sean pan comido.
@@ -5907,7 +6120,7 @@ ent-ClothingModsuitBootsRogue = botas de traje modular RX-01
     .desc = Botas del vacío magnetizadas para ayudarte a evitar resbalones, tropiezos y Federales.
 
 ent-ClothingModsuitBootsSecurity = botas de traje modular soldat
-    .desc = LAS BOTAS DE HIERRO DE LA LEY.
+    .desc = LAS BOTAS DE HIERRO DE LA JUSTICIA.
 
 ent-ClothingModsuitBootsStandard = botas de traje modular estándar
     .desc = Unas botas especiales de traje modular diseñadas para plegarse de forma compacta dentro del control del traje modular.
@@ -6031,13 +6244,13 @@ ent-ClothingModsuitGauntletsUSSPZastavnik = Kuvshiny Zastavnika
 ent-ClothingModsuitGauntletsVolta = Guanteletes Modsuit Volta
     .desc = Guantes de traje modular manchados de aceite para pulsar fácilmente los botones de un RCD.
 
-ent-ClothingModsuitHeadOfSecurity = unidad de control del hardsuit bulwark del jefe de seguridad
+ent-ClothingModsuitHeadOfSecurity = unidad de control del traje duro baluarte del supervisor
     .gender = female
-    .desc = Una robusta unidad de módulo de control de HARDERsuit modular para el jefe de seguridad.
+    .desc = Robusta unidad modular de control HARDERsuit para el supervisor.
 
-ent-ClothingModsuitHeadOfSecurityPowerCell = unidad de control del hardsuit bulwark del jefe de seguridad
+ent-ClothingModsuitHeadOfSecurityPowerCell = unidad de control del traje duro baluarte del supervisor
     .gender = female
-    .desc = Una robusta unidad de módulo de control de HARDERsuit modular para el jefe de seguridad.
+    .desc = Robusta unidad modular de control HARDERsuit para el supervisor.
 
 ent-ClothingModsuitHelmetAtmostech = casco modsuit aeolus
     .gender = male
@@ -6053,7 +6266,7 @@ ent-ClothingModsuitHelmetEngineer = casco modsuit sapper
 
 ent-ClothingModsuitHelmetHeadOfSecurity = casco modsuit bulwark
     .gender = male
-    .desc = Pónselo en la CABEZA de seguridad... ¿Cómo diablos ves algo con esto?
+    .desc = ¿Cómo se ve desde dentro de esto?
 
 ent-ClothingModsuitHelmetMercenary = casco modsuit mercenario
     .gender = male
@@ -6123,13 +6336,13 @@ ent-ClothingModsuitRoguePowerCell = Unidad de control de hardsuit RX-01
     .gender = female
     .desc = Unidad de control central del RX-01. Sobrevive a picos de energía, brechas en el casco e ingenio del mercado negro. De alguna manera. También tiene botas del vacío experimentales incorporadas.
 
-ent-ClothingModsuitSecurity = Unidad de control de hardsuit soldat de seguridad
+ent-ClothingModsuitSecurity = unidad de control del traje duro soldat del juez
     .gender = female
-    .desc = Una robusta unidad de módulo de control de hardsuit modular para machacar comunistas en el espacio.
+    .desc = Robusta unidad modular de control de traje duro para dar una paliza a piratas en el espacio.
 
-ent-ClothingModsuitSecurityPowerCell = Unidad de control de hardsuit soldat de seguridad
+ent-ClothingModsuitSecurityPowerCell = unidad de control del traje duro soldat del juez
     .gender = female
-    .desc = Una robusta unidad de módulo de control de hardsuit modular para machacar comunistas en el espacio.
+    .desc = Robusta unidad modular de control de traje duro para dar una paliza a piratas en el espacio.
 
 ent-ClothingModsuitStandard = Unidad de hardsuit modsuit estándar
     .gender = female
@@ -6808,7 +7021,7 @@ ent-ClothingNeckWearableCameraMMC = cámara inalámbrica MMC
 
 ent-ClothingNeckWearableCameraPDV = cámara inalámbrica PDV
     .gender = female
-    .desc = Una cámara inalámbrica hecha para observar el campo de batalla desde la seguridad de tu base. Se puede llevar en la ranura del cuello.
+    .desc = Cámara inalámbrica diseñada para observar el campo de batalla desde la seguridad de tu base. Se puede llevar en la ranura del cuello. Esta tiene tecnología camaleón recuperada de uno de los alijos del Sultán, lo que permite llevarla sin revelar tu verdadera lealtad.
 
 ent-ClothingNeckWearableCameraTSF = cámara inalámbrica TSF
     .gender = female
@@ -6849,6 +7062,10 @@ ent-ClothingOuterArmorBPVestHeavy = chaleco antibalas pesado
 ent-ClothingOuterArmorBPVestLight = chaleco antibalas ligero
     .gender = male
     .desc = Un chaleco de kevlar sencillo de origen desconocido. Este es un chaleco antibalas simple diseñado para resistir proyectiles de bajo calibre.
+
+ent-ClothingOuterArmorBPVestLightPDV = chaleco antibalas PD-VI STZ-M
+    .gender = male
+    .desc = Parte del sistema de armadura STZ para la infantería PD. Moderadamente reforzado contra balas.
 
 ent-ClothingOuterArmorBPVestMedium = chaleco antibalas medio
     .gender = male
@@ -6942,9 +7159,9 @@ ent-ClothingOuterArmorPunkRed = armadura punk
     .gender = female
     .desc = Un chaleco acorazado de alta calidad fabricado con un material sintético duro. Es sorprendentemente flexible y ligero, a pesar de su formidable placa de armadura.
 
-ent-ClothingOuterArmorRaid = traje de asalto del Syndicate
+ent-ClothingOuterArmorRaid = traje de asalto
     .gender = male
-    .desc = Un traje algo flexible y bien acorazado con una potente linterna montada en el hombro, fabricado en el icónico esquema de color rojo sangre de los Gorlex Marauder. No protege al portador del espacio.
+    .desc = Traje algo flexible y bien blindado, con una potente linterna montada en el hombro. No protege a quien lo lleva del espacio.
 
 ent-ClothingOuterArmorReflective = chaleco reflectante
     .gender = male
@@ -7438,11 +7655,11 @@ ent-ClothingOuterHardsuitAsakimUnremoveable = exoesqueleto de combate patrón ka
 
 ent-ClothingOuterHardsuitAshen = traje rígido de combate PDV CV-32
     .gender = male
-    .desc = Un traje rígido de combate diseñado por la Dinastía Phaethon. Un traje rígido más pesado pero aún de uso general. Sacrifica la mayor parte de su protección por placas balísticas reforzadas.
+    .desc = Traje duro de combate diseñado por la Dinastía Phaethon. Opta por placas balísticas ligeras en lugar de protección ambiental o de uso general.
 
 ent-ClothingOuterHardsuitAshenElite = tactraje de combate PDV CV-53
     .gender = male
-    .desc = Basado originalmente en el traje rígido CV-32, el tactraje CV-53 sacrifica el blindaje convencional a cambio de protección ambiental y un escudo rígido recargable.
+    .desc = Basado originalmente en el traje duro CV-32, el tacsuit CV-53 sacrifica la armadura ligera a cambio de un conjunto de protección más generalista.
 
 ent-ClothingOuterHardsuitAtmos = traje rígido de atmos
     .gender = male
@@ -7488,7 +7705,7 @@ ent-ClothingOuterHardsuitClown = traje rígido de payaso
     .gender = male
     .desc = Un traje rígido de payaso hecho a medida.
 
-ent-ClothingOuterHardsuitCybersunStealth = traje rígido sigiloso de Cybersun
+ent-ClothingOuterHardsuitCybersunStealth = traje duro sigiloso
     .gender = male
     .desc = Un traje rígido con blindaje sigiloso para operaciones; ¡aunque el campo de sigilo no funciona mientras te mueves! Necesita el casco puesto para completar el campo de sigilo.
 
@@ -7540,13 +7757,17 @@ ent-ClothingOuterHardsuitEVAPrisoner = Traje EVA de prisionero
     .gender = male
     .desc = Un traje espacial ligero para prisioneros que los protege del vacío del espacio durante emergencias.
 
+ent-ClothingOuterHardsuitGodfather = traje duro BR-238 del padrino
+    .gender = male
+    .desc = Traje duro muy reforzado y auténtico símbolo de riqueza y poder, aunque efímero.
+
 ent-ClothingOuterHardsuitGoliath = Traje rígido goliat
     .gender = male
     .desc = Un traje rígido ligero, adornado con un parche de gruesa piel quitinosa de goliat.
 
-ent-ClothingOuterHardsuitJuggernaut = Traje jugernaut de cybersun
+ent-ClothingOuterHardsuitJuggernaut = traje juggernaut
     .gender = male
-    .desc = Un traje originalmente fabricado por el vanguardista departamento de I+D de cybersun para ser extremadamente resistente, ahora reciclado y usado por la Dinastía Phaethon. Robusto y duradero, pero no completamente aislado.
+    .desc = Traje cuyo plano fue concedido a la Dinastía por el propio Sultán. Pesado y duradero, pero no del todo aislado.
 
 ent-ClothingOuterHardsuitJuggernautReverseEngineered = Traje rígido de asalto SA-126
     .gender = male
@@ -7570,7 +7791,7 @@ ent-ClothingOuterHardsuitM82c = Traje rígido M82c
 
 ent-ClothingOuterHardsuitM86 = Traje rígido M86 Mk.3(R)
     .gender = male
-    .desc = Un traje rígido blindado, diseñado para ser una mejora de la serie M82. El blindaje general adicional le otorga un peso considerable al moverse.
+    .desc = Traje duro blindado, diseñado como mejora de la ya retirada serie M82. La armadura general adicional le da un peso considerable para moverse.
 
 ent-ClothingOuterHardsuitM86Mk4 = Traje rígido M86 Mk.4(B)
     .gender = male
@@ -7592,10 +7813,6 @@ ent-ClothingOuterHardsuitMercenary = Traje rígido mercenario
     .gender = male
     .desc = Un traje especial que protege contra el peligro del espacio, usado por fuerzas mercenarias. Certificado como resistente al trabuco.
 
-ent-ClothingOuterHardsuitMercenaryWarlord = PMC WL-01
-    .gender = male
-    .desc = Apodado "Warlord", una antigua tecnología de vanguardia en equipamiento militar, ahora ampliamente extendida entre mercenarios y mercados negros debido a que sus esquemas fueron revelados al público; el traje de combate warlord ha sido modificado para soportar la atmósfera despresurizada del espacio, catalogándolo como apto para el espacio.
-
 ent-ClothingOuterHardsuitMieyoCombat = tacsuit kurogane MMC
     .gender = male
     .desc = Un traje de combate táctico para la protección de activos y la seguridad corporativa de MMC. Es muy ligero, pero no demasiado defensivo.
@@ -7610,7 +7827,7 @@ ent-ClothingOuterHardsuitMime = Traje rígido de mimo
 
 ent-ClothingOuterHardsuitNfsdExperimental = Tactraje TSFMC M92-X
     .gender = male
-    .desc = Una modificación experimental del tacsuit M92 para las unidades de operaciones especiales de la TSFMC. Resistente, y viene con un escudo rígido integrado junto con numerosos artilugios a costa del aislamiento y de una armadura sólida.
+    .desc = Modificación experimental del tacsuit M92 para unidades de operaciones especiales de la TSFMC. Duradero y con numerosos artilugios, a costa de la protección de uso general y del peso.
 
 ent-ClothingOuterHardsuitNfsdSheriff = Tactraje de coronel TSFMC M92
     .gender = male
@@ -7664,11 +7881,11 @@ ent-ClothingOuterHardsuitScaf = Exotraje SCAF
     .gender = male
     .desc = Un exotraje de combate reforzado con kevlar. Antiguo pero robusto a pesar de todo.
 
-ent-ClothingOuterHardsuitSecurity = Exotraje de seguridad
+ent-ClothingOuterHardsuitSecurity = traje duro del juez
     .gender = male
     .desc = Un traje especial que protege en entornos peligrosos de baja presión. Cuenta con una capa adicional de blindaje.
 
-ent-ClothingOuterHardsuitSecurityRed = Exotraje del jefe de seguridad
+ent-ClothingOuterHardsuitSecurityRed = traje duro del supervisor
     .gender = male
     .desc = Un traje especial que protege en entornos peligrosos de baja presión. Cuenta con una capa adicional de blindaje.
 
@@ -7682,23 +7899,23 @@ ent-ClothingOuterHardsuitSyndicate = Traje EVA del Syndicate
 
 ent-ClothingOuterHardsuitSyndie = Exotraje rojo sangre
     .gender = male
-    .desc = Un exotraje fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Traje duro muy blindado, visto a menudo entre criminales organizados en el gran Brazo de Perseo. Un hallazgo raro en el sector Coloso.
 
 ent-ClothingOuterHardsuitSyndieBloodRedUnremoveable = Exotraje del Syndicate
     .gender = male
-    .desc = Un exotraje fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Traje duro muy blindado, visto a menudo entre criminales organizados en el gran Brazo de Perseo. Un hallazgo raro en el sector Coloso.
 
-ent-ClothingOuterHardsuitSyndieCommander = Exotraje de comandante del Syndicate
+ent-ClothingOuterHardsuitSyndieCommander = traje duro de comandante
     .gender = male
-    .desc = Una versión reforzada del exotraje rojo sangre, construida expresamente para el comandante de un escuadrón de operativos del Syndicate. Cuenta con un blindaje considerablemente mejorado para los mortales enfrentamientos en la línea de frente.
+    .desc = Versión reforzada del traje duro rojo sangre, diseñada para el comandante de un escuadrón de abordaje. Tiene una armadura notablemente mejorada para esos mortales combates de primera línea.
 
-ent-ClothingOuterHardsuitSyndieElite = Exotraje de élite del Syndicate
+ent-ClothingOuterHardsuitSyndieElite = traje duro de élite
     .gender = male
-    .desc = Una versión de élite del exotraje rojo sangre, con mayor movilidad e ignifugación. Propiedad de los Gorlex Marauders.
+    .desc = Versión de élite del traje duro rojo sangre, con mayor movilidad y resistencia al fuego.
 
 ent-ClothingOuterHardsuitSyndieEliteUnremoveable = Exotraje del Syndicate
     .gender = male
-    .desc = Un exotraje fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Traje duro muy blindado, visto a menudo entre criminales organizados en el gran Brazo de Perseo. Un hallazgo raro en el sector Coloso.
 
 ent-ClothingOuterHardsuitSyndieMedic = Exotraje médico rojo sangre
     .gender = male
@@ -7706,7 +7923,7 @@ ent-ClothingOuterHardsuitSyndieMedic = Exotraje médico rojo sangre
 
 ent-ClothingOuterHardsuitSyndieReverseEngineered = Exotraje de combate SA-122
     .gender = male
-    .desc = Un exotraje fuertemente blindado diseñado para operaciones especiales. Propiedad de los Gorlex Marauders.
+    .desc = Traje duro muy blindado, visto a menudo entre criminales organizados en el gran Brazo de Perseo. Un hallazgo raro en el sector Coloso.
 
 ent-ClothingOuterHardsuitTacticalMaid = Exotraje de doncella táctica
     .gender = male
@@ -7799,6 +8016,10 @@ ent-ClothingOuterHardsuitVoidParamed = Traje de vacío de paramédico
 ent-ClothingOuterHardsuitWarden = Traje rígido del alcaide
     .gender = male
     .desc = Un traje antidisturbios especializado diseñado para operar en entornos de baja presión.
+
+ent-ClothingOuterHardsuitWarlord = UGR WL-01
+    .gender = male
+    .desc = Apodado "Warlord", antigua tecnología punta en equipo militar, hoy extendida por los mercados negros tras una brecha de seguridad crítica. Ha sido modificado para soportar la despresurización del espacio, lo que lo hace apto para el vacío.
 
 ent-ClothingOuterHardsuitWizard = Traje rígido de mago
     .gender = male
@@ -8293,6 +8514,16 @@ ent-ClothingShoesBootsMagSyndie = magbotas rojo sangre
 
 ent-ClothingShoesBootsMagVoid = botas del vacío
     .desc = Magbotas mejoradas con tecnología de anclaje de espacio azul, que permiten caminar por el vacío del espacio.
+
+ent-ClothingShoesBootsMagVoidTrauma = botas ATU
+    .desc =
+        Botas de vacío ligeras reforzadas para condiciones espaciales adversas, diseñadas para mantener la movilidad y reducir la pérdida de movimiento por lesiones.
+
+
+ent-ClothingShoesBootsMagVoidTraumaLeader = botas ATU avanzadas
+    .desc =
+        Mejora de las botas de vacío convencionales, reforzadas con placas adicionales para el personal de trauma de primera línea. Su construcción pesada se compensa con un sistema de movilidad integrado que mantiene en movimiento a quien lo lleva pese a lesiones graves.
+
 
 ent-ClothingShoesBootsMercenary = botas mercenarias
     .desc = Botas que han atravesado múltiples conflictos y han demostrado su fiabilidad en combate.
@@ -9279,239 +9510,4 @@ ent-ClothingUniformJumpsuitColorTeal = Mono turquesa
 ent-ClothingUniformJumpsuitColorWhite = Mono blanco
     .gender = male
     .desc = Un mono blanco genérico sin insignias de rango.
-
-ent-ClothingUniformJumpsuitColorYellow = Mono amarillo
-    .gender = male
-    .desc = Un mono amarillo genérico sin insignias de rango.
-
-ent-ClothingUniformJumpsuitCombatSuitCCEBasic = Uniforme de combate CCE (básico)
-    .gender = male
-    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitCCEBleached = Uniforme de combate CCE (decolorado)
-    .gender = male
-    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha sido decolorado por alguna razón.
-
-ent-ClothingUniformJumpsuitCombatSuitCCEDesert = Uniforme de combate CCE (desierto)
-    .gender = male
-    .desc = Traje de combate camuflado de desierto de la CCE. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitCCEWorn = Uniforme de combate CCE (desgastado)
-    .gender = male
-    .desc = Traje de combate camuflado boscoso de la CCE. Camuflaje en el espacio... Este ha sido muy utilizado y se ha oscurecido con el tiempo.
-
-ent-ClothingUniformJumpsuitCombatSuitDigitalBlack = Uniforme de combate digital negro
-    .gender = male
-    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
-
-ent-ClothingUniformJumpsuitCombatSuitDigitalBlue = Uniforme de combate digital azul
-    .gender = male
-    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
-
-ent-ClothingUniformJumpsuitCombatSuitDigitalGreenTan = Uniforme de combate digital verde y beis
-    .gender = male
-    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
-
-ent-ClothingUniformJumpsuitCombatSuitDigitalRed = Uniforme de combate digital rojo
-    .gender = male
-    .desc = Traje de combate con camuflaje digital. Camuflaje en el espacio...
-
-ent-ClothingUniformJumpsuitCombatSuitGrassland = Uniforme de combate de pradera
-    .gender = male
-    .desc = Traje de combate camuflado de pradera. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitLampart = Uniforme de combate Lampart
-    .gender = male
-    .desc = Traje de combate camuflado Lampart. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitLampartFlag = Uniforme de combate Lampart
-    .gender = male
-    .desc = Traje de combate camuflado Lampart con una extraña bandera cosida. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitMisko = Uniforme de combate Misko
-    .gender = male
-    .desc = Traje de combate camuflado Misko. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitMudland = Uniforme de combate Mudland
-    .gender = male
-    .desc = Traje de combate camuflado Mudland. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitSummerFlora = Uniforme de combate flora veraniega
-    .gender = male
-    .desc = Traje de combate camuflado con flora veraniega. Camuflaje en el espacio... Este ha sido ligeramente usado y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitSummerFloraFlag = Uniforme de combate flora veraniega
-    .gender = male
-    .desc = Traje de combate camuflado con flora veraniega y una extraña bandera cosida. Camuflaje en el espacio... Este ha sido ligeramente usado y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCombatSuitUrbanWhite = uniforme de combate urbano blanco
-    .gender = male
-    .desc = Traje de combate camuflado Misko. Camuflaje en el espacio... Este ha tenido poco uso y conserva su camuflaje original.
-
-ent-ClothingUniformJumpsuitCossack = traje cosaco
-    .gender = male
-    .desc = Los buenos y viejos pantalones y la brigantina.
-
-ent-ClothingUniformJumpsuitCurator = traje sensato
-    .gender = male
-    .desc = Es discreta. Demasiado discreta...
-
-ent-ClothingUniformJumpsuitDameDane = atuendo yakuza
-    .gender = male
-    .desc = Baka mitai...
-
-ent-ClothingUniformJumpsuitDeathSquad = uniforme del escuadrón de la muerte
-    .gender = male
-    .desc = Mono blindado avanzado usado por fuerzas especiales en operaciones especiales.
-
-ent-ClothingUniformJumpsuitDetective = traje desgastado del Detective
-    .gender = male
-    .desc = Quien lleva esto va en serio.
-
-ent-ClothingUniformJumpsuitDetectiveGrey = traje noir del Detective
-    .gender = male
-    .desc = El traje gris de un duro investigador privado, con pasador de corbata incluido.
-
-ent-ClothingUniformJumpsuitDiplomat = mono de diplomático
-    .gender = male
-    .desc = Un traje usado por los trabajadores de Mando Central centrados en la diplomacia.
-
-ent-ClothingUniformJumpsuitEngineering = mono de ingeniería
-    .gender = male
-    .desc = Si este traje fuera no conductor, quizás los ingenieros harían su maldito trabajo.
-
-ent-ClothingUniformJumpsuitEngineeringHazard = mono de peligros
-    .gender = male
-    .desc = Tejido en un naranja cálido y sucio. Permite que quienes te rodean sepan que vas en serio cuando se trata de trabajar.
-
-ent-ClothingUniformJumpsuitERTChaplain = uniforme de capellán del ERT
-    .gender = male
-    .desc = Un traje especial hecho para el cuerpo de capellanes de élite de Mando Central.
-
-ent-ClothingUniformJumpsuitERTEngineer = uniforme de ingeniería del ERT
-    .gender = male
-    .desc = Un traje especial hecho para los ingenieros de élite bajo CentComm.
-
-ent-ClothingUniformJumpsuitERTJanitor = uniforme de conserjería del ERT
-    .gender = male
-    .desc = Un traje especial hecho para los conserjes de élite bajo CentComm.
-
-ent-ClothingUniformJumpsuitERTLeader = uniforme de líder del ERT
-    .gender = male
-    .desc = Un traje especial hecho para el mejor de los élites bajo CentComm.
-
-ent-ClothingUniformJumpsuitERTMailCarrier = uniforme de cartero del ERT
-    .gender = male
-    .desc = Un traje especial hecho para los carteros de élite bajo CentCom.
-
-ent-ClothingUniformJumpsuitERTMedic = uniforme médico del ERT
-    .gender = male
-    .desc = Un traje especial hecho para los médicos de élite bajo CentComm.
-
-ent-ClothingUniformJumpsuitERTSecurity = uniforme de seguridad del ERT
-    .gender = male
-    .desc = Un traje especial hecho para la seguridad de élite bajo CentComm.
-
-ent-ClothingUniformJumpsuitFamilyGuy = ropas familiares
-    .desc = Te hace recordar aquella vez que hiciste algo gracioso.
-
-ent-ClothingUniformJumpsuitFlannel = mono de franela
-    .gender = male
-    .desc = Huele como si alguien hubiera estado asando a la parrilla.
-
-ent-ClothingUniformJumpsuitGalaxyBlue = traje galáctico azul
-    .gender = male
-    .desc = Pleito azul para quienes hacen negocios a escala galáctica.
-
-ent-ClothingUniformJumpsuitGalaxyRed = traje galáctico rojo
-    .gender = male
-    .desc = Pleito rojo para quienes hacen negocios a escala galáctica.
-
-ent-ClothingUniformJumpsuitGenetics = mono de genética
-    .gender = male
-    .desc = Está hecho de una fibra especial que proporciona protección especial contra peligros biológicos. Tiene una franja de rango de genetista.
-
-ent-ClothingUniformJumpsuitGladiator = uniforme de gladiador
-    .gender = male
-    .desc = Hecho para verdaderos gladiadores (o Ash Walkers).
-
-ent-ClothingUniformJumpsuitHawaiBlack = camisa hawaiana negra
-    .gender = female
-    .desc = Negra como una noche estrellada.
-
-ent-ClothingUniformJumpsuitHawaiBlue = camisa hawaiana azul
-    .gender = female
-    .desc = Azul como un inmenso océano.
-
-ent-ClothingUniformJumpsuitHawaiRed = camisa hawaiana roja
-    .gender = female
-    .desc = Roja como una jugosa sandía.
-
-ent-ClothingUniformJumpsuitHawaiYellow = camisa hawaiana amarilla
-    .gender = female
-    .desc = Amarilla como un brillante sol.
-
-ent-ClothingUniformJumpsuitHoP = mono del Jefe de Personal
-    .gender = male
-    .desc = Bastante soso e inofensivo. Perfecto para desaparecer de la faz del universo.
-
-ent-ClothingUniformJumpsuitHoS = mono del Jefe de Seguridad
-    .gender = male
-    .desc = Es de un rojo brillante y bastante impecable, igual que las víctimas de Seguridad suelen estarlo.
-
-ent-ClothingUniformJumpsuitHoSAlt = jersey de cuello alto del Jefe de Seguridad
-    .gender = male
-    .desc = Es un jersey de cuello alto que llevan quienes son lo suficientemente fuertes y disciplinados para alcanzar el puesto de Jefe de Seguridad.
-
-ent-ClothingUniformJumpsuitHoSBlue = mono azul del Jefe de Seguridad
-    .gender = male
-    .desc = Un mono azul del Jefe de Seguridad.
-
-ent-ClothingUniformJumpsuitHosFormal = traje formal del HoS
-    .gender = male
-    .desc = Un traje para ocasiones especiales.
-
-ent-ClothingUniformJumpsuitHoSGrey = mono gris del Jefe de Seguridad
-    .gender = male
-    .desc = Un mono gris del Jefe de Seguridad que lo hace parecer un pasajero.
-
-ent-ClothingUniformJumpsuitHoSParadeMale = uniforme de gala del Jefe de Seguridad
-    .gender = male
-    .desc = Ropa de lujo masculina del Jefe de Seguridad, para ocasiones especiales.
-
-ent-ClothingUniformJumpsuitHydroponics = mono de hidroponía
-    .gender = male
-    .desc = Tiene un fuerte olor a tierra. Con suerte solo está sucia y no manchada de otra cosa.
-
-ent-ClothingUniformJumpsuitJacketMonkey = chaqueta de camarero para simio
-    .gender = female
-    .desc = Una chaqueta decente, para un simio decente.
-
-ent-ClothingUniformJumpsuitJanitor = mono de conserje
-    .gender = male
-    .desc = El mono para el pobre infeliz con la fregona.
-
-ent-ClothingUniformJumpsuitJester = traje de bufón
-    .gender = male
-    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
-
-ent-ClothingUniformJumpsuitJesterAlt = traje de bufón
-    .gender = male
-    .desc = Un alegre atuendo, bien adaptado para entretener a tu señor, tío.
-
-ent-ClothingUniformJumpsuitJournalist = traje de periodista
-    .gender = male
-    .desc = Si el periodismo es bueno, por naturaleza es controvertido.
-
-ent-ClothingUniformJumpsuitKilt = kilt
-    .gender = male
-    .desc = Un buen trozo de ropa pa' los mozos y las mozas.
-
-ent-ClothingUniformJumpsuitKimono = kimono
-    .gender = male
-    .desc = Ropa tradicional china.
-
-ent-ClothingUniformJumpsuitLawyerBlack = traje de abogado negro
-    .gender = male
-    .desc = Un sobrio traje negro usado por abogados y mafiosos.
 

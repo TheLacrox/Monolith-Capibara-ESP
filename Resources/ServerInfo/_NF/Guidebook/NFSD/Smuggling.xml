@@ -2,19 +2,19 @@
 
   # Prevención del contrabando
 
-  Como oficial de las TSFMC, parte de tu trabajo es prevenir el contrabando.
+  Como marine de la TSFMC, parte de tu trabajo es impedir el contrabando de cajas de suministros de la Phaethon Dynasty.
 
-  Los contrabandistas utilizan [color=#9ef5ff]buzones muertos[/color], objetos donde el Mercado Negro deja notas con pistas sobre la ubicación de [color=#c4261d]cápsulas de entrega[/color] llenas de contrabando.
+  Los contrabandistas usan [color=#9ef5ff]entregas clandestinas[/color], objetos en los que la Phaethon Dynasty deja notas con pistas sobre la ubicación de [color=#9c8245]cápsulas de descenso[/color] llenas de suministros.
 
   Recuerda:
-  - Están repartidos por los puntos de interés más sórdidos del sector.
-  - Usa cualquier pista que puedas encontrar por ahí.
-  - Pregunta a la gente si el público ha visto actividad sospechosa.
-  - Estate atento a patrones de tráfico extraños.
+  - Están repartidas por los puntos de interés más sospechosos del sector.
+  - Usa cualquier pista que encuentres tirada por ahí.
+  - Pregunta si el público ha visto actividad sospechosa.
+  - Está atento a patrones de tráfico extraños.
 
-  Como oficiales de las TSFMC, parte de tu trabajo es prevenir el contrabando y atrapar a los contrabandistas en el acto.
+  Como marines de la TSFMC, parte de tu trabajo es impedir el contrabando y perseguir a quien apoye a la Phaethon Dynasty.
 
-  No permitas que el control de las TSF flaquee; un mal trabajo en la lucha contra el contrabando causará que el banco de las TSF sufra recortes presupuestarios.
+  No permitas que el control de la TSF sobre Colossus flaquee: hacer un mal trabajo contra el contrabando financiará la insurgencia de la Phaethon Dynasty Vanguard.
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure1" Caption="contraband crate"/>
@@ -22,25 +22,25 @@
 
   ## Notificaciones
 
-  Cuando se toma una nota de un [color=#9ef5ff]buzón muerto[/color], una [color=#c4261d]cápsula de entrega[/color] se teleporta al sector. Esta [color=#c4261d]cápsula de entrega[/color] contiene carga, parte de ella es contrabando, y estos bienes ilícitos suelen venderse para obtener beneficios.
+  Cuando se toma una nota de una [color=#9ef5ff]entrega clandestina[/color], una [color=#9C8245]cápsula de descenso[/color] es teletransportada al sector. Esta [color=#9C8245]cápsula de descenso[/color] contiene cajas de suministros de la Phaethon Dynasty, que el Sultanato paga a civiles para que las distribuyan.
 
-  Con tecnología bluespace de vanguardia, [bold]podemos obtener firmas cuando se toman estas notas[/bold] y, con cierto retraso, obtener [bold]la ubicación aproximada de una [color=#c4261d]cápsula de entrega[/color][/bold].
+  Gracias a la tecnología bluespace de vanguardia, [bold]podemos obtener las firmas cuando se toman estas notas[/bold] y, con algo de retraso, obtener [bold]la ubicación aproximada de una [color=#9c8245]cápsula de descenso[/color][/bold].
 
-  Debido a la naturaleza del bluespace, [bold]estas notificaciones no son completamente fiables[/bold], pero eso no es excusa para la pereza. Permanece vigilante.
+  Debido a la naturaleza del bluespace, [bold]estas notificaciones no son del todo fiables[/bold], pero eso no es excusa para la desidia. Mantente vigilante.
 
-  ## Análisis forense
+  ## Forense
 
-  Como incentivo para prevenir el contrabando y atrapar a los contrabandistas activos, un [color=#5d8c45]módulo forense de contrabando[/color] viene de serie en el equipo de un oficial de las TSF. [bold]Usarlo premia a tu departamento por el buen trabajo de campo[/bold].
+  Un [color=#5d8c45]módulo forense de contrabando[/color] viene de serie en el uplink de un marine de la TSF. [bold]Usarlo te permite recopilar datos de entregas clandestinas o cápsulas de descenso, y se convertirán en Créditos Militares Federales.[/bold]
 
-  [color=#5d8c45]Escanear[/color] [color=#9ef5ff]buzones muertos[/color] activos o usados anteriormente, y [color=#c4261d]cápsulas de entrega[/color] del Mercado Negro ingresa créditos y FMC al banco de las TSF. Los FMC se pagarán al oficial que los escanee cuando se hayan acumulado suficientes.
+  [color=#5d8c45]Escanear[/color] entregas [color=#9ef5ff]clandestinas[/color] activas o usadas anteriormente, y [color=#9c8245]cápsulas de descenso[/color] de la Phaethon Dynasty, abona créditos al banco de la TSF y recompensa al marine con FMC.
 
-  [bold]Obtienes mayores recompensas por ser el primero en llegar a un [color=#9ef5ff]buzón muerto[/color], ¡así que muévete![/bold]
+  [bold]Si eres el primero en llegar a una [color=#9ef5ff]entrega clandestina[/color], puedes interceptar los suministros y llevarlos de vuelta a Halcyon para una recompensa mucho mayor, ¡así que muévete![/bold]
 
   <Box>
     <GuideEntityEmbed Entity="ContrabandForensicsModule" Caption="forensics module"/>
     <GuideEntityEmbed Entity="FederationMilitaryCredit"/>
   </Box>
 
-  [bold]Recuerda usar cualquier ADN que encuentres para rastrear y procesar a los contrabandistas.[/bold] Es uno de tus deberes como oficial de las TSF mantener el comercio del sector dentro de la legalidad.
+  [bold]Recuerda usar cualquier ADN que encuentres para localizar y procesar a los contrabandistas.[/bold] Quienes apoyen la masacre sangrienta perpetrada por la Phaethon Dynasty deben ser llevados ante la justicia.
 
 </Document>

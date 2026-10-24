@@ -12,4 +12,3 @@ ghost-role-information-marsoc-rules = Eres miembro de la [color=#348099][bold]fa
                                              Puedes recordar conocimientos sobre el juego en general, como cocinar, usar objetos, etc.
                                              Absolutamente [color=red]NO[/color] te está permitido recordar el nombre, la apariencia, etc. de tu personaje anterior.
 
-ghost-role-information-marsoc-specialist-name = Especialista en armas MARSOC

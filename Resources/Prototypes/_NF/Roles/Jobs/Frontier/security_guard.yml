@@ -12,7 +12,7 @@
   supervisors: job-supervisors-sr
   assignedCompany: Colonial
   weight: 80
-  displayWeight: 20 # Second from the bottom
+  displayWeight: 55 # Second from the top
   canBeAntag: false
   access:
   - Security
@@ -23,13 +23,17 @@
   - Mercenary
   - Captain
   - Frontier
+  guides:
+  - Caelestinus
   special:
   - !type:AddComponentSpecial
     components:
     - type: ChatRank
       rank: cc-judge
-  - !type:AddImplantSpecial
-    implants: [ MindShieldImplant ] # Mono - remove TSFMC implant
+    - type: RadioOnCryosleep
+      radioChannel: Service # service = caelestinus
+# - !type:AddImplantSpecial
+#   implants: [ MindShieldImplant ] # Mono - remove TSFMC implants
   - !type:GiveItemOnHolidaySpecial
     holiday: FrontierBirthday
     prototype: FrontierBirthdayGift
@@ -42,4 +46,4 @@
     back:
     - EncryptionKeyService
     - EncryptionKeySecurity
-    - ShipVoucherFrontierGuard
+  # - ShipVoucherFrontierGuard # Mono

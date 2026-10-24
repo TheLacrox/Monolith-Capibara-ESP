@@ -22,6 +22,9 @@ uplink-security-compact-defibrillator-desc = A portable defibrillator made for f
 uplink-security-cash7500-name = 7,500 Credits
 uplink-security-cash7500-desc = Cold, hard cash.
 
+uplink-security-cash10000-name = 10,000 Credits
+uplink-security-cash10000-desc = Cold, hard cash.
+
 uplink-security-thrusterkit-name = Thruster Upgrade Kit
 uplink-security-thrusterkit-desc = Contains 32 super capaciters. Perfect for upgrading eight thrusters.
 
@@ -60,6 +63,9 @@ uplink-security-portable-recharger-desc = An experimental portable recharger equ
 
 uplink-security-cash75000-name = 75,000 Credits
 uplink-security-cash75000-desc = Cold, hard cash, in bulk.
+
+uplink-security-cash100000-name = 100,000 Credits
+uplink-security-cash100000-desc = Cold, hard cash, in bulk.
 
 uplink-security-surgery-duffel-name = Advanced Surgery Kit
 uplink-security-surgery-duffel-desc = A duffel filled with advanced surgery tools, perfect for re-attaching some heads.
@@ -106,6 +112,9 @@ uplink-security-t1-aldebaran-voucher-desc = A small card that contains the data 
 uplink-security-t2-andromeda-voucher-name = TSFMC Andromeda LPC [T2]
 uplink-security-t2-andromeda-voucher-desc = A small card that contains the data for the procurement of an Andromeda-class cruiser from the flagship's reserves.
 
+uplink-security-t2-cinquedea-voucher-name = TSFMC Cinquedea LPC [T2]
+uplink-security-t2-cinquedea-voucher-desc = A small card that contains the data for the procurement of an Cinquedea-class corvette from the flagship's reserves.
+
 uplink-security-t2-spekter-voucher-name = TSFMC Spekter LPC [T2]
 uplink-security-t2-spekter-voucher-desc = A small card that contains the data for the procurement of an Spekter-class corvette from the flagship's reserves.
 
@@ -135,3 +144,6 @@ uplink-security-pulserifle-desc = A large, automatic pulse weapon. Larger cell, 
 
 uplink-security-wearable-cameratsf-name = Wireless Camera
 uplink-security-wearable-cameratsf-desc = Camera used for overwatching an operation area. Can be worn or placed somewhere.
+
+uplink-HardBomb-TSF-name = TSF "Hiroshima" Bunker Buster
+uplink-HardBomb-TSF-desc = The TSF's answer to not enough boom

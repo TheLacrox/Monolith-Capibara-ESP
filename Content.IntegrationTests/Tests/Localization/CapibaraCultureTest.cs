@@ -46,7 +46,7 @@ public sealed class CapibaraCultureTest
 
         // 6. Shipyard purchase descriptions (Capibara divergence #3) resolve from the additive
         //    es-ES/_Capibara/shipyard.ftl keys instead of the raw YAML description.
-        Assert.That(loc.HasString("shipyard-Eris-desc"), Is.True,
+        Assert.That(loc.HasString("shipyard-BaseVessel-desc"), Is.True,
             "shipyard-<vessel-id>-desc keys should exist in the es-ES bundle.");
 
         await pair.CleanReturnAsync();

@@ -15,4 +15,12 @@ tiles-maint-floor-grid-dark = baldosa de mantenimiento en rejilla oscura
 
 
 tiles-catwalk-floor-tile-horizontal = baldosa de pasarela horizontal
-tiles-catwalk-floor-tile-vertical = baldosa de pasarela vertical
+tiles-catwalk-floor-tile-vertical = pasarela vertical
+
+tiles-bedrock-crocus = lecho rocoso de Crocus
+tiles-dirt-crocus = tierra de Crocus
+tiles-grass-crocus = hierba de Crocus
+tiles-redgrass-crocus = hierba roja de Crocus
+tiles-concrete-crocus = hormigón de Crocus
+tiles-concrete-smooth-crocus = hormigón liso de Crocus
+tiles-concrete-mono-crocus = losa de hormigón de Crocus

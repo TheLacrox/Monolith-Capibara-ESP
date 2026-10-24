@@ -4,7 +4,8 @@ job-description-ussp-sergeant = Lidera a las tropas en batalla, mantén los est�
 job-description-ussp-rifleman = Sirve a la Unión lejos de casa. Sigue a tus superiores, apoya a tus camaradas y aguanta donde otros se romperían.
 
 # MARCA: MD
-job-description-md-medic = Recorre el espacio para brindar atención médica a bordo de un buque médico. Estabiliza a la tripulación con medicamentos, sintetiza medicamentos y revive a los caídos. asegúrate de que los fallecidos irrecuperables sean colocados respetuosamente en la morgue y clonados.
+job-description-md-medic = Cumple los caprichos del Director y brinda atención que salva vidas a los habitantes del Colossus, pase lo que pase.
+job-description-caelestinus-worker = Mantén Caelestinus Central, ayuda tanto a los civiles como a tus aliados y haz lo que necesite el Supervisor o el Director de Cuidados.
 
 # MARCA: TSF
 job-description-tsf-engineer = Mantén la integridad del buque insignia, que te ridiculicen por no ser un soldado de verdad.
@@ -26,3 +27,10 @@ job-description-vg-commander = Lleva a los Vipers a la gloria y la riqueza. Forj
 job-description-mmc-liason = Garantiza beneficios para tus directivos corporativos, mantén a raya a tus empleados y asegura la protección de los activos de MMC en el sector.
 job-description-mmc-security = Protege los activos y empleados de MMC en la zona de cualquier amenaza.
 job-description-mmc-employee = Trabaja bajo las órdenes de tu enlace por el bien de la junta directiva de MMC. Gana dinero, dáselo a la compañía y repite.
+
+# MARCA: MERCADO NEGRO CLANDESTINO
+job-description-fugitive = Eres un enemigo conocido de la TSF. Evita a la TSFMC y a los cazarrecompensas que envía tras de ti. Cosecha las recompensas de tu peligroso estilo de vida.
+job-description-godfather = Mantén tu control sobre el Mercado Negro mediante la coacción y el miedo. No dejes que te asesinen.
+
+# MARCA: CROCUS
+job-description-crocus-dockworker = Intenta sobrevivir atrapado en el fuego cruzado entre dos bandos. Solo tienes tu equipo de trabajo básico.

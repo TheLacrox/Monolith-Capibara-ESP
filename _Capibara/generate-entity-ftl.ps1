@@ -113,6 +113,17 @@ foreach ($f in Get-ChildItem -Recurse "Resources/Locale/es-ES" -Filter *.ftl) {
     }
 }
 Write-Host "Excluding $($already.Count) entity id(s) already defined in the mirrored es-ES tree."
+# Test-only prototypes (inline YAML in Content.IntegrationTests) end up in the dump; tests assert
+# their English names (e.g. SaveLoadReparentTest checks "HumanBodyDummy"), so never override them.
+$realIds = [Collections.Generic.HashSet[string]]::new()
+foreach ($f in Get-ChildItem -Recurse "Resources/Prototypes" -Filter *.yml) {
+    foreach ($m in [regex]::Matches([IO.File]::ReadAllText($f.FullName), '(?m)^\s*id:\s*([A-Za-z0-9_-]+)')) { [void]$realIds.Add($m.Groups[1].Value) }
+}
+foreach ($f in Get-ChildItem -Recurse "Content.IntegrationTests" -Filter *.cs) {
+    foreach ($m in [regex]::Matches([IO.File]::ReadAllText($f.FullName), '(?m)^\s*id:\s*([A-Za-z0-9_-]+)\s*$')) {
+        if (-not $realIds.Contains($m.Groups[1].Value)) { $already[$m.Groups[1].Value] = $true }
+    }
+}
 
 # --- generate ---
 $data = Get-Content -LiteralPath $Source -Raw | ConvertFrom-Json

@@ -5,6 +5,7 @@ store-category-secammo = Munición
 store-category-secexplosives = Explosivos
 store-category-secbundles = Paquetes
 store-category-secvouchers = Vales
+store-category-secmaterials = Materiales
 
 uplink-security-hardsuit-name = Traje táctico M73 de soldado raso
 uplink-security-hardsuit-desc = El traje espacial estándar del TSFMC para servicio de patrulla. Esta variante en bronce lleva las insignias de rango de soldado raso.
@@ -89,7 +90,7 @@ uplink-security-wt550magazine-desc = Una caja con 4 cargadores superiores de 4.6
 uplink-security-hypo-name = Hipospray
 uplink-security-hypo-desc = Un inyector médico estéril para la administración instantánea de medicamentos.
 uplink-security-ambuzol-name = Jeringa de Ambuzol
-uplink-security-ambuzol-desc = 15u de medicación antiviral para detener el progreso del altamente contagioso virus zombie.
+uplink-security-ambuzol-desc = 15u de medicación antiviral anticuada, hoy usada como alternativa cara al protoletoferol en la producción de mesotaxinida.
 uplink-security-medkit-name = Kit médico de combate
 uplink-security-medkit-desc = Un kit con suministros médicos avanzados adecuados para su uso en el campo.
 uplink-security-inspector-name = Inspector

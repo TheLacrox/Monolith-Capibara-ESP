@@ -68,6 +68,11 @@ humanoid-profile-editor-traits-tab = Rasgos
 humanoid-profile-editor-no-traits = No hay rasgos disponibles
 humanoid-profile-editor-traits-default-category = Sin categoría
 
+humanoid-profile-editor-saved-items-tab = Persistencia
+humanoid-profile-editor-saved-items-header = Tu personaje tiene guardados los siguientes objetos:
+humanoid-profile-editor-saved-item-sticky = Este objeto es persistente y seguirá guardado tras aparecer.
+humanoid-profile-editor-saved-item-round-end = Este objeto se volverá a guardar si aún lo tienes al final de la partida.
+
 humanoid-profile-editor-trait-count-hint = Puntos disponibles: [{$current}/{$max}]
 
 # Mono

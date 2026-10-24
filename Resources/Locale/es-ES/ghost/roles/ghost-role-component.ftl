@@ -224,9 +224,9 @@ ghost-role-information-Death-Squad-name = Operativo del Escuadrón de la Muerte
 ghost-role-information-Death-Squad-description = Uno de los mejores agentes del TSF. Espera órdenes de un oficial del Gobierno Central.
 ghost-role-information-Death-Squad-rules = Estás obligado a obedecer las órdenes de tu superior, eres efectivamente su [color=#6495ed][bold]Familiar[/bold][/color].
 
-ghost-role-information-SyndiCat-name = SyndiCat
-ghost-role-information-SyndiCat-description = Eres la fiel mascota entrenada de los operativos nucleares con una microbomba. ¡Sirve a tu amo hasta la muerte!
-ghost-role-information-SyndiCat-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] con el agente que te invocó.
+ghost-role-information-SyndiCat-name = KamiCat
+ghost-role-information-SyndiCat-description = Eres un gato altamente entrenado implantado con una bomba. ¡Sirve a tu amo hasta la muerte!
+ghost-role-information-SyndiCat-rules = Eres un [color=red][bold]Antagonista de Equipo[/bold][/color] con la primera persona que veas, normalmente el agente que te invocó.
 
 ghost-role-information-Cak-name = Cak
 ghost-role-information-Cak-description = Eres el hijo favorito del cocinero. Eres un gato pastel viviente.

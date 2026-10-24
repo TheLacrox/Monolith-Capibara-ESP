@@ -9,6 +9,9 @@ uplink-pirate-interdyne-defibrillator-desc = Un desfibrilador compacto de élite
 uplink-pirate-chemical-synthesis-kit-name = Kit de Síntesis Química
 uplink-pirate-chemical-synthesis-kit-desc = Un kit inicial para el químico con aspiraciones; ¡incluye toxina y vestine para todas tus necesidades de armas biológicas!
 
+uplink-pirate-vestine-vial-name = Vial de vestine (30u)
+uplink-pirate-vestine-vial-desc = Un vial de costoso líquido anómalo, sintetizado a partir de la fauna nativa de Pizt. Útil para la producción química avanzada.
+
 uplink-pirate-anti-poison-pen-name = Autoinyector antitóxico
 uplink-pirate-anti-poison-pen-desc = Una dosis rápida de antitóxico. Contiene ultravasculina y epinefrina.
 
@@ -45,7 +48,7 @@ uplink-pirate-medical-assembler-desc = Un ensamblador que puede usarse para fabr
 # MARK: Utilidad
 
 uplink-pirate-wearable-camerapdv-name = Cámara Inalámbrica
-uplink-pirate-wearable-camerapdv-desc = Cámara usada para vigilar un área de operaciones. Puede llevarse puesta o colocarse en algún sitio.
+uplink-pirate-wearable-camerapdv-desc = Cámara usada para vigilar un área de operaciones. Puede llevarse puesta o colocarse en algún sitio, y viene con tecnología camaleón que permite disfrazarla de cualquier prenda para el cuello.
 
 uplink-pirate-romerol-name = Jeringa de Romerol
 uplink-pirate-romerol-desc = Un arma biológica utilizada en guerras anteriores, muy prohibida. Obviamente ha costado esfuerzo contrabandear esta. Reanima a los muertos.
@@ -59,11 +62,17 @@ uplink-pirate-syndicate-magboots-desc = Un par de botas que evitan los resbalone
 uplink-pirate-syndicate-jetpack-name = Mochila Propulsora Negra
 uplink-pirate-syndicate-jetpack-desc = Una mochila propulsora negra. Te permite volar por el espacio. Las recargas no están incluidas; usa tu combustible con prudencia.
 
+uplink-pirate-teleshield-name = Escudo telescópico
+uplink-pirate-teleshield-desc = Un escudo de mano extensible que ofrece una excelente protección.
+
 uplink-pirate-energy-shield-name = Escudo de Energía
 uplink-pirate-energy-shield-desc = Escudo de energía exótico que refleja casi todos los rayos láser, además de proporcionar algo de protección contra balas y otros ataques físicos.
 
 uplink-pirate-radio-jammer-name = Inhibidor de Radio
 uplink-pirate-radio-jammer-desc = Este dispositivo interrumpe cualquier comunicación de radio cercana saliente, así como los sensores del traje cuando se activa.
+
+uplink-pirate-overwatch-jammer-name = Inhibidor de vigilancia
+uplink-pirate-overwatch-jammer-desc = Este dispositivo impedirá que las consolas de vigilancia detecten el cadáver al que está adherido. ¡Asegúrate de adherir uno antes de transportar un cadáver a Helios!
 
 uplink-pirate-hypopen-name = Hypopen
 uplink-pirate-hypopen-desc = Un hipospray químico disfrazado de bolígrafo, capaz de inyectar instantáneamente hasta 10u de reactivos. Comienza vacío.
@@ -89,12 +98,33 @@ uplink-pirate-comms-computer-circuitboard-desc = Una placa de circuito impreso d
 uplink-pirate-security-cyborg-module-name = Módulo de Cyborg de Seguridad
 uplink-pirate-security-cyborg-module-desc = Un machete, una pistola de energía y una porra de aturdimiento, hechos específicamente para borgs. Espera, ¿no tiene TFSMC lo mismo?
 
+uplink-pirate-voicemask-name = Máscara de voz camaleón
+uplink-pirate-voicemask-desc = Una máscara de voz para dedicarte a algo de subterfugio y travesuras... o simplemente para mantener oculta tu identidad. Se recomienda encarecidamente ofuscar tu voz al hablar por la radio Vanguard.
+
+uplink-pirate-blank-id-name = Tarjeta de identificación en blanco
+uplink-pirate-blank-id-desc = Una tarjeta de identificación de vagabundo en blanco, sin rasgos identificativos. Puede personalizarse a tu gusto en la consola de tarjetas de identificación de Helios.
+
+uplink-pirate-chameleon-pda-name = PDA camaleón
+uplink-pirate-chameleon-pda-desc = Una PDA con tecnología camaleón integrada, que te permite ocultar tu verdadera lealtad.
+
+uplink-pirate-chameleon-headset-name = Auricular camaleón
+uplink-pirate-chameleon-headset-desc = Un auricular con tecnología camaleón integrada, que te permite ocultar tu verdadera lealtad.
+
+uplink-pirate-chameleon-backpack-name = Mochila camaleón
+uplink-pirate-chameleon-backpack-desc = Una mochila con tecnología camaleón integrada, que te permite ocultar tu verdadera lealtad. No viene con nada dentro.
+
+uplink-pirate-dna-scrambler-name = Implantador desordenador de ADN
+uplink-pirate-dna-scrambler-desc = Un implante relativamente raro que te permite cambiar por completo tu identidad una vez.
+
 uplink-pirate-cash10000-name = 10.000 créditos
 uplink-pirate-cash10000-desc = Así se hace, me has alegrado el día.
 
 uplink-pirate-cash100000-name = 100.000 créditos
 uplink-pirate-cash100000-desc = Así se hace, de verdad que me has alegrado el día.
 # la descripción es una cita
+
+uplink-pirate-telecrystal-25-name = 25 telecristales
+uplink-pirate-telecrystal-25-desc = Veinticinco telecristales, usados para importar directamente artículos de los lejanos mercados negros del Brazo de Perseo.
 
 uplink-syndicate-applicator-name = Aplicador de Nanitos Avanzado
 uplink-syndicate-applicator-desc = Aplicador de nanitos avanzado con una capacidad de nanitos muy mejorada, capaz de autogeneración de nanitos.
@@ -125,11 +155,23 @@ uplink-pirate-laser-gun-desc = Un arma de grado civil que usa luz amplificada po
 uplink-pirate-c20-name = Pack C-20r
 uplink-pirate-c20-desc = Una SMG ligera de 9x19mm, empaquetada con varios cargadores.
 
+uplink-pirate-vympel-name = Vympel
+uplink-pirate-vympel-desc = Un fusil bullpup barato de 5.56x45mm.
+
+uplink-pirate-sultan-pulsar-name = Pulsar del Sultán
+uplink-pirate-sultan-pulsar-desc = Una escopeta de calibre 4 con una dispersión increíblemente estrecha.
+
 uplink-pirate-atreides-name = Pack Atreides
-uplink-pirate-atreides-desc = Una SMG ligera de una mano de 5.8, empaquetada con algunos cargadores.
+uplink-pirate-atreides-desc = Una SMG ligera de una mano de 5.7x28mm, empaquetada con algunos cargadores.
 
 uplink-pirate-bulldog-name = Pack Bulldog
 uplink-pirate-bulldog-desc = Una escopeta automática del calibre 12, empaquetada con varios tambores.
+
+uplink-pirate-m90-name = M-90
+uplink-pirate-m90-desc = Un fusil de combate bullpup compacto de 7.62x51mm, diseñado para disparar a la cadencia de un fusil de asalto.
+
+uplink-pirate-mla73-name = MLA-73
+uplink-pirate-mla73-desc = Una SMG subsónica y precisa que dispara 6.35x40mm sin casquillo, eficaz contra blindajes. También admite 9x19mm en un apuro.
 
 uplink-pirate-vt7-name = Hoja HF VT7
 uplink-pirate-vt7-desc = Una hoja HF de alta calidad.
@@ -145,6 +187,12 @@ uplink-pirate-wspr-desc = Un contrapeso al Annie de TSFMC. Usa la misma munició
 
 uplink-pirate-burner-name = Rifle Pesado Burner
 uplink-pirate-burner-desc = Un rifle 12.7x99mm devastador. Admite munición HE. Horriblemente destructivo.
+
+uplink-pirate-basilisk-name = Basilisk DEW
+uplink-pirate-basilisk-desc = Un fusil de radiación de ingeniería inversa. Inmune a los pulsos electromagnéticos y sus rayos no son visibles a simple vista.
+
+uplink-pirate-hristov-name = Pack Hristov
+uplink-pirate-hristov-desc = Un fusil antimaterial de 14.5x114mm que dispara proyectiles devastadores, capaces de atravesar la carne por completo y acabar con rapidez con mechs, barreras holográficas, escudos duros o esclusas.
 
 uplink-pirate-blueprint-launcher-rocket-name = Plano del RPG-7
 uplink-pirate-blueprint-launcher-rocket-desc = Un plano del RPG-7 y su munición. ¡Perfecto para el terrorismo a largo plazo!
@@ -166,8 +214,11 @@ uplink-pirate-magazine-box-357_magnum-desc = Una caja con 4 cargadores rápidos 
 uplink-pirate-light-rifle-magazine-box-big-name = Caja de munición (7.62x39mm FMJ)
 uplink-pirate-light-rifle-magazine-box-big-desc = Una caja con 200 cartuchos 7.62x39mm.
 
-uplink-pirate-shell-box-lethal-name = Caja de cartuchos (letales)
-uplink-pirate-shell-box-lethal-desc = Una caja con 16 cartuchos de escopeta del calibre 12.
+uplink-pirate-shell-box-lethal-name = Caja de cartuchos calibre 12 (letales)
+uplink-pirate-shell-box-lethal-desc = Una caja con 32 cartuchos de escopeta del calibre 12.
+
+uplink-pirate-shell-box-4g-name = Caja de cartuchos calibre 4 (letales)
+uplink-pirate-shell-box-4g-desc = Una caja con 32 cartuchos de escopeta del calibre 4.
 
 uplink-pirate-smg-ammo-box-name = Caja de munición (9x19mm FMJ)
 uplink-pirate-smg-ammo-box-desc = Una caja con 60 cartuchos de pistola 9x19mm. Puede usarse para cargar cargadores de SMG.
@@ -179,7 +230,19 @@ uplink-pirate-box-bulldog-slug-ammo-name = Caja de tambores de posta calibre 12
 uplink-pirate-box-bulldog-slug-ammo-desc = Una caja con 4 tambores de posta de escopeta calibre 12.
 
 uplink-pirate-box-smg-magazine-name = Caja de cargadores de SMG 9x19mm
-uplink-pirate-box-smg-magazine-desc = Una caja con 3 cargadores de SMG 9x19mm.
+uplink-pirate-box-smg-magazine-desc = Una caja llena con 4 cargadores de SMG de 9x19mm.
+
+uplink-pirate-box-5-7x28mm-smg-name = Caja de cargadores de SMG 5.7x28mm
+uplink-pirate-box-5-7x28mm-smg-desc = Una caja llena con 4 cargadores de SMG de 5.7x28mm para el Atreides, muy eficaz contra blindajes.
+
+uplink-pirate-7-62x51mmMagazine-name = Cargadores de 7.62x51mm
+uplink-pirate-7-62x51mmMagazine-desc = Una caja con 4 cargadores llenos de 7.62x51mm.
+
+uplink-pirate-6-35x40mm-magazine-name = Cargador sin casquillo de 6.35x40mm
+uplink-pirate-6-35x40mm-magazine-desc = Un cargador subsónico para el MLA-73, eficaz contra blindajes.
+
+uplink-pirate-10phz-magazine-name = Cargador DEW 10Phz
+uplink-pirate-10phz-magazine-desc = Un cargador DEW radiactivo para el Basilisk.
 
 uplink-subsonic-mag-name = Cargador subsónico de rifle 7.62x39mm
 uplink-subsonic-mag-desc = Compatible con el WSPR.
@@ -209,6 +272,21 @@ uplink-pirate-blast-grenade-desc = Una granada termobárica de 40mm altamente le
 
 uplink-pirate-combat-hardsuit-name = Traje Táctico SCAF
 uplink-pirate-combat-hardsuit-desc = Equipo de protección básico de los grupos militares PDV.
+
+uplink-pirate-cv32-hardsuit-name = Traje rígido de combate CV-32
+uplink-pirate-cv32-hardsuit-desc = Un traje rígido equipado con un excepcional blindaje balístico, aunque es bastante deficiente en todos los demás aspectos.
+
+uplink-pirate-cv53-tacsuit-name = Traje táctico de combate CV-53
+uplink-pirate-cv53-tacsuit-desc = Un traje táctico equipado con un generador de escudo integrado, así como un extraordinario blindaje ambiental y contra láseres. Sin embargo, el escudo es débil frente a los láseres y la armadura es débil frente a los impactos balísticos.
+
+uplink-pirate-cv82-tacsuit-name = Traje táctico de combate CV-82
+uplink-pirate-cv82-tacsuit-desc = Un traje táctico ágil equipado con predicción de movimiento integrada, que acelera los movimientos de quien lo usa.
+
+uplink-pirate-juggernaut-hardsuit-name = Traje rígido Juggernaut
+uplink-pirate-juggernaut-hardsuit-desc = Un traje rígido cuyo plano procede del propio Sultán, capaz de resistir ataques como si nada. La armadura es extremadamente pesada.
+
+uplink-pirate-stealth-hardsuit-name = Traje rígido sigiloso
+uplink-pirate-stealth-hardsuit-desc = Un traje rígido cuyo plano procede del propio Sultán, que cambia las placas de blindaje por placas capaces de camuflarse automáticamente con el entorno.
 
 uplink-pirate-viper-group-standard-hardsuit-name = Traje Rígido JACKAL del Grupo Viper
 uplink-pirate-viper-group-standard-hardsuit-desc = Un traje rígido pesado adornado con las marcas características del Grupo Viper. La armadura es notablemente flexible para la protección que ofrece y tiene un sistema de visión nocturna integrado.
@@ -273,6 +351,15 @@ uplink-pirate-syndisupersurplus-desc = Contiene una enorme cantidad de bienes im
 uplink-pdv-t0-voucher-name = Vale de Nave PDV Nivel 0
 uplink-pdv-t0-voucher-desc = Un vale de un solo uso para cualquier nave pequeña.
 
+uplink-pdv-t1-voucher-name = Vale de Nave PDV Nivel 1
+uplink-pdv-t1-voucher-desc = Una pequeña tarjeta que te permitirá adquirir cualquier nave PDV de nivel 1 de las reservas de la Dinastía.
+
+uplink-pdv-t2-voucher-name = Vale de Nave PDV Nivel 2
+uplink-pdv-t2-voucher-desc = Una pequeña tarjeta que te permitirá adquirir cualquier nave PDV de nivel 2 de las reservas de la Dinastía.
+
+uplink-pdv-t3-voucher-name = Vale de Nave PDV Nivel 3
+uplink-pdv-t3-voucher-desc = Una pequeña tarjeta que te permitirá adquirir cualquier nave PDV de nivel 3 de las reservas de la Dinastía.
+
 uplink-pdv-t1-hourglass-voucher-name = PDV Hourglass LPC [T1]
 uplink-pdv-t1-hourglass-voucher-desc = Una pequeña tarjeta que contiene los datos para la adquisición de un escolta clase Hourglass de las reservas del buque insignia.
 
@@ -320,6 +407,9 @@ uplink-pdv-t3-kortik-voucher-desc = Una pequeña tarjeta que contiene los datos 
 
 uplink-pdv-t4-saturn-voucher-name = PDV Saturn LPC [T4]
 uplink-pdv-t4-saturn-voucher-desc = Una pequeña tarjeta que autoriza la adquisición del Saturn.
+
+uplink-HardBomb-PDV-name = Bunker Buster PDV "Adam"
+uplink-HardBomb-PDV-desc = La respuesta de la PDV a no tener suficiente explosión
 
 # MARK: Materiales
 

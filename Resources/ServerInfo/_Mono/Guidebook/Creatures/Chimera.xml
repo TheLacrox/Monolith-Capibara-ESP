@@ -1,16 +1,16 @@
 <Document>
   # Quimeras y Letoferol
 
-Las Quimeras son el resultado de un arma bioquímica conocida como [bold][color=#a84387]Letoferol[/color][/bold].
+Las quimeras son el resultado de un agente bioquímico conocido como [bold][color=#a84387]Letoferol[/color][/bold].
 
   <Box>
     <GuideEntityEmbed Entity="SyringeLetoferol"/>
     <GuideEntityEmbed Entity="MobLetoferolHorror"/>
   </Box>
 
-Existen 2 tipos de Letoferol:
- - El [italic][color=#ebba34]Letoferol natural[/color][/italic] es la forma pura producida en las Quimeras. Circula por su torrente sanguíneo y se inyecta mediante sus ataques de púa y cuerpo a cuerpo.
- - Sin embargo, para contraer la infección en primer lugar, existe el [italic][color=#a84387]Letoferol[/color][/italic] base de laboratorio, una variante más débil pero igualmente peligrosa.
+Hay 2 tipos de Letoferol:
+ - Existe el [italic][color=#ebba34]Letoferol natural[/color][/italic], que es la forma pura producida en las quimeras. Es su torrente sanguíneo, y se inyecta con su pico y sus ataques cuerpo a cuerpo.
+ - Sin embargo, para contagiar a alguien por primera vez, está, por supuesto, el [italic][color=#a84387]Letoferol[/color][/italic] base cultivado en laboratorio, que es más débil, pero igualmente peligroso.
 
   <GuideReagentEmbed Reagent="Letoferol"/>
   <GuideReagentEmbed Reagent="NaturalLetoferol"/>
@@ -19,38 +19,38 @@ Existen 2 tipos de Letoferol:
     <GuideEntityEmbed Entity="ChimeraFleshKudzu"/>
   </Box>
 
-El Letoferol natural extiende biomasa por las losetas que toca. Esto puede dificultar enormemente matar a una Quimera, ya que la biomasa se propagará y ralentizará a los no-Quimera que pasen por ella.
- - Para evitar la propagación de biomasa, se recomiendan opciones que no impliquen hemorragia (como productos químicos, ácido o fuego).
+El Letoferol natural esparce biomasa por las casillas a las que esté expuesto. Esto puede hacer que matar a una quimera sea una tarea difícil, ya que esta biomasa se extenderá y ralentizará a los no quiméricos que se encuentren sobre ella.
+ - Para evitar la propagación de biomasa, se recomiendan opciones que no impliquen sangrado (como productos químicos, ácido o fuego).
 
-Ninguno de los dos tipos de Letoferol transformará a las personas en Quimera fuera del estado crítico.
+Ambos tipos de Letoferol no convierten a las personas en quimeras fuera de estado crítico.
 
-## Mesotaxinide y Mesophenerol
+## Mesotaxinida y Mesofenerol
 
-  Hay 2 curas para la infección por Quimera: el avanzado [color=#437ca8][bold]Mesotaxinide[/bold][/color] y el mucho más sencillo, aunque menos eficaz, [color=#4ca832][bold]Mesophenerol[/bold][/color].
-   - El Mesotaxinide causa daño extremo al contacto con Quimeras, por lo que un pulverizador o boquilla con dicha sustancia es la mejor opción absoluta para eliminarlas.
-   - Para crear Mesotaxinide, puedes usar [color=#a85832]protoletoferol[/color] obtenido al introducir [color=#ebba34]Letoferol natural[/color] o [color=#a84387]Letoferol[/color] normal en una máquina de electrólisis.
-   - El protoletoferol es prácticamente inofensivo y su único uso es la síntesis de Mesotaxinide.
+  Hay 2 curas para la infección de quimera: la avanzada [color=#437ca8][bold]Mesotaxinida[/bold][/color], y la mucho más sencilla, pero menos eficaz, [color=#4ca832][bold]Mesofenerol[/bold][/color].
+   - La mesotaxinida causa un daño extremo al contacto con quimeras, así que un aerosol o una boquilla con la sustancia es, con diferencia, la mejor opción para matar quimeras.
+   - Para crear mesotaxinida, puedes usar [color=#a85832]protoletoferol[/color] obtenido al introducir [color=#ebba34]Letoferol natural[/color] o [color=#a84387]Letoferol[/color] normal en una máquina de electrólisis.
+   - El protoletoferol es en su mayoría inofensivo, y su único uso es para la mesotaxinida.
 
   <GuideReagentEmbed Reagent="Mesotaxinide"/>
   <GuideReagentEmbed Reagent="Mesophenerol"/>
   <GuideReagentEmbed Reagent="ProtoLetoferol"/>
 
-## Normas, Objetivos y Habilidades
+## Reglas, objetivos y habilidades
 
-  Como Quimera, tu objetivo es simplemente infectar al mayor número posible de personas, a cualquier coste.
+  Como quimera, tu objetivo es simplemente infectar a tantos como sea posible, cueste lo que cueste.
 
-  - Para ayudarte en esta tarea, puedes acceder a la mente colmena usando el prefijo [bold]"+"[/bold] antes de tus mensajes de chat.
-  - Las Quimeras también son capaces de interacciones complejas, entre ellas [bold][color=#40648f]cirugías[/color][/bold], [bold][color=cyan]pilotar naves[/color][/bold] e incluso usar [bold][color=orange]consolas de artillería[/color][/bold].
-  - Sin embargo, tendrás una precisión muy reducida con armas a distancia aunque puedas sostenerlas y usarlas.
-  - Tu habilidad [color=yellow]púa ósea[/color] disparará una dispersión de 7 púas óseas impregnadas de letoferol. Puede que no sea suficiente para infectar, pero aun así causará un daño considerable a tus oponentes por los efectos del Letoferol natural en el torrente sanguíneo.
-  - Las Quimeras también disponen de algunos espacios de almacenamiento y tienen acceso a un inventario interno de 5x5.
-  - Los ataques sin armas inyectarán 2,5u de Letoferal natural a alguien. Puedes acumular un daño duradero y difícil de curar si logras apilar suficiente Letoferal dentro de alguien, e incluso convertirlo si cae en estado crítico con suficiente Letoferal aún en su interior. Sin embargo, ambas curas mencionadas también purgan el Letoferal del torrente sanguíneo.
+  - Para ayudarte en esta tarea, puedes acceder a una mente colmena anteponiendo el prefijo [bold]"+"[/bold] a tus mensajes de chat.
+  - Las quimeras también son capaces de interacciones complejas, como [bold][color=#40648f]cirugía[/color][/bold], [bold][color=cyan]naves voladoras[/color][/bold], e incluso usar [bold][color=orange]consolas de artillería[/color][/bold].
+  - Sin embargo, tendrás una precisión muy reducida con las armas a distancia, incluso si puedes sostenerlas y usarlas.
+  - Tu habilidad de [color=yellow]pico óseo[/color] disparará una dispersión de 7 picos óseos con punta de letoferol. Puede que no baste para infectar, pero aun así causará un daño considerable a tus oponentes por los efectos del Letoferol natural en el torrente sanguíneo.
+  - Las quimeras también tienen unas cuantas ranuras de almacenamiento, y disponen de un almacenamiento interno de 5x5.
+  - El corte sin armas inyectará 2,5 u de Letoferol natural a alguien. Puedes causar mucho daño duradero y difícil de curar si acumulas suficiente Letoferol dentro de alguien, y convertirlo si cae en estado crítico con suficiente todavía en su interior. Sin embargo, ambas curas mencionadas antes también eliminan el Letoferol del torrente sanguíneo.
 
-  [bold][color=red]Las Quimeras siguen estando afectadas por las [textlink="reglas base de facción" link="MonolithRuleConflictFourPortStriking"] y las [textlink="reglas de zonas seguras" link="MonolithRuleRoleplaySevenSafeZones"][/color][/bold]
+  [bold][color=red]Las quimeras siguen afectadas por las [textlink="faction base rules" link="MonolithRuleConflictFourPortStriking"] y las [textlink="safezone rules" link="MonolithRuleRoleplaySevenSafeZones"][/color][/bold]
 
 ## Órganos
 
-  La mayoría de las habilidades de una Quimera residen en sus [color=yellow]órganos[/color].
+  La mayoría de las habilidades de una quimera residen en sus [color=yellow]órganos[/color].
 
   <Box>
     <GuideEntityEmbed Entity="OrganChimeraHeart"/>
@@ -59,11 +59,6 @@ Ninguno de los dos tipos de Letoferol transformará a las personas en Quimera fu
     <GuideEntityEmbed Entity="OrganChimeraLiver"/>
   </Box>
 
-  - El [color=cyan]corazón[/color] te otorgará inmunidad a la presión.
-  - El [color=cyan]feropodo[/color] te otorgará inmunidad al espacio y acceso a la Mente Colmena de las Quimeras.
-  - El [color=cyan]estómago[/color] funciona como un metabolizador avanzado, capaz de metabolizar cualquier producto químico procesando 5 a la vez.
-  - La [color=cyan]glándula de púas[/color] (obviamente) te permite disparar las mismas púas impregnadas de letoferol que una Quimera.
-
-  [italic]¡Las Quimeras también necesitan estos órganos para sus habilidades! ¡Quítale el feropodo y la glándula de púas a una Quimera y no será más que otro monstruo aburrido![/italic]
+  Estos órganos son imposibles de extirpar quirúrgicamente, ya que se desintegran en rastros de Letoferol al ser tocados.
 
 </Document>

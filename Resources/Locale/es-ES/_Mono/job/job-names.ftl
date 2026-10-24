@@ -8,6 +8,7 @@ job-supervisors-ussp-sergeant = los Serzhants
 
 # MARCA: MD
 job-name-md-medic = Respondedor de Emergencias
+job-name-caelestinus-worker = Trabajador de Caelestinus
 
 # MARCA: TSF
 job-name-tsf-engineer = Ingeniero TSFMC
@@ -31,3 +32,10 @@ job-name-mmc-security = Seguridad Corporativa MMC
 job-name-mmc-employee = Empleado MMC
 job-supervisors-mmc-highcomm = la Junta Corporativa de Mieyo
 job-supervisors-mmc-liason = el Enlace Corporativo
+
+# MARCA: MERCADO NEGRO CLANDESTINO
+job-name-fugitive = Fugitivo
+job-name-godfather = Padrino
+
+# MARCA: CROCUS
+job-name-crocus-dockworker = Estibador de Jianghui

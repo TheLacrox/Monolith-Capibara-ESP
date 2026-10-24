@@ -1,6 +1,7 @@
 ### Rangos fijos de TSFMC/TSFN
 
 tsf-marsoc = WS.MARSOC
+tsf-infantry = Fus.
 
 ## Rangos de equipamiento de TSFMC
 

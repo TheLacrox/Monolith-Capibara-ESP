@@ -48,4 +48,3 @@ nuke-slot-component-slot-name-disk = Disco
 nuke-examine-armed = Oye, ¿por qué parpadea esa [color=red]luz roja[/color]?
 nuke-examine-exploding = Sí... creo que ya es demasiado tarde, amigo.
 
-nuke-label-neutral = NFE-{$serial}

@@ -9,6 +9,9 @@ uplink-pirate-interdyne-defibrillator-desc = An elite compact defibrillator that
 uplink-pirate-chemical-synthesis-kit-name = Chemical Synthesis Kit
 uplink-pirate-chemical-synthesis-kit-desc = A starter kit for the aspiring chemist, includes toxin and vestine for all your bioweapon needs!
 
+uplink-pirate-vestine-vial-name = Vestine Vial (30u)
+uplink-pirate-vestine-vial-desc = A vial of expensive anomalous liquid, synthesized from the native fauna of Pizt. Useful for advanced chemical production.
+
 uplink-pirate-anti-poison-pen-name = Poison auto-injector
 uplink-pirate-anti-poison-pen-desc = A rapid dose of anti-poison. Contains ultravasculine and epinephrine.
 
@@ -45,7 +48,7 @@ uplink-pirate-medical-assembler-desc = An assembler that can be used to make use
 # MARK: Utility
 
 uplink-pirate-wearable-camerapdv-name = Wireless Camera
-uplink-pirate-wearable-camerapdv-desc = Camera used for overwatching an operation area. Can be worn or placed somewhere.
+uplink-pirate-wearable-camerapdv-desc = Camera used for overwatching an operation area. Can be worn or placed somewhere, and comes with chameleon technology allowing it to be disguised as any neckwear.
 
 uplink-pirate-romerol-name = Romerol Syringe
 uplink-pirate-romerol-desc = A bioweapon used in previous wars, and heavily outlawed. Its obviously taken some effort to smuggle this one. Reanimates the dead.
@@ -59,11 +62,17 @@ uplink-pirate-syndicate-magboots-desc = A pair of boots that prevent slipping an
 uplink-pirate-syndicate-jetpack-name = Black Jetpack
 uplink-pirate-syndicate-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
 
+uplink-pirate-teleshield-name = Telescopic Shield
+uplink-pirate-teleshield-desc = An expandable handheld shield offering excellent protection.
+
 uplink-pirate-energy-shield-name = Energy Shield
 uplink-pirate-energy-shield-desc = Exotic energy shield that reflects almost all laser beams, as well as a little protection from bullets and other physical attacks.
 
 uplink-pirate-radio-jammer-name = Radio Jammer
 uplink-pirate-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
+
+uplink-pirate-overwatch-jammer-name = Overwatch Jammer
+uplink-pirate-overwatch-jammer-desc = This device will prevent overwatch consoles from detecting the corpse it's attached to. Make sure to attach one before transporting a corpse to Helios!
 
 uplink-pirate-hypopen-name = Hypopen
 uplink-pirate-hypopen-desc = A chemical hypospray disguised as a pen, capable of instantly injecting up to 10u of reagents. Starts empty.
@@ -89,11 +98,32 @@ uplink-pirate-comms-computer-circuitboard-desc = A computer printed circuit boar
 uplink-pirate-security-cyborg-module-name = Security Cyborg Module
 uplink-pirate-security-cyborg-module-desc = A machete, an energy gun, and a stun baton, made specifically for borgs. Wait, doesn't TFSMC have the same thing?
 
+uplink-pirate-voicemask-name = Chameleon Voicemask
+uplink-pirate-voicemask-desc = A voicemask to engage in some subterfuge and tomfoolery... or just keep your identity hidden. Obfuscating your voice when speaking over the Vanguard radio is heavily advised.
+
+uplink-pirate-blank-id-name = Blank ID Card
+uplink-pirate-blank-id-desc = A blank vagrant ID card with no identifying features. Can be customised to your heart's content at Helios' ID card console.
+
+uplink-pirate-chameleon-pda-name = Chameleon PDA
+uplink-pirate-chameleon-pda-desc = A PDA with integrated chameleon technology, allowing you to hide your true allegiance.
+
+uplink-pirate-chameleon-headset-name = Chameleon Headset
+uplink-pirate-chameleon-headset-desc = A headset with integrated chameleon technology, allowing you to hide your true allegiance.
+
+uplink-pirate-chameleon-backpack-name = Chameleon Backpack
+uplink-pirate-chameleon-backpack-desc = A backpack with integrated chameleon technology, allowing you to hide your true allegiance. Does not come with anything inside.
+
+uplink-pirate-dna-scrambler-name = DNA Scrambler Implanter
+uplink-pirate-dna-scrambler-desc = A relatively rare implant that allows you to completely change your identity once.
+
 uplink-pirate-cash10000-name = 10,000 credits
 uplink-pirate-cash10000-desc = That's my boy, you made my day.
 
 uplink-pirate-cash100000-name = 100,000 credits
 uplink-pirate-cash100000-desc = That's my boy, you really made my day.
+
+uplink-pirate-telecrystal-25-name = 25 Telecrystals
+uplink-pirate-telecrystal-25-desc = Twenty-five telecrystals, used to directly import items from the distant black markets of the Perseus Arm.
 # desc is quote
 
 uplink-syndicate-applicator-name = Advanced Nanite Applicator
@@ -125,11 +155,23 @@ uplink-pirate-laser-gun-desc = A civilian grade weapon using light amplified by 
 uplink-pirate-c20-name = C-20r Bundle
 uplink-pirate-c20-desc = A 9x19mm light SMG, packaged with a few mags.
 
+uplink-pirate-vympel-name = Vympel
+uplink-pirate-vympel-desc = A cheap 5.56x45mm bullpup rifle.
+
+uplink-pirate-sultan-pulsar-name = Sultan's Pulsar
+uplink-pirate-sultan-pulsar-desc = A 4 gauge shotgun with an incredibly tight spread.
+
 uplink-pirate-atreides-name = Atreides bundle
-uplink-pirate-atreides-desc = A 5.8 one-handed light SMG, packaged with some magazines.
+uplink-pirate-atreides-desc = A 5.7x28mm one-handed light SMG, packaged with some magazines.
 
 uplink-pirate-bulldog-name = Bulldog Bundle
 uplink-pirate-bulldog-desc = An automatic 12 gauge shotgun, packaged with a few drums.
+
+uplink-pirate-m90-name = M-90
+uplink-pirate-m90-desc = A compact bullpup 7.62x51mm battle rifle engineered to fire at the rate of an assault rifle.
+
+uplink-pirate-mla73-name = MLA-73
+uplink-pirate-mla73-desc = A subsonic, accurate SMG firing 6.35x40mm caseless, effective against armour. Also accepts 9x19mm in a pinch.
 
 uplink-pirate-vt7-name = VT7 HF Blade
 uplink-pirate-vt7-desc = A high quality HF blade.
@@ -145,6 +187,12 @@ uplink-pirate-wspr-desc = A counter to the TSFMC's Annie. Uses the same 7.62x39m
 
 uplink-pirate-burner-name = Burner Heavy Rifle
 uplink-pirate-burner-desc = A destructive 12.7x99mm rifle. Supports HE ammo. Horribly destructive.
+
+uplink-pirate-basilisk-name = Basilisk DEW
+uplink-pirate-basilisk-desc = A reverse-engineered radiation rifle. Immune to EMP and its beams are not visible to the naked eye.
+
+uplink-pirate-hristov-name = Hristov Bundle
+uplink-pirate-hristov-desc = A 14.5x114mm anti-materiel rifle firing devastating rounds that completely pierce flesh and make short work of mechs, holobarriers, hardshields or airlocks.
 
 uplink-pirate-blueprint-launcher-rocket-name = RPG-7 Blueprint
 uplink-pirate-blueprint-launcher-rocket-desc = A blueprint for RPG-7 and the ammo for it. Good for long term terrorism!
@@ -166,8 +214,11 @@ uplink-pirate-magazine-box-357_magnum-desc = A box containing 4 .357 magnum spee
 uplink-pirate-light-rifle-magazine-box-big-name = Ammunition box (7.62x39mm FMJ)
 uplink-pirate-light-rifle-magazine-box-big-desc = A box containing 200 7.62x39mm catridges.
 
-uplink-pirate-shell-box-lethal-name = Shell box (lethal)
-uplink-pirate-shell-box-lethal-desc = A box containing 16, 12 gauge shotgun shells.
+uplink-pirate-shell-box-lethal-name = 12 gauge shell box (lethal)
+uplink-pirate-shell-box-lethal-desc = A box containing 32 12 gauge shotgun shells.
+
+uplink-pirate-shell-box-4g-name = 4 gauge shell box (lethal)
+uplink-pirate-shell-box-4g-desc = A box containing 32 4 gauge shotgun shells.
 
 uplink-pirate-smg-ammo-box-name = Ammunition box (9x19mm FMJ)
 uplink-pirate-smg-ammo-box-desc = A box containing 60 9x19mm pistol catridges. Can be used to load SMG magazines.
@@ -179,7 +230,19 @@ uplink-pirate-box-bulldog-slug-ammo-name = Box of 12 gauge slug drums
 uplink-pirate-box-bulldog-slug-ammo-desc = A box containing 4 12 gauge slug shotgun drums.
 
 uplink-pirate-box-smg-magazine-name = Box of 9x19mm SMG magazines
-uplink-pirate-box-smg-magazine-desc = A box filled with 3 9x19mm smg magazines.
+uplink-pirate-box-smg-magazine-desc = A box filled with 4 9x19mm SMG magazines.
+
+uplink-pirate-box-5-7x28mm-smg-name = Box of 5.7x28mm SMG magazines
+uplink-pirate-box-5-7x28mm-smg-desc = A box filled with 4 5.7x28mm SMG magazines for the Atreides, very effective against armour.
+
+uplink-pirate-7-62x51mmMagazine-name = 7.62x51mm Magazines
+uplink-pirate-7-62x51mmMagazine-desc = A box containing 4 filled 7.62x51mm magazines.
+
+uplink-pirate-6-35x40mm-magazine-name = 6.35x40mm caseless magazine
+uplink-pirate-6-35x40mm-magazine-desc = A subsonic magazine for the MLA-73, effective against armour.
+
+uplink-pirate-10phz-magazine-name = 10Phz DEW magazine
+uplink-pirate-10phz-magazine-desc = A radioactive DEW magazine for the Basilisk.
 
 uplink-subsonic-mag-name = 7.62x39mm subsonic rifle mag
 uplink-subsonic-mag-desc = Supports the WSPR.
@@ -209,6 +272,22 @@ uplink-pirate-blast-grenade-desc = A highly lethal 40mm thermobaric grenade for 
 
 uplink-pirate-combat-hardsuit-name = SCAF Tacsuit
 uplink-pirate-combat-hardsuit-desc = Basic protective gear of PDV military groups.
+
+uplink-pirate-cv32-hardsuit-name = CV-32 Combat Hardsuit
+uplink-pirate-cv32-hardsuit-desc = A hardsuit equipped with exceptional ballistic shielding, though it is quite lacking in every other field.
+
+uplink-pirate-cv53-tacsuit-name = CV-53 Combat Tacsuit
+uplink-pirate-cv53-tacsuit-desc = A tacsuit equipped with an in-built shield generator as well as extraordinary environmental and laser shielding. However, the shield itself is weak to lasers and the armour is weak to ballistics.
+
+uplink-pirate-cv82-tacsuit-name = CV-82 Combat Tacsuit
+uplink-pirate-cv82-tacsuit-desc = A nimble tacsuit equipped with in-built movement prediction allowing it to speed up its user's movement.
+
+uplink-pirate-juggernaut-hardsuit-name = Juggernaut Hardsuit
+uplink-pirate-juggernaut-hardsuit-desc = A hardsuit of which the blueprint originates from the Sultan Himself, capable of walking off attacks like nothing. The armour is extremely heavy.
+
+uplink-pirate-stealth-hardsuit-name = Stealth Hardsuit
+uplink-pirate-stealth-hardsuit-desc = A hardsuit of which the blueprint originates from the Sultan Himself, trading armour plating for plates capable of camouflaging into the surrounding environment automatically.
+
 
 uplink-pirate-viper-group-standard-hardsuit-name = Viper Group JACKAL Hardsuit
 uplink-pirate-viper-group-standard-hardsuit-desc = A heavy hardsuit adorned with signature markings of the Viper Group. The armor is remarkably flexible for its protection and has a built-in nightvision system.
@@ -273,6 +352,15 @@ uplink-pirate-syndisupersurplus-desc = Contains a huge amount of imported good f
 uplink-pdv-t0-voucher-name = PDV Tier 0 Ship Voucher
 uplink-pdv-t0-voucher-desc = A single-use voucher for any small ship.
 
+uplink-pdv-t1-voucher-name = PDV Tier 1 Ship Voucher
+uplink-pdv-t1-voucher-desc = A small card that will allow you to procure any tier-1 PDV ship from the Dynasty's reserves.
+
+uplink-pdv-t2-voucher-name = PDV Tier 2 Ship Voucher
+uplink-pdv-t2-voucher-desc = A small card that will allow you to procure any tier-2 PDV ship from the Dynasty's reserves.
+
+uplink-pdv-t3-voucher-name = PDV Tier 3 Ship Voucher
+uplink-pdv-t3-voucher-desc = A small card that will allow you to procure any tier-3 PDV ship from the Dynasty's reserves.
+
 uplink-pdv-t1-hourglass-voucher-name = PDV Hourglass LPC [T1]
 uplink-pdv-t1-hourglass-voucher-desc = A small card that contains the data for the procurement of an Hourglass-class escort from the flagship's reserves.
 
@@ -320,6 +408,9 @@ uplink-pdv-t3-kortik-voucher-desc = A small card that contains the data for the 
 
 uplink-pdv-t4-saturn-voucher-name = PDV Saturn LPC [T4]
 uplink-pdv-t4-saturn-voucher-desc = A small card that authorizes the procurement of the Saturn.
+
+uplink-HardBomb-PDV-name = PDV "Adam" Bunker Buster
+uplink-HardBomb-PDV-desc = The PDV's answer to not enough boom
 
 # MARK: Materials
 

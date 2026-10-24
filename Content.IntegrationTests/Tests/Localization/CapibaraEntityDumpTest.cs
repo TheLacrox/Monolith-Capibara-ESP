@@ -15,6 +15,7 @@ namespace Content.IntegrationTests.Tests.Localization;
 ///   dotnet test Content.IntegrationTests --filter FullyQualifiedName~CapibaraEntityDumpTest -c Release
 /// </summary>
 [TestFixture]
+[Explicit("Tooling: with es-ES entity overrides loaded it would overwrite the English dump.")]
 public sealed class CapibaraEntityDumpTest
 {
     private sealed record EntityLoc(string id, string name, string desc);

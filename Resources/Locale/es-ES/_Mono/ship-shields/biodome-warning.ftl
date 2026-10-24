@@ -1,0 +1,1 @@
+biodome-shield-power-load-increasing = ¡La Biocúpula está sufriendo una sobrecarga de energía en su acelerador molecular biológico y en su escudo! Asegúrate de que el escudo reciba energía suficiente, o podría desconectarse.

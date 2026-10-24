@@ -55,6 +55,17 @@
   - NEW divergence #3 (user-approved): shipyard purchase descriptions localized via
     `shipyard-<vessel-id>-desc` keys in `es-ES/_Capibara/shipyard.ftl` (186 vessels, 8-agent
     workflow). Regenerate after upstream adds/changes vessels: extract `- type: vessel`.`description`.
+- [x] **Upstream sync: merge upstream/main 4181b1d312 (2026-10-24)** — 2026-10-24
+  - 342 upstream commits. Conflicts: 7 ServerInfo docs + `economy.yml` (took upstream); 5 shipyard
+    docs deleted upstream → dropped. `Industrial Components` guide title set in YAML (`# Capibara ESP`),
+    `Gamemodes` added to `guide-entries.ftl`.
+  - Locale: NEW=747 CHANGED=161 REMOVED=3 → 13 Haiku agents (key-level), 3 stale keys pruned → 0/0/0.
+  - Guidebook: 9 docs retranslated (3 Haiku agents); manifest re-hashed (324 entries).
+  - Entities: fresh dump 18,301 rows → 1,200 new strings (8 Haiku agents, `tmp/tr-o*.json`) →
+    18,280 keys, 0 English fallbacks, 14,753 gendered.
+  - Shipyard: 65 vessel descs added/retranslated, 119 keys for vessels removed upstream pruned.
+    `CapibaraCultureTest` sample switched from `Eris` (deleted) to `BaseVessel`.
+  - Space biomes: 7 new Crocus/Jianghui splash keys.
 - [ ] Human editorial review pass (machine output; proofread high-visibility strings first).
 - [ ] NOT translated (deliberate): map names (proper nouns), random-flavor datasets
   (ion-storm laws, ship names — raw upstream YAML, no loc support), changelog, hardcoded C# strings.

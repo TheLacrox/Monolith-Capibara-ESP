@@ -5,7 +5,7 @@ research-technology-universal-railgun-ammo-subnuclear = Explosivos de Fisión Nu
 research-technology-universal-asm220-ammo = Producción de Torpedos ASM-220
 research-technology-universal-asm220-advanced = Munición Avanzada ASM-220
 research-technology-universal-sandbox-missiles = Misiles de Crucero SS-N-40 "Sandbox"
-research-technology-universal-150mm-ammo = Producción de Proyectiles de 150mm
+research-technology-universal-90mm-ammo = Producción de Proyectiles 90x630mm
 
 research-technology-universal-light-fighter-ordinance = Producción de Armamento para Cazas Ligeros
 research-technology-universal-advanced-light-fighter-ordinance = Producción de Armamento Avanzado para Cazas

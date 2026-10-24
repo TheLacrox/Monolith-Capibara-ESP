@@ -1,0 +1,78 @@
+<Document>
+    # Modos de juego
+
+    Monolith tiene varios modos de juego diferentes, cada uno con facciones, duraciones y ciclos de juego distintos.
+
+    ## Insurgencia (TSF|PDV, 6 h)
+
+    [italic][color=yellow]Los esfuerzos de la Trans-Solarian Federation por colonizar el sector Colossus se ven amenazados por una insurgencia teocrática, y los civiles quedan atrapados en el fuego cruzado.[/color][/italic]
+
+    [bold]Insurgencia[/bold] es la experiencia estándar de Monolith.
+
+    El Cuerpo de Marines de la Trans-Solarian Federation acaba de asestar un golpe severo al brazo militar principal de la Phaethon Dynasty Vanguard, obligándola a retirarse y recuperarse.
+    Con la PDV aparentemente fuera de juego, el TSFMC se centra ahora en someter el sector Colossus a la ley solariana por la fuerza y en neutralizar a cualquiera que se interponga en su conquista.
+    Mientras tanto, la PDV ha iniciado una insurgencia teocrática para repeler a los herejes solarianos en el glorioso nombre del Sultán, cueste lo que cueste.
+
+    [bold][color=red]La guerra total[/color][/bold] se declara entre el TSFMC y la PDV solo si tanto el [color=blue]Coronel del TSFMC[/color] como el [color=tan]Gran Visir de la PDV[/color] activan sus declaradores de guerra.
+
+    La insurgencia siempre está disponible para votar, y es el único modo de juego sin peso en la votación.
+
+
+    ## Amenaza biológica (TSF O PDV, 3 h)
+
+    TSF: [italic][color=yellow]Tras haberse adjudicado con éxito el sector Colossus, la Federación lucha por mantenerlo estable mientras una devastadora arma biológica causa estragos en su interior.[/color][/italic]
+
+    PDV: [italic][color=yellow]Tras haber expulsado con éxito a la Federación, la Dinastía debe ahora sobrevivir a las consecuencias mientras una devastadora arma biológica causa estragos en el sector Colossus.[/color][/italic]
+
+    [bold]Amenaza biológica[/bold] es un modo de juego alternativo en el que solo participa una de las dos grandes potencias militares.
+
+    A diferencia de la guerra de la Insurgencia, la principal amenaza durante la Amenaza biológica es la abrumadora presencia de quimeras carnívoras que llegan al sector en naves infectadas que han perdido sus transpondedores.
+    Durante la Amenaza biológica, el escudo de [color=blue]TSFMC Flagship Halcyon[/color] o de [color=tan]PDV Helios Fortress[/color] ha sido sustituido por una versión experimental de la [color=green]Biocúpula[/color].
+    La Biocúpula es un escudo que destruye cualquier quimera que entre en él. Sin embargo, tiene un inconveniente evidente: requiere una cantidad de energía exponencialmente mayor para funcionar, por lo que los habitantes de la estación deben elegir tarde o temprano entre producir cantidades exorbitantes de energía o vivir sin ella.
+
+    [bold][color=red]La guerra total[/color][/bold] nunca se declara. Letoferol no se considera obligado por ningún tipo de acuerdo.
+
+    La Amenaza biológica requiere al menos 30 jugadores. Tiene un [bold]50%[/bold] de peso en la votación, lo que significa que hacen falta 2 jugadores para votarla y sumar 1 voto a su total.
+
+
+    ## Apocalipsis (TSF|PDV, 3 h)
+
+    [italic][color=yellow]El TSFMC y la PDV declaran la guerra total al mismo tiempo que estalla un brote de Letoferol. Un campo de batalla en todos los frentes.[/color][/italic]
+
+    [bold]Apocalipsis[/bold] es el infierno en todos los frentes, una versión mucho más rápida y sangrienta de la Insurgencia.
+
+    Las tensiones aumentan rápidamente, ya que tanto la Trans-Solarian Federation como la Phaethon Dynasty se acusan mutuamente de haber provocado el brote de Letoferol. Cuando las negociaciones fracasan, se declara la guerra total y los civiles deben defenderse por su cuenta, con la muerte acechando en cada esquina.
+
+    [bold][color=red]La guerra total[/color][/bold] se declara entre el TSFMC y la PDV a las 01:00:00 en punto.
+
+    El Apocalipsis requiere al menos 30 jugadores. Tiene un [bold]25%[/bold] de peso en la votación, lo que significa que hacen falta 4 jugadores para votarlo y sumar 1 voto a su total.
+
+    ## Hiperguerra (SOLO TSF|PDV, 3 h)
+
+    [italic][color=yellow]El TSFMC y la PDV declaran la guerra total mientras todos los civiles se retiran sabiamente lejos de la zona de combate.[/color][/italic]
+
+    [bold]Hiperguerra[/bold] es una batalla campal sin espectadores.
+
+    Durante la Hiperguerra, tanto el TSFMC como la PDV reciben un [bold]explosivo nuclear de fisión[/bold] y todos los puntos de interés, con la única excepción de [color=blue]TSFMC Flagship Halcyon[/color] y [color=tan]PDV Helios Fortress[/color], son eliminados.
+    Halcyon y Helios quedan mucho más armados, su ganancia pasiva de investigación aumenta de 35/s a 200/s y, además, producen automáticamente plastititanio, tela, durahilo y (en el caso de la PDV) fichas de datos con el tiempo.
+    En lugar de INSO-357k o LINEAR-21, hay un único anillo de asteroides a 12 kilómetros del centro del sector del que obtener materiales.
+    El vencedor de la partida es el bando que consiga hacer explotar primero la bomba nuclear en la base enemiga.
+
+    [bold][color=red]La guerra total[/color][/bold] se declara entre el TSFMC y la PDV a las 02:00:00 en punto.
+
+    La Hiperguerra requiere al menos 30 jugadores. Tiene un [bold]15%[/bold] de peso en la votación, lo que significa que hacen falta unos 7 jugadores para votarla y sumar 1 voto a su total.
+
+
+    ## Crocus (TSF|PDV, 1 h)
+
+    [italic][color=yellow]Una guarnición de la TSF debe defender el planeta de una fuerza invasora de la PDV durante 1 hora. Un único mapa planetario, sin naves.[/color][/italic]
+
+    [bold]Crocus[/bold] es un escenario breve centrado en la guerra en superficie.
+
+    La Trans-Solarian Federation recibe un aviso anónimo sobre un ataque inminente de la Phaethon Dynasty a la Zona Industrial de Jianghui, en el planeta Crocus, y consigue desplegar una guarnición solo diez minutos antes de que comience el ataque.
+    La Federación debe proteger sus balizas, sus cápsulas de nanitos y las PDA de su infantería frente a la Dinastía. Además, tiene la orden de aprovechar la ocasión para incautar cuantas PDA de la Dinastía pueda con fines de investigación.
+    Este conflicto deja a los estibadores de Jianghui que están de turno ese día corriendo, escondiéndose o luchando por sus vidas en mitad del fuego cruzado.
+    El vencedor de la partida es el bando que obtenga el mayor progreso total en ambos objetivos.
+
+    Crocus requiere al menos 30 jugadores. Tiene un [bold]25%[/bold] de peso en la votación, lo que significa que hacen falta 4 jugadores para votarlo y sumar 1 voto a su total.
+</Document>

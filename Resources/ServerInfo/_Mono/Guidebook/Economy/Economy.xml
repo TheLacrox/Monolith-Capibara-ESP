@@ -1,12 +1,16 @@
 <Document>
 
-  # Economía
+  # Industria
 
-  Todo lo relacionado con la economía.
+  <Box>
+    <GuideEntityEmbed Entity="CameraEconomy1" Caption="photonic flash camera"/>
+    <GuideEntityEmbed Entity="ComponentBrickEconomy1" Caption="basic components"/>
+    <GuideEntityEmbed Entity="CapacitorEconomy2" Caption="industrial advanced capacitor"/>
+  </Box>
 
-  ## Enlaces de la Guía
+  Durante tus viajes, puedes encontrar diversos componentes industriales.
+  Pueden hallarse en restos de naves, recuperarse de máquinas avanzadas o fabricarse con equipo especializado.
+  Pueden venderse o, lo que es más habitual, usarse para crear máquinas avanzadas como propulsores, generadores de escudos y equipos de procesamiento.
+  Los componentes básicos se pueden comprar en una terminal de carga, mientras que los más avanzados pueden requerir visitar un punto de interés industrial, como una base de facción.
 
-  - [textlink="Introducción" link="Basics"]
-
-  - [textlink="Recetas" link="EconomyRecipes"]
 </Document>

@@ -9,6 +9,7 @@ lathe-category-nfr = Barras NFR
 lathe-category-componentmaterials = Componentes Empaquetados
 lathe-category-components = Componentes Industriales
 lathe-category-altrecipes = Recetas Alternativas
+lathe-category-tradecrates = Cajas de Comercio
 
 # Mechs
 lathe-category-mech-weapons-s2s4 = Equipamiento Mech S2/4

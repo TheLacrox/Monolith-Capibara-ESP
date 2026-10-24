@@ -16,11 +16,11 @@ research-technology-pdv-ias = Biónica Cardiorrespiratoria PDV
 research-technology-rogue-tier-one-vouchers = Producción de Astillero PDV Grado 1
 
 # T2 rogue
-research-technology-rogue-advanced-guns = Balística Avanzada
+research-technology-rogue-advanced-guns = Armamento Antitanque
 research-technology-rogue-hypospray = Administración Rápida de Reactivos
 research-technology-rogue-emag = Procedimientos de Hackeo Portátil
 research-technology-rogue-advanced-melee-weapon = Armamentización Cuerpo a Cuerpo Avanzada
-research-technology-rogue-subsonic = Armas de Fuego Subsónicas
+research-technology-rogue-subsonic = Munición Subsónica para Armas de Fuego
 research-technology-rogue-saintie-voucher = LPC de Adquisición Saintie PDV
 research-technology-rogue-motley-anne-voucher = LPC de Adquisición Motley Anne PDV
 research-technology-rogue-motley-anne-fighters = Drones de Motley Anne PDV
@@ -32,4 +32,5 @@ research-technology-rogue-prowler-voucher = Tecnologías de Nave Furtiva
 research-technology-rogue-hf-sword = Tecnología de Resonancia Armamentizada
 research-technology-rogue-syndicate-tacsuits = Fibras de Metamaterial
 research-technology-pdv-advanced-module = Desarrollo de Módulo Cyborg Avanzado PDV
-research-technology-rogue-heavy-weapons = Balística Pesada
+research-technology-rogue-heavy-weapons = Munición Balística Pesada
+research-technology-PDV-large-explosives = Bombas Pesadas PDV

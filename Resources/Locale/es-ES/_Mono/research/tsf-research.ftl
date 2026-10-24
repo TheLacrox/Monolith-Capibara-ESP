@@ -31,3 +31,4 @@ research-technology-tsfmc-synthalloy = Ciencia de Materiales Experimental
 research-technology-tsfmc-advanced-module = Desarrollo de Módulos de Cyborg Avanzados TSFMC
 research-technology-tsfmc-sandevistan = Ingeniería Inversa del Sandevistan TSFMC
 research-technology-tsfmc-shunt = Cibernética Clandestina TSFMC
+research-technology-tsfmc-large-explosives = Bombas Pesadas TSFMC

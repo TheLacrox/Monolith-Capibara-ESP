@@ -1,33 +1,33 @@
 <Document>
-  # Transporte de Carga
+  # Transporte de carga
 
-Una de las formas en que puedes ganar dinero en el Colossus es transportando envíos de [color=peru]cajas de comercio[/color].
+Una de las formas de ganar dinero en el sector Colossus es transportar envíos de [color=peru]cajas comerciales[/color].
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureNormal"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure1"/>
   </Box>
 
-Puedes encontrarlas:
-  * Comprándolas en [color=peru]computadoras de solicitud de carga[/color] en el [color=darkgreen]Trade Outpost[/color]
-  * Recuperándolas de [color=#88b0d1]naufragios espaciales[/color]
-  * Encontrando [color=#c83737]cajas de contrabando[/color] para contrabandear (pregunta por ahí para saber cómo)
+Puedes conseguirlas:
+  * Comprándolas en los [color=peru]ordenadores de solicitud de carga[/color] del [color=darkgreen]Puesto Comercial[/color]
+  * Recuperándolas de [color=#88b0d1]restos espaciales[/color]
+  * Encontrando [color=#9C8245]cajas de suministros de la Phaethon Dynasty[/color] para contrabandearlas (pregunta por ahí para saber cómo)
 
-Cada caja de comercio tendrá un símbolo de destino en el lado derecho de la caja. Al examinar la caja (Shift+Clic) se muestra el nombre de la estación a la que debe entregarse.
+Cada caja comercial tendrá un símbolo de destino en el lado derecho. Examinar la caja (Mayús+clic) muestra el nombre de la estación a la que debe entregarse.
 
-Vender una caja en su estación de destino resultará en recibir más dinero que el valor de la caja, mientras que venderla en otras estaciones resultará en menos.
+Vender una caja en su estación de destino te reportará más dinero que el valor de la caja, mientras que venderla en otras estaciones te reportará menos.
 
-## Entregas Exprés
+## Entregas exprés
 
-Algunas cajas están etiquetadas como [color=yellow]entregas exprés[/color]. Estas proporcionan un bonus si se entregan [italic]al destino[/italic] a tiempo.
+Algunas cajas están etiquetadas como [color=yellow]entregas exprés[/color].  Estas dan una bonificación si se entregan [italic]en el destino[/italic] a tiempo.
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureHigh"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure2"/>
   </Box>
 
-Para hacer entregas a tiempo, asegúrate de mantener tu bodega de carga organizada para que las cajas de cada destino puedan sacarse de la bodega en orden.
+Para entregar a tiempo, asegúrate de mantener organizada la bodega de carga, de modo que las cajas de cada destino puedan sacarse en orden.
 
-¡Recuerda, muchas manos hacen el trabajo más ligero, así que tripula tu nave para ayudar a que las entregas se realicen sin problemas!
+Recuerda que muchas manos hacen más ligero el trabajo, así que ¡únete a otros tripulantes para que las entregas vayan sobre ruedas!
 
 </Document>
