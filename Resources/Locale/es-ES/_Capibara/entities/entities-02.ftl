@@ -4472,7 +4472,6 @@ ent-d6Dice = d6
 ent-d8Dice = d8
     .desc = Un dado de ocho caras. Se siente... afortunado.
 
-ent-DamageableDummy = Maniquí dañable
 
 ent-DarkCatwalkMono = pasarela mono
     .gender = female
@@ -5739,13 +5738,11 @@ ent-DisposalTrunk = tronco de evacuación
     .gender = male
     .desc = Un tronco de tubería utilizado como punto de entrada para los sistemas de evacuación.
 
-ent-DisposalTrunkDummy = DisposalTrunkDummy
 
 ent-DisposalUnit = unidad de evacuación
     .gender = female
     .desc = Una unidad neumática de eliminación de residuos.
 
-ent-DisposalUnitDummy = DisposalUnitDummy
 
 ent-DisposalYJunction = empalme en Y de evacuación
     .gender = male
@@ -5763,7 +5760,6 @@ ent-DnaScramblerImplanter = implantador clandestino
     .gender = male
     .desc = Una jeringa desechable compacta diseñada exclusivamente para la inyección de implantes subdérmicos.
 
-ent-DoAfterDummy = DoAfterDummy
 
 ent-DocIDCard = tarjeta de identificación del director de cuidados
     .gender = female
@@ -7527,9 +7523,7 @@ ent-DuckCubeWrapped = cubo de pato
     .gender = male
     .desc = Desenvuelve esto para obtener un cubo de pato.
 
-ent-DummyNetworkDevice = DummyNetworkDevice
 
-ent-DummyWiredNetworkDevice = DummyWiredNetworkDevice
 
 ent-DungeonHumanCorpse = cadáver no identificado
     .gender = male
@@ -8004,7 +7998,6 @@ ent-EntertainerCircuitBoard = placa legal (Entertainer)
     .gender = female
     .desc = Una placa electrónica que contiene el conjunto de leyes Entertainer.
 
-ent-EntityStorageTest = caja
 
 ent-Envelope = sobre
     .gender = male
@@ -8761,7 +8754,6 @@ ent-Flash = flash
     .gender = male
     .desc = Un flash ultraluminoso con gatillo que aturde a la víctima y le hace perder la vista por un momento. Inútil cuando está quemado.
 
-ent-FlashlightDummy = FlashlightDummy
 
 ent-FlashlightLantern = linterna
     .gender = female

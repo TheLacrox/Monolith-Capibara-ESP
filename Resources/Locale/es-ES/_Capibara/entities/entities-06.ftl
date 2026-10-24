@@ -3936,25 +3936,12 @@ ent-TeslaToy = Teddy Tesla
 
 ent-TestDamageableEntityId = TestDamageableEntityId
 
-ent-TestInternalsDummyEntity = Urist McHands
 
-ent-TestMaterialReclaimer = versión de prueba del recuperador de materiales
 
-ent-TestPickUpThenDropInContainerTestBox = caja
 
-ent-TestRamen = TestRamen
 
-ent-TestRestockCorrect = TestRestockCorrect
-    .gender = male
-    .desc = Una caja para reabastecer las máquinas expendedoras con artículos corporativos.
 
-ent-TestRestockExplode = TestRestockExplode
-    .gender = male
-    .desc = Una caja para reabastecer las máquinas expendedoras con artículos corporativos.
 
-ent-TestRestockWrong = TestRestockWrong
-    .gender = male
-    .desc = Una caja para reabastecer las máquinas expendedoras con artículos corporativos.
 
 ent-ThermobathMachineCircuitboard = placa de máquina de termobaño
     .gender = female
@@ -4179,7 +4166,6 @@ ent-ToolboxArtisticFilled = caja de herramientas artística
     .gender = female
     .desc = Una caja de herramientas normalmente cargada con suministros artísticos.
 
-ent-ToolboxDummy = ToolboxDummy
 
 ent-ToolboxElectrical = caja de herramientas eléctrica
     .gender = female
@@ -5126,7 +5112,6 @@ ent-UnholyHalberd = alabarda profana
     .gender = female
     .desc = Un arma de asta que parece estar vinculada a quien la empuña.
 
-ent-UniformDummy = UniformDummy
 
 ent-UniformGeisha = vestido de geisha
     .gender = male
@@ -6148,9 +6133,6 @@ ent-VendingMachineTankDispenserEVAPOI = dispensador de bombonas de gas
     .gender = male
     .desc = Un expendedor de bombonas de gas.
 
-ent-VendingMachineTest = Ramen de Prueba
-    .gender = male
-    .desc = ¡Solo añade capitalismo!
 
 ent-VendingMachineTheater = AutoDrobe
     .gender = male

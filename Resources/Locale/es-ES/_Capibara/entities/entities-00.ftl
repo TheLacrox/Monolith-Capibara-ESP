@@ -1446,7 +1446,6 @@ ent-AirlockDetectiveLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockDummy = AirlockDummy
 
 ent-AirlockEngineering = esclusa
     .gender = female
@@ -2400,7 +2399,6 @@ ent-AirlockNfsdLocked = esclusa
     .gender = female
     .desc = Se abre, se cierra y quizás te aplaste.
 
-ent-AirlockPhysicsDummy = AirlockPhysicsDummy
 
 ent-AirlockQuartermasterGlassLocked = esclusa de cristal
     .gender = female
@@ -4639,7 +4637,6 @@ ent-BaseMobJaunt = parpadeo
     .gender = male
     .desc = Tenues rastros de una figura humanoide permanecen aquí
 
-ent-BaseMobSpeciesTest = BaseMobSpeciesTest
 
 ent-BaseNFFlatpack = paquete plano base
     .gender = male

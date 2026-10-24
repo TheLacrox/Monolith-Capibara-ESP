@@ -1660,7 +1660,6 @@ ent-MissileProjectile50mmHE = ASM-50 Minimisil de 50mm
     .gender = male
     .desc = ¡Si puedes ver esto, probablemente estás muerto!
 
-ent-MixedDamageTestObject = objeto de prueba de daño mixto
 
 ent-Mjollnir = Mjollnir
     .gender = male

@@ -4140,7 +4140,6 @@ ent-GrenadeStinger = Granada stinger
     .gender = female
     .desc = Nada que ver aquí, por favor, dispérsense.
 
-ent-GridGravityGeneratorDummy = GridGravityGeneratorDummy
 
 ent-Grille = Rejilla
     .gender = female
@@ -4460,7 +4459,6 @@ ent-HamtrRLeg = pierna derecha del HAMTR
 ent-Handcuffs = esposas
     .desc = Se usa para detener a criminales y demás gilipollas.
 
-ent-HandcuffsDummy = Esposas ficticias
 
 ent-HandheldAutopulserProjectile = proyectil de plasma
     .gender = male
@@ -5704,25 +5702,17 @@ ent-HoverbikeSyndicateFlatpack = paquete plano de hoverbike del Syndicate
 
 ent-hoverentity = entidad flotante
 
-ent-HumanBodyAndAppearanceDummy = Maniquí Humano (Cuerpo y Apariencia)
 
-ent-HumanBodyDummy = Maniquí Humano (Cuerpo)
 
 ent-HumanCube = cubo humano
     .gender = male
     .desc = ¡Solo añade agua!
 
-ent-HumanDisposalDummy = Maniquí Humano (Desecho)
 
-ent-HumanHandcuffDummy = Maniquí Humano (Esposas)
 
-ent-HumanLungDummy = Maniquí Humano (Pulmón)
 
-ent-HumanUniformDummy = Maniquí Humano (Uniforme)
 
-ent-HumanVendingDummy = Maniquí Humano (Máquina Expendedora)
 
-ent-HumanWeightlessDummy = Maniquí Humano (Ingravidez)
 
 ent-HydrogenChemistryBottle = botella
     .gender = female
@@ -5847,7 +5837,6 @@ ent-IceCrust = costra de hielo
 
 ent-IceElementalSpawner = Generador de Elemental de Hielo
 
-ent-IDCardDummy = Maniquí de Tarjeta de ID
 
 ent-IDCardTide = tarjeta ID marea
     .gender = female
@@ -6169,15 +6158,9 @@ ent-IntercomSupply = intercomunicador
     .gender = male
     .desc = Un intercomunicador. Para cuando la estación simplemente necesita saber algo.
 
-ent-InventoryIDCardDummy = InventoryIDCardDummy
 
-ent-InventoryJumpsuitJanitorDummy = InventoryJumpsuitJanitorDummy
 
-ent-InventoryPdaDummy = InventoryPdaDummy
-    .gender = male
-    .desc = Asistente de Datos Personal.
 
-ent-InventoryStunnableDummy = InventoryStunnableDummy
 
 ent-InvisibleCrate = caja
     .gender = female

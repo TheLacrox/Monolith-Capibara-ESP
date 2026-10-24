@@ -7186,7 +7186,6 @@ ent-ShardGlassUranium = fragmento de vidrio de uranio
     .gender = male
     .desc = Un pequeño fragmento de vidrio de uranio.
 
-ent-SharpTestObject = objeto de prueba muy afilado
 
 ent-SheetBrass = latón
     .gender = male

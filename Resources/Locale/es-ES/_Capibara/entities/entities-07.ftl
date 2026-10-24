@@ -2295,7 +2295,6 @@ ent-WehMedipen = autoinyector de Weh
     .gender = male
     .desc = Una dosis rápida de Weh. Contiene un líquido que te hace decir Weh.
 
-ent-WeightlessGravityGeneratorDummy = WeightlessGravityGeneratorDummy
 
 ent-Welder = soldador
     .gender = male
@@ -2716,7 +2715,6 @@ ent-WindowTimedSeal60Minutes = sello temporizado
 ent-Wirecutter = cortacables
     .desc = Esto mata el cable.
 
-ent-WirelessNetworkDeviceDummy = WirelessNetworkDeviceDummy
 
 ent-WizardCommsComputerCircuitboard = placa de circuito de la computadora de comunicaciones del mago
     .gender = female
@@ -2867,7 +2865,6 @@ ent-Wrench = llave inglesa
     .gender = female
     .desc = Una herramienta común para el montaje y desmontaje. Recuerda: a la izquierda ajusta, a la derecha afloja.
 
-ent-WrenchDummy = WrenchDummy
 
 ent-Wristwatch = reloj de pulsera
     .gender = male
