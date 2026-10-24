@@ -46,6 +46,23 @@
       - PirateUplink
 
 - type: listing
+  id: UplinkPDVVestineChemistryVial
+  name: uplink-pirate-vestine-vial-name
+  description: uplink-pirate-vestine-vial-desc
+  icon: { sprite: /Textures/Objects/Specific/Chemistry/vial.rsi, state: vial-1 }
+  productEntity: VestineChemistryVial
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateMedical
+  - UplinkPdvMaterials
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
   id: UplinkPirateCombatMedkit
   name: uplink-pirate-combat-medkit-name
   description: uplink-pirate-combat-medkit-desc
@@ -300,6 +317,97 @@
       - PirateUplink
 
 - type: listing
+  id: UplinkPirateBlankId
+  name: uplink-pirate-blank-id-name
+  description: uplink-pirate-blank-id-desc
+  productEntity: ContractorIDCard
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPiratePdaChameleon
+  name: uplink-pirate-chameleon-pda-name
+  description: uplink-pirate-chameleon-pda-desc
+  productEntity: ChameleonPDA
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateHeadsetChameleon
+  name: uplink-pirate-chameleon-headset-name
+  description: uplink-pirate-chameleon-headset-desc
+  productEntity: ClothingHeadsetChameleon
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateBackpackChameleon
+  name: uplink-pirate-chameleon-backpack-name
+  description: uplink-pirate-chameleon-backpack-desc
+  productEntity: ClothingBackpackChameleon
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateVoicemask
+  name: uplink-pirate-voicemask-name
+  description: uplink-pirate-voicemask-desc
+  productEntity: ClothingMaskGasVoiceChameleon
+  cost:
+    Doubloon: 20
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateDnaScrambler
+  name: uplink-pirate-dna-scrambler-name
+  description: uplink-pirate-dna-scrambler-desc
+  icon: { sprite: /Textures/Mobs/Species/Human/parts.rsi, state: full }
+  productEntity: DnaScramblerImplanter
+  cost:
+    Doubloon: 60 # expensive so that it's more of a last resort, and also because you can sell the implanter back for 15 dc lmao
+  categories:
+    - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
   id: UplinkPirateHoverbikeFlatpack
   name: uplink-pirate-hoverbike-name
   description: uplink-pirate-hoverbike-desc
@@ -307,6 +415,22 @@
   icon: { sprite: _NF/Objects/Vehicles/hoverbike.rsi, state: vehicle }
   cost:
     Doubloon: 25
+  categories:
+    - UplinkPirateUtility
+  conditions:
+    - !type:StoreWhitelistCondition
+      whitelist:
+        tags:
+          - PirateUplink
+
+- type: listing
+  id: UplinkPirateTeleshield
+  name: uplink-pirate-teleshield-name
+  description: uplink-pirate-teleshield-desc
+  productEntity: TelescopicShield
+  icon: { sprite: Objects/Weapons/Melee/teleriot_shield.rsi, state: teleriot-on }
+  cost:
+    Doubloon: 10
   categories:
     - UplinkPirateUtility
   conditions:
@@ -338,6 +462,21 @@
   productEntity: RadioJammer
   cost:
     Doubloon: 10
+  categories:
+  - UplinkPirateUtility
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateOverwatchJammer
+  name: uplink-pirate-overwatch-jammer-name
+  description: uplink-pirate-overwatch-jammer-desc
+  productEntity: OverwatchJammer
+  cost:
+    Doubloon: 1
   categories:
   - UplinkPirateUtility
   conditions:
@@ -505,11 +644,71 @@
       - PirateUplink
 
 - type: listing
+  id: UplinkPirateAtreidesMag
+  name: uplink-pirate-box-5-7x28mm-smg-name
+  description: uplink-pirate-box-5-7x28mm-smg-desc
+  productEntity: BoxMagazine57x28mmSubMachineGunFMJ
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateAmmo
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateMla73Mag
+  name: uplink-pirate-6-35x40mm-magazine-name
+  description: uplink-pirate-6-35x40mm-magazine-desc
+  productEntity: Magazine635x40mmCaseless
+  cost:
+    Doubloon: 2
+  categories:
+  - UplinkPirateAmmo
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirate10Phz
+  name: uplink-pirate-10phz-magazine-name
+  description: uplink-pirate-10phz-magazine-desc
+  productEntity: Magazine10Phz
+  cost:
+    Doubloon: 2
+  categories:
+  - UplinkPirateAmmo
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
   id: UplinkPirateShellBoxLethal
   name: uplink-pirate-shell-box-lethal-name
   description: uplink-pirate-shell-box-lethal-desc
   productEntity: AmmoBox12_gaugeBuckshot
   icon: { sprite: _Mono/Objects/Weapons/Guns/Ammunition/Boxes/12_gauge.rsi, state: lethal }
+  cost:
+    Doubloon: 5
+  categories:
+  - UplinkPirateAmmo
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateShellBox4_gauge
+  name: uplink-pirate-shell-box-4g-name
+  description: uplink-pirate-shell-box-4g-desc
+  productEntity: AmmoBox23x75mmBuckshot
   cost:
     Doubloon: 5
   categories:
@@ -755,7 +954,37 @@
   productEntity: ClothingBackpackDuffelPDVFilledSMG
   icon: { sprite: Objects/Weapons/Guns/SMGs/c20r.rsi, state: icon }
   cost:
-    Doubloon: 20
+    Doubloon: 15
+  categories:
+  - UplinkPirateWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateVympel
+  name: uplink-pirate-vympel-name
+  description: uplink-pirate-vympel-desc
+  productEntity: WeaponRifleVympel
+  cost:
+    Doubloon: 15
+  categories:
+  - UplinkPirateWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPiratePulsar
+  name: uplink-pirate-sultan-pulsar-name
+  description: uplink-pirate-sultan-pulsar-desc
+  productEntity: WeaponShotgunSultanPulsar
+  cost:
+    Doubloon: 15
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -771,7 +1000,7 @@
   productEntity: ClothingBackpackDuffelPDVFilledAtreides
   icon: { sprite: Objects/Weapons/Guns/SMGs/atreides.rsi, state: icon }
   cost:
-    Doubloon: 100
+    Doubloon: 45
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -787,7 +1016,37 @@
   productEntity: ClothingBackpackDuffelPDVFilledShotgun
   icon: { sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi, state: icon }
   cost:
-    Doubloon: 75
+    Doubloon: 45
+  categories:
+  - UplinkPirateWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateMla73
+  name: uplink-pirate-mla73-name
+  description: uplink-pirate-mla73-desc
+  productEntity: WeaponSubMachineGunMla73
+  cost:
+    Doubloon: 45
+  categories:
+  - UplinkPirateWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateM90
+  name: uplink-pirate-m90-name
+  description: uplink-pirate-m90-desc
+  productEntity: WeaponRifleM90
+  cost:
+    Doubloon: 45
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -803,7 +1062,7 @@
   productEntity: WeaponRevolverPython
   icon: { sprite: Objects/Weapons/Guns/Revolvers/python.rsi, state: icon }
   cost:
-    Doubloon: 20
+    Doubloon: 10
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -819,7 +1078,7 @@
   productEntity: WeaponPistolViper
   icon: { sprite: Objects/Weapons/Guns/Pistols/viper.rsi, state: icon }
   cost:
-    Doubloon: 10
+    Doubloon: 5 # you can just buy it with money at the PMCvend
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -834,7 +1093,7 @@
   description: uplink-pirate-kanabou-desc
   productEntity: Kanabou
   cost:
-    Doubloon: 20
+    Doubloon: 10
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -850,7 +1109,7 @@
   productEntity: WeaponRifleAk
   icon: { sprite: Objects/Weapons/Guns/Rifles/ak.rsi, state: icon }
   cost:
-    Doubloon: 25
+    Doubloon: 15 # why the hell is this even in the uplink?
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -866,7 +1125,7 @@
   productEntity: ClothingBackpackDuffelPDVBurner
   icon: { sprite: _Goobstation/Objects/Weapons/Guns/Rifles/burner.rsi, state: icon }
   cost:
-    Doubloon: 125
+    Doubloon: 90
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -882,7 +1141,7 @@
   productEntity: WeaponPistolAnaconda
   icon: { sprite: _Goobstation/Objects/Weapons/Guns/Pistols/anaconda.rsi, state: icon }
   cost:
-    Doubloon: 50
+    Doubloon: 15
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -898,7 +1157,7 @@
   productEntity: ClothingBackpackDuffelPDVFilledWSPR
   icon: { sprite: _Mono/Objects/Weapons/Guns/Rifles/wspr.rsi, state: icon }
   cost:
-    Doubloon: 75
+    Doubloon: 45
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -961,7 +1220,38 @@
   icon: { sprite: /Textures/Objects/Weapons/Guns/LMGs/l6.rsi, state: icon }
   productEntity: ClothingBackpackDuffelPDVFilledLMG
   cost:
-    Doubloon: 100
+    Doubloon: 90
+  categories:
+  - UplinkPirateWeapons
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+#- type: listing
+#  id: UplinkPirateHristovBundle
+#  name: uplink-pirate-hristov-name
+#  description: uplink-pirate-hristov-desc
+#  icon: { sprite: /Textures/Objects/Weapons/Guns/Snipers/hristov.rsi, state: base }
+#  productEntity: BriefcaseSyndieSniperBundleFilled
+#  cost:
+#    Doubloon: 90
+#  categories:
+#  - UplinkPirateWeapons
+#  conditions:
+#  - !type:StoreWhitelistCondition
+#    whitelist:
+#      tags:
+#      - PirateUplink
+
+- type: listing
+  id: UplinkPirateBasilisk
+  name: uplink-pirate-basilisk-name
+  description: uplink-pirate-basilisk-desc
+  productEntity: WeaponDEWBasilisk
+  cost:
+    Doubloon: 90
   categories:
   - UplinkPirateWeapons
   conditions:
@@ -993,21 +1283,21 @@
 
 #MARK: Equipment
 
-- type: listing
-  id: UplinkPirateCombatHardsuit
-  name: uplink-pirate-combat-hardsuit-name
-  description: uplink-pirate-combat-hardsuit-desc
-  productEntity: ClothingOuterHardsuitPirateScaf
-  icon: { sprite: _Mono/Clothing/OuterClothing/Hardsuits/scaf_pirate.rsi, state: icon }
-  cost:
-    Doubloon: 15
-  categories:
-  - UplinkPirateEquipment
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - PirateUplink
+#- type: listing
+#  id: UplinkPirateCombatHardsuit
+#  name: uplink-pirate-combat-hardsuit-name
+#  description: uplink-pirate-combat-hardsuit-desc
+#  productEntity: ClothingOuterHardsuitPirateScaf
+#  icon: { sprite: _Mono/Clothing/OuterClothing/Hardsuits/scaf_pirate.rsi, state: icon }
+#  cost:
+#    Doubloon: 15
+#  categories:
+#  - UplinkPirateEquipment
+#  conditions:
+#  - !type:StoreWhitelistCondition
+#    whitelist:
+#      tags:
+#      - PirateUplink
 
 - type: listing
   id: UplinkPirateWebVest
@@ -1048,6 +1338,75 @@
   icon: { sprite: Clothing/Mask/gassyndicate.rsi, state: icon }
   cost:
     Doubloon: 15
+  categories:
+  - UplinkPirateEquipment
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateCv32
+  productEntity: ClothingOuterHardsuitAshen
+  cost:
+    Doubloon: 45
+  categories:
+  - UplinkPirateEquipment
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateCv53
+  productEntity: ClothingOuterHardsuitAshenElite
+  cost:
+    Doubloon: 45
+  categories:
+  - UplinkPirateEquipment
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+#- type: listing
+#  id: UplinkPirateCv82
+#  name: uplink-pirate-cv82-tacsuit-name
+#  description: uplink-pirate-cv82-tacsuit-desc
+#  productEntity: ClothingOuterHardsuitPDVMedic
+#  cost:
+#    Doubloon: 90
+#  categories:
+#  - UplinkPirateEquipment
+#  conditions:
+#  - !type:StoreWhitelistCondition
+#    whitelist:
+#      tags:
+#      - PirateUplink
+
+#- type: listing
+#  id: UplinkPirateJuggernaut
+#  name: uplink-pirate-juggernaut-hardsuit-name
+#  description: uplink-pirate-juggernaut-hardsuit-desc
+#  productEntity: ClothingOuterHardsuitJuggernaut
+#  cost:
+#    Doubloon: 90
+#  categories:
+#  - UplinkPirateEquipment
+#  conditions:
+#  - !type:StoreWhitelistCondition
+#    whitelist:
+#      tags:
+#      - PirateUplink
+
+- type: listing
+  id: UplinkPirateStealthSuit
+  productEntity: ClothingOuterHardsuitCybersunStealth
+  cost:
+    Doubloon: 90
   categories:
   - UplinkPirateEquipment
   conditions:
@@ -1180,8 +1539,8 @@
 
 - type: listing
   id: UplinkPirateShrapnelGrenadeBox
-  name: uplink-pirate-shrapnelgrenade-box-name
-  description: uplink-pirate-shrapnelgrenade-box-desc
+  name: uplink-pirate-shrapnelgrenade-name
+  description: uplink-pirate-shrapnelgrenade-desc
   productEntity: GrenadeShrapnelNfsd
   icon: { sprite: Objects/Weapons/Grenades/shrapnelgrenade.rsi, state: icon}
   cost:
@@ -1289,8 +1648,6 @@
 #      tags:
 #      - PirateUplink
 
-# Vouchers
-
 - type: listing
   id: UplinkPDVT0Voucher
   name:  uplink-pdv-t0-voucher-name
@@ -1306,15 +1663,13 @@
       tags:
       - FactionStaticUplinkPdv
 
-# start T1
-
 - type: listing
-  id: UplinkSecurityT1VoucherGarm
-  name:  uplink-pdv-t1-garm-voucher-name
-  description: uplink-pdv-t1-garm-voucher-desc
-  productEntity: ShipVoucherGarm
+  id: UplinkPDVT1Voucher
+  name:  uplink-pdv-t1-voucher-name
+  description: uplink-pdv-t1-voucher-desc
+  productEntity: ShipVoucherPdvT1
   cost:
-    Doubloon: 75
+    Doubloon: 60 # +10 tax from mat cost since no research cost
   categories:
   - UplinkPdvVouchers
   conditions:
@@ -1324,12 +1679,12 @@
       - FactionStaticUplinkPdv
 
 - type: listing
-  id: UplinkSecurityT1VoucherKalisto
-  name:  uplink-pdv-t1-kalisto-voucher-name
-  description: uplink-pdv-t1-kalisto-voucher-desc
-  productEntity: ShipVoucherKalisto
+  id: UplinkPDVT2Voucher
+  name:  uplink-pdv-t2-voucher-name
+  description: uplink-pdv-t2-voucher-desc
+  productEntity: ShipVoucherPdvT2
   cost:
-    Doubloon: 95
+    Doubloon: 175 # +25 tax from mat cost since no research cost
   categories:
   - UplinkPdvVouchers
   conditions:
@@ -1339,12 +1694,12 @@
       - FactionStaticUplinkPdv
 
 - type: listing
-  id: UplinkSecurityT1VoucherFenrir
-  name:  uplink-pdv-t1-fenrir-voucher-name
-  description: uplink-pdv-t1-fenrir-voucher-desc
-  productEntity: ShipVoucherFenrir
+  id: UplinkPDVT3Voucher
+  name:  uplink-pdv-t3-voucher-name
+  description: uplink-pdv-t3-voucher-desc
+  productEntity: ShipVoucherPdvT3
   cost:
-    Doubloon: 80
+    Doubloon: 650 # +50 tax from mat cost since no research cost
   categories:
   - UplinkPdvVouchers
   conditions:
@@ -1354,189 +1709,12 @@
       - FactionStaticUplinkPdv
 
 - type: listing
-  id: UplinkSecurityT1VoucherScorpion
-  name:  uplink-pdv-t1-scorpion-voucher-name
-  description: uplink-pdv-t1-scorpion-voucher-desc
-  productEntity: ShipVoucherScorpion
-  cost:
-    Doubloon: 85
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT1VoucherBastion
-  name:  uplink-pdv-t1-bastion-voucher-name
-  description: uplink-pdv-t1-bastion-voucher-desc
-  productEntity: ShipVoucherBastion
-  cost:
-    Doubloon: 80
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT1VoucherNeptune
-  name:  uplink-pdv-t1-neptune-voucher-name
-  description: uplink-pdv-t1-neptune-voucher-desc
-  productEntity: ShipVoucherNeptune
-  cost:
-    Doubloon: 100
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT1VoucherLayak
-  name:  uplink-pdv-t1-layak-voucher-name
-  description: uplink-pdv-t1-layak-voucher-desc
-  productEntity: ShipVoucherLayak
-  cost:
-    Doubloon: 100
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-# end T1
-
-# start T2
-
-- type: listing
-  id: UplinkSecurityT2VoucherEuropa
-  name:  uplink-pdv-t2-europa-voucher-name
-  description: uplink-pdv-t2-europa-voucher-desc
-  productEntity: ShipVoucherEuropa
-  cost:
-    Doubloon: 180
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT2VoucherGanymede
-  name:  uplink-pdv-t2-ganymede-voucher-name
-  description: uplink-pdv-t2-ganymede-voucher-desc
-  productEntity: ShipVoucherGanymede
-  cost:
-    Doubloon: 190
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT2VoucherVulture
-  name:  uplink-pdv-t2-vulture-voucher-name
-  description: uplink-pdv-t2-vulture-voucher-desc
-  productEntity: ShipVoucherVulture
-  cost:
-    Doubloon: 145
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT2VoucherMotleyAnne
-  name:  uplink-pdv-t2-motleyanne-voucher-name
-  description: uplink-pdv-t2-motleyanne-voucher-desc
-  productEntity: ShipVoucherMotleyAnne
-  cost:
-    Doubloon: 220
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT2VoucherKortik
-  name:  uplink-pdv-t2-kortik-voucher-name
-  description: uplink-pdv-t2-kortik-voucher-desc
-  productEntity: ShipVoucherKortikT2
-  cost:
-    Doubloon: 180
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-# end T2
-
-# start T3
-
-- type: listing
-  id: UplinkSecurityT3VoucherSaintie
-  name:  uplink-pdv-t3-saintie-voucher-name
-  description: uplink-pdv-t3-saintie-voucher-desc
-  productEntity: ShipVoucherSaintie
-  cost:
-    Doubloon: 400
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-- type: listing
-  id: UplinkSecurityT3VoucherKortik
-  name:  uplink-pdv-t3-kortik-voucher-name
-  description: uplink-pdv-t3-kortik-voucher-desc
-  productEntity: ShipVoucherKortik
-  cost:
-    Doubloon: 400
-  categories:
-  - UplinkPdvVouchers
-  conditions:
-  - !type:StoreWhitelistCondition
-    whitelist:
-      tags:
-      - FactionStaticUplinkPdv
-
-# end T3
-
-# start T4
-
-- type: listing
-  id: UplinkSecurityT4VoucherSaturn
+  id: UplinkPirateT4VoucherSaturn
   name:  uplink-pdv-t4-saturn-voucher-name
   description: uplink-pdv-t4-saturn-voucher-desc
   productEntity: ShipVoucherSaturn
   cost:
-    Doubloon: 750
+    Doubloon: 1250 # +100 tax from mat cost since no research cost
   categories:
   - UplinkPdvVouchers
   conditions:
@@ -1545,7 +1723,21 @@
       tags:
       - FactionStaticUplinkPdv
 
-# end T4
+- type: listing
+  id: UplinkHardBombPDV
+  name:  uplink-HardBomb-PDV-name
+  description: uplink-HardBomb-PDV-desc
+  productEntity: PDVBomb
+  icon: { sprite: _Mono/Structures/Machines/bomb_PDV.rsi, state: syndicate-bomb }
+  cost:
+    Doubloon: 75
+  categories:
+  - UplinkPirateExplosives
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
 
 # MARK: Materials
 
@@ -1571,6 +1763,21 @@
   description: uplink-pirate-cash100000-desc
   productEntity: SpaceCash100000
   icon: { sprite: _NF/Objects/Economy/cash.rsi, state: cash_100000 }
+  cost:
+    Doubloon: 50
+  categories:
+  - UplinkPdvMaterials
+  conditions:
+  - !type:StoreWhitelistCondition
+    whitelist:
+      tags:
+      - PirateUplink
+
+- type: listing
+  id: UplinkPirateTelecrystal25
+  name: uplink-pirate-telecrystal-25-name
+  description: uplink-pirate-telecrystal-25-desc
+  productEntity: Telecrystal25
   cost:
     Doubloon: 50
   categories:

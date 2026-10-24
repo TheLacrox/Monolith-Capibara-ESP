@@ -106,7 +106,7 @@
     contents:
         - id: OxygenTankFilled
         - id: NitrogenTankFilled
-        - id: ClothingOuterHardsuitNfsdSheriff # Frontier
+        - id: ClothingOuterHardsuitM86 # Frontier
         - id: ClothingMaskGasSheriff
         - id: JetpackNfsdFilled
         - id: ClothingShoesBootsMagSecurity # Frontier
@@ -228,10 +228,10 @@
     - id: ClothingOuterHardsuitTraumaLeader
     - id: ClothingMaskBreath
     - id: JetpackMiniFilled
-    - id: ClothingShoesBootsMagSecurity
+    - id: ClothingShoesBootsMagVoidTraumaLeader
   - type: AccessReader
     access: [["Command"]]
-    
+
 - type: entity
   id: SuitStorageTrauma
   parent: SuitStorageBase
@@ -244,6 +244,6 @@
     - id: ClothingOuterHardsuitTrauma
     - id: ClothingMaskBreath
     - id: JetpackMiniFilled
-    - id: ClothingShoesBootsMagSecurity
+    - id: ClothingShoesBootsMagVoidTrauma
   - type: AccessReader
     access: [["Medical"]]

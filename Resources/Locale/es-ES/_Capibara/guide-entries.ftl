@@ -2,7 +2,7 @@
 # (not a guide-entry-* loc id). The raw name doubles as the Fluent message id, so
 # defining it here localizes the title additively (no upstream YAML edit needed).
 # Names with spaces/dots can't be Fluent ids — those are edited in the _Mono YAML instead.
-Economy = Economía
+Gamemodes = Modos de juego
 Factions = Facciones
 TSFMC = TSFMC
 Smuggling = Contrabando
